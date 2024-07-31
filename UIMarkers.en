@@ -1,0 +1,15 @@
+UI.Markers.CouncilorMarker.Tooltip={0}{1} ({2})</color>																// fraksiyon rengi, konsey üyesinin adi, konsey üyesinin görev unvani
+UI.Markers.CouncilorMarker.TooltipWithMission={0}{1} ({2})</color>: {3} ({4}).										// fraksiyon rengi, konsey üyesinin adi, konsey üyesinin görev unvani, görev, hedef
+UI.Markers.CouncilorMarker.TooltipWithMissionResolveTime={0}{1} ({2})</color>: {3} ({4}). Çözümler {5}.				// fraksiyon rengi, konsey üyesinin adi, konsey üyesinin görev unvani, görev, hedef, tamamlanma tarihi
+UI.Markers.Capital.TooltipHeader={0} kontrol noktasi ({1})															// ülke, # KP'ler
+UI.Markers.Capital.ControlPoint=#{0} ({1}): {2}
+UI.Markers.Uncontrolled=Kontrol Edilmeyen
+UI.Markers.InvalidTarget=Geçersiz Hedef
+UI.Markers.Occupation={0}: {1} isgal etti																				// Isgal eden ülke, yüzdelik
+UI.Markers.CoreEconomicRegion=Temel Ekonomik Bölge<br/><br/>Temel ekonomik bölgeler, ülkenin Ekonomi önceligine bonus saglar.
+UI.Markers.CoreResourceRegion=Kaynak Bölgesi<br/><br/>Kaynak bölgeleri, ülkenin Ekonomi önceligine bonus saglar, ancak esitsizligi ve çevresel zararlari artirir.
+UI.Markers.MonsterArmy=Uzayli Megafauna {0}
+UI.Markers.NoFactionArmy={0} ({1}) {2} Saldiri: {3}
+UI.Markers.FactionArmy={0} ({1}, {2}) {3} Saldiri: {4}
+UI.Markers.Boost={0}<br/>{1}{2} yilda
+UI.Markers.MissionControl={0}<br/>{1}{2}

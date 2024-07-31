@@ -1,0 +1,272 @@
+FleetSelectTargetCommand.displayName=Filo: Birincil Hedefi Belirle
+FleetSelectTargetCommand.description=Ofansif silahlar bu hedefi menzil içindeyse digerlerinden önce seçecektir. Füze silahlarinin ates edebilmesi için birincil hedef belirlenmis olmalidir.
+
+FleetClearTargetCommand.displayName=Filo: Birincil Hedefi Temizle
+FleetClearTargetCommand.description=Ofansif silahlar serbest ates edecektir.
+
+FleetSelectSalvoTargetCommand.displayName=Filo: Füze Salvosu Firlat
+FleetSelectSalvoTargetCommand.description=Belirlenen hedefe füze salvosu atesle.
+
+FleetExtendRadiatorsCommand.displayName=Filo: Radyatörleri Uzat
+FleetExtendRadiatorsCommand.description=Geminin radyatörlerini uzat. Bu radyatörler geminin isi bataryalarinda birikmis isiyi bosaltacaktir, ancak gemiyi saldirilara karsi savunmasiz birakir.
+
+FleetRetractRadiatorsCommand.displayName=Filo: Radyatörleri Geri Çek
+FleetRetractRadiatorsCommand.description=Gemilerin radyatörlerini geri çek, çogu saldiriya karsi koruyacak. Isi geminin isi bataryalarinda birikir, bataryalar doldugunda radyatörler otomatik olarak uzatilir.
+
+FleetSetAIControlCommand.displayName=Filo: AI Kontrolünü Ayarla
+FleetSetAIControlCommand.description=Gemilerin komutasini kaptanlarina birak.
+
+FleetReleaseAIControlCommand.displayName=Filo: AI Kontrolünü Geri Al
+FleetReleaseAIControlCommand.description=Gemilerin dogrudan komutasini al.
+
+FleetFocusFireCommand.displayName=Filo: Odaklanmis Ates Pozisyonu
+FleetFocusFireCommand.description=Ofansif silahlar birincil hedefe odaklanacak ve diger düsmanlari görmezden gelecektir. Koruma kapasitesine sahip silahlar savunma atesi yapmayacaktir.
+
+FleetAttackCommand.displayName=Filo: Saldiri Pozisyonu
+FleetAttackCommand.description=Ofansif silahlar menzil içindeyse birincil hedefe öncelik verecek, aksi halde en yakin mevcut hedefe saldiracaktir. Koruma kapasitesine sahip silahlar savunma atesi yapmayacaktir.
+
+FleetBalancedCommand.displayName=Filo: Dengeli Pozisyon
+FleetBalancedCommand.description=Ofansif silahlar menzil içindeyse birincil hedefe öncelik verecek, aksi halde en yakin mevcut hedefe saldiracaktir. Koruma kapasitesine sahip silahlar Koruma moduna alinacak ve tehdit olusturan düsman projelerine ates edecek, gemilere öncelik vermeyecektir.
+
+FleetDefensiveCommand.displayName=Filo: Savunma Pozisyonu
+FleetDefensiveCommand.description=Ofansif silahlar menzil içindeyse birincil hedefe öncelik verecek, aksi halde en yakin mevcut hedefe saldiracaktir. Koruma kapasitesine sahip silahlar ve Savunma kapasitesine sahip füze silahlari gemileri hedef almayacaktir.
+
+FleetFortifyCommand.displayName=Filo: Güçlendirilmis Pozisyon
+FleetFortifyCommand.description=Ofansif silahlar ve füze silahlari enerjiyi ve mermiyi korumak için bekleme moduna alinacak. Diger tüm silahlar savunma moduna alinacaktir.
+
+SelectTargetCommand.displayName=Birincil Hedefi Belirle
+SelectTargetCommand.description=Ofansif silahlar bu hedefi menzil içindeyse digerlerinden önce seçecektir.
+
+ClearTargetCommand.displayName=Birincil Hedefi Temizle
+ClearTargetCommand.description=Ofansif silahlar serbest ates edecektir.
+
+SelectSalvoTargetCommand.displayName=Füze Salvosu Firlat
+SelectSalvoTargetCommand.description=Belirlenen hedefe füze salvosu atesle.
+
+ExtendRadiatorsCommand.displayName=Radyatörleri Uzat
+ExtendRadiatorsCommand.description=Geminin radyatörlerini uzat. Bu radyatörler geminin isi bataryalarinda birikmis isiyi bosaltacaktir, ancak gemiyi saldirilara karsi savunmasiz birakir.
+
+RetractRadiatorsCommand.displayName=Radyatörleri Geri Çek
+RetractRadiatorsCommand.description=Geminin radyatörlerini geri çek, çogu saldiriya karsi koruyacak. Isi geminin isi bataryalarinda birikir, bataryalar doldugunda radyatörler otomatik olarak uzatilir.
+
+RammingSpeedCommand.displayName=Kiramaya Hizla
+RammingSpeedCommand.description=Bu geminin düsman gemilerle çarpismasini saglar, her iki tarafa da büyük hasar verir. Gerekli fedakarlik nedeniyle, aktif hale getirmek için geri alinamaz {0} etki puani gerektirir. Gemiye çarpisacagi birincil hedef belirlenmelidir.
+
+CancelRammingSpeedCommand.displayName=Kiramayi Iptal Et
+CancelRammingSpeedCommand.description=Bu gemiye hedefe çarpismayi iptal etmesini emret. {0} etki puani geri ödenmeyecektir.
+
+SetAIControlCommand.displayName=AI Kontrolünü Ayarla
+SetAIControlCommand.description=Bu geminin komutasini kaptanina birak.
+
+DisengageCommand.displayName=Çekil
+DisengageCommand.description=Bu gemiye düsman gemilerden en az {0} km uzaklikta savas alanindan çekilmesini emret. Sadece {1} dakika savas sonrasi tetiklenir. Tüm silahlar savunma atesine ayarlanacaktir. Çekildikten sonra gemi geri dönmeyecek ve takviye gelebilir.
+
+CancelDisengageCommand.displayName=Çekilmeyi Iptal Et
+CancelDisengageCommand.description=Bu gemiye savas alanindan çekilme girisimini durdurmasini emret. Çekilme sirasinda gemi en az {0} km uzaklikta savas alanindan çekilecektir. Sadece {1} dakika savas sonrasi tetiklenir. Çekildikten sonra takviye gelebilir.
+
+ReleaseAIControlCommand.displayName=AI Kontrolünü Geri Al
+ReleaseAIControlCommand.description=Bu geminin dogrudan komutasini al.
+
+FocusFireCommand.displayName=Odaklanmis Ates Pozisyonu
+FocusFireCommand.description=Ofansif silahlar birincil hedefe odaklanacak ve diger düsmanlari görmezden gelecektir. Koruma kapasitesine sahip silahlar savunma atesi yapmayacaktir.
+
+AttackCommand.displayName=Saldiri Pozisyonu
+AttackCommand.description=Ofansif silahlar menzil içindeyse birincil hedefe öncelik verecek, aksi halde en yakin mevcut hedefe saldiracaktir. Koruma kapasitesine sahip silahlar savunma atesi yapmayacaktir.
+
+BalancedCommand.displayName=Dengeli Pozisyon
+BalancedCommand.description=Ofansif silahlar menzil içindeyse birincil hedefe öncelik verecek, aksi halde en yakin mevcut hedefe saldiracaktir. Koruma kapasitesine sahip silahlar Koruma moduna alinacak ve tehdit olusturan düsman projelerine ates edecek, gemilere öncelik vermeyecektir.
+
+DefensiveCommand.displayName=Savunma Pozisyonu
+DefensiveCommand.description=Ofansif silahlar menzil içindeyse birincil hedefe öncelik verecek, aksi halde en yakin mevcut hedefe saldiracaktir. Koruma kapasitesine sahip silahlar ve savunma kapasitesine sahip füze silahlari gemileri hedef almayacaktir.
+
+FortifyCommand.displayName=Güçlendirilmis Pozisyon
+FortifyCommand.description=Ofansif silahlar ve füze silahlari enerjiyi ve mermiyi korumak için bekleme moduna alinacak. Diger tüm silahlar savunma moduna alinacaktir.
+
+Roll90PortCommand.displayName=Sol Tarafa Döndür
+Roll90PortCommand.description=Gemiyi 90 derece sola döndür.
+
+Roll90StarboardCommand.displayName=Sag Tarafa Döndür
+Roll90StarboardCommand.description=Gemiyi 90 derece saga döndür.
+
+Roll180Command.displayName=Gemiyi 180 Derece Döndür
+Roll180Command.description=Gemiyi 180 derece döndürerek uzun ekseninde ters çevirir.
+
+SpinDorsalCommand.displayName=Karnina Dönüs
+SpinDorsalCommand.description=Kesintisiz bir sekilde karnina dönüs baslatir (yukari). Ventral dönüsü geçersiz kilar.
+
+SpinPortCommand.displayName=Sol Taraf Dönüsü
+SpinPortCommand.description=Kesintisiz bir sekilde sola dönüs baslatir (sol). Sag dönüsü geçersiz kilar.
+
+SpinVentralCommand.displayName=Karina Dönüs
+SpinVentralCommand.description=Kesintisiz bir sekilde karina dönüs baslatir (asagi). Dorsal dönüsü geçersiz kilar.
+
+SpinStarboardCommand.displayName=Sag Taraf Dönüsü
+SpinStarboardCommand.description=Kesintisiz bir sekilde saga dönüs baslatir (sag). Sol dönüsü geçersiz kilar.
+
+CancelSpinDorsalCommand.displayName=Karnina Dönüsü Iptal Et
+CancelSpinDorsalCommand.description=Geminin karnina dönüsünü iptal et.
+
+CancelSpinPortCommand.displayName=Sol Taraf Dönüsünü Iptal Et
+CancelSpinPortCommand.description=Geminin sol taraf dönüsünü iptal et.
+
+CancelSpinVentralCommand.displayName=Karina Dönüsü Iptal Et
+CancelSpinVentralCommand.description=Geminin karina dönüsünü iptal et.
+
+CancelSpinStarboardCommand.displayName=Sag Taraf Dönüsünü Iptal Et
+CancelSpinStarboardCommand.description=Geminin sag taraf dönüsünü iptal et.
+
+AllStopCommand.displayName=Tüm Dur
+AllStopCommand.description=Gemiyi savas alaninda tüm hareketlerini durduracak sekilde yönlendir.
+
+CancelAllStopCommand.displayName=Tüm Durmayi Iptal Et
+CancelAllStopCommand.description=Mevcut hiz bazinda tüm yönlendirmeleri sifirla.
+
+PadlockPrimaryTargetCommand.displayName=Hedefi Sabitle
+PadlockPrimaryTargetCommand.description=Gemi, burun kismini birincil hedefe yönlendirmeye çalisacaktir, sadece yönlendirmeler geminin itme gücünü ayarlamasi gerekiyorsa dönecektir. Bu ayar, gemi için birincil hedef seçilmedikçe etkili olmayacaktir.
+
+CancelPadlockPrimaryTargetCommand.displayName=Sabitlemeyi Iptal Et
+CancelPadlockPrimaryTargetCommand.description=Gemi artik birincil hedefini sabitlemeyecek.
+
+FullSpeedAheadCommand.displayName=Tam Hiz Ilerle
+FullSpeedAheadCommand.description=Gemiyi turuncu yönlendirmeye dogru hizla hareket etmesi için emret.
+
+InterceptCourseCommand.displayName=Yakalama Rotasi
+InterceptCourseCommand.description=Gemiyi birincil hedefiyle yakalama rotasi çizmesi için emret.
+
+MatchVelocityCommand.displayName=Hizi Esle
+MatchVelocityCommand.description=Gemiyi seçilen hedefin hizini eslemesi için emret. Dost gemilere de hedef alabilir.
+
+CancelMatchVelocityCommand.displayName=Hizi Eslemeyi Iptal Et
+CancelMatchVelocityCommand.description=Gemiyi hiz esleme manevrasini iptal etmesi için emret.
+
+DefensiveManeuversCommand.displayName=Savunma Manevralari
+DefensiveManeuversCommand.description=Gemiyi savunma manevralari yapmasi için emret. Gemi mümkünse projeksiyonlardan kaçinmaya çalisacaktir. Aksi halde, gelen atese dogru burun kismini döndürecektir.
+
+CancelDefensiveManeuversCommand.displayName=Savunma Manevralarini Iptal Et
+CancelDefensiveManeuversCommand.description=Gemiyi savunma manevralarini iptal etmesi için emret.
+
+FaceVelocityVectorCommand.displayName=Hiz Vektörüne Yönel
+FaceVelocityVectorCommand.description=Gemiyi turuncu yönlendirme sonrasindaki hizina göre yönlendirmeye emret.
+
+FleetRoll90PortCommand.displayName=Sol Tarafa Döndür
+FleetRoll90PortCommand.description=Gemileri 90 derece sola döndür.
+
+FleetRoll90StarboardCommand.displayName=Sag Tarafa Döndür
+FleetRoll90StarboardCommand.description=Gemileri 90 derece saga döndür.
+
+FleetRoll180Command.displayName=Gemileri 180 Derece Döndür
+FleetRoll180Command.description=Gemileri 180 derece döndürerek uzun ekseninde ters çevirir.
+
+FleetSpinDorsalCommand.displayName=Karnina Dönüs
+FleetSpinDorsalCommand.description=Kesintisiz bir sekilde karnina dönüs baslatir (yukari). Ventral dönüsü geçersiz kilar.
+
+FleetSpinPortCommand.displayName=Sol Taraf Dönüsü
+FleetSpinPortCommand.description=Kesintisiz bir sekilde sola dönüs baslatir (sol). Sag dönüsü geçersiz kilar.
+
+FleetSpinVentralCommand.displayName=Karina Dönüs
+FleetSpinVentralCommand.description=Kesintisiz bir sekilde karina dönüs baslatir (asagi). Dorsal dönüsü geçersiz kilar.
+
+FleetSpinStarboardCommand.displayName=Sag Taraf Dönüsü
+FleetSpinStarboardCommand.description=Kesintisiz bir sekilde saga dönüs baslatir (sag). Sol dönüsü geçersiz kilar.
+
+FleetCancelSpinDorsalCommand.displayName=Karnina Dönüsü Iptal Et
+FleetCancelSpinDorsalCommand.description=Gemilerin karnina dönüsünü iptal et.
+
+FleetCancelSpinPortCommand.displayName=Sol Taraf Dönüsünü Iptal Et
+FleetCancelSpinPortCommand.description=Gemilerin sol taraf dönüsünü iptal et.
+
+FleetCancelSpinVentralCommand.displayName=Karina Dönüsü Iptal Et
+FleetCancelSpinVentralCommand.description=Gemilerin karina dönüsünü iptal et.
+
+FleetCancelSpinStarboardCommand.displayName=Sag Taraf Dönüsünü Iptal Et
+FleetCancelSpinStarboardCommand.description=Gemilerin sag taraf dönüsünü iptal et.
+
+FleetAllStopCommand.displayName=Tüm Dur
+FleetAllStopCommand.description=Gemileri savas alaninda tüm hareketlerini durduracak sekilde yönlendir.
+
+FleetCancelAllStopCommand.displayName=Tüm Durmayi Iptal Et
+FleetCancelAllStopCommand.description=Mevcut hiz bazinda tüm yönlendirmeleri sifirla.
+
+FleetPadlockPrimaryTargetCommand.displayName=Hedefi Sabitle
+FleetPadlockPrimaryTargetCommand.description=Gemiler, burunlarini birincil hedefe yönlendirmeye çalisacaktir, sadece yönlendirmeler geminin itme gücünü ayarlamasi gerekiyorsa dönecektir. Bu ayar, gemiler için birincil hedef seçilmedikçe etkili olmayacaktir.
+
+FleetCancelPadlockPrimaryTargetCommand.displayName=Sabitlemeyi Iptal Et
+FleetCancelPadlockPrimaryTargetCommand.description=Gemiler artik birincil hedeflerini sabitlemeyecek.
+
+FleetFullSpeedAheadCommand.displayName=Tam Hiz Ilerle
+FleetFullSpeedAheadCommand.description=Bütün gemilere turuncu yönlendirmeye dogru hizla hareket etmelerini emret.
+
+FleetInterceptCourseCommand.displayName=Yakalama Rotasi
+FleetInterceptCourseCommand.description=Bütün gemilere birincil hedefleriyle yakalama rotasi çizmesini emret.
+
+FleetMatchVelocityCommand.displayName=Hizi Esle
+FleetMatchVelocityCommand.description=Bütün gemilere seçilen hedefin hizini esitlemelerini emret. Dost gemilere de hedef alabilir.
+
+FleetCancelMatchVelocityCommand.displayName=Hizi Eslemeyi Iptal Et
+FleetCancelMatchVelocityCommand.description=Bütün gemilere hiz esleme manevrasini iptal etmelerini emret.
+
+FleetDefensiveManeuversCommand.displayName=Savunma Manevralari
+FleetDefensiveManeuversCommand.description=Bütün gemilere savunma manevralari yapmalarini emret. Gemiler mümkünse projeksiyonlardan kaçinmaya çalisacaktir. Aksi halde, gelen atese dogru burun kismini döndürecektir.
+
+FleetCancelDefensiveManeuversCommand.displayName=Savunma Manevralarini Iptal Et
+FleetCancelDefensiveManeuversCommand.description=Bütün gemilere savunma manevralarini iptal etmelerini emret.
+
+FleetFaceVelocityVectorCommand.displayName=Hiz Vektörlerine Yönel
+FleetFaceVelocityVectorCommand.description=Bütün gemilere turuncu yönlendirme sonrasindaki hizlarina göre yönlendirmeye emret.
+
+GroupFleetSelectTargetCommand.displayName=Grup: Birincil Hedefi Belirle
+GroupFleetSelectTargetCommand.description=Ofansif silahlar bu hedefi menzil içindeyse digerlerinden önce seçecektir. Füze silahlarinin ates edebilmesi için birincil hedef belirlenmis olmalidir.
+
+GroupFleetClearTargetCommand.displayName=Grup: Birincil Hedefi Temizle
+GroupFleetClearTargetCommand.description=Ofansif silahlar serbest ates edecektir.
+
+GroupFleetSelectSalvoTargetCommand.displayName=Grup: Füze Salvosu Firlat
+GroupFleetSelectSalvoTargetCommand.description=Belirlenen hedefe füze salvosu atesle.
+
+GroupFleetExtendRadiatorsCommand.displayName=Grup: Radyatörleri Uzat
+GroupFleetExtendRadiatorsCommand.description=Geminin radyatörlerini uzat. Bu radyatörler geminin isi bataryalarinda birikmis isiyi bosaltacaktir, ancak gemiyi saldirilara karsi savunmasiz birakir.
+
+GroupFleetRetractRadiatorsCommand.displayName=Grup: Radyatörleri Geri Çek
+GroupFleetRetractRadiatorsCommand.description=Gemilerin radyatörlerini geri çek, çogu saldiriya karsi koruyacak. Isi geminin isi bataryalarinda birikir, bataryalar doldugunda radyatörler otomatik olarak uzatilir.
+
+GroupFleetSetAIControlCommand.displayName=Grup: AI Kontrolünü Ayarla
+GroupFleetSetAIControlCommand.description=Gemilerin komutasini kaptanlarina birak.
+
+GroupFleetReleaseAIControlCommand.displayName=Grup: AI Kontrolünü Geri Al
+GroupFleetReleaseAIControlCommand.description=Gemilerin dogrudan komutasini al.
+
+GroupFleetFocusFireCommand.displayName=Grup: Odaklanmis Ates Pozisyonu
+GroupFleetFocusFireCommand.description=Ofansif silahlar, birincil hedefe odaklanacak ve diger tüm düsmanlari görmezden gelecek. Guardian yetenekli silahlar savunma yapmayacaktir.
+
+GroupFleetAttackCommand.displayName=Grup: Saldiri Pozisyonu
+GroupFleetAttackCommand.description=Ofansif silahlar, birincil hedefi menzil içindeyse tercih edecektir, aksi takdirde en yakin hedefe saldiracaktir. Guardian yetenekli silahlar savunma yapmayacaktir.
+
+GroupFleetBalancedCommand.displayName=Grup: Dengeli Pozisyon
+GroupFleetBalancedCommand.description=Ofansif silahlar, birincil hedefi menzil içindeyse tercih edecektir, aksi takdirde en yakin hedefe saldiracaktir. Guardian yetenekli silahlar, tehdit olusturan düsman projelerine karsi ates açacak, ardindan gemilere odaklanacaktir.
+
+GroupFleetDefensiveCommand.displayName=Grup: Savunma Pozisyonu
+GroupFleetDefensiveCommand.description=Ofansif silahlar, birincil hedefi menzil içindeyse tercih edecektir, aksi takdirde en yakin hedefe saldiracaktir. Guardian yetenekli silahlar ve savunma yetenekli füze silahlari gemilere hedef almayacaktir.
+
+GroupFleetFortifyCommand.displayName=Grup: Güçlendirilmis Pozisyon
+GroupFleetFortifyCommand.description=Ofansif silahlar ve füze silahlari bosa harcamayi ve mühimmati korumak için durdurulacaktir. Diger tüm silahlar savunma moduna ayarlanacaktir.
+
+GroupFullSpeedAheadCommand.displayName=Grup: Tam Hiz Ilerle
+GroupFullSpeedAheadCommand.description=Bütün gemilere turuncu yönlendirmeye dogru hizla hareket etmelerini emret.
+
+GroupInterceptCourseCommand.displayName=Grup: Yakalama Rotasi
+GroupInterceptCourseCommand.description=Bütün gemilere birincil hedefleriyle yakalama rotasi çizmesini emret.
+
+GroupMatchVelocityCommand.displayName=Grup: Hizi Esle
+GroupMatchVelocityCommand.description=Bütün gemilere seçilen hedefin hizini esitlemelerini emret. Dost gemilere de hedef alabilir.
+
+GroupCancelMatchVelocityCommand.displayName=Grup: Hizi Eslemeyi Iptal Et
+GroupCancelMatchVelocityCommand.description=Bütün gemilere hiz esleme manevrasini iptal etmelerini emret.
+
+GroupDefensiveManeuversCommand.displayName=Grup: Savunma Manevralari
+GroupDefensiveManeuversCommand.description=Bütün gemilere savunma manevralari yapmalarini emret. Gemiler mümkünse projeksiyonlardan kaçinmaya çalisacaktir. Aksi halde, gelen atese dogru burun kismini döndürecektir.
+
+GroupCancelDefensiveManeuversCommand.displayName=Grup: Savunma Manevralarini Iptal Et
+GroupCancelDefensiveManeuversCommand.description=Bütün gemilere savunma manevralarini iptal etmelerini emret. 
+
+GroupFaceVelocityVectorCommand.displayName=Grup: Hiz Vektörlerine Yönel
+GroupFaceVelocityVectorCommand.description=Bütün gemilere turuncu yönlendirme sonrasindaki hizlarina göre yönlendirmeye emret.

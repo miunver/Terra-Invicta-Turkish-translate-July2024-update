@@ -1,0 +1,505 @@
+TIMissionTemplate.displayName.Abductions=Kaçirmalar
+TIMissionTemplate.description.Abductions=Bir bölgeden bazi insanlari toplayarak uzaylilarin onlari kontrol etme yeteneklerini nasil gelistirebilecegini inceleyin.
+TIMissionTemplate.CriticalSuccess.Abductions={targetRegionName} bölgesinde birçok insan denek topladik ve yerel yetkililer tarafindan fark edilmedik.
+TIMissionTemplate.Success.Abductions={targetRegionName} bölgesinde bazi insan denekleri topladik.
+TIMissionTemplate.Failure.Abductions={targetRegionName} bölgesinde yeterli sayida insan toplayamadik.
+TIMissionTemplate.CriticalFailure.Abductions={targetRegionName} bölgesinde hiçbir insan toplayamadik ve düsmanlarimizin varligimizi fark etmis olabilecegi yüksek ihtimaldir.
+
+TIMissionTemplate.displayName.GainInfluence=Ülke Kontrolü
+TIMissionTemplate.description.GainInfluence=Bir ülkede açik bir kontrol noktasi kazanin.
+TIMissionTemplate.CriticalSuccess.GainInfluence={myFactionName} {targetNationNameWithPrep} için bir kontrol noktasi kazandim ve kamuoyu {returnedValue} kadar lehimizi artirdi. Simdi burada {myTargetNationControlPoints} / {totalTargetNationControlPoints} kontrol noktamiz var.
+TIMissionTemplate.Success.GainInfluence={myFactionName} {targetNationNameWithPrep} için bir kontrol noktasi kazandim. Simdi burada {myTargetNationControlPoints} / {totalTargetNationControlPoints} kontrol noktamiz var.
+TIMissionTemplate.Failure.GainInfluence=Ülke Kontrolü misyonum {targetNationNameWithPrep} basarisiz oldu.
+TIMissionTemplate.CriticalFailure.GainInfluence={targetNationNameWithPrep} ülkesindeki Ülke Kontrolü misyonumda büyük bir aksaklik yasadim ve {myFactionName} hakkinda kamuoyunun görüsü {returnedValue} kadar düstü.
+
+TIMissionTemplate.displayName.Propaganda=Kamu Kampanyasi
+TIMissionTemplate.description.Propaganda=Bir ülkede halk destegini artirin.
+TIMissionTemplate.CriticalSuccess.Propaganda={myFactionName} {targetNationNameWithPrep} için halk destegini artirdim. {returnedValue}
+TIMissionTemplate.Success.Propaganda={myFactionName} {targetNationNameWithPrep} için halk destegini artirdim. {returnedValue}
+TIMissionTemplate.Failure.Propaganda={missionName} misyonum {targetNationNameWithPrep} halk desteginde herhangi bir etki yaratamadi.
+TIMissionTemplate.CriticalFailure.Propaganda={missionName} misyonum {targetNationNameWithPrep} bir felaketti! {returnedValue}
+
+TIMissionTemplate.displayName.Purge=Temizlik
+TIMissionTemplate.description.Purge=Bir düsman fraksiyonundan bir kontrol noktasi alin.
+TIMissionTemplate.CriticalSuccess.Purge={myFactionName} {targetNationNameWithPrep} için bir kontrol noktasi aldik ve bunu yaparak bazi kamuoyu destegi kazandik.
+TIMissionTemplate.Success.Purge={returnedValue} destekçilerini temizledik ve {myFactionName} {targetNationNameWithPrep} için bir kontrol noktasi aldik.
+TIMissionTemplate.Failure.Purge={returnedValue} {targetNationNameWithPrep} destekçilerini temizlemede basarisiz oldum.
+TIMissionTemplate.CriticalFailure.Purge={returnedValue} {targetNationNameWithPrep} karsisinda temizleme misyonum basarisiz oldu. Çabalarimiz muhtemelen düsmanlarimiza açiga çikti ve burada bazi kamuoyu destegini kaybettik.
+
+TIMissionTemplate.displayName.Advise=Tavsiyede Bulunma
+TIMissionTemplate.description.Advise=Bir ülkeye veya yerlesim yerine uzmanlik saglayin. Danismanin Bilim, Komuta ve Yönetim nitelikleri hedefin arastirma çiktisini, savas yeteneklerini ve finansal performansini artirir. Ek danismanlar saglamak azalan faydalar saglar.
+TIMissionTemplate.Success.Advise={targetNationNameWithArticle} için uzmanligimi sunuyorum. {returnedValue}
+
+TIMissionTemplate.displayName.Assassinate=Suikast
+TIMissionTemplate.description.Assassinate=Belirlenen bir düsman danismani ortadan kaldirin.
+TIMissionTemplate.CriticalSuccess.Assassinate={targetCouncilorName} adli {targetFactionName} danismanini ortadan kaldirdim. {returnedValue}
+TIMissionTemplate.Success.Assassinate={targetCouncilorName} adli {targetFactionName} danismanini ortadan kaldirdim. {returnedValue}
+TIMissionTemplate.Failure.Assassinate={targetCouncilorName} adli {targetFactionName} danismanini ortadan kaldirma misyonum basarisiz oldu.
+TIMissionTemplate.CriticalFailure.Assassinate={targetCouncilorName} adli {targetFactionName} danismanini ortadan kaldirma misyonum basarisiz oldu.
+TIMissionTemplate.Assassinate.Special={targetFactionAdjective} ajanlari konumuma yaklasiyor.
+TIMissionTemplate.AssassinateAlien=Bu operasyondan uzaylilar hakkinda çok sey ögrendik ve gelecekteki xenoloji arastirmalarimiz için bir bonus alacagiz.
+
+TIMissionTemplate.displayName.AssaultAlienAsset=Uzayli Varliga Saldiri
+TIMissionTemplate.description.AssaultAlienAsset=Bir sabit uzayli varligina karsi bir savas birimi yönetin.
+TIMissionTemplate.CriticalSuccess.AssaultAlienAsset={targetDisplayName} üzerindeki saldirimiz {targetRegionName} bölgesinde tamamen basarili oldu. {returnedValue}
+TIMissionTemplate.Success.AssaultAlienAsset={targetDisplayName} üzerindeki saldirimiz {targetRegionName} bölgesinde basarili oldu. {returnedValue}
+TIMissionTemplate.Failure.AssaultAlienAsset=Hedefin savunmalari tarafindan geri püskürtüldük ve herhangi bir hasar veremedik.
+TIMissionTemplate.CriticalFailure.AssaultAlienAsset=Hedefe herhangi bir hasar vermekte basarisiz olduk.
+TIMissionTemplate.CouncilorKilled.AssaultAlienAsset={0} operasyonda öldürüldü!
+
+TIMissionTemplate.displayName.AssumeControl=Uzayli Kontrolü Ver
+TIMissionTemplate.description.AssumeControl=Bir ulkeyi kontrolümüz altina alip Uzayli Yönetimi'ne devrediyoruz. Orada bir tesis insa etmis olmaliyiz. Bu görev, mevcut degilse yeni bir uzayli ulusu olusturacaktir. Karsiliginda kaynaklar alacagiz.
+TIMissionTemplate.Success.AssumeControl={targetNationNameWithArticle}'yi hayirseverlerimize devrettik.
+
+TIMissionTemplate.displayName.BuildFacility=Tesis Insasi
+TIMissionTemplate.description.BuildFacility=Uzayli operasyonlarini ve ulasimini desteklemek için bir arastirma üssü insa edin ve onlara Dünya'nin ülkelerinin dogrudan kontrolünü devretmemizi saglayin. Bölgedeki en az 15 kaçirma gereklidir.
+TIMissionTemplate.Success.BuildFacility={targetRegionName} {targetNationNameWithPrep} için uzaylilar için güvenli bir tesis insa ettik. Simdi burada tüm kontrol noktalarina sahipsek Uzayli Kontrolü Ver misyonunu kullanabiliriz.
+
+TIMissionTemplate.displayName.SetNationalPolicy=Ulusal Politika Belirleme
+TIMissionTemplate.description.SetNationalPolicy=Hedef ülke için bir ana politika belirleyin, örnegin bir savas baslatmak. Görev tamamlandiginda politikayi seçeceksiniz. Yürütme kontrolü gereklidir.
+TIMissionTemplate.Success.SetNationalPolicy={targetNationNameWithPrep} için ulusal politikayi belirleme misyonumu tamamladim.
+
+TIMissionTemplate.displayName.Contact=Iletisim
+TIMissionTemplate.description.Contact=Baska bir fraksiyondan tanimlanmis bir danisman ile iletisime geçerek diplomatik bir degisim baslatin.
+TIMissionTemplate.Success.Contact={targetFactionName}'dan {targetDisplayName} ile diplomatik bir degisim için iletisime geçtim.
+
+TIMissionTemplate.displayName.ControlSpaceAsset=Uzay Varligini Kontrol Et
+TIMissionTemplate.description.ControlSpaceAsset=Bir gemi veya yerlesim ekibini kendi fraksiyonunuza katilmalari için ikna edin. Varligi üstlenmek için yeterli görev kontrolüne sahip olmamiz gerekir.
+TIMissionTemplate.CriticalSuccess.ControlSpaceAsset={targetDisplayName} üzerinde bir isyan baslattik ve oradaki ekip {myFactionName}’a katildi. Bize genis çapli gözetim verileri verdiler ve bu varlik, {returnedValue} kadar düsman misyonlarina karsi özellikle dirençli olacak.
+TIMissionTemplate.Success.ControlSpaceAsset={targetDisplayName} üzerinde bir isyan baslattik ve oradaki ekip {myFactionName}’a katildi.
+TIMissionTemplate.Failure.ControlSpaceAsset={targetDisplayName} üzerinde bir isyan baslatmada basarisiz oldum. Buradaki güçler gelecekteki isyan girisimlerine karsi hazirlikli. {returnedValue}
+TIMissionTemplate.FailurePlus.ControlSpaceAsset={0} tarafindan yakalanmam yakinda gerçeklesecek!
+TIMissionTemplate.CriticalFailure.ControlSpaceAsset={targetDisplayName} üzerinde bir isyan baslatmada basarisiz oldum. Buradaki güçler gelecekteki isyan girisimlerine karsi hazirlikli. {returnedValue}
+
+TIMissionTemplate.displayName.Coup=Darbecilik
+TIMissionTemplate.description.Coup=Bir hükümeti devirin ve kontrol noktalarini sifirlayin.
+TIMissionTemplate.CriticalSuccess.Coup={targetNationNameWithPrep} darbe girisimim büyük bir basari elde etti ve yeni rejimde önemli bir güç kazandik.
+TIMissionTemplate.Success.Coup={targetNationNameWithPrep} darbe girisimim basarili oldu ve oradaki güç yapisini yeniden düzenledik.
+TIMissionTemplate.Failure.Coup={targetNationNameWithPrep} darbe girisimimde basarisiz oldum.
+TIMissionTemplate.CriticalFailure.Coup=Felaket! {targetNationNameWithPrep} hükümetini devirmede basarisiz oldum! {returnedValue}
+
+TIMissionTemplate.displayName.Crackdown=Baski
+TIMissionTemplate.description.Crackdown=Bir kontrol noktasinin yararlarini geçici olarak devre disi birakin, savunmalari kaldirin ve baska bir fraksiyonu temizlemeyi kolaylastirin.
+TIMissionTemplate.CriticalSuccess.Crackdown={targetFactionName} {targetNationNameWithPrep} üzerinde basarili bir baski gerçeklestirdik. {controlPointTypeDisplayName} kontrol noktasi {returnedValue} kadar devre disi birakilacak.
+TIMissionTemplate.Success.Crackdown={targetFactionName} {targetNationNameWithPrep} üzerinde basarili bir baski gerçeklestirdik. {controlPointTypeDisplayName} kontrol noktasi {returnedValue} kadar devre disi birakilacak.
+TIMissionTemplate.Failure.Crackdown={targetFactionName} {targetNationNameWithPrep} üzerinde baski yapma girisimimiz basarisiz oldu.
+TIMissionTemplate.CriticalFailure.Crackdown={targetFactionName} {targetNationNameWithPrep} üzerinde baski yapma girisimimiz basarisiz oldu ve bunun sonucunda bazi olumsuz kamuoyuna maruz kaldik.
+
+TIMissionTemplate.displayName.DefendInterests=Menfaatleri Koruma
+TIMissionTemplate.description.DefendInterests=Bu ülkede kontrol noktalarimizi düsman Baskilari, Temizlik ve Darbelerden koruyun. Korudugumuz kontrol noktalarinin sayisina bagli olarak süre azalir.
+TIMissionTemplate.Success.DefendInterests=Dogru kisileri dogru yerlere yerlestirdim ve kontrol {targetDisplayNameSent} artik {returnedValue} kadar korunuyor. Orada kontrolü elimizden almaya çalisan düsman fraksiyonlar önemli cezalara çarptirilacak.
+
+TIMissionTemplate.displayName.Detain=Danismani Gözaltina Al
+TIMissionTemplate.description.Detain=Bir düsman danismani sorgulama için gözaltina alin. Basari, düsman danismaninin üzerindeki herhangi bir misyonu da aksatacaktir.
+TIMissionTemplate.CriticalSuccess.Detain={targetDisplayNameSent}’yi sorgulama için gözaltina aldik. Sorgulama sirasinda {targetFactionName} hakkinda çok sey ögrenecegimizi umuyoruz. {returnedValue}
+TIMissionTemplate.Success.Detain={targetDisplayNameSent}’yi sorgulama için gözaltina aldik. {returnedValue}
+TIMissionTemplate.Failure.Detain={targetDisplayNameSent}’yi yakalamada basarisiz olduk.
+TIMissionTemplate.CriticalFailure.Detain={targetDisplayNameSent}’yi yakalamada basarisiz olduk. Hedefimizin misyonumuzdan haberdar oldugunu düsünüyorum.
+TIMissionTemplate.BonusEffect.Detain=Danismanin {0} misyonunu da aksattik.
+TIMissionTemplate.DetentionEnd.Detain=Bu danismani {0} kadar alikoyabiliriz. Bu danismani tekrar tekrar gözaltina alarak onlari tutmaya devam edebiliriz.<sp>
+TIMissionTemplate.Detain.DetainAlien=Sorgulamalarimizdan, gelecekteki xenoloji arastirmalarimiz için önemli bir bonus alacagiz.
+TIMissionTemplate.displayName.DetectCouncilActivity=Konsey Aktivitesini Tespit Et
+TIMissionTemplate.description.DetectCouncilActivity=Düsman danismanlarinin ve uzaylilarin danismanin bölgesinde ve bitisik bölgelerde veya bir yerlesim veya filoda tespit edilme olasiligini önemli ölçüde artirin. Ayrica, yakinindaki Dünya bölgelerinde gizli uzayli varliklarini da tespit edebilir.
+TIMissionTemplate.Success.DetectCouncilActivity=Düsmanlarimiz {targetDisplayNameSent}'yi arastiriyorum.
+
+TIMissionTemplate.displayName.EnthrallElites=Seçkinleri Etkile
+TIMissionTemplate.description.EnthrallElites=Uzaylilar, hedef ülkede insan destekçilerinden bir kontrol noktasi kazanir.
+TIMissionTemplate.CriticalSuccess.EnthrallElites=Insan müttefiklerimiz {targetNationNameWithPrep} için bir kontrol noktasi kazandi ve kamu destegi lehimize kaydi.
+TIMissionTemplate.Success.EnthrallElites=Insan müttefiklerimiz {targetNationNameWithPrep} için bir kontrol noktasi kazandi.
+TIMissionTemplate.Failure.EnthrallElites={targetNationNameWithPrep}'de hiçbir lideri boyunduruga alamadik.
+TIMissionTemplate.CriticalFailure.EnthrallElites={targetNationNameWithPrep}'de hiçbir lideri boyunduruga alamadik ve faaliyetlerimizin tespit edilmis olma ihtimali var.
+
+TIMissionTemplate.displayName.EnthrallPublic=Kamuoyunu Etkile
+TIMissionTemplate.description.EnthrallPublic=Uzaylilar, bu ülkedeki insan nüfusunun bir kismini evcillestirir.
+TIMissionTemplate.CriticalSuccess.EnthrallPublic={targetNationNameWithPrep}'de en az {returnedValue} kisiyi kontrol altina aldik.
+TIMissionTemplate.Success.EnthrallPublic={targetNationNameWithPrep}'de en az {returnedValue} kisiyi kontrol altina aldik.
+TIMissionTemplate.Failure.EnthrallPublic={targetNationNameWithPrep}'de hiçbir insani kontrol altina almayi basaramadik. Daha fazla kaçirma ve inceleme gerekebilir.
+TIMissionTemplate.CriticalFailure.EnthrallPublic={targetNationNameWithPrep}'de hiçbir insani kontrol altina almayi basaramadik ve tespit edilmis olma ihtimali var.
+
+TIMissionTemplate.displayName.EnthrallOrg=Organizasyonlari Evcillestir
+TIMissionTemplate.description.EnthrallOrg=Uzaylilar, bir danismandan bir organizasyonu kendi kullanimlari için ele geçirir. Ayrica, herhangi bir danismana atanmamis fraksiyon organizasyonlarini da hedef alabilir.
+TIMissionTemplate.CriticalSuccess.EnthrallOrg={targetFactionName}'dan {targetDisplayName} üzerine yaptigimiz evcillestirme girisimi son derece basarili oldu. Bir organizasyonu güvenceye almanin yani sira, transferde {returnedValue} kazandik.
+TIMissionTemplate.Success.EnthrallOrg={targetFactionName}'dan {targetDisplayName} üzerine yaptigimiz evcillestirme girisimi basarili oldu.
+TIMissionTemplate.Failure.EnthrallOrg={targetFactionName}'dan {targetDisplayName} adina bir organizasyonu edinmeyi basaramadik.
+TIMissionTemplate.CriticalFailure.EnthrallOrg={targetFactionName}'dan {targetDisplayName} adina bir organizasyonu edinmeyi basaramadik ve düsmanlarimizin operasyonu benim planladigimi belirlemis olabilecegini düsünüyorum.
+TIMissionTemplate.Prompt.EnthrallOrg={0}'dan çalmak için bir organizasyon seçin...
+
+TIMissionTemplate.displayName.EnthrallUnalignedElites=Yanitsiz Seçkinleri Etkile
+TIMissionTemplate.description.EnthrallUnalignedElites=Uzaylilar, hedef ülkede yanitsiz bir kontrol noktasi kazanir.
+TIMissionTemplate.CriticalSuccess.EnthrallUnalignedElites=Insan müttefiklerimiz {targetNationNameWithPrep} için bir kontrol noktasi kazandi ve kamu destegi lehimize kaydi.
+TIMissionTemplate.Success.EnthrallUnalignedElites=Insan müttefiklerimiz {targetNationNameWithPrep} için bir kontrol noktasi kazandi.
+TIMissionTemplate.Failure.EnthrallUnalignedElites={targetNationNameWithPrep}'de hiçbir lideri boyunduruga alamadik.
+TIMissionTemplate.CriticalFailure.EnthrallUnalignedElites={targetNationNameWithPrep}'de hiçbir lideri boyunduruga alamadik ve faaliyetlerimizin tespit edilmis olma ihtimali var.
+
+TIMissionTemplate.displayName.Extract=Danismani Kurtar
+TIMissionTemplate.description.Extract=Bir danismanimizi düsman ellerinden kurtarin.
+TIMissionTemplate.CriticalSuccess.Extract={targetDisplayName}'yi düsman gözaltindan kurtardik. Görev sirasinda onlari yakalayanlarla ilgili genis bir bilgi topladik.
+TIMissionTemplate.Success.Extract={targetDisplayName}'yi düsman gözaltindan kurtardik.
+TIMissionTemplate.Failure.Extract={targetDisplayName}'yi kurtarmak için düsman güvenligini geçemedik.
+TIMissionTemplate.CriticalFailure.Extract={targetDisplayName}'yi kurtarma girisimimiz basarisiz oldu ve süreçte tespit edildim. Düsman güçleri yaklasmakta.
+
+TIMissionTemplate.displayName.GoToGround=Gizlen
+TIMissionTemplate.description.GoToGround=Bir Dünya bölgesine gizlenerek düsman tespiti ve saldirilarindan kaçinin.
+TIMissionTemplate.Success.GoToGround={targetRegionName}’de gizleniyorum.
+
+TIMissionTemplate.displayName.HostileTakeover=Düsmanca Ele Geçirme
+TIMissionTemplate.description.HostileTakeover=Bir düsman danismandan bir organizasyonu kendi kullanimiz için ele geçirin. Ayrica, herhangi bir danismana atanmis olmayan fraksiyon havuz organizasyonlarini da hedef alabilir. Bazi fraksiyon özel organizasyonlar bagisiklidir.				//, diger organizasyonlari kontrol etmek için kullanilan <color=#FFFFFFFF><sprite name="attribute_administration"></color> organizasyonlari gibi.
+TIMissionTemplate.CriticalSuccess.HostileTakeover={targetFactionName}'dan {targetDisplayName} üzerine yaptigimiz düsmanca ele geçirme girisimi son derece basarili oldu. Bir organizasyonu güvenceye almanin yani sira, transferde {returnedValue} kazandik.
+TIMissionTemplate.Success.HostileTakeover={targetFactionName}'dan {targetDisplayName} üzerine yaptigimiz düsmanca ele geçirme girisimi basarili oldu.
+TIMissionTemplate.Failure.HostileTakeover={targetFactionName}'dan {targetDisplayName} adina bir organizasyonu edinmeyi basaramadik.
+TIMissionTemplate.CriticalFailure.HostileTakeover={targetFactionName}'dan {targetDisplayName} adina bir organizasyonu edinmeyi basaramadik ve düsmanlarimizin operasyonu benim planladigimi belirlemis olabilecegi ihtimali var.
+TIMissionTemplate.Prompt.HostileTakeover={0}'dan çalmak için bir organizasyon seçin...
+
+TIMissionTemplate.displayName.Inspire=Ilham Ver
+TIMissionTemplate.description.Inspire=Baska bir danismanin Sadakatini artirarak onlari sorgulamaya ve yönlendirme girisimlerine karsi daha dayanikli hale getirin. Ayrica, döndürülmüs bir danismani yanimiza getirebilir.
+TIMissionTemplate.CriticalSuccess.Inspire=Görüstükten sonra, danismanimiz {targetDisplayNameSent} çabalarimiz hakkinda oldukça daha istekli görünüyor. {returnedValue}
+TIMissionTemplate.Success.Inspire=Danismanimiz {targetDisplayNameSent} amaç hakkinda daha istekli görünüyor. {returnedValue}
+TIMissionTemplate.Failure.Inspire={targetDisplayNameSent}'nin sadakatini etkilemekte pek etkili oldugumu düsünmüyorum. {returnedValue}
+TIMissionTemplate.CriticalFailure.Inspire=Üzgünüm, ama {targetDisplayNameSent} ile islerimi daha da kötülestirmis olabilecegimi düsünüyorum. {returnedValue}
+
+TIMissionTemplate.Inspire.PositiveEffect=Danismanin {0} {1} kadar artirildi.
+TIMissionTemplate.Inspire.NoVisibleEffect=Ancak, danismanin sadakatindeki degisimin ne kadar oldugunu belirlemenin zor oldugunu düsünüyorum.
+TIMissionTemplate.Inspire.NegativeEffect=Danismanin {0} {1} kadar azaldi.
+
+TIMissionTemplate.displayName.InvestigateAlienActivity=Uzayli Aktivitesini Arastir
+TIMissionTemplate.description.InvestigateAlienActivity=Uzayli faaliyetinden süphelenilen bir bölgeyi hedef alarak uzaylilarin yöntemleri ve motive edici faktörleri hakkinda daha fazla bilgi edinin.
+TIMissionTemplate.CriticalSuccess.InvestigateAlienActivity={targetDisplayName} {targetNationNameWithPrep} üzerindeki arastirmamdan çok sey ögrendim. Gelecekteki xenoloji arastirmalarimiza bonus alacagiz.
+TIMissionTemplate.Success.InvestigateAlienActivity={targetDisplayName} {targetNationNameWithPrep} üzerindeki arastirmamdan bazi faydali bilgiler edindim. Gelecekteki xenoloji arastirmalarimiza küçük bir bonus alacagiz.
+TIMissionTemplate.Failure.InvestigateAlienActivity={targetDisplayName} {targetNationNameWithPrep} üzerindeki arastirmamda yeni bir sey ögrenemedim.
+TIMissionTemplate.CriticalFailure.InvestigateAlienActivity={targetDisplayName} {targetNationNameWithPrep} üzerindeki arastirmamda yeni bir sey ögrenemedim ve düsman ajanlari tarafindan tespit edilmis olabilirim.
+
+TIMissionTemplate.displayName.InvestigateCouncilor=Danismani Arastir
+TIMissionTemplate.description.InvestigateCouncilor=Bir danisman hakkinda istihbarat toplayin, bu bize danismani hedef alacak görevler düzenleme ve danismanin hizmet ettigi fraksiyon hakkinda daha fazla bilgi edinme imkani saglar. Ayrica, kendi danismanlarimizin Sadakatini dogrulamak için de kullanilabilir.
+TIMissionTemplate.CriticalSuccess.InvestigateCouncilor={targetDisplayNameSent} hakkinda önemli yeni bilgiler ögrendik. {returnedValue}
+TIMissionTemplate.Success.InvestigateCouncilor={targetDisplayNameSent} hakkinda bilgimizi gelistirdik. {returnedValue}
+TIMissionTemplate.Failure.InvestigateCouncilor={targetDisplayNameSent} hakkinda yeni bir bilgi edinemedim. {returnedValue}
+TIMissionTemplate.CriticalFailure.InvestigateCouncilor={targetDisplayNameSent} hakkinda hiçbir sey ögrenemedim ve düsmanlarimiz tarafindan tespit edilmis olabilirim. {returnedValue}
+
+TIMissionTemplate.displayName.Orbit=Yörünge
+TIMissionTemplate.description.Orbit=Yeryüzünden herhangi bir yörüngeye, veya herhangi bir uzay cisminden bir istasyon veya gemiye yörüngede hareket edin. Gizli hareket özelligi, yalnizca düsman Tier 1 Habs (ön posta ve platformlar) ve filolara seyahat etmek için gereklidir.
+TIMissionTemplate.Success.Orbit={targetLocationStrSentence} üzerindeyim.
+
+TIMissionTemplate.displayName.Deorbit=Yörüngeyi Terk Et
+TIMissionTemplate.description.Deorbit=Bir yerlesim veya gemiden yeryüzüne, veya Dünya-Luna sistemindeki herhangi bir yerden yeryüzüne hareket edin.
+TIMissionTemplate.Success.Deorbit=Saglam zemindeyim.
+
+TIMissionTemplate.displayName.PassTechnology=Teknoloji Aktar
+TIMissionTemplate.description.PassTechnology=Insan müttefiklerimize yardim etmek için teknolojimizin bir kismini aktarin.
+TIMissionTemplate.Success.PassTechnology=Müttefiklerimize yardim sagladim.
+
+TIMissionTemplate.displayName.Protect=Koruma
+TIMissionTemplate.description.Protect=Danismanin Güvenlik veya Komuta özelligini kullanarak hedef bir bölgeyi, yerlesimi veya müttefik danismani fiziksel saldirilardan ve diger operasyonlardan koruyun. Ayrica, hedef danismani basarisiz saldiri görevlerinde ölmekten koruyacaktir.
+TIMissionTemplate.Success.Protect={targetDisplayName}’yi düsman operasyonlarindan koruyorum.
+
+TIMissionTemplate.displayName.SabotageFacilities=Tesisleri Sabote Et
+TIMissionTemplate.description.SabotageFacilities=Bir bölgedeki seçilmis bir uzay tesisini sabote edin.
+TIMissionTemplate.CriticalSuccess.SabotageFacilities=Bombalarim {targetDisplayName}’ye önemli zararlar verdi. Katkimizin tespit edilmesi olasi görünmüyor.
+TIMissionTemplate.Success.SabotageFacilities={targetDisplayName}’yi sabote etme görevimde basarili oldum.
+TIMissionTemplate.Failure.SabotageFacilities={targetDisplayName}’ye yaklasacak kadar yakinlasamadim.
+TIMissionTemplate.CriticalFailure.SabotageFacilities={targetDisplayName}’yi sabote etme görevim bir felaketti! {returnedValue}
+TIMissionTemplate.displayName.SabotageHabModule=Hab Modülünü Sabote Et
+TIMissionTemplate.description.SabotageHabModule=Mevcut habinizdaki seçilmis bir çekirdek disi hab modülünü yok edin.
+TIMissionTemplate.CriticalSuccess.SabotageHabModule=Bombalarim {targetHabName}’deki {returnedValue}’yi yok etti.
+TIMissionTemplate.Success.SabotageHabModule=Bombalarim {targetHabName}’deki {returnedValue}’yi yok etti.
+TIMissionTemplate.Failure.SabotageHabModule={targetHabName}’deki {targetDisplayName}’ye yaklasip patlayicilari yerlestiremeye basardim.
+TIMissionTemplate.CriticalFailure.SabotageHabModule={targetHabName}’deki {targetDisplayName} yakininda güvenli bir bölgede tespit edildim ve sorgulama için gözaltina alindim.
+
+TIMissionTemplate.displayName.SabotageProject=Projeyi Sabote Et
+TIMissionTemplate.description.SabotageProject=Bir danismani veya mühendislik modülüne sahip bir habi hedef alarak bir projeden 5.000 arastirma puanina kadar ilerleme kaydini kaldirin. Belirli bir proje yalnizca bir kez sabote edilebilir.
+TIMissionTemplate.CriticalSuccess.SabotageProject=Arastirmalarinda {targetFactionName}’a büyük bir darbe vurdum ve ayrica bilim insanlarimizin kullanmasi için {returnedValue} çaldim.
+TIMissionTemplate.Success.SabotageProject={targetFactionName}’in arastirmalarina büyük bir darbe vurdum.
+TIMissionTemplate.Failure.SabotageProject=Hedefi penetrasyon yapmayi basaramadim ve arastirmalarini sabote edemedim.
+TIMissionTemplate.CriticalFailure.SabotageProject=Hedefi penetrasyon yapmayi basaramadim ve arastirmalarini sabote edemedim.
+TIMissionTemplate.Prompt.SabotageProject=Sabote etmek için bir proje seçin...
+
+TIMissionTemplate.SecondarySelection=Seçim: {0}
+
+TIMissionTemplate.displayName.SeizeSpaceAsset=Uzay Varligini Ele Geçir
+TIMissionTemplate.description.SeizeSpaceAsset=Bir düsman habini ele geçirme girisiminde bulunmak için uzay Deniz Piyadelerini yönlendirin. Bu, danismanin bulundugu yerde filolar veya hab Deniz Piyadeleri gerektirir. Filolar, düsman istasyonlarina saldirmak için yanasmalidir. Istasyonlar, yüzeye birlik birakabilir ve üsler, yakindaki hab bölgelerine saldirabilir. Deniz Piyade modülleri hasar görebilir veya yok edilebilir.
+TIMissionTemplate.CriticalSuccess.SeizeSpaceAsset=Zafer! {targetDisplayName}’i {targetFactionName}’dan ele geçirdik. {returnedValue}
+TIMissionTemplate.Success.SeizeSpaceAsset=Zafer! {targetDisplayName}’i {targetFactionName}’dan ele geçirdik. {returnedValue}
+TIMissionTemplate.Failure.SeizeSpaceAsset=Yenilgi! {targetDisplayName}’i {targetFactionName}’dan ele geçirmeyi basaramadik. {returnedValue}
+TIMissionTemplate.CriticalFailure.SeizeSpaceAsset=Yenilgi! {targetDisplayName}’i {targetFactionName}’dan ele geçirmeyi basaramadik. {returnedValue}
+
+TIMissionTemplate.displayName.Stabilize=Ülkeyi Istikrarlastir
+TIMissionTemplate.description.Stabilize=Hedef ülkedeki huzursuzlugu azaltarak ekonomiyi iyilestirin ve hükümetin devrilme olasiligini düsürün. Mevcut huzursuzluk, ülkenin huzursuzluk dinlenme durumu degerinin yarisindan azsa etkisi zayiflar.
+TIMissionTemplate.CriticalSuccess.Stabilize={targetNationNameWithPrep}’deki huzursuzlugu {returnedValue} kadar azaltmayi basardik ve {targetNationUnrestWithString}’ye indirdik.
+TIMissionTemplate.Success.Stabilize={targetNationNameWithPrep}’deki huzursuzlugu {returnedValue} kadar azalttik ve {targetNationUnrestWithString}’ye indirdik.
+TIMissionTemplate.Failure.Stabilize={targetNationNameWithPrep}’deki huzursuzlugu azaltma görevinde basarisiz oldum.
+TIMissionTemplate.CriticalFailure.Stabilize={targetNationNameWithPrep}’deki huzursuzlugu azaltma çabalarim bir felaket oldu ve ülke giderek bölünmüs durumda, {returnedValue} huzursuzluk kazandi.
+
+TIMissionTemplate.displayName.StealProject=Projeyi Çal
+TIMissionTemplate.description.StealProject=Bir düsman fraksiyonundan mühendislik projelerini çalmak için bir danismani veya mühendislik modülüne sahip bir habi hedef alin. Bu, projeyi bizim arastirmamiz için açiga çikarir. Ayrica, düsman fraksiyonu bizden arastirma gelirinde öndeyse <color=#FFFFFFFF><sprite name="research"></color> de elde edebiliriz.
+TIMissionTemplate.CriticalSuccess.StealProject={targetFactionName}’in arastirma arsivlerine erisim sagladim. {returnedValue} Simdi projelerinden birini çalabiliriz.
+TIMissionTemplate.Success.StealProject={targetFactionName}’in arastirma arsivlerine erisim sagladim. {returnedValue}
+TIMissionTemplate.Failure.StealProject={targetFactionName}’in arastirma arsivlerine erisim saglamayi basaramadim.
+TIMissionTemplate.CriticalFailure.StealProject={targetFactionName}’in arastirma arsivlerine erisim saglamayi basaramadim.
+TIMissionTemplate.Prompt.StealProject={0}’dan çalmak için bir proje seçin...
+
+TIMissionTemplate.displayName.TerrorizeRegion=Bölgeyi Korkut
+TIMissionTemplate.description.TerrorizeRegion=Bu bölgedeki sivillere saldirarak ulusal hükümetten tavizler koparin, bizim üstün bir güç olarak gördügümüz bir insan fraksiyonu için bir kontrol noktasi kazanin. Ancak bu, karsitligi artirma riski tasir.
+TIMissionTemplate.CriticalSuccess.TerrorizeRegion=Sok birliklerimiz {targetRegionName} bölgesini korkutmakta basarili oldu ve {1} {targetNationNameWithPrep}’da bir kontrol noktasi kazandi. Insan halki, istilamiza büyük ölçüde korku ile tepki verdi gibi görünüyor.
+TIMissionTemplate.Success.TerrorizeRegion=Sok birliklerimiz genel olarak {targetRegionName} bölgesini korkutmada basarili oldu ve {1} {targetNationNameWithPrep}’da bir kontrol noktasi kazandi. Kamuoyunda giderek artan bir kutuplasma gözlemleniyor.
+TIMissionTemplate.Failure.TerrorizeRegion=Sok birliklerimiz {targetRegionName} bölgesini korkutma görevinde basarisiz oldu.
+TIMissionTemplate.CriticalFailure.TerrorizeRegion=Sok birliklerimiz {targetRegionName} bölgesini korkutma çabalarinda maglup oldu ve insan nüfusu bize karsi dirençlerini artirmis görünüyor.
+
+TIMissionTemplate.displayName.Xenoform=Xenoform
+TIMissionTemplate.description.Xenoform=Bu bölgeye yerli uzayli biyomorfizmleri birakin. Zamanla, bu biyomorfizmler yerli yasami boyun egdirecek, insanlari daha esnek hale getirecek ve nihayetinde insan ekonomisini engelleyecek büyük hayvan sürüleri olusturacaktir.
+TIMissionTemplate.CriticalSuccess.Xenoform=Biyomorfizmlerimiz bu bölgede son derece iyi tutundu.
+TIMissionTemplate.Success.Xenoform=Biyomorfizmlerimiz bu bölgede kök saldi.
+TIMissionTemplate.Failure.Xenoform=Biyomorfizmlerimiz burada kök salmayi basaramadi.
+TIMissionTemplate.CriticalFailure.Xenoform=Biyomorfizmlerimiz burada kök salmayi basaramadi ve faaliyetlerimin tespit edilmis olma olasiligi yüksek.
+
+TIMissionTemplate.displayName.Transfer=Transfer
+TIMissionTemplate.description.Transfer=Bir hab veya filodan digerine, Dünya-Luna sistemindeki herhangi bir yere yer degistirin. Dünya disindayken, ayni yörüngedeki veya ayni uzay cismindeki herhangi bir hab veya filoya geçin. Gizli hareket etme özelligi, yalnizca düsman Tier 1 Hablara (önsel ve platformlar) ve filolara seyahat etmek için gereklidir.
+TIMissionTemplate.Success.Transfer={targetDisplayName}’e vardim.
+
+TIMissionTemplate.displayName.Turn=Danismani Çevir
+TIMissionTemplate.description.Turn=Bir düsman danismanini kendi amacimiza çevirmek, bize genis bir istihbarat ve danismanin görevlerinin basarili veya basarisiz olup olmadigi üzerinde kontrol saglar. Bu görevi denemek için hedefin gerçek Sadakat özelligini bilmemiz gerekir.
+TIMissionTemplate.CriticalSuccess.Turn={targetDisplayName}’i amacimiza çevirdik. Bu danisman {targetFactionName} için çalismaya devam edecek, ancak biz, fraksiyonun tüm istihbaratina ve danismanin görevlerinde basarili olup olmayacagina dair kontrol sahibi olacagiz. {targetFactionName} içinde fazla süphe uyandirmamaya dikkat etmeliyiz!<br/><br/>Ek bir basari elde ettik: Yeni ajanimiz bir aylik arastirma dosyalarini getirdi ve kendi gelisimimizi önemli ölçüde ilerletti.
+TIMissionTemplate.Success.Turn={targetDisplayName}’i amacimiza çevirdik. Bu danisman {targetFactionName} için çalismaya devam edecek, ancak biz, fraksiyonun tüm istihbaratina ve danismanin görevlerinde basarili olup olmayacagina dair kontrol sahibi olacagiz. {targetFactionName} içinde fazla süphe uyandirmamaya dikkat etmeliyiz!
+TIMissionTemplate.Failure.Turn={targetDisplayName}’i amacimiza çeviremedik.
+TIMissionTemplate.CriticalFailure.Turn={targetDisplayName}’i amacimiza çevirmekte basarisiz oldum ve konumumun {targetFactionName} tarafindan bilinme olasiligi yüksek.
+
+TIMissionTemplate.displayName.Unrest=Huzursuzlugu Artir
+TIMissionTemplate.description.Unrest=Hedef bölgedeki ulusun huzursuzlugunu artirarak ekonomiye zarar verin ve darbe, devrim ve ayrilma olasiligini artirin. Bagimsizlik hareketi olan bir bölgede basari, burada bir ayrilma tetikleyebilir, devrim yerine. Huzursuzluk zaten ülkenin huzursuzluk dinlenme degerinin iki katindan fazlaysa etkisi zayiflar.
+TIMissionTemplate.CriticalSuccess.Unrest=Çabalarim {targetNationNameWithPrep}’de huzursuzlugu {returnedValue} kadar artirdi ve {targetNationUnrestWithString}’ye çikardik. Hükümeti devirebilirlerse burada isyanci hareketler arasinda biraz destek elde ettik.
+TIMissionTemplate.Success.Unrest=Çabalarim {targetNationNameWithPrep}’de huzursuzlugu {returnedValue} kadar artirdi ve {targetNationUnrestWithString}’ye çikardik. Hükümeti devirebilirlerse burada isyanci hareketler arasinda biraz destek elde ettik.
+TIMissionTemplate.Failure.Unrest={targetNationNameWithPrep}’de huzursuzlugu artirmayi basaramadim.
+TIMissionTemplate.CriticalFailure.Unrest={targetNationNameWithPrep}’de huzursuzlugu artirmada basarisiz oldum. {returnedValue}
+
+TIMissionTemplate.displayName.DominateNation=Ülkeyi Hakimiyet Altina Al
+TIMissionTemplate.description.DominateNation=Hedef ülkeyi Sentinel platformlarimizdan bombardiman tehdidi ile tehdit edin. Basari, bir kontrol noktasini fraksiyonumuza dönüstürecektir. Basarisizlik, kontrol noktasini almadan önce tehdidi gerçeklestirmemizi gerektirir.
+TIMissionTemplate.CriticalSuccess.DominateNation=Bazi liderler {targetNationNameWithPrep} üstünlügümüze boyun egdi ve {myFactionName} için bir kontrol noktasi aldik. Oradaki kamuoyu, ülkeye düzen getirmemiz için bize tesekkür etti.
+TIMissionTemplate.Success.DominateNation=Liderler {targetNationNameWithPrep} orbital bombardiman tehditlerimizden korktu ve teslim oldular, böylece {myFactionName} için bir kontrol noktasi aldik.
+TIMissionTemplate.Failure.DominateNation=Sentinel silah sistemlerimizi kullanma tehditlerimiz {targetNationNameWithPrep} liderleri tarafindan dikkate alinmadi, bu yüzden seçilen hedeflere bombardiman yapmamiz gerekti. {myFactionName} için bir kontrol noktasi kazandik.
+TIMissionTemplate.CriticalFailure.DominateNation=Liderler {targetNationNameWithPrep} Sentinelleri kullanma uyarilarimiza güldü, bu yüzden onlari teslim olmaya zorlamak için genis çapli bombardiman yapmamiz gerekti. {myFactionName} için bir kontrol noktasi kazandik.
+
+TIMissionTemplate.displayName.AppeaseWin=Hegemonya Iddia Et
+TIMissionTemplate.description.AppeaseWin=Sentinel istasyon agimizi aktive ederek dünya islerinde üstünlügümüzü kurun ve uzaylilari yatistirin. Tüm insan uluslari bize teslim olacak. Zafer hedeflerimizi gerçeklestirmis olmamiz gerekmektedir.
+TIMissionTemplate.Success.AppeaseWin=Sentinel agimizi aktive ettik ve kisa bir gösterimin ardindan Dünya'nin uluslari yetkilerini bize devretti.
+
+TIMissionTemplate.displayName.CooperateWin=Bir Ittifak Kur
+TIMissionTemplate.description.CooperateWin=Pherocyte dirençli diplomatlarimizi solucan deliginden geçirerek iliskileri kurun ve bu çatismayi sonlandirin. Önce uzayli üssüne saldirmamiz ve inmemiz gerekir. Zafer hedeflerimizi gerçeklestirmis olmamiz gerekmektedir.
+TIMissionTemplate.Success.CooperateWin=Hydra ile sartlarda anlastik.
+
+TIMissionTemplate.displayName.DestroyWin=Silahi Tetikle
+TIMissionTemplate.description.DestroyWin=Solucan deliginden biyolojik silahimizi gönderin. Önce uzayli üssüne saldirmamiz ve inmemiz gerekir. Zafer hedeflerimizi gerçeklestirmis olmamiz gerekmektedir.
+TIMissionTemplate.Success.DestroyWin=Shiva virüsünü dagittik.
+
+TIMissionTemplate.displayName.EscapeWin=Bifrost’u Firlat
+TIMissionTemplate.description.EscapeWin=Interstelar yolculugumuza baslamak için firlatma emri verin.
+TIMissionTemplate.Success.EscapeWin=Bifrost’u firlattik.
+
+TIMissionTemplate.displayName.ExploitWin=Düsmani Evcillestir
+TIMissionTemplate.description.ExploitWin=Neopherocyte paketini solucan deliginden gönderin. Önce uzayli üssüne saldirmamiz ve inmemiz gerekir. Zafer hedeflerimizi gerçeklestirmis olmamiz gerekmektedir.
+TIMissionTemplate.Success.ExploitWin=Hydra imparatorlugunu boyun egdirdik.
+
+TIMissionTemplate.displayName.ResistWin=Kapiyi Kapat
+TIMissionTemplate.description.ResistWin=Yabanci solucan deligini kapatmak için cihazi aktive edin. Önce uzayli üssüne saldirmamiz ve inmemiz gerekir. Zafer hedeflerimizi gerçeklestirmis olmamiz gerekmektedir.
+TIMissionTemplate.Success.ResistWin=Düsmanin kapisi kapatildi.
+
+TIMissionTemplate.displayName.SubmitWin=Efendilerimizi Ilan Et
+TIMissionTemplate.description.SubmitWin=Yabancilarin Dünya üzerindeki egemenligini ilan edin. Zafer hedeflerimizi gerçeklestirmis olmamiz gerekmektedir.
+TIMissionTemplate.Success.SubmitWin=Dünya artik yabanci yönetimi altina girdi.
+
+TIMissionEffect_IncreaseUnrest.Special1=Çalismalarim tespit edildi, bu da burada kamu destek seviyemizin {0} düsmesine ve {1}’in bir soykirim suçuyla suçlanmasina neden oldu.										// % degisim, danismanin fraksiyon adi
+TIMissionEffect_IncreaseUnrest.Special2=Çalismalarim tespit edildi! {0} ajanlari {1}’i bir soykirim suçuyla suçluyor ve beni gözaltina almak üzere geliyorlar! Lütfen serbest birakilmami güvence altina alin!								// yakalama fraksiyonu adi, danismanin fraksiyon adi
+TIMissionEffect_Coup.Special1=Buradaki kamu destek seviyemiz {0} düstü.
+TIMissionEffect_Coup.Special2={0} tarafindan yakalanmak üzereyim. Sorgulamalara dayanmak için elimden geleni yapacagim!			// fraksiyon adi, büyük harfle
+TIMissionEffect_DamageSpaceFacilities.Special1=Deneme ile baglantili oldugumuz düsünüldü ve kamu destek seviyemiz {0} düstü.
+TIMissionEffect_DamageSpaceFacilities.Special2=Tutuklandim ve yakinda {0}’a teslim edilmem bekleniyor.					// fraksiyon adi
+TIMissionEffect_InvestigateCouncilor.EnemySpecial1=Hedefin kimligini, {0}, {1} ile olan iliskisini ve {2} olarak çalistigini biliyoruz.
+TIMissionEffect_InvestigateCouncilor.EnemySpecial2=Danismanin ayrintili profilini istihbarat bölümünde de bulabilirsiniz. Danismanin sadakat puaninin {0} oldugunu tahmin ediyoruz.
+TIMissionEffect_InvestigateCouncilor.EnemySpecial3=Danismanin atanmis görevini bir süre görebilecegiz.
+TIMissionEffect_InvestigateCouncilor.EnemySpecial4={1}’den daha fazla bilgi edinebiliriz. Danismanin gerçek sadakat puani {2}.
+TIMissionEffect_InvestigateCouncilor.EnemySpecial5=Ayrica {0}’in {1} için casusluk yaptigini ögrendik.
+TIMissionEffect_InvestigateCouncilor.MySpecial1=Gerçek sadakat puanlarini {0} olarak tespit ettik.
+TIMissionEffect_InvestigateCouncilor.MySpecial2={0}’in {1} tarafindan bize karsi çevrildigini ve bizim için casusluk yaptigini ögrendik. Bu, mümkün olan en kisa sürede kapatmamiz gereken büyük bir sizinti.
+TIMissionEffect_InvestigateCouncilor.MySpecial3=Arastirmamiz o kadar kötü yönetildi ki {0} bunun farkina vardi ve bu durumdan öfkelendi, bir sadakat puani kaybetti.
+TIMissionEffect_Advise.Special1=Yeni bir görev verilene kadar, ülkenin arastirma çiktisini {0}, Yatirim Puanlarini {1} ve ordulari ve savunma güçlerinin performansini {2} miltech degerinde artiracagim.
+TIMissionEffect_Advise.Special2=Yeni bir görev verilene kadar, hab'in arastirma çiktisini {0}, kaynak ve para üretimini {1} ve Deniz Piyadelerinin savas yeteneklerini {2} artiracagim.
+TIMissionEffect_Advise.Special3=Yeni bir görev verilene kadar, filonun savas performansini {0} ve arastirma çiktisini {1} artiracagim.
+TIMissionEffect_StealProject.Special=Tutuklandim ve yakinda {0}’a teslim edilmem bekleniyor. Sorgulamalara dayanmak için elimden geleni yapacagim.					// fraksiyon adi
+TIMissionEffect_StealProject.Steal=Ayrica arsivlerinden {0} edindim.
+TIMissionEffect_SabotageProject.Special=Tutuklandim ve yakinda {0}’a teslim edilmem bekleniyor. Lütfen serbest birakilmami güvence altina alin!									// fraksiyon adi
+TIMissionEffect_Propaganda.Special=Buradaki kamu destek seviyemiz {0} degisti. Su anda {1} olarak duruyor.
+TIMissionEffect_Propaganda.Special2=Buradaki kamu destek seviyemiz {0} degismedi, ancak insanlar karsit ideolojilerden uzaklasip bizimkine yöneliyor.
+TIMissionEffect_Assassinate.Special1=Suikast girisimimiz genis çapta dikkat çekti ve artik dünya genelindeki yetkililer tarafindan araniyorum.									// fraksiyon adi
+TIMissionEffect_Assassinate.Special2=Tutuklandim ve yakinda {0}’a teslim edilmem bekleniyor. Lütfen serbest birakilmami güvence altina alin!									// fraksiyon adi
+
+TIMissionResult_Responsibility=Operasyonun arkasinda {0}’i tanimladik.
+
+TIMissionModifier.Spend={0} Harcandi														// kaynak adi, örnegin "Ops"
+TIMissionModifier.Flat={0} ({1})															// Düz Modifikatör (3)
+TIMissionModifier.CodexHeader=<h>Saldiri Modifikatörleri<line-height=0.01%><br/><align="right">Savunma Modifikatörleri</align></line-height></h>
+TIMissionModifier_FlatModifier.displayName=Görev Zorlugu
+TIMissionModifier_TargetNationGDP.displayName=Ulusal Ekonominin Büyüklügü
+TIMissionModifier_NationCohesion.displayName=Ulusal Uyum
+TIMissionModifier_InvertedNationCohesion.displayName=Ulusal Uyum
+TIMissionModifier_NationPopulation.displayName=Ulus Nüfusu
+TIMissionModifier_NationUnrest.displayName=Ulusal Huzursuzluk
+TIMissionModifier_NationStability.displayName=Ulusal Istikrar
+TIMissionModifier_NationDemocracy.displayName=Demokrasi
+TIMissionModifier_NationEducation.displayName=Egitim
+TIMissionModifier_UnhappyElites.displayName=Elite Memnuniyetsizligi
+TIMissionModifier_HappyElites.displayName=Elite Memnuniyeti
+TIMissionModifier_RegionalDefenses.displayName=Bölgedeki Askeri Güç
+TIMissionModifier_AttackerPopulationIdeology.displayName=Popüler Destek
+TIMissionModifier_DefenderPopulationIdeology.displayName=Popüler Destek
+TIMissionModifier_DisabledControlPoint.displayName=Baski
+TIMissionModifier_DefenderLocalControlPoints.displayName=Yerel Kontrol Noktalari
+TIMissionModifier_AttackerLocalControlPoints.displayName=Yerel Kontrol Noktalari
+TIMissionModifier_OwnedControlPoint.displayName=Konsey {0}
+TIMissionModifier_AttackerAdjacentControlPoints.displayName=Komsu Kontrol Noktalari
+TIMissionModifier_AttackerAllyControlPoints.displayName=Büyük Müttefikler / Federasyon Kontrol Noktalari
+TIMissionModifier_AbductionsInRegion_AlienOnly.displayName=Yerel Kaçirmalar
+TIMissionModifier_MeanAbductionsinNation_AlienOnly.displayName=Ulus Içindeki Kaçirmalar
+TIMissionModifier_IdeologicalDistance.displayName=Ideoloji Farki
+TIMissionModifier_JointControlPointStat.displayName=Ortak Konsey {0}
+TIMissionModifier_JointCouncilStat.displayName=Ortak Konsey {0}
+TIMissionModifier_DefendedAsset.displayName=Çikarlari Koruma
+TIMissionModifier_AlienAssetDefense.displayName=Yabanci Savunmalar
+TIMissionModifier_DetainedCouncilor.displayName=Gözaltina Alinmis Hedef
+TIMissionModifier_numDefendedControlPoints.displayName=Korunan Kontrol Noktalari
+TIMissionModifier_IntelonDefendingCouncilor.displayName=Hedef Üzerine Istihbarat
+TIMissionModifier_SpaceSupportShortage.displayName=Hab Destek Kitligi
+TIMissionModifier_AttackerHabSectors.displayName=Bu Hab'daki Sektörler
+TIMissionModifier_DefenderHabSectors.displayName=Bu Hab'daki Sektörler
+TIMissionModifier_AttackingForceSize.displayName=Saldiri Gücü Büyüklügü
+TIMissionModifier_DefendingForceSize.displayName=Savunma Gücü Büyüklügü
+TIMissionModifier_DefenderHabSize.displayName=Hab Büyüklügü
+TIMissionModifier_Legislature_ExecCP.displayName=Legislatura Kontrol Noktasi
+TIMissionModifier_Legislature_ExecCP_Defense.displayName=Legislatura Kontrol Noktasi
+TIMissionModifier_TheParty_NonExecCP.displayName=Parti Kontrol Noktasi
+TIMissionModifier_TheParty_NonExecCP_Defense.displayName=Parti Kontrol Noktasi
+TIMissionModifier_Oligarchs.displayName=Oligarklar Kontrol Noktasi
+TIMissionModifier_Oligarchs_Defense.displayName=Oligarklar Kontrol Noktasi
+TIMissionModifier_NationalIndustries.displayName=Ulusal Endüstriler Kontrol Noktasi
+TIMissionModifier_NationalIndustries_Def.displayName=Ulusal Endüstriler Kontrol Noktasi
+TIMissionModifier_MassMedia.displayName=Kitle Iletisim Araçlari Kontrol Noktasi
+TIMissionModifier_SecurityApparatus.displayName=Güvenlik Aparati Kontrol Noktasi
+TIMissionModifier_Bureaucracy.displayName=Bürokrasi Kontrol Noktasi
+TIMissionModifier_RegionalAuthorities.displayName=Bölgesel Yetkililer Kontrol Noktasi
+TIMissionModifier_IdentityBlocs.displayName=Kimlik Bloklari Kontrol Noktasi
+TIMissionModifier_Warlords.displayName=Savas Lordlari Kontrol Noktasi
+TIMissionModifier_TargetNegativeInfluence.displayName=Hedefin Olumsuz Etkisi Var
+TIMissionModifier_TargetBroke.displayName=Hedefin Finansal Sorunlari Var
+TIMissionModifier_CampaignDifficulty.displayName=Zorluk
+TIMissionModifier_AlienNation.displayName=Yabanci Ulus
+TIMissionModifier_ProtectionBonus.displayName=Koruma Görevi: {0}
+TIMissionModifier_RegionXenoforming_AlienOnly.displayName=Yerel Xenoforming
+TIMissionModifier_RegionXenoforming_AlienAndProxyOnly.displayName=Yerel Xenoforming
+TIMissionModifier_MeanNationXenoforming_AlienAndProxyOnly.displayName=Ulus Içindeki Xenoforming
+TIMissionModifier_PherocyteResistance.displayName=Pherocyte Direnci
+TIMissionModifier_AliensRemoved.displayName=Yabancilar Yakalandi veya Öldürüldü
+TIMissionModifier_SpaceAssetPopulation.displayName=Kisi Sayisi
+TIMissionModifier_RegionalOccupation.displayName=Isgal Ilerlemesi
+TIMissionModifier_RegionalOccupation_MyFaction.displayName=Isgal Ilerlemesi
+TIMissionModifier_RegionalInvadingForcesStrength.displayName=Istilaci Güçler Gücü
+TIMissionModifier_RegionalInvadingForcesStrength_MyFaction.displayName=Istilaci Güçler Gücü
+TIMissionModifier_AttackerUnrestIdeology.displayName=Önceki Rahatsizlik Çabalari
+TIMissionModifier_RegionPopulationDensity.displayName=Bölge Nüfus Yogunlugu
+TIMissionModifier_Censorship.displayName=Sansür
+TIMissionModifier_ExtractionDefense_Councilor.displayName=Yakin Konsey Üyeleri'nin {0}
+TIMissionModifier_ExtractionDefenseSecurityApparatus.displayName=Güvenlik Aparati Kontrol Noktasi
+TIMissionModifier_ExtractionDefense_JointCouncilStat.displayName=Gözaltina Alma Konseyi Ortak {0}
+TIMissionModifier_MyFactionLoyaltyMonitor.displayName=Sadakat Izleme Implantimiz
+TIMissionModifier_AlienDetainDifficulty.displayName=Yabanci
+TIMissionModifier_NationalRivalries.displayName=Rakiplerde Kontrol Noktalari
+TIMissionModifier_InsufficientCPMaintenance_Attacker.displayName=Saldiran Tarafin Kontrol Noktasi Kapasitesi Asildi
+TIMissionModifier_InsufficientCPMaintenance_Defender.displayName=Hedef Tarafin Kontrol Noktasi Kapasitesi Asildi
+TIMissionModifier_EnthrallScience.displayName=Konsey {0} Xenoloji Arastirmasindan
+TIMissionModifier_DecommissioningHab.displayName=Degisim Görmüs Hab
+TIMissionModifier_AlienCoordination.displayName=Proxy Destek
+TIMissionModifier_NationSizeEnthrallDifficulty.displayName=Ulus Büyüklügü
+TIMissionModifier_ConditionalEnthrallDefendedPoint.displayName=Çikarlari Koruma (Kismi Savunma)
+TIMissionModifier_AttackerMissionControlShortage.displayName=Misyon Kontrol Kitligi
+TIMissionModifier_DefenderMissionControlShortage.displayName=Misyon Kontrol Kitligi
+TIMissionModifier_HabStability.displayName=Stabilite Saglayan Modüller
+
+TIMissionCondition_GenericFail=Bu görev için geçersiz hedef
+TIMissionCondition_AvailableControlPoint=Ulus açik kontrol noktalarina sahip degil
+TIMissionCondition_AvailableControlPoint2=Yürütme Kontrol Noktasini aramak için birden fazla Kontrol Noktasi bulunan ulusta zaten bir Kontrol Noktaniz olmali
+TIMissionCondition_VulnerableControlPoint=Yürütme Kontrol Noktasini saldirmak için birden fazla Kontrol Noktasi bulunan ulusta zaten bir Kontrol Noktaniz olmali
+TIMissionCondition_TargetInRange=Konsey üyesi hedefe ulasamiyor
+TIMissionCondition_EnemyCouncilor=Düsman konsey üyesi degil
+TIMissionCondition_EnemyOrTurnedCouncilor=Görev için geçersiz hedef konsey üyesi
+TIMissionCondition_ExtractionTarget2=Bizim çevirdigimiz konsey üyesi degil
+TIMissionCondition_ExtractionTarget=Bizim gözaltina aldigimiz konsey üyesi degil
+TIMissionCondition_CouncilorHasKnownOrgs=Alinacak orglari olan geçerli hedef degil
+TIMissionCondition_AnyCouncilorwithUnknowns2=Geçersiz konsey üyesi hedef
+TIMissionCondition_AnyCouncilorwithUnknowns=Konsey üyesi tam olarak incelendi
+TIMissionCondition_TurnableEnemyCouncilor=Çevrilebilecek düsman konsey üyesi degil
+TIMissionCondition_TurnableEnemyCouncilor2=Hedef veya onlarin fraksiyonu zaten tehlikeye girmis
+TIMissionCondition_MyFactionCouncilor=Bizim konsey üyemiz degil
+TIMissionCondition_TurnedEnemyCouncilor=Bizim ajanimiz degil
+TIMissionCondition_FreeCouncilSlot=Konseyde açik pozisyon yok
+TIMissionCondition_HasSpaceFacility=Hedef alinacak uzay tesisi yok
+TIMissionCondition_DetainTarget=Hedef bireyi yakalayamaz veya tutamazsiniz
+TIMissionCondition_EnemySpaceAsset=Düsman uzay varligi degil
+TIMissionCondition_EnemyHumanSpaceAsset=Düsman insan uzay varligi degil
+TIMissionCondition_SpaceAssetNotInTransfer=Geçersiz hedef
+TIMissionCondition_SpaceAssetNotInTransfer2=Filo tasinirken mümkün degil
+TIMissionCondition_NationHasEnemyControlPoint=Hedef ulusun tamamen kontrolü bizde
+TIMissionCondition_NotSubmitControlPoint=Insan destekçilerimiz hedef Kontrol Noktasini zaten ele geçirdi
+TIMissionCondition_NotAppeaseControlPoint=Insan müttefiklerimiz hedef Kontrol Noktasini zaten ele geçirdi
+TIMissionCondition_NotAlienControlPoint=Yabanci kontrol noktalari bu yetenek için uygun hedefler degil
+TIMissionCondition_BasicCouncilorIntel=Bu görev için yeterli bilgiye sahip degiliz
+TIMissionCondition_DefendableAsset=Hedef ulusta Crackdown etkisinden etkilenmeyen en az bir kontrol noktasina sahip olmaliyiz
+TIMissionCondition_ScannableObjectWithMyControlPoints1=Hedef konumda kontrol noktamiz yok
+TIMissionCondition_ScannableObjectWithMyControlPoints2=Bizim habimiz degil
+TIMissionCondition_ScannableObjectWithMyControlPoints3=Bizim filomuz degil
+TIMissionCondition_ExecutiveControl=Yürütme kontrol noktasi olmadan politika belirlenemez
+TIMissionCondition_MinimumGlobalAbductions_HigherValue=Bu görevi üstlenebilmek için daha fazla insan kaçirmamiz gerekiyor
+TIMissionCondition_MinimumGlobalAbductions_LowerValue=Bu görevi üstlenebilmek için daha fazla insan kaçirmamiz gerekiyor
+TIMissionCondition_ProtectTarget=Hedef bizim olmali
+TIMissionCondition_CouncilorOnEarth=Konsey üyesi Dünya'da olmali
+TIMissionCondition_CanConstructFacility=Bölgeden zaten bir tesis var
+TIMissionCondition_CanConstructFacility1=Bu görevi gerçeklestirebilmek için yabancilarla diplomatik iliskilerimiz olmali
+TIMissionCondition_CanConstructFacility2=Bölgedeki tüm Kontrol Noktalarina sahip olmaliyiz, yeterli önceden kaçirma yapilmis olmali ve bölge isgal altinda olmamalidir
+TIMissionCondition_AssassinationTarget=Müttefiklerimizi hedef alamayiz
+TIMissionCondition_AlienFacilityInNation=Bu ulusta bir Hydra arastirma tesisi gereklidir
+TIMissionCondition_HumanFactionsPermitControl=Yabancilara toprak birakmaya istekli fraksiyonlarin toplam kontrolü arti yürütme kontrolüne sahip olmamiz gerekiyor
+TIMissionCondition_MinimumUnrest=Hedef ulusta hiçbir huzursuzluk olmamali
+TIMissionCondition_FactionHasStealableProjects=Fraksiyonun çalabilecegimiz projeleri yok
+TIMissionCondition_HasSpySlot=Ekstra casuslar için kapasite yok
+TIMissionCondition_FactionHasVulnerableProjects=Hedefin sabote edilecek projeleri yok
+TIMissionCondition_CanLaunchToOrbit=Konsey üyesi Dünya'da veya bir üsde olmali
+TIMissionCondition_AllowedOrbitTarget=Hedef yörüngesi, firlatma noktasinin menzilinde olmali
+TIMissionCondition_CanTransfer=Konsey üyesi yörüngede veya bir hab sitesinde olmali
+TIMissionCondition_AllowedTransferTarget=Transfer hedefi menzil içinde olmali
+TIMissionCondition_CanDeorbit=Konsey üyesi bir ara yörüngede veya Dünya-Luna Sistemi içinde olmali
+TIMissionCondition_AllowedDeorbitTarget=Deorbit hedefi menzil içinde olmali
+TIMissionCondition_ContactableTarget=Bu konsey üyesini bir Iletisim görevi ile hedef alamiyoruz
+TIMissionCondition_ContactableTarget2=Kendi konsey üyemizi bir Iletisim görevi ile hedef alamiyoruz
+TIMissionCondition_ContactableTarget3=Bu fraksiyon iletisim girisimlerimizi yok sayiyor
+TIMissionCondition_SeizeSpaceAssetTroopsPresent=Görevi yürütmek için savas birimleri mevcut degil
+TIMissionCondition_SeizeSpaceAssetTargetInRange=Yerel savas birimleri hedefe ulasamiyor
+TIMissionCondition_TerrorizeVulnerableControlPoint=Kontrol Noktasi zaten sadik veya çok iyi savunulmus
+TIMissionCondition_HasIntelOnCouncilorSecrets=Hedef konsey üyesinin yetersiz arastirmasi
+TIMissionCondition_HumanControlPoint=Bu görevle yabanci kontrolü hedef alamiyoruz
+TIMissionCondition_HumanNation=Bu görevle yabanci ulusu hedef alamiyoruz
+TIMissionCondition_Human=Konsey üyesi insan degil
+TIMissionCondition_EnthrallableControlPoint=Destekçilerimizin hedef Yürütme Kontrol Noktasini saldirmak için zaten birden fazla Kontrol Noktasi bulunan ulusta bir Kontrol Noktasina sahip olmalari gerekiyor
+TIMissionCondition_EnemyControlPointsInNation=Ulusta en az bir bizim olmayan kontrol noktasi olmali
+TIMissionCondition_SentinelModulesActive=Dünya ara yörüngesinde en az bir Sentinel modülü aktif olmali
+TIMissionCondition_VictoryCondition=Fraksiyon tüm zafer kosullarini yerine getirmeli
+TIMissionCondition_SufficientMissionControl=Yeterli misyon kontrolü olmali
+TIMissionCondition_FreeCouncilor=Hedeflenen konsey üyesi gözaltinda veya baska bir sekilde pasif olmamali
+TIMissionCondition_TargetableHabModule=Hedeflenen modül düsman temel modülü olmali
+
+TIMissionTargeting_NoTarget=Hedef Yok
+TIMissionTargeting_InvalidTarget={0}<br/>Geçersiz Hedef																// Hedef ID'si
+
+TIMissionResult_ExecutiveControlChange=Bu ulus üzerindeki yürütme gücü artik {0}'ya ait.
+
+TIMission.Timing.0=Bu görev atandiktan hemen sonra çözüme kavusturulacak.
+TIMission.Timing.1=Bu görev, çözüm asamasinin baslarinda çözüme kavusturulacak.
+TIMission.Timing.2=Bu görev, çözüm asamasinin ortasinda çözüme kavusturulacak.
+TIMission.Timing.3=Bu görev, çözüm asamasinin sonlarinda çözüme kavusturulacak.
+TIMission.Timing.4=Bu görev, çözüm asamasinin sonunda çözüme kavusturulacak.
+TIMission.Timing.5=Bu görev, diger tüm görevlerden sonra çözüme kavusturulacak.
+
+TIMission_AttackerModifiers=<h>Konsey Üyesi Modifikatörleri</h>
+TIMission_DefenderModifiers=<h>Hedef Modifikatörleri</h>

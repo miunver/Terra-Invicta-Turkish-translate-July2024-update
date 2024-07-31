@@ -1,0 +1,16 @@
+UI.Council.RecruitButton=Eleman Al
+UI.Council.CouncilNameCouncil={0} Konseyi							// Council Name
+UI.Council.ReservedForTurned=Bu slot, tarafimiza cektigimiz dusman konsey uyesini gosterecek.
+UI.Council.CouncilSize5=Besinci bir meclis uyesini ise almak icin Gizli Hucreler projesini gelistirmeliyiz.
+UI.Council.CouncilSize6=Altinci bir meclis uyesini ise almak icin Gizli Operasyonlar projesini gelistirmeliyiz.
+UI.CouncilRecruiting.ConfirmRecruitDialog={0}, {1} icin ise alinsin mi?		// Councilor Name, Cost
+UI.Council.RecruitingHeader=Ise alma
+UI.CouncilView.UnknownObjective=Bilinmeyen Amac
+UI.CouncilView.UndefinedVictoryCondition=Henuz fraksiyon tarafindan bilinmiyor
+UI.Council.LeaderFullName={0} {1}													// leader title, leader full name
+UI.Council.Candidates=Adaylar
+UI.Council.RecruitCandidateButton=Ise al
+UI.Council.SellOrg=Organizasyonu Sat
+UI.Council.PurchaseOrg=Organizasyonu Satin al
+UI.Council.EquipOrg=Organizasyonu Donat
+UI.Council.UnequipOrg=Organizasyonu Cikar

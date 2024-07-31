@@ -1,0 +1,306 @@
+TILaserWeaponTemplate.displayName.PointDefenseLaserTurret=Nokta Savunma Lazer Kulesi
+TILaserWeaponTemplate.description.PointDefenseLaserTurret=Gelen mermileri düsürebilen kisa menzilli bir infrared lazer.
+
+TILaserWeaponTemplate.displayName.60cmIRLaserBattery=60 cm Infrared Lazer Bataryasi
+TILaserWeaponTemplate.description.60cmIRLaserBattery=Küçük, kuleli kisa menzilli infrared savas lazeri.
+
+TILaserWeaponTemplate.displayName.120cmIRLaserBattery=120 cm Infrared Lazer Bataryasi
+TILaserWeaponTemplate.description.120cmIRLaserBattery=Orta boy, kuleli kisa menzilli infrared savas lazeri.
+
+TILaserWeaponTemplate.displayName.360cmIRLaserBattery=360 cm Infrared Lazer Bataryasi
+TILaserWeaponTemplate.description.360cmIRLaserBattery=Büyük, kuleli kisa menzilli infrared savas lazeri.
+
+TILaserWeaponTemplate.displayName.240cmIRLaserCannon=240 cm Infrared Lazer Topu
+TILaserWeaponTemplate.description.240cmIRLaserCannon=Küçük, kisa menzilli infrared lazer topu, çogu gemi tasarimimiza monte edilebilir.
+
+TILaserWeaponTemplate.displayName.480cmIRLaserCannon=480 cm Infrared Lazer Topu
+TILaserWeaponTemplate.description.480cmIRLaserCannon=Orta boy, kisa menzilli infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmIRLaserCannon=720 cm Infrared Lazer Topu
+TILaserWeaponTemplate.description.720cmIRLaserCannon=Büyük, kisa menzilli infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmIRLaserCannon=960 cm Infrared Lazer Topu
+TILaserWeaponTemplate.description.960cmIRLaserCannon=Dev infrared lazer topu, sadece en büyük gemilerimiz için uygundur.
+
+TILaserWeaponTemplate.displayName.PointDefenseArcLaserTurret=Nokta Savunma Yay Lazer Kulesi
+TILaserWeaponTemplate.description.PointDefenseArcLaserTurret=Gelen mermilere karsi savunmak için tasarlanmis gelistirilmis infrared lazer.
+
+TILaserWeaponTemplate.displayName.60cmIRArcLaserBattery=60 cm Infrared Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.60cmIRArcLaserBattery=Gelistirilmis küçük infrared lazer kulesi.
+
+TILaserWeaponTemplate.displayName.120cmIRArcLaserBattery=120 cm Infrared Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.120cmIRArcLaserBattery=Gelistirilmis orta boy infrared lazer kulesi.
+
+TILaserWeaponTemplate.displayName.360cmIRArcLaserBattery=360 cm Infrared Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.360cmIRArcLaserBattery=Büyük, gelistirilmis infrared lazer kulesi.
+
+TILaserWeaponTemplate.displayName.240cmIRArcLaserCannon=240 cm Infrared Yay Lazer Topu
+TILaserWeaponTemplate.description.240cmIRArcLaserCannon=Gelistirilmis küçük infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.480cmIRArcLaserCannon=480 cm Infrared Yay Lazer Topu
+TILaserWeaponTemplate.description.480cmIRArcLaserCannon=Orta boy gemilerimiz için uygun gelistirilmis infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmIRArcLaserCannon=720 cm Infrared Yay Lazer Topu
+TILaserWeaponTemplate.description.720cmIRArcLaserCannon=Büyük, gelistirilmis infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmIRArcLaserCannon=960 cm Infrared Yay Lazer Topu
+TILaserWeaponTemplate.description.960cmIRArcLaserCannon=Dev gelistirilmis infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.PointDefensePhaserTurret=Nokta Savunma Fazli Dizi Lazer Kulesi
+TILaserWeaponTemplate.description.PointDefensePhaserTurret=Gelen mermilere karsi gemilerimizi korumak için uygun gelismis bir fazli dizi lazer.
+
+TILaserWeaponTemplate.displayName.60cmIRPhaserBattery=60 cm Infrared Fazli Dizi Batarya
+TILaserWeaponTemplate.description.60cmIRPhaserBattery=Infrared frekansta ates eden küçük bir fazli dizi lazer kulesi.
+
+TILaserWeaponTemplate.displayName.120cmIRPhaserBattery=120 cm Infrared Fazli Dizi Batarya
+TILaserWeaponTemplate.description.120cmIRPhaserBattery=Infrared frekansta çalisan orta boy bir fazli dizi lazer kulesi.
+
+TILaserWeaponTemplate.displayName.360cmIRPhaserBattery=360 cm Infrared Fazli Dizi Batarya
+TILaserWeaponTemplate.description.360cmIRPhaserBattery=Büyük fazli dizi infrared lazer kulesi, en büyük uzay araçlarimiz için uygun.
+
+TILaserWeaponTemplate.displayName.240cmIRPhaserCannon=240 cm Infrared Fazli Dizi Topu
+TILaserWeaponTemplate.description.240cmIRPhaserCannon=Gemilerimizin burun kismina monte edilebilecek bir fazli dizi infrared lazer.
+
+TILaserWeaponTemplate.displayName.480cmIRPhaserCannon=480 cm Infrared Fazli Dizi Topu
+TILaserWeaponTemplate.description.480cmIRPhaserCannon=Orta boy veya daha büyük uzay araçlari için uygun fazli dizi infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmIRPhaserCannon=720 cm Infrared Fazli Dizi Topu
+TILaserWeaponTemplate.description.720cmIRPhaserCannon=Büyük fazli dizi infrared lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmIRPhaserCannon=960 cm Infrared Fazli Dizi Topu
+TILaserWeaponTemplate.description.960cmIRPhaserCannon=Dev fazli dizi lazer topu, infrared frekansta ates eder ve en büyük gemilerimiz için uygundur.
+
+TILaserWeaponTemplate.displayName.60cmGreenLaserBattery=60 cm Yesil Lazer Bataryasi
+TILaserWeaponTemplate.description.60cmGreenLaserBattery=Görünür dalga boylarinda ates eden küçük bir lazer kulesi, infrared lazerlerden daha fazla menzil sunar.
+
+TILaserWeaponTemplate.displayName.120cmGreenLaserBattery=120 cm Yesil Lazer Bataryasi
+TILaserWeaponTemplate.description.120cmGreenLaserBattery=Görünür dalga boylarinda ates eden lazer kulesi, orta boy veya daha büyük savas araçlari için uygundur.
+
+TILaserWeaponTemplate.displayName.360cmGreenLaserBattery=360 cm Yesil Lazer Bataryasi
+TILaserWeaponTemplate.description.360cmGreenLaserBattery=Görünür dalga boylarinda ates eden büyük lazer kulesi, en büyük uzay araçlarimiz için uygundur.
+
+TILaserWeaponTemplate.displayName.240cmGreenLaserCannon=240 cm Yesil Lazer Topu
+TILaserWeaponTemplate.description.240cmGreenLaserCannon=Görünür dalga boylarinda ates eden küçük bir lazer topu, çogu gemimizin burun kismina monte edilebilir.
+
+TILaserWeaponTemplate.displayName.480cmGreenLaserCannon=480 cm Yesil Lazer Topu
+TILaserWeaponTemplate.description.480cmGreenLaserCannon=Görünür dalga boylarinda ates eden orta boy lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmGreenLaserCannon=720 cm Yesil Lazer Topu
+TILaserWeaponTemplate.description.720cmGreenLaserCannon=Görünür dalga boylarinda ates eden büyük lazer topu, ideal bombardiman silahidir.
+
+TILaserWeaponTemplate.displayName.960cmGreenLaserCannon=960 cm Yesil Lazer Topu
+TILaserWeaponTemplate.description.960cmGreenLaserCannon=Görünür dalga boylarinda ates eden dev lazer topu, sadece en büyük uzay araçlarina monte edilebilir.
+
+TILaserWeaponTemplate.displayName.60cmGreenArcLaserBattery=60 cm Yesil Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.60cmGreenArcLaserBattery=Görünür dalga boylarinda ates eden küçük, gelistirilmis lazer kulesi.
+
+TILaserWeaponTemplate.displayName.120cmGreenArcLaserBattery=120 cm Yesil Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.120cmGreenArcLaserBattery=Görünür dalga boylarinda ates eden lazer yay kulesi.
+
+TILaserWeaponTemplate.displayName.360cmGreenArcLaserBattery=360 cm Yesil Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.360cmGreenArcLaserBattery=Görünür dalga boylarinda ates eden büyük yay lazer kulesi.
+
+TILaserWeaponTemplate.displayName.240cmGreenArcLaserCannon=240 cm Yesil Yay Lazer Topu
+TILaserWeaponTemplate.description.240cmGreenArcLaserCannon=Görünür dalga boylarinda ates eden küçük yay lazer topu.
+
+TILaserWeaponTemplate.displayName.480cmGreenArcLaserCannon=480 cm Yesil Yay Lazer Topu
+TILaserWeaponTemplate.description.480cmGreenArcLaserCannon=Görünür frekansta ates eden bir yay lazer topu, orta boy veya daha büyük uzay araçlarina monte edilebilir.
+
+TILaserWeaponTemplate.displayName.720cmGreenArcLaserCannon=720 cm Yesil Yay Lazer Topu
+TILaserWeaponTemplate.description.720cmGreenArcLaserCannon=Görünür frekansta ates eden büyük yay lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmGreenArcLaserCannon=960 cm Yesil Yay Lazer Topu
+TILaserWeaponTemplate.description.960cmGreenArcLaserCannon=Görünür frekansta ates eden dev yay lazer topu, en büyük savas araçlarina monte edilebilir.
+
+TILaserWeaponTemplate.displayName.60cmGreenPhaserBattery=60 cm Yesil Fazli Dizi Batarya
+TILaserWeaponTemplate.description.60cmGreenPhaserBattery=Görünür frekansta ates eden küçük bir fazli dizi lazer kulesi.
+
+TILaserWeaponTemplate.displayName.120cmGreenPhaserBattery=120 cm Yesil Fazli Dizi Batarya
+TILaserWeaponTemplate.description.120cmGreenPhaserBattery=Görünür frekansta ates eden fazli dizi lazer kulesi.
+
+TILaserWeaponTemplate.displayName.360cmGreenPhaserBattery=360 cm Yesil Fazli Dizi Batarya
+TILaserWeaponTemplate.description.360cmGreenPhaserBattery=Görünür frekansta ates eden büyük fazli dizi lazer kulesi.
+
+TILaserWeaponTemplate.displayName.240cmGreenPhaserCannon=240 cm Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.description.240cmGreenPhaserCannon=Görünür dalga boylarinda ates eden küçük fazli dizi lazer topu.
+
+TILaserWeaponTemplate.displayName.480cmGreenPhaserCannon=480 cm Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.description.480cmGreenPhaserCannon=Görünür frekansta ates eden fazli dizi lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmGreenPhaserCannon=720 cm Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.description.720cmGreenPhaserCannon=540 nanometre dalga boyunda (görünür band) ates eden büyük fazli dizi lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmGreenPhaserCannon=960 cm Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.description.960cmGreenPhaserCannon=Görünür frekansta ates eden dev fazli dizi lazer topu, en büyük gemilerimiz için uygundur.
+
+TILaserWeaponTemplate.displayName.60cmUVLaserBattery=60 cm Ultraviyole Lazer Bataryasi
+TILaserWeaponTemplate.description.60cmUVLaserBattery=Ultraviyole frekansta ates eden küçük lazer kulesi, görünür frekansta veya infrared lazerlerden daha yüksek vurma gücüne sahiptir.
+
+TILaserWeaponTemplate.displayName.120cmUVLaserBattery=120 cm Ultraviyole Lazer Bataryasi
+TILaserWeaponTemplate.description.120cmUVLaserBattery=Orta boy veya daha büyük uzay araçlarina monte edilebilecek ultraviyole lazer kulesi.
+
+TILaserWeaponTemplate.displayName.360cmUVLaserBattery=360 cm Ultraviyole Lazer Bataryasi
+TILaserWeaponTemplate.description.360cmUVLaserBattery=Ultraviyole frekansta ates eden büyük lazer kulesi, en büyük savas gemilerimizde monte edilebilir.
+
+TILaserWeaponTemplate.displayName.240cmUVLaserCannon=240 cm Ultraviyole Lazer Topu
+TILaserWeaponTemplate.description.240cmUVLaserCannon=Tehlikeli ultraviyole frekansta ates eden küçük burun monteli lazer topu.
+
+TILaserWeaponTemplate.displayName.480cmUVLaserCannon=480 cm Ultraviyole Lazer Topu
+TILaserWeaponTemplate.description.480cmUVLaserCannon=Ultraviyole frekansta ates edebilen bir burun monteli lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmUVLaserCannon=720 cm Ultraviyole Lazer Topu
+TILaserWeaponTemplate.description.720cmUVLaserCannon=Ultraviyole dalga boylarinda ates eden büyük burun monteli lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmUVLaserCannon=960 cm Ultraviyole Lazer Topu
+TILaserWeaponTemplate.description.960cmUVLaserCannon=Ölümcül ultraviyole frekansta ates eden dev burun monteli lazer silahi.
+
+TILaserWeaponTemplate.displayName.60cmUVArcLaserBattery=60 cm Ultraviyole Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.60cmUVArcLaserBattery=Zararli ultraviyole bandinda ates eden küçük, gelismis yay lazer kulesi.
+
+TILaserWeaponTemplate.displayName.120cmUVArcLaserBattery=120 cm Ultraviyole Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.120cmUVArcLaserBattery=Tehlikeli ultraviyole bandinda ates eden gelismis bir yay lazer kulesi.
+
+TILaserWeaponTemplate.displayName.360cmUVArcLaserBattery=360 cm Ultraviyole Yay Lazer Bataryasi
+TILaserWeaponTemplate.description.360cmUVArcLaserBattery=Ultraviyole dalga boylarinda ates eden büyük bir yay lazer kulesi.
+
+TILaserWeaponTemplate.displayName.240cmUVArcLaserCannon=240 cm Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.description.240cmUVArcLaserCannon=Çogu savas gemimizin burun kismina monte edilebilecek küçük ultraviyole yay lazer sistemi.
+
+TILaserWeaponTemplate.displayName.480cmUVArcLaserCannon=480 cm Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.description.480cmUVArcLaserCannon=Ölümcül ultraviyole frekansta ates eden gelismis burun monteli lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmUVArcLaserCannon=720 cm Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.description.720cmUVArcLaserCannon=270 nanometre dalga boyunda düsmanlarimiza aci veren bir lazer topu.
+
+TILaserWeaponTemplate.displayName.960cmUVArcLaserCannon=960 cm Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.description.960cmUVArcLaserCannon=Neredeyse yirmi metre genisliginde optiklere sahip dev UV lazer topu, büyük menzillerde zarar verebilir.
+
+TILaserWeaponTemplate.displayName.60cmUVPhaserBattery=60 cm Ultraviyole Fazli Dizi Batarya
+TILaserWeaponTemplate.description.60cmUVPhaserBattery=Ultraviyole bandinda ates eden küçük ama güçlü fazli dizi lazer kulesi.
+
+TILaserWeaponTemplate.displayName.120cmUVPhaserBattery=120 cm Ultraviyole Fazli Dizi Batarya
+TILaserWeaponTemplate.description.120cmUVPhaserBattery=2.4 metre çapinda optiklere sahip en güçlü lazer sistemi.
+
+TILaserWeaponTemplate.displayName.360cmUVPhaserBattery=360 cm Ultraviyole Fazli Dizi Batarya
+TILaserWeaponTemplate.description.360cmUVPhaserBattery=Ultraviyole frekansta ates eden büyük kuleli fazli dizi lazer.
+
+TILaserWeaponTemplate.displayName.240cmUVPhaserCannon=240 cm Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.description.240cmUVPhaserCannon=Küçük fakat etkili bir fazli dizi lazer topu.
+
+TILaserWeaponTemplate.displayName.480cmUVPhaserCannon=480 cm Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.description.480cmUVPhaserCannon=Tehlikeli ultraviyole bandinda ates eden güçlü burun monteli fazli dizi lazer topu.
+
+TILaserWeaponTemplate.displayName.720cmUVPhaserCannon=720 cm Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.description.720cmUVPhaserCannon=Büyük gemilerimizin burun kismina monte edilebilecek son derece güçlü fazli dizi lazer sistemi.
+
+TILaserWeaponTemplate.displayName.960cmUVPhaserCannon=960 cm Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.description.960cmUVPhaserCannon=Gelistirilmis en büyük ve en güçlü lazerimiz, muazzam menzillerde büyük hasar verebilir. Yalnizca en büyük gemilerimizde monte edilebilir.
+
+TILaserWeaponTemplate.displayName.AlienPointDefenseLaserTurret=Yerli Nokta Savunma Lazer Kulesi
+TILaserWeaponTemplate.description.AlienPointDefenseLaserTurret=Küçük bir uzayli lazer silahi.
+
+TILaserWeaponTemplate.displayName.Alien64cmOrangeLaserBattery=Yerli 64 cm Turuncu Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien64cmOrangeLaserBattery=Küçük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien128cmOrangeLaserBattery=Yerli 128 cm Turuncu Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien128cmOrangeLaserBattery=Bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien384cmOrangeLaserBattery=Yerli 384 cm Turuncu Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien384cmOrangeLaserBattery=Büyük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien256cmOrangeLaserCannon=Yerli 256 cm Turuncu Lazer Topu
+TILaserWeaponTemplate.description.Alien256cmOrangeLaserCannon=Küçük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien512cmOrangeLaserCannon=Yerli 512 cm Turuncu Lazer Topu
+TILaserWeaponTemplate.description.Alien512cmOrangeLaserCannon=Bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien768cmOrangeLaserCannon=Yerli 768 cm Turuncu Lazer Topu
+TILaserWeaponTemplate.description.Alien768cmOrangeLaserCannon=Büyük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien1024cmOrangeLaserCannon=Yerli 1024 cm Turuncu Lazer Topu
+TILaserWeaponTemplate.description.Alien1024cmOrangeLaserCannon=Dev bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien64cmVioletLaserBattery=Yerli 64 cm Menekse Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien64cmVioletLaserBattery=Küçük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien128cmVioletLaserBattery=Yerli 128 cm Menekse Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien128cmVioletLaserBattery=Bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien384cmVioletLaserBattery=Yerli 384 cm Menekse Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien384cmVioletLaserBattery=Büyük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien256cmVioletLaserCannon=Yerli 256 cm Menekse Lazer Topu
+TILaserWeaponTemplate.description.Alien256cmVioletLaserCannon=Küçük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien512cmVioletLaserCannon=Yerli 512 cm Menekse Lazer Topu
+TILaserWeaponTemplate.description.Alien512cmVioletLaserCannon=Bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien768cmVioletLaserCannon=Yerli 768 cm Menekse Lazer Topu
+TILaserWeaponTemplate.description.Alien768cmVioletLaserCannon=Büyük bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien1024cmVioletLaserCannon=Yerli 1024 cm Menekse Lazer Topu
+TILaserWeaponTemplate.description.Alien1024cmVioletLaserCannon=Dev bir uzayli yönlendirilmis enerji silahi.
+
+TILaserWeaponTemplate.displayName.Alien384cmXaserBattery=Yerli 384 cm X-Isini Lazer Bataryasi
+TILaserWeaponTemplate.description.Alien384cmXaserBattery=Gelismis bir uzayli lazer silahi.
+
+TILaserWeaponTemplate.displayName.Alien256cmXaserCannon=Yerli 256 cm X-Isini Lazer Topu
+TILaserWeaponTemplate.description.Alien256cmXaserCannon=Küçük gelismis bir uzayli lazer topu.
+
+TILaserWeaponTemplate.displayName.Alien512cmXaserCannon=Yerli 512 cm X-Isini Lazer Topu
+TILaserWeaponTemplate.description.Alien512cmXaserCannon=Gelismis bir uzayli lazer topu.
+
+TILaserWeaponTemplate.displayName.Alien768cmXaserCannon=Yerli 768 cm X-Isini Lazer Topu
+TILaserWeaponTemplate.description.Alien768cmXaserCannon=Büyük gelismis bir uzayli lazer topu.
+
+TILaserWeaponTemplate.displayName.Alien1024cmXaserCannon=Yerli 1024 cm X-Isini Lazer Topu
+TILaserWeaponTemplate.description.Alien1024cmXaserCannon=Dev gelismis bir uzayli lazer topu.
+
+TILaserWeaponTemplate.displayName.Alien768cmGraserCannon=Yerli 768 cm Gamma Isini Lazer Topu
+TILaserWeaponTemplate.description.Alien768cmGraserCannon=Büyük, egzotik bir uzayli lazer topu.
+
+TILaserWeaponTemplate.displayName.Alien1024cmGraserCannon=Yerli 1024 cm Gamma Isini Lazer Topu
+TILaserWeaponTemplate.description.Alien1024cmGraserCannon=Dev, egzotik bir uzayli lazer topu.
+
+TILaserWeaponTemplate.displayName.RegionDefenseIRLaser=Yüzeyden-Orbita Kizilötesi Lazer Dizisi
+TILaserWeaponTemplate.displayName.RegionDefenseGreenLaser=Yüzeyden-Orbita Yesil Lazer Dizisi
+TILaserWeaponTemplate.displayName.RegionDefenseIRArcLaser=Yüzeyden-Orbita Kizilötesi Yay Lazer Dizisi
+TILaserWeaponTemplate.displayName.RegionDefenseGreenArcLaser=Yüzeyden-Orbita Yesil Yay Lazer Dizisi
+TILaserWeaponTemplate.displayName.RegionDefenseIRPhaser=Yüzeyden-Orbita Kizilötesi Fazli Dizi
+TILaserWeaponTemplate.displayName.RegionDefenseGreenPhaser=Yüzeyden-Orbita Yesil Fazli Dizi
+TILaserWeaponTemplate.displayName.T1BaseIRLaser=Küçük Yüzeyden-Orbita Kizilötesi Lazer Topu
+TILaserWeaponTemplate.displayName.T1BaseGreenLaser=Küçük Yüzeyden-Orbita Yesil Lazer Topu
+TILaserWeaponTemplate.displayName.T1BaseUVLaser=Küçük Yüzeyden-Orbita Ultraviyole Lazer Topu
+TILaserWeaponTemplate.displayName.T1BaseIRArcLaser=Küçük Yüzeyden-Orbita Kizilötesi Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T1BaseGreenArcLaser=Küçük Yüzeyden-Orbita Yesil Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T1BaseUVArcLaser=Küçük Yüzeyden-Orbita Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T1BaseIRPhaser=Küçük Yüzeyden-Orbita Kizilötesi Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T1BaseGreenPhaser=Küçük Yüzeyden-Orbita Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T1BaseUVPhaser=Küçük Yüzeyden-Orbita Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T2BaseIRLaser=Büyük Yüzeyden-Orbita Kizilötesi Lazer Topu
+TILaserWeaponTemplate.displayName.T2BaseGreenLaser=Büyük Yüzeyden-Orbita Yesil Lazer Topu
+TILaserWeaponTemplate.displayName.T2BaseUVLaser=Büyük Yüzeyden-Orbita Ultraviyole Lazer Topu
+TILaserWeaponTemplate.displayName.T2BaseIRArcLaser=Büyük Yüzeyden-Orbita Kizilötesi Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T2BaseGreenArcLaser=Büyük Yüzeyden-Orbita Yesil Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T2BaseUVArcLaser=Büyük Yüzeyden-Orbita Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T2BaseIRPhaser=Büyük Yüzeyden-Orbita Kizilötesi Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T2BaseGreenPhaser=Büyük Yüzeyden-Orbita Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T2BaseUVPhaser=Büyük Yüzeyden-Orbita Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T3BaseIRLaser=Dev Yüzeyden-Orbita Kizilötesi Lazer Topu
+TILaserWeaponTemplate.displayName.T3BaseGreenLaser=Dev Yüzeyden-Orbita Yesil Lazer Topu
+TILaserWeaponTemplate.displayName.T3BaseUVLaser=Dev Yüzeyden-Orbita Ultraviyole Lazer Topu
+TILaserWeaponTemplate.displayName.T3BaseIRArcLaser=Dev Yüzeyden-Orbita Kizilötesi Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T3BaseGreenArcLaser=Dev Yüzeyden-Orbita Yesil Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T3BaseUVArcLaser=Dev Yüzeyden-Orbita Ultraviyole Yay Lazer Topu
+TILaserWeaponTemplate.displayName.T3BaseIRPhaser=Dev Yüzeyden-Orbita Kizilötesi Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T3BaseGreenPhaser=Dev Yüzeyden-Orbita Yesil Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.T3BaseUVPhaser=Dev Yüzeyden-Orbita Ultraviyole Fazli Dizi Topu
+TILaserWeaponTemplate.displayName.AlienRegionDefenseLaser=Yüzeyden-Orbita Uzayli Lazer Dizisi
+TILaserWeaponTemplate.displayName.AlienT1BaseDefenseLaser=Küçük Yüzeyden-Orbita Uzayli Lazer Topu
+TILaserWeaponTemplate.displayName.AlienT2BaseDefenseLaser=Büyük Yüzeyden-Orbita Uzayli Lazer Topu
+TILaserWeaponTemplate.displayName.AlienT3BaseDefenseLaser=Dev Yüzeyden-Orbita Uzayli Lazer Topu
+
+TIBeamWeaponTemplate.Power=Temel Atis Gücü:<rcol>{0} MJ ({1} hasar)</rcol>
+TIBeamWeaponTemplate.PowerOnly=Temel Atis Gücü:<rcol>{0} MJ</rcol>
+TILaserWeaponTemplate.ArmorPiercingAtRange=Zirh Delme Etkinligi {0} km'de:<rcol>{1}</rcol>
+TILaserWeaponTemplate.Wavelength=Dalga Boyu:<rcol>{0} nm</rcol>

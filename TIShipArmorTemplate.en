@@ -1,0 +1,49 @@
+TIShipArmorTemplate.displayName.SteelArmor=Çelik Zirh
+TIShipArmorTemplate.description.SteelArmor=Köklü ve agir çelik zirh kaplamasi, gemilerimizin savasta hayatta kalma yetenegini artirir.
+TIShipArmorTemplate.displayName.TitaniumArmor=Titanyum Zirh
+TIShipArmorTemplate.description.TitaniumArmor=Isi ve darbe dirençli zirh, önemli bir maliyete sahiptir.
+TIShipArmorTemplate.displayName.SiliconCarbideArmor=Silisyum Karbür Zirh
+TIShipArmorTemplate.description.SiliconCarbideArmor=Silisyum ve karbon tozunun sinterlenmesiyle üretilen seramik zirh.
+TIShipArmorTemplate.displayName.BoronCarbideArmor=Bor Karbür Zirh
+TIShipArmorTemplate.description.BoronCarbideArmor=Karbon atmosferinde bor trioksidin indirgenmesiyle üretilen dayanikli "kara elmas" zirh.
+TIShipArmorTemplate.displayName.CompositeArmor=Kompozit Zirh
+TIShipArmorTemplate.description.CompositeArmor=Seramik ve metal katmanlarinin dönüsümlü olarak kullanildigi hafif ve genis kapsamli koruma saglar.
+TIShipArmorTemplate.displayName.FoamedMetalArmor=Köpüklü Metal Zirh
+TIShipArmorTemplate.description.FoamedMetalArmor=Düsük yogunluklu "köpüklü" titanyum ve diger alasimlar, seramik plakalarla kaplanmis olarak uzay gemilerimize hafif koruma saglar.
+TIShipArmorTemplate.displayName.NanotubeArmor=Nanotüp Zirh
+TIShipArmorTemplate.description.NanotubeArmor=Milyonlarca karbon nanotüpünün birlesimiyle üretilmis bir sonraki nesil zirh.
+TIShipArmorTemplate.displayName.AdamantaneArmor=Adamantin Zirh
+TIShipArmorTemplate.description.AdamantaneArmor=Gelismis diamantoinler, kinetik silahlara karsi saglam koruma vaadi sunar.
+TIShipArmorTemplate.displayName.ExoticArmor=Egzotik Zirh
+TIShipArmorTemplate.description.ExoticArmor=Uzayli alasimlar, ultra hafif savunma katmanlari seklinde sekillendirilmistir.
+TIShipArmorTemplate.displayName.HybridArmor=Hibrit Zirh
+TIShipArmorTemplate.description.HybridArmor=Egzotik tohumlu diamantoinler, daha önce düsünülemeyen koruma seviyeleri sunar.
+TIShipArmorTemplate.displayName.AlienAdamantaneArmor=Uzayli Diamondoid Zirh
+TIShipArmorTemplate.description.AlienAdamantaneArmor=Karbon manipülasyonuna dayanan bir Uzayli malzeme.
+TIShipArmorTemplate.displayName.AlienExoticArmor=Uzayli Egzotik Zirh
+TIShipArmorTemplate.description.AlienExoticArmor=Egzotik özelliklere sahip bir Uzayli malzeme.
+
+TIShipArmorTemplate.ResourcesPerTon=Ton Basina Maliyet:<rcol>{0}</rcol>
+TIShipArmorTemplate.KineticsResistance={0} kinetik hasara karsi bonus direnç
+TIShipArmorTemplate.LaserResistance={0} lazer hasarina karsi bonus direnç
+TIShipArmorTemplate.ChippingResistance={0} asinmaya karsi bonus direnç
+TIShipArmorTemplate.KineticsVulnerability=Kinetik silahlardan {0} ekstra hasar alir
+TIShipArmorTemplate.LaserVulnerability=Laserlerden {0} ekstra hasar alir
+TIShipArmorTemplate.ChippingVulnerability=Vuruslardan {0} ekstra zirh asinmasi yasar
+TIShipArmorTemplate.XRayResistance={0} çelikle karsilastirildiginda parçacik silahlarinin x-isinlarina karsi bonus direnç
+TIShipArmorTemplate.XRayVulnerability=Parçacik silahlarinin x-isinlarindan {0} ekstra hasar alir
+TIShipArmorTemplate.BaryonicResistance={0} parçacik silahlarinin nötronlarina karsi bonus direnç
+TIShipArmorTemplate.BaryonicVulnerability=Parçacik silahlarinin nötronlarindan {0} ekstra hasar alir
+
+TIShipArmorTemplate.ThicknessPerPoint=Her Nokta Basina Kalinlik:<rcol>{0} cm</rcol>
+
+TIShipArmorTemplate.NoseTailTonsPerPoint=Burun veya Kuyruk Zirhi Basina Kütle:<rcol>{0} ton</rcol>
+TIShipArmorTemplate.LateralTonsPerPoint=Yanal Zirh Basina Kütle:<rcol>{0} ton</rcol>
+
+TIShipArmorTemplate.MaxArmorThickness_Lateral=En Fazla Yanal Zirh Kalinligi:<rcol>{0} cm</rcol>
+TIShipArmorTemplate.MaxArmorThickness_Nose=En Fazla Burun Zirhi Kalinligi:<rcol>{0} cm</rcol>
+TIShipArmorTemplate.MaxArmorThickness_Tail=En Fazla Kuyruk Zirhi Kalinligi:<rcol>{0} cm</rcol>
+
+TIShipArmorTemplate.MaxArmorPoints_Lateral=En Fazla Yanal Zirh Noktasi:<rcol>{0}</rcol>
+TIShipArmorTemplate.MaxArmorPoints_Nose=En Fazla Burun Zirhi Noktasi:<rcol>{0}</rcol>
+TIShipArmorTemplate.MaxArmorPoints_Tail=En Fazla Kuyruk Zirhi Noktasi:<rcol>{0}</rcol>

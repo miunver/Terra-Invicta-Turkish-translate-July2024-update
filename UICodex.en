@@ -1,0 +1,350 @@
+UI.Codex.Title=Kodex
+UI.Codex.codex_welcome.Title=Giris
+UI.Codex.codex_welcome0=Bu kodex, Terra Invicta oyununu oynamaya dair bilgiler içerir. Oyun mekanigi detaylari için soldaki konulardan birini seçin.<br/><br/>Yeni konular, teknolojiler yeni mekanikler açtiginda zaman zaman görünebilir.<br/><br/>Oyunun arayüzlerinde nasil gezineceginize dair bilgi için, Bir Direnis olarak bir kampanya baslatip ögreticiyi aktif edin.
+UI.Codex.codex_factions.Title=Faksiyonlar
+UI.Codex.codex_factions0=Dünya'nin uzaylilarin gelisi konusunda kendi baslarina bir görüs birligine varamayan uluslari, örtük transnasyonal faksiyonlar tarafindan yönetilen küresel oyuncular haline gelmistir. Her biri, uzayli aktivitelerini Dünya'da ele almak için bir ideolojiye sahiptir. Bu faksiyonlar, amaçlarini ilerletmek için Dünya'nin hükümetlerine yatirim yapmayi ve onlari kontrol etmeyi hedefleyecektir. Siz bu faksiyonlardan birinin liderisiniz.
+UI.Codex.codex_factions1=Her faksiyonun iç liderlik çemberi, <h>konseyi</h> olusturur. Konsey üyeleri, Dünya'nin uluslari üzerinde güç kazanmaniza ve uzaylilarin Dünya üzerindeki amaçlarini kesfetmenize yardimci olmak için görevler yapacaklardir. Faksiyonlar ayrica <h>ordular</h> üzerinde de kontrol saglayabilirler ve hikaye ilerledikçe, uzayda <h>yasam alanlari</h> ve <h>filolar</h> insa edebilirler.
+UI.Codex.codex_factions2=Faksiyonlar, Terra Invicta'da tamamen ortadan kaldirilamazlar. Dünya'nin insanlarinin inançlarindan dogmuslardir. Insanlar etkilenebilir ve organizasyon yapilari kaldirilabilir, ancak fikirler tamamen yok olamaz. Önemli olan, bu ideolojilere sahip kisilerin ne kadar güce sahip oldugudur.
+UI.Codex.codex_objectives.Title=Hedefler
+UI.Codex.codex_objectives0=Kampanya sirasinda, her faksiyonun belirli bir zamanda yerine getirmesi gereken bir veya daha fazla hedefi olacaktir. Hedefleri tamamlamak, uzaylilarin ve onlarin Günes Sistemi'ndeki gerçek amaçlarinin bilgilerini ortaya çikarmaya yol açacaktir. Hedefler ayrica bir faksiyon için özel arastirma projeleri ve organizasyonlar da açabilir.
+UI.Codex.codex_resources.Title=Kaynaklar
+UI.Codex.codex_resources0=Faksiyonlar, Dünya'da ve kampanya ilerledikçe uzayda birkaç ana kaynagi yönetmelidir.
+UI.Codex.codex_resources1=Dünya kaynaklari çesitli kaynaklardan üretilir, ancak uzay kaynaklari (su, volatiller, metaller, degerli metaller ve fisil) yalnizca Dünya disindaki uzay cisimlerini madencilik teknolojisi gelistirilerek ve bunlari gerekli yerlere firlatmak için elektromanyetik katapultlar kullanilarak elde edilebilir.
+UI.Codex.codex_resources2=Okunabilirlik açisindan, Terra Invicta çok büyük veya çok küçük sayilarla birlikte alfabetik ekler kullanabilir, örnegin "10K". Büyük sayilar 1.000'den büyük olanlar için büyük harfler:
+UI.Codex.codex_resources3=K: Binler (1.000)
+UI.Codex.codex_resources4=M: Milyonlar (1.000.000)
+UI.Codex.codex_resources5=B: Milyarlar (1.000.000.000)
+UI.Codex.codex_resources6=T: Trilyonlar (1.000.000.000.000)
+UI.Codex.codex_resources7=Q: Kkatrilyonlar (1.000.000.000.000.000)
+UI.Codex.codex_resources8=Küçük harfler, 1'den küçük kesirli sayilar için kullanilir:
+UI.Codex.codex_resources9=m: mililitre- (.001)
+UI.Codex.codex_resources10=u: mikrolitre- (.000 001)
+UI.Codex.codex_resources11=n: nanolitre- (.000 000 001)
+UI.Codex.codex_resources12=p: pikolitre- (.000 000 000 001) // 1e-12
+UI.Codex.codex_resources13=f: femtolitre- (.000 000 000 000 001)
+UI.Codex.codex_resources14=a: attolitre- (.000 000 000 000 000 001)
+UI.Codex.codex_resources15=z: zepto- (.000 000 000 000 000 000 001)
+UI.Codex.codex_resources16=y: yocto- (.000 000 000 000 000 000 000 001)
+UI.Codex.codex_money.Title=<color=#FFFFFFFF><sprite name="currency"></color> Para
+UI.Codex.codex_money0=<LOC,UI.GeneralControls.MoneyDetail>
+UI.Codex.codex_money1=<LOC,UI.GeneralControls.MoneySource>
+UI.Codex.codex_influence.Title=<color=#FFFFFFFF><sprite name="influence"></color> Etki
+UI.Codex.codex_influence0=<LOC,UI.GeneralControls.InfluenceDetail>
+UI.Codex.codex_influence1=<LOC,UI.GeneralControls.InfluenceSource>
+UI.Codex.codex_ops.Title=<color=#FFFFFFFF><sprite name="ops"></color> Operasyonlar
+UI.Codex.codex_ops0=<LOC,UI.GeneralControls.OpsDetail>
+UI.Codex.codex_ops1=<LOC,UI.GeneralControls.OpsSource>
+UI.Codex.codex_boost.Title=<color=#FFFFFFFF><sprite name="boost"></color> Güçlendirme
+UI.Codex.codex_boost0=<LOC,UI.GeneralControls.BoostDetail>
+UI.Codex.codex_boost1=<LOC,UI.GeneralControls.BoostSource>
+UI.Codex.codex_missionControl.Title=<color=#FFFFFFFF><sprite name="mission_control"></color> Görev Kontrolü
+UI.Codex.codex_missionControl0=<LOC,UI.GeneralControls.MissionControlDetail>
+UI.Codex.codex_missionControl1=Görev kontrolü, esas olarak Dünya üzerindeki yer tabanli tesisler tarafindan üretilir, ancak bazi organizasyonlar ve yasam alani modülleri de bu kaynagi saglayabilir.
+UI.Codex.codex_researchIncome.Title=<color=#FFFFFFFF><sprite name="research"></color> Arastirma
+UI.Codex.codex_researchIncome0=<LOC,UI.GeneralControls.ResearchDetail>
+UI.Codex.codex_researchIncome1=Arastirma, uluslar, konsey üyeleri, organizasyonlar ve yasam alani modülleri tarafindan üretilir. Birçok konsey üyesi, organizasyon ve yasam alani modülü, belirli arastirma <h>kategorileri</h> için bonuslar sunar.
+UI.Codex.codex_researchIncome2=Arastirma geliri ayrica, faksiyonunuzun katildigi farkli arastirmalarin sayisina göre bonus alir, bu yüzden çabalarinizi yaymak faydali olabilir. Ancak, bireysel kategori bonuslari ayni anda birden fazla projede kullaniliyorsa biraz azalir.
+UI.Codex.codex_projectsIncome.Title=<color=#FFFFFFFF><sprite name="projects"></color> Projeler
+UI.Codex.codex_projectsIncome0=Projeler kaynagi, bir faksiyonun belirli nesneleri veya sonuçlari mühendislik etme yetenegini temsil eder.
+UI.Codex.codex_projectsIncome1=Bu, bir faksiyonun ayni anda kaç proje yürütebilecegini ve bunlari ne kadar hizli tamamladigini belirler. Faksiyonlar, bir proje yuvasini ücretsiz alirlar. Bir konsey üyesinin proje geliri degeri olan bir organizasyonu varsa, ikinci bir proje yuvasi alirlar (iki projeyi ayni anda yürütmek için). Bir yasam alani modülü ile proje geliri degeri varsa, üçüncü bir proje yuvasi alirlar. Birden fazla organizasyon veya yasam alani modülü ile proje geliri degerleri, faksiyonun üzerinde çalistigi tüm projelere bonuslar saglar.
+UI.Codex.codex_water.Title=<color=#FFFFFFFF><sprite name="water"></color> Su
+UI.Codex.codex_water0=<LOC,UI.GeneralControls.WaterDetail>
+UI.Codex.codex_volatiles.Title=<color=#FFFFFFFF><sprite name="volatiles"></color> Uçucu Maddeler
+UI.Codex.codex_volatiles0=<LOC,UI.GeneralControls.VolatilesDetail>
+UI.Codex.codex_metals.Title=<color=#FFFFFFFF><sprite name="metal"></color> Metaller
+UI.Codex.codex_metals0=<LOC,UI.GeneralControls.BaseMetalsDetail>
+UI.Codex.codex_nobleMetals.Title=<color=#FFFFFFFF><sprite name="metal_noble"></color> Soy Metaller
+UI.Codex.codex_nobleMetals0=<LOC,UI.GeneralControls.NobleMetalsDetail>
+UI.Codex.codex_fissiles.Title=<color=#FFFFFFFF><sprite name="radioactive"></color> Fissil Materyaller
+UI.Codex.codex_fissiles0=<LOC,UI.GeneralControls.FissilesDetail>
+UI.Codex.codex_antimatter.Title=<color=#FFFFFFFF><sprite name="antimatter"></color> Antimadde
+UI.Codex.codex_antimatter0=<LOC,UI.GeneralControls.AntimatterDetail>
+UI.Codex.codex_exotics.Title=<color=#FFFFFFFF><sprite name="exotics"></color> Egzotik Maddeler
+UI.Codex.codex_exotics0=<LOC,UI.GeneralControls.ExoticsDetail>
+UI.Codex.codex_diplomacy.Title=Faksiyon Diplomasisi
+UI.Codex.codex_diplomacy0=<h>Iletisim</h> görevini kullanarak baska bir faksiyondan bir konsey üyesiyle iletisime geçebilirsiniz. Bu, o faksiyonun lideriyle ticaret görüsmeleri baslatabilir. Basarili ticaretler, faksiyonlar arasindaki düsmanligi azaltabilir.
+UI.Codex.codex_councilors.Title=Konsey Üyeleri
+UI.Codex.codex_councilors0=Konsey üyeleri, bir faksiyonun Dünya'daki birincil vekilleridir ve faksiyonun çikarlarini uzayda ilerletmek için de gidilebilirler. Faksiyonlar baslangiçta dört konsey üyesine sahip olabilirler ancak bazi projeler, konseylerini altiya kadar genisletmelerine izin verir. Temel rolleri, faksiyonlari için <h>görevler</h> yerine getirmektir.
+UI.Codex.codex_professions.Title=Meslekler
+UI.Codex.codex_professions0=Bir konsey üyesinin meslegi, baslangiç istatistiklerinin araligini, mevcut görevleri ve olasi özellikleri belirler.
+UI.Codex.codex_recruiting.Title=Ise Alim
+UI.Codex.codex_recruiting0=Konsey üyeleri, etki harcayarak ise alinir. Konseyinize çesitli mesleklerden konsey üyeleri ise almak, tüm görev türlerinin mevcut olmasini saglayacaktir.
+UI.Codex.codex_recruiting1=Ise alabileceginiz konsey üyesi havuzunuz, her ayin ilk günü güncellenir çünkü bazi aday konsey üyeleri ayrilir.
+UI.Codex.codex_attributes.Title=Özellikler
+UI.Codex.codex_attributes0=Bir konsey üyesinin sekiz özelligi vardir. Bunlar, görevlerdeki basari sansini belirler veya gelirlerde bonuslar saglar.
+UI.Codex.codex_attributes1=<color=#FFFFFFFF><sprite name="attribute_persuasion"></color> Ikna<br/><LOC,UI.Councilor.PersuasionTip>
+UI.Codex.codex_attributes2=<color=#FFFFFFFF><sprite name="attribute_investigation"></color> Arastirma<br/><LOC,UI.Councilor.InvestigationTip>
+UI.Codex.codex_attributes3=<color=#FFFFFFFF><sprite name="attribute_espionage"></color> Casusluk<br/><LOC,UI.Councilor.EspionageTip>
+UI.Codex.codex_attributes4=<color=#FFFFFFFF><sprite name="attribute_command"></color> Komuta<br/><LOC,UI.Councilor.CommandTip>
+UI.Codex.codex_attributes5=<color=#FFFFFFFF><sprite name="attribute_administration"></color> Yönetim<br/><LOC,UI.Councilor.AdministrationTip>
+UI.Codex.codex_attributes6=<color=#FFFFFFFF><sprite name="attribute_science"></color> Bilim<br/><LOC,UI.Councilor.ScienceTip>
+UI.Codex.codex_attributes7=<color=#FFFFFFFF><sprite name="attribute_security"></color> Güvenlik<br/><LOC,UI.Councilor.SecurityTip>
+UI.Codex.codex_attributes8=<color=#FFFFFFFF><sprite name="attribute_loyalty"></color> Sadakat<br/><LOC,UI.Councilor.LoyaltyTip>
+UI.Codex.codex_traits.Title=Özellikler
+UI.Codex.codex_traits0=Özellikler, bir konsey üyesinin dogustan gelen karakteristikleridir. Kalici veya durum bazli istatistik bonuslari veya ceza verebilir, gelir saglayabilir veya belirli organizasyonlara erisim verebilir. Bazi özellikler XP harcayarak kaldirilabilir veya gelistirilebilir.
+UI.Codex.codex_augmentations.Title=Augmentations
+UI.Codex.codex_augmentations0=Augmentations, bir konsey üyesinin ekleyebilecegi siber implantlardir. Özellikler gibi islev görürler.
+UI.Codex.codex_XP.Title=Deneyim
+UI.Codex.codex_XP0=<LOC,UI.Councilor.XPTooltip>
+UI.Codex.codex_orgs.Title=Organizasyonlar
+UI.Codex.codex_orgs0=Organizasyonlar, bir konsey üyesinin kontrol edebilecegi hükümet ajanslari, özel sirketler ve suç sendikalaridir. Organizasyonlar, gelir saglayabilir, istatistik bonuslari verebilir, yeni görevler sunabilir ve faksiyonun ülkelerdeki yatirim önceliklerine bonuslar ekleyebilir. Organizasyonlar, 1'den 3'e kadar olan seviyelerle (simgeye eklenen yildiz sayisiyla temsil edilir) degerlendirilir ve konsey üyeleri, yönetim istatistigindeki her puan için bir organizasyon seviyesini yönetebilirler.
+UI.Codex.codex_orgs1=Çogu organizasyon, bir faksiyonun özel pazarinda mevcut olur ve belirli bir süre sonra baska bir faksiyona sunulur. Organizasyonlar para, etki ve nadiren operasyonlar veya güç kullanilarak satin alinabilir. Ayrica, düsmanca ele geçirme görevleri veya diger faksiyonlarla ticaret sirasinda edinilebilir. Faksiyonlar, hedeflerini tamamlayarak veya etkinlikler sirasinda özel organizasyonlar da kazanabilirler.
+UI.Codex.codex_orgs2=Parasal degeri olan organizasyonlar, piyasalara geri satilabilir. Faksiyonlar, konsey üyeleri arasinda organizasyonlari aktarmak için kullanilabilecek bir havuza sahiptir.
+UI.Codex.codex_orgs3=Faksiyon havuzundaki organizasyonlar, faksiyona herhangi bir fayda saglamaz, ancak negatif gelirleri olanlar kaynaklari korumaya devam eder. Bir faksiyon yalnizca 10 tane faksiyon özgü olmayan organizasyonu havuzunda tutabilir; geri kalani satilmali veya dogrudan konsey üyesinin kontrolüne devredilmelidir.
+UI.Codex.codex_orgs4=Yeni edinilen organizasyonlar, bir konsey üyesinin organizasyon kapasitesini hesaplama amaci disinda, bir sonraki görev asamasinda bonus saglamaz. Bir konsey üyesi gözaltina alindiginda, tüm organizasyonlar pasif hale gelir.
+UI.Codex.codex_missions.Title=Görevler
+UI.Codex.codex_missions0=Periyodik olarak, oyun görev asamasina girer ve tüm faksiyonlar konsey üyelerini gizlice görevlere atar. Bu görevler, bir sonraki birkaç gün veya hafta içinde bir sira ile çözülür. Bazi görevler otomatik olarak basarili olurken, çogu karsit ve bir basari yuvarlama gerektirir. Görevler genellikle ülkeleri, bölgeleri, kontrol noktalarini, uzay tesislerini ve diger konsey üyelerini hedef alir.
+UI.Codex.codex_missions1=Görev asamalari arasinda, görevler kismen önceden belirlenmis bir sirada çözülür ve görev açiklamasinda görünen küçük saat simgeleri tarafindan belirtilir. Karsit ve savunma görevleri, karsit görevlerden önce tetiklenir. Iki konsey üyesi ayni görevi denediginde, basari sansi daha yüksek olan önce gider.
+UI.Codex.codex_missions2=Karsit görevler için, basari sansi belirli bir görev için tüm ilgili bonuslar ve ceza eklenerek hesaplanir ve görev gerçeklestiren faksiyon, basari sansini artirmak için kaynak harcayabilir. Bonuslar ve ceza sifira esit oldugunda, basari sansi %50'dir; aksi takdirde, her puan yönünde sonuç üzerinde giderek azalici bir etkiye sahiptir. Dünya'daki degisen kosullar, görev atama asamasi ile görev çözümü arasinda basari sanslarini degistirebilir.
+UI.Codex.codex_missions3=Bir karsit görev çözüldügünde, 0 ile 100 arasinda rastgele bir sayi üretilir; bu sayi basari sansina esit veya daha düsükse, görev basarilidir; aksi takdirde basarisiz olur. Sonuçlar basari sansinin %10'undan daha düsükse, bu genellikle normal bir basariya kiyasla bonuslar saglar; basarisizlik degerlerinin üst %10'unda sonuçlar kritik basarisizlik olup daha kötü sonuçlar dogurur.
+UI.Codex.codex_missionList.Title=Görevler Listesi
+UI.Codex.codex_missionList0=Bunlar, Terra Invicta'daki insan konsey üyelerine sunulan görevlerdir.
+UI.Codex.codex_missionList_alien.Title=Yabanci Görevler Listesi
+UI.Codex.codex_missionList_alien0=Bir kampanya sirasinda, faksiyonlar Dünya'daki yabanci faaliyetler hakkinda bilgi edinirler. Bu liste, yabancilar ve yabanci ile ilgili görevler hakkinda bilgi açiga çiktikça genisleyecektir.
+UI.Codex.codex_detection.Title=Gözetim
+UI.Codex.codex_detection0=Görevlere gitmek belirli bir miktarda gürültü yapar, bu miktar görevin ve sonucunun türüne baglidir. Yüksek Casusluk özelliklerine sahip konsey üyeleri ve faksiyonunuzun kontrol noktalarinin bulundugu ülkelerdeki konsey üyeleri, daha zor tespit edilirken, yüksek arastirma skorlarina sahip faksiyonlar düsman konsey üyelerini daha olasi görürler. "Yeri Gözetle" görevine gitmek, belirli bir bölgedeki veya habitatdaki diger faksiyon konsey üyelerini tespit etme olasiliginizi artirir.
+UI.Codex.codex_detection1=Bazi konsey üyeleri tespit edilebilir ancak tam olarak kimlikleri belirlenmeyebilir. O konsey üyesini <h>Konsey Üyesini Arastir</h> görevi ile hedef alarak daha fazla bilgi edinebilirsiniz.
+UI.Codex.codex_detection2=Kendi konsey üyelerinizin tespit edildigini düsünüyorsaniz, <h>Yer Altina Git</h> görevi onlari takip etmeyi çok daha zorlastirabilir.
+UI.Codex.codex_nations.Title=Ülkeler
+UI.Codex.codex_nations0=Dünya üzerindeki ülkeler, uzaylilarin Dünya'daki tasarilari için savas alanlari olarak hizmet eder ve hem siyasi hem de askeri çatismalara ev sahipligi yapar. Insan faksiyonlari, konsey üyeleri ve ordulari kullanarak, ülkeleri kontrol etmeye çalisacak ve böylece bu ülkelerin kaynaklarini hedeflerine ulasmak için kullanacaklardir.
+UI.Codex.codex_nations1=Terra Invicta'daki çogu ülke, tek bir gerçek Dünya ülkesine karsilik gelir, ancak birkaç durumda, küçük komsu ülkeler bir araya getirilir ve oyunun ölçegine daha uygun hale getirilir. Bu ülkeler arasindaki herhangi bir uluslararasi sorun genellikle simülasyon ölçeginin altinda gerçeklesir. Faksiyonlar, ülkelerde gizli yatirimcilar gibi islev görür ve yeterli odaklanmayla ülkenin ekonomisini ve dis politikasini kontrol edebilirler.
+UI.Codex.codex_regions.Title=Bölgeler
+UI.Codex.codex_regions0=Ülkeler, bir veya daha fazla Bölgeden olusur. Bölgeler, ana sehirleri ile adlandirilir. Bölgelerin islevi esas olarak cografi olup, siyasi degildir; kritik varliklarin ve ordularin yerlerini isaretlemek için bulunurlar. Yeni ülkeler olustugunda veya mevcut ülkeler degistiginde, diger ülkelerden bölgeler içerirler.
+UI.Codex.codex_regions1=Bölgeler, uzay tesislerine ev sahipligi yapar: güç saglayan firlatma tesisleri; görev kontrol tesisleri ve oyunun ilerleyen asamalarinda, yüzeyden yörüngeye savunmalar.
+UI.Codex.codex_regions2=Ordular savas sirasinda bölgelerde savasir ve isgal eder.
+UI.Codex.codex_regions3=Konsey üyeleri Dünya üzerinde hareket ederken bir bölgede bulunurlar ve orada tespit edilebilirler, ancak bir konsey üyesinin çogu isi ulusal düzeyde yapilir.
+UI.Codex.codex_regions4=Bölgeler ayrica <h>zorlu</h> olabilir, bu da ordularin geçisinin daha uzun sürecegi ve savunan ordularin savaslarda önemli bir avantaj saglayacagi anlamina gelir. Kiyi bölgeleri, donanim yükseltmesi olan ordular için firlatma ve varis noktalari olarak hizmet eder. Dünya'nin ekvatorunda veya yakininda bulunan bölgeler, verilen yatirim miktari için daha fazla güç kazanir, çünkü roket firlatmalari Dünya'nin daha büyük dönüssel hizindan faydalanabilir.
+UI.Codex.codex_claims.Title=Talep
+UI.Codex.codex_claims0=Bazi ülkeler, kendilerine ait olmayan bölgeler üzerinde taleplere sahiptir; bu bölgeler, savas veya ayrilma hareketleri yoluyla edinilebilir.
+UI.Codex.codex_claims1=Bazi sosyal bilim projeleri kampanya sirasinda yeni talepler açabilir.
+UI.Codex.codex_controlPoints.Title=Kontrol Noktalari
+UI.Codex.codex_controlPoints0=<LOC,UI.Nation.ControlPointDescription>
+UI.Codex.codex_controlPoints1=Kontrol noktalari çesitli türlerde gelir. Türü, ulusal hükümet ve diger kosullara baglidir ve kontrol eden faksiyona ilgili bir bonus saglar. En önemli olani <h>Yürütme</h> kontrol noktasidir, bu da sahibine ülkenin dis politikasini yönlendirme yetkisi verir.
+UI.Codex.codex_controlPoints2=Bazi güçlü politikalar, federasyonlara katilma ve ayrilma ve ülkeleri birlestirme gibi, yürütme kontrolünün <h>konsolide</h> edilmesini gerektirir. Bu, yürütme faksiyonunun ülkeyi savas veya devrim yoluyla kontrol altina almis olmasi veya yürütme kontrol noktasini belirli bir süre boyunca kesintisiz olarak elinde tutmasi gerektigi anlamina gelir.
+UI.Codex.codex_controlPoints3=<LOC,UI.Nation.ControlPointCost>
+UI.Codex.codex_incomes.Title=Gelirler
+UI.Codex.codex_incomes0=Ülkeler, kontrol noktalarina sahip faksiyonlara orantili olarak para, arastirma, güç ve görev kontrolü saglar. Çesitli <h>önceliklere</h> yatirim yapmak, tüm faksiyonlara saglanan bu kaynaklarin havuzunu artiracaktir.
+UI.Codex.codex_nationStats.Title=Ülke Istatistikleri
+UI.Codex.codex_nationStats0=Dünya'nin ülkelerinin refahi ve istikrari, birçok yerde zaten belirsiz durumda, uzaylilarin gelisinin ardindan daha da süpheye düsmüstür. Bu durumlar takip edilir ve oyunculara görünür hale getirilir; oyuncular çesitli eylemlerle bu durumlari degistirebilirler. Ana ülke düzeyindeki degerler ve rolleri sunlardir:
+UI.Codex.codex_nationStats1=<color=#FFFFFFFF><sprite name="gov_type"></color>Hükümet<br/><LOC,UI.Nation.DemocracyHelp1>
+UI.Codex.codex_nationStats2=<color=#FFFFFFFF><sprite name="nation_unrest"></color>Huzursuzluk<br/><LOC,UI.Nation.UnrestHelp1>
+UI.Codex.codex_nationStats3=<color=#FFFFFFFF><sprite name="per_capita_GDP"></color>GSYIH ve Kisi Basina GSYIH<br/><LOC,UI.Nation.GDPHelp1>
+UI.Codex.codex_nationStats4=<LOC,UI.Nation.PerCapitaGDPHelp1>
+UI.Codex.codex_nationStats5=<color=#FFFFFFFF><sprite name="army_level"></color>Askeri Teknoloji<br/><LOC,UI.Nation.MiltechHelp1>
+UI.Codex.codex_nationStats6=<color=#FFFFFFFF><sprite name="education"></color>Egitim<br/><LOC,UI.Nation.EducationHelp1>
+UI.Codex.codex_nationStats7=<color=#FFFFFFFF><sprite name="culture"></color>Uyum<br/><LOC,UI.Nation.CohesionHelp1>
+UI.Codex.codex_nationStats8=<color=#FFFFFFFF><sprite name="inequality"></color>Esitsizlik<br/><LOC,UI.Nation.InequalityHelp1>
+UI.Codex.codes_nationStats9=<color=#FFFFFFFF><sprite name="greeneconomy_orange"></color>Ekonomik Sürdürülebilirlik<br/><LOC,UI.Nation.SustainabilityHelp1>
+UI.Codex.codex_publicOpinion.Title=Halkin Görüsü
+UI.Codex.codex_publicOpinion0=Dünya halki, uzaylilarin gelisine dair belirli bir görüse sahiptir. Ancak insanlar sekil alabilir ve olaylar ile propaganda onlari farkli bir bakis açisina yönlendirebilir.
+UI.Codex.codex_publicOpinion1=Bu görüsler, her faksiyonun ideolojileri ile birlikte, ortada bir "kararsiz" görüs ile takip edilir. Ideolojiler birbirine göre bir pozisyona sahiptir; olaylarin bir kisinin görüsünü degistirme sansi oldugunda, genellikle yakindaki bir noktaya hareket ederler -- örnegin, bir Direnis destekçisi, görüslerinin Insanlik Öncelikli olanlarla radikallesmesini veya sadece kararsiz kalmasini görebilir.
+UI.Codex.codex_publicOpinion2=Faksiyonunuzun kamu destegi, etkili kaynaklarin birincil kaynagidir. Kamuoyunun büyük bir kismi sizin yaninizda oldugunda görevlerinizde bonuslar da alirsiniz.
+UI.Codex.codes_publicOpinion3=Kamuoyunu etkileyebilecek bir faktör, bir faksiyonun isledigi zulümlerdir. Zulümler, kitlesel ölüm veya aci çektiren eylemlerdir ve sorumlu faksiyonlar destekçilerinin kaybini yasar. Zulümler birikir; bir faksiyon daha fazla zulüm isledikçe, kamuoyu cezasi dramatik sekilde artar.
+UI.Codex.codex_priorities.Title=Ulusal Öncelikler
+UI.Codex.codex_priorities0=Yatirim Puanlari, bir ülke tarafindan olusturulan fazla ekonomik sermayeyi temsil eder. Her ülke, ekonomisinin büyüklügüne bagli olarak belirli sayida Yatirim Puani üretir, huzursuzluk ve sahip oldugu ordu sayisi için indirimler yapilir. Bir ülkenin <h>öncelikleri</h>, bu Yatirim Puanlarinin dagilimini kontrol eder. Her kontrol noktasinin sahibi, Yatirim Puanlarinin bir kismini herhangi bir sayida öncelige yönlendirebilir.
+UI.Codex.codex_priorities1=Yatirimlar, her öncelik için agirliklar (0, 1, 2 veya 3) ayarlayarak dagitilir ve belirli bir öncelige giden yatirim miktari, belirli bir kontrol noktasi için ayarlanan toplam agirlik sayisina baglidir.
+UI.Codex.codex_priorities2=Yatirim Puanlari, her öncelik için kademeli olarak birikim yapar; doldugunda, ülke o önceligin etkilerini alir ve çogu durumda tekrar doldurulabilir.
+UI.Codex.codex_priorities3=Faksiyonlar ayrica, seçtikleri önceliklere para ve etki harcayarak dogrudan ülkelere yatirim yapabilirler. Bu, ordularin, firlatma tesislerinin ve diger varliklarin hizli bir sekilde tamamlanmasina yol açabilir. Ancak, bir ülke yilda yalnizca belirli bir miktarda dogrudan yatirim alabilir.
+UI.Codex.codex_priority_economy.Title=<color=#FFFFFFFF><sprite name=economy></color>Ekonomi
+UI.Codex.codex_priority_economy0=<LOC,UI.Nation.EconomyPriorityGeneric>
+UI.Codex.codex_priority_welfare.Title=<color=#FFFFFFFF><sprite name=welfare></color>Refah
+UI.Codex.codex_priority_welfare0=<LOC,UI.Nation.WelfarePriorityGeneric>
+UI.Codex.codex_priority_knowledge.Title=<color=#FFFFFFFF><sprite name=knowledge></color>Bilgi
+UI.Codex.codex_priority_knowledge0=<LOC,UI.Nation.KnowledgePriorityGeneric>
+UI.Codex.codex_priority_unity.Title=<color=#FFFFFFFF><sprite name=unity></color>Birlik
+UI.Codex.codex_priority_unity0=<LOC,UI.Nation.UnityPriorityGeneric>
+UI.Codex.codex_priority_military.Title=<color=#FFFFFFFF><sprite name=military_org></color>Askeri
+UI.Codex.codex_priority_military0=<LOC,UI.Nation.MilitaryPriorityGeneric>
+UI.Codex.codex_priority_spoils.Title=<color=#FFFFFFFF><sprite name=spoils></color>Ganimetler
+UI.Codex.codex_priority_spoils0=<LOC,UI.Nation.SpoilsPriorityGeneric>
+UI.Codex.codex_priority_spaceDevelopment.Title=<color=#FFFFFFFF><sprite name=funding></color>Finansman
+UI.Codex.codex_priority_spaceDevelopment0=<LOC,UI.Nation.SpaceDevelopmentPriorityGeneric>
+UI.Codex.codex_priority_spaceflight.Title=<color=#FFFFFFFF><sprite name=spaceflight_program></color>Uzay Uçus Programi
+UI.Codex.codex_priority_spaceflight0=<LOC,UI.Nation.SpaceflightProgramPriorityGeneric>
+UI.Codex.codex_priority_launchFacilities.Title=<color=#FFFFFFFF><sprite name=boost_org></color>Firlatma Tesisleri
+UI.Codex.codex_priority_launchFacilities0=<LOC,UI.Nation.LaunchFacilitiesPriorityGeneric>
+UI.Codex.codex_priority_missionControl.Title=<color=#FFFFFFFF><sprite name=mission_control_org></color>Görev Kontrolü
+UI.Codex.codex_priority_missionControl0=<LOC,UI.Nation.MissionControlPriorityGeneric>
+UI.Codex.codex_priority_buildArmy.Title=<color=#FFFFFFFF><sprite name=build_army></color>Ordu Kurma
+UI.Codex.codex_priority_buildArmy0=<LOC,UI.Nation.BuildArmyPriorityGeneric>
+UI.Codex.codex_priority_buildNavy.Title=<color=#FFFFFFFF><sprite name=build_navy></color>Donanma Kurma
+UI.Codex.codex_priority_buildNavy0=<LOC,UI.Nation.UpgradeArmyPriorityGeneric>
+UI.Codex.codex_priority_nuclearWeapons.Title=<color=#FFFFFFFF><sprite name=build_nuclear_weapons></color>Nükleer Silahlar
+UI.Codex.codex_priority_nuclearWeapons0=<LOC,UI.Nation.BuildNuclearWeaponsPriorityGeneric>
+UI.Codex.codex_priority_spaceDefenses.Title=<color=#FFFFFFFF><sprite name=build_space_defense></color>Uzay Savunmalari
+UI.Codex.codex_priority_spaceDefenses0=<LOC,UI.Nation.BuildSpaceDefensesPriorityGeneric>
+UI.Codex.codex_relations.Title=Uluslararasi Iliskiler
+UI.Codex.codex_relations0=Savasta olmayan uluslar üç durumda olabilir: müttefik, rakip veya normal iliskilerde olabilirler.
+UI.Codex.codex_relations1=Savas kapasitesine sahip müttefikler - yani ordulari veya nükleer silahlari olanlar - birbirlerini savunmak için savaslara katilirlar. Müttefikler savas veya baris sirasinda birbirlerinin bölgelerine asker gönderebilirler. Savas basladiktan sonra her iki taraftaki herhangi bir müttefik savaslara katilabilir, ancak bu katilim diger taraftaki herhangi bir üye ile olan ittifakla çelismemelidir.
+UI.Codex.codex_relations2=Rakipler, Set Policy konseyci misyonu araciligiyla birbirleriyle savasabilirler. Insan uluslari genellikle yeni bir rakibe savas ilan ettiginde uyum kaybi yasar.
+UI.Codex.codex_relations3=Yürütme kontrolüne sahip uluslarda, etkili iliskileri degistirmek için <color=#FFFFFFFF><sprite name="influence"></color> etki harcanabilir. Iliskileri iyilestiren her eylem - rakiplerden normal iliskilere, ya da normal iliskilere müttefiklere - diger ulusun onayini gerektirir. Iliskileri iyilestiren eylemler, iliskileri tekrar iyilestirmek için bir soguma süresi baslatir.
+UI.Codex.codex_relations4=Kimlerin müttefik olabilecegi veya rakip olabilecegi konusunda bazi kisitlamalar vardir. Birbirine komsu olmayan iki ulus yalnizca bir veya iki kontrol noktasina sahip olduklarinda müttefiklik veya rakiplik kuramazlar, ancak biri deniz kuvvetlerine sahip olmalidir. Ayrilan bir ulusla müttefik olan uluslar, ayrilanin ana ulusuyla müttefik olamazlar; ayrilanin ana ulusuyla müttefik olanlar ayrilanla müttefik olamazlar.
+UI.Codex.codex_relations5=Uluslar ayrica, en az bir kontrol noktasi eksik olan "esit" veya daha güçlü rakiplerden uyum kazanirlar. Alti veya daha yüksek hükümet puanina sahip demokratik uluslar bu bonusu yalnizca demokratik olmayan rakipler karsisinda elde ederler.
+UI.Codex.codex_federations.Title=Federasyonlar
+UI.Codex.codex_federations0=<LOC,UI.Nation.FederationTooltipDetail>
+UI.Codex.codex_policies.Title=Politikalar
+UI.Codex.codex_policies0=Politikalar, bir ulusun yürütme fraksiyonu tarafindan alinan ve ulusun gidisatini dramatik sekilde degistirebilecek eylemlerdir. Bir konseyci <h>Politika Belirle</h> misyonunu kullanarak politikalar uygulayabilir. Olasi politikalar sunlardir:
+UI.Codex.codex_terrestrialWarfare.Title=Karasal Savas
+UI.Codex.codex_terrestrialWarfare0=Savaslar, iki rakipten birinin yürütme fraksiyonu tarafindan rakibe karsi Savas politikasi seçildiginde baslar. Savunan rakibin tüm savas kapasitesine sahip müttefikleri (ordusu veya nükleer silahlari olanlar) savasa katilir. Saldirganin savas kapasitesine sahip müttefikleri, saldirganin yaninda savasa katilma seçenegi alir.
+UI.Codex.codex_terrestrialWarfare1=Bir savasi kazanmak için, bir ordunun düsmanin baskent bölgesini isgal etmesi gerekir. Bu anda savas biter ve bir rejim degisikligi olayi tetiklenir. Iddia edilen bölgeler, isgal eden ve müttefiklerine geçer. Eger isgal edilen ulus kalirsa, kontrol noktasi sahipleri zafer elde edenlerin yerini alir. Yeni bir rejim kuruldugunda bazi ulus istatistikleri degisir, bazen tahmin edilemeyen sekillerde, ancak yeni hükümet fraksiyonu, bir yil süreyle etki maliyeti ödemeden Ulusal Yatirimlar yapabilir. Bos kalan bölgeler ve hayatta kalan düsman ordulari, rejim degisikliginden sonra daha fazla huzursuzluk yaratabilir.
+UI.Codex.codex_terrestrialWarfare2=Ordular ayrica savas sirasinda, ana ulusun bu bölgeye sahip olmasi durumunda düsman bölgelerini ilhak edebilir, ancak bölgedeki herhangi bir savas bu girisimi kesintiye ugratir ve iptal eder. Savaslar ayrica, her iki tarafin da savas öncesi duruma dönmesiyle basit bir baris ile sona erebilir.
+UI.Codex.codex_armies.Title=Ordular
+UI.Codex.codex_armies0=Ordular, diger uluslarda toprak kazanma ve tutma kapasitesine sahip modern birlikleri temsil eder. Bir orduya kontrol kazanmak, konseycilerin en azindan kismi kontrol elde etmesiyle mümkün olur. Çogu ulus kampanya baslangicinda ordulara sahip degildir, ancak yeterli nüfusa sahip uluslar, yeterli yatirim ile yeni ordular kurabilirler. Güçlü olsalar da, ordular bir ulusun ekonomik gelisimi üzerinde bir yük olusturur ve ulusun uluslararasi iliskilerine tabi kalir, bu iliskiler de yeterli kontrol ile yönetilebilir.
+UI.Codex.codex_armies1=Ordularin ana vatanlarinda bir karargah bölgesi vardir. Burada bulunurlarsa, ulusun ekonomik gelisimi için daha küçük bir maliyet olustururlar.
+UI.Codex.codex_armies2=Ordular iki ana degere dayanir: ana ulusun askeri teknoloji seviyesi ve gücü. Güç degeri, ordunun aldigi hasari ölçer.
+UI.Codex.codex_armies3=Hasar görmüs ordular, herhangi bir dost bölgesinde savas olmadan onarilir. Kendi vatanlari sinirlarinda daha hizli onarilirlar ve en hizli sekilde ana bölgelerinde onarilirlar. Bir ulus ayni anda birden fazla orduyu onariyorsa, onarim süreci daha yavas olur.
+UI.Codex.codex_armies4=Bazi ordularin, okyanuslari geçmelerine olanak taniyan <h>Donanma</h> yükseltmesi vardir. Savas sirasinda, bir ulusun donanmasi, eger ulus düsmanlarina karsi deniz üstünlügüne sahipse, sulari geçebilir. Sadece daha büyük veya daha zengin uluslar donanma kurma ve güç projeksiyonu yapma kapasitesine sahiptir.
+UI.Codex.codex_armies5=Bir ordunun yok edilmesi, ana ulusun Ordu Kurma önceligine Yatirim Puanlari kazandirir, bu da ordunun önceki biriminin hayatta kalanlariyla yeniden düzenlenmesini temsil eder. Bir donanma ile birlikte yok edilen bir ordunun yok edilmesi, ana ulusun Donanma Kurma önceligine Yatirim Puanlari kazandirir.
+UI.Codex.codex_armyOperations.Title=Ordu Operasyonlari
+UI.Codex.codex_armyOperations0=Bir orduyu kontrol eden fraksiyon, onunla çesitli operasyonlar gerçeklestirebilir. Bunlar sunlardir:
+UI.Codex.codex_armyBattles.Title=Ordu Savaslari
+UI.Codex.codex_armyBattles.Title=Ordu Savaslari
+UI.Codex.codex_armyBattles0=En az iki düsman ordusu ayni bölgede bulunursa savasirlar. Mekanik olarak, her ordu günde bir kez ates eder. Düsman ordusuna zarar verme sansi, ordunun askeri teknoloji seviyesi, gücü, herhangi bir konseycinin ordunun ulusuna <h>Danismanlik</h> misyonu araciligiyla komuta yetkisini verip vermedigi ve ordunun savunma yapip yapmadigi ve bölgenin "sarp" bayragina sahip olup olmadigina baglidir.
+UI.Codex.codex_armyBattles1=Bir ordu düsman bölgesinde bulundugunda ve bölgede düsman ordusu bulunmadiginda, bölgeyi isgal etmeye baslar, yerel savunma güçleriyle (bu güçler ulusun teknoloji seviyesini kullanir) savasir ve onlardan zarar alir. Kötü sekilde hasar görmüs ordular, hiçbir islem yapmadan güvenli bir yere kaçmaya çalisirlar, ancak güçleri sifira ulastiginda tamamen yok edilebilirler.
+UI.Codex.codex_armyBattles2=Bir bölge tamamen isgal edildiginde savas durur, ancak savas sonuçlanana kadar el degistiremez. Bölgesel ekonomiler ve uzay tesisleri savas sirasinda önemli zarar görebilir, ancak hasar orani askeri teknoloji arttikça azalir (bu daha hassas silahlari temsil eder). Yeterli hasar, ordunun sahip oldugu fraksiyon tarafindan bir vahset olarak sayilir.
+UI.Codex.codex_navalSuperiority.Title=Deniz Üstünlügü
+UI.Codex.codex_navalSuperiority0=<LOC,UI.Nation.NavalDetail>
+UI.Codex.codex_navalSuperiority1=Yeni deniz ablukalarinin, denizde zaten bulunan ordularin hedeflerine ulasmasini engellemeyecegini unutmayin.
+UI.Codex.codex_navalSuperiority2=Deniz özgürlügü veya deniz üstünlügü olsa bile, denizde tasinan ordular Panama ve Süveys kanallarindan geçemezler eger savasta olduklari ulus, bölgeleri isgal edilmemisse. Herhangi bir deniz yolculugu, filolar alternatif yollar aradikça daha uzun sürecektir.
+UI.Codex.codex_nuclearWarfare.Title=Nükleer Savas
+UI.Codex.codex_nuclearWarfare0=Bazi uluslar, hedef bir bölgeye birkaç stratejik nükleer silah firlatmayi temsil eden bir dizi nükleer saldiriya sahiptir. Nükleer saldirilar baslatmak, bir bölgenin ekonomisini ve içindeki düsman ordulari yok eder, ancak bir ulus kendi veya bir müttefikinin topraklarina saldiri baslatiyorsa hasar biraz hafifletilir. Saldiriya geçen fraksiyonlar, bir veya daha fazla vahset islemis olarak sayilir. Yeterli sayida nükleer silah patlatmak, küresel olarak yikici etkiler de yaratabilir.
+UI.Codex.codex_nuclearWarfare1=Nükleer silahlar önceligini tamamlamak, bir ulusa daha fazla nükleer saldiri ekleyebilir.
+UI.Codex.codex_nuclearWarfare2=Uluslar, düsman isgaline karsi bir caydirici olarak nükleer silahlar üretirler. Nükleer silahlara sahip bir ulusu fethetmeye çalismak, neredeyse kesinlikle nükleer saldirilara yol açar.
+UI.Codex.codex_solarSystem.Title=Günes Sistemi
+UI.Codex.codex_solarSystem0=Terra Invicta, Dünya'nin Günes'e olan mesafesinin yaklasik 50 kati kadar bir mesafeye kadar olan Günes Sistemi'ndeki büyük cisimleri modellemektedir. Bu, Neptün'ün ötesindeki buzlu cisimler grubunun çogunu içeren Kuiper Kusagi'ni da kapsar.
+UI.Codex.codex_solarSystem1=Günes Sistemi ayrica, filolarin seyahat edebilecegi Lagrange Noktalarini içerir. Bunlar, iki cismin arasindaki yerçekiminin birlesiminden olusan stabil demirleme yerleridir ve harita üzerinde geometrik sekillerle isaretlenmistir.
+UI.Codex.codex_orbits.Title=Yörüngeler
+UI.Codex.codex_orbits0=Tüm uzay cisimleri ve Lagrange Noktalari, filolarin gönderebilecegi ve sinirli sayida uzay istasyonu insa edebilecegi bir veya daha fazla dairesel yörüngeye sahiptir. Filolar, bir yörüngede pozisyonlarini korumak için herhangi bir yakit gerektirmezler.
+UI.Codex.codex_orbits1=Bir uzay cisminin yüzeyine yakin yörüngeler <h>arayüz</h> yörüngeleri olarak adlandirilir. Bu yörüngeler, filolarin yüzeydeki hedeflere inis yapmalari veya bombardiman yapmalari için gidip gelebilecegi yörüngelerdir. Dünya çevresinde, bazi yasam modülleri arayüz yörüngelerinde bulunduklarinda daha büyük faydalar sagladiklari için bonuslar verirler.
+UI.Codex.codex_orbits2=Daha yüksek irtifadaki yörüngeler genellikle diger uydulara ve gezegen sistemlerine ulasmak için daha az Delta-V maliyetine sahiptir.
+UI.Codex.codex_orbits3=Bazi yörüngeler tehlike sembolü <color=#FFFFFFFF><sprite name=irradiated_site></color> ile isaretlenmistir. Bu yörüngeler yüksek seviyede radyasyon alir ve burada insa edilen uzay istasyonlari koruma gerektirir ve diger yerlerde insa edilen istasyonlardan çok daha agir ve maliyetlidir.
+UI.Codex.codex_orbits4=Bazi yörüngeler ayrica küçük miktarlarda <color=#FFFFFFFF><sprite name="antimatter"></color> antimadde üretir, bu da gelistirebileceginiz yasam modülleri ile hasat edilebilir.
+UI.Codex.codex_habSites.Title=Yasam Alanlari ve Madencilik
+UI.Codex.codex_habSites0=Venüs'ün cehennem gibi dünyasi ve gaz devleri Jüpiter, Satürn, Uranüs ve Neptün hariç, tüm uzay cisimleri en az bir yasam alanina sahiptir, burada fraksiyonlar bir üs ve diger modüller ile bir maden insa edebilirler. Daha büyük cisimler dört, sekiz, dokuz veya 16 yasam alanina sahip olacaktir, boyutlarina bagli olarak.
+UI.Codex.codex_habSites1=Bir maden insa edildiginde, bir yasam alani, madeni kontrol eden fraksiyona belirli uzay kaynaklari saglar. Kaynak türü genellikle uzay cisminin bilesimine baglidir.
+UI.Codex.codex_habSites2=Günes Sistemi'ni ilk görüntülediginizde, fraksiyonlar yalnizca belirli bir yasam alanindaki bir madenin saglayabilecegi uzay kaynaklarinin tahminlerine sahip olacaktir. Tam potansiyellerini kesfetmek için, ana uzay cismini bir kesif arastirmasi yapmalari gerekecektir.
+UI.Codex.codex_habSites3=Bazi yasam alanlari tehlike sembolü <color=#FFFFFFFF><sprite name=irradiated_site></color> ile isaretlenmistir. Bu alanlar yüksek seviyede radyasyon alir ve burada insa edilen üsler koruma gerektirir ve diger yerlerde insa edilen üslerden çok daha agir ve maliyetlidir.
+UI.Codex.codex_habSites4=Yeterince büyük bir maden ve mancinik agi insa edersek, ek <color=#FFFFFFFF><sprite name="mission_control"></color> yönetim gerekecektir. "Ücretsiz" madenlerin degeri, belirli küresel arastirma teknolojileri tamamlandiginda artar.
+UI.Codex.codex_probes.Title=Kesif Arastirmalari
+UI.Codex.codex_probes0=Bir üssü insa etmek için, bir fraksiyon önce uzay cismini arastirmalidir ve böylece habitat için kesin konumu belirlemelidir. Bir uzay cismini kesfetmek, ayni zamanda onun kesin madencilik üretimini de ortaya çikarir.
+UI.Codex.codex_probes1=Kesif, Dünya'dan veya bir yasam alaninda bulunan bir tersaneden firlatilan bir sonda araciligiyla veya uzay bilim laboratuvari modülüne sahip gemilerle yapilabilir. Kesif verileri ayrica diger fraksiyonlardan çalinabilir.
+UI.Codex.codex_research.Title=Arastirma
+UI.Codex.codex_research0=Terra Invicta'da arastirma süreci, bilim ve mühendislik olarak ikiye ayrilir. Fraksiyonlar, arastirma <color=#FFFFFFFF><sprite name="research"></color> gelirlerini insanligin evreni anlamasini ilerleten kamu projeleri ile belirli hedefleri yerine getirmeye veya fraksiyonlarinin yeteneklerini gelistirmeye yönelik dar kapsamli özel çabalar arasinda nasil yönlendireceklerini karar vermelidirler.
+UI.Codex.codex_research1=Insan fraksiyonlari, ayni anda üç yeni bilimsel prensibi arastirir. Bunlar, fizik, kimya veya insanlar gibi seylerin nasil çalistigini anlamayi içerir. Nadir durumlarda, bu prensipler dogrudan oyundaki olaylari degistiren spesifik bir degisiklikle sonuçlanir. Bunun yerine, ana islevleri, bireysel fraksiyonlar için mühendislik projelerini kilidini açmaktir.
+UI.Codex.codex_research2=Bir belirli prensipe en fazla arastirma katkisinda bulunan fraksiyon, bir sonraki arastirmayi seçecektir. Arastirma katkisi yapmak, ayni zamanda bir fraksiyonun teknoloji ile ilgili projeleri kilitleme sansini artirir.
+UI.Codex.codex_research3=Yeterli altyapiya sahip fraksiyonlar, ayni anda üç özel mühendislik projesini arastirabilirler. Projeler genellikle ya bir etki tetikler ya da gemileriniz ve yasam alanlariniz için yeni bir bilesen kilidini açar. Bir bilimsel prensip "Yönlendirilmis Enerji Silahlari Doktrini" olabilir ve bu, "60 cm kizilötesi lazer topu" projesinin ön kosuludur ve bu proje de gemileriniz için yeni bir silah sistemi açar.
+UI.Codex.codex_projects.Title=Projeler
+UI.Codex.codex_projects0=Her fraksiyon her projeye erisim saglayamayacaktir. Her projenin her fraksiyon için bir tetikleyici yüzdesi vardir. Belirli kritik projeler her zaman tüm fraksiyonlar için mevcut olacaktir; ancak birçok proje için sadece birkaç fraksiyon erisim saglayabilir ve bazi hayati olmayan teknolojiler belirli bir kampanyada hiç ortaya çikmayabilir, bu da bazi gerçek dünya fikirlerinin gerçekten ise yarayip yaramayacaginin belirsiz oldugunu simüle eder.
+UI.Codex.codex_projects1=Projeler, dünya gerekli ön kosullara ulastiginda hemen mevcut olmayabilir. Kamu teknolojileri tamamlanana kadar kilitlidir, fraksiyonlar, takip edilen projeyi herhangi bir zamanda degistirebilir ve tamamlanan arastirmayi biriktirebilirler. Bazi projeler de tekrarlanabilir, ancak bir fraksiyon tamamladiginda maliyeti artar.
+UI.Codex.codex_projects2=Bazi konseyciler, diger fraksiyonlardan tamamlanmis projeleri çalabilirler.
+UI.Codex.codex_projects3=Bir dizi proje, fraksiyonlari uzayli istilasinin amacini anlama veya zafer kosullarina yaklasma hedeflerini tamamlamayla iliskilidir.
+UI.Codex.codex_techCategories.Title=Teknoloji Kategorileri
+UI.Codex.codex_techCategories0=Birçok oyun ögesi, belirli arastirma alanlarina bonuslar saglar. Bu genellikle azalan getiriler esasina göre yapilir. Bu teknoloji kategorileri sunlardir:
+UI.Codex.codex_habitats.Title=Yasam Alanlari
+UI.Codex.codex_habitats0=Yasam alanlari veya habs, fraksiyonlar tarafindan isletilen uzay bazli tesislerdir. Fraksiyonlar iki tür yasam alani insa edebilirler: yörüngede bulunan istasyonlar ve yasam alani sitesine insa edilen üsler.
+UI.Codex.codex_habitats1=Her iki tür yasam alani da üç boyutta gelir. Istasyonlar platformlardan, yörüngelere ve sonra halkalara büyür. Üsler ise ilk olarak gözlem noktalari olarak baslar, yerlesimlere büyür ve son olarak koloniler haline gelirler.
+UI.Codex.codex_habitats2=Yasam alanlari modüllerden olusur. Tüm modüllerin bir ana modülü vardir; ana modülün boyutu yasam alaninin boyutunu belirler. Yasam alaninin boyutu, kaç modülünüz olabilecegini (4, 12 veya 20, arti ana modül) ve her modülün maksimum boyutunu belirler.
+UI.Codex.codex_habitats3=Çogu yasam alani modülü enerji tüketir. Diger modüllerinizi karsilamak için yeterli güç üreten modüller insa etmelisiniz. Modüller, güç tüketimini azaltmak için kapatilabilir, ancak belirli modüller, yasam alaninda destekleyen güç varsa açik kalmalidir. Modüllerin ayrica bir bakim maliyeti vardir ve bu maliyet, yeterli uzay kaynaklari mevcut degilse destek için güç ve para ile ödenebilir. Bazi modüller ayrica bir görev kontrol maliyeti de tasir.
+UI.Codex.codex_foundingHabs.Title=Yasam Alanlarinin Kurulmasi
+UI.Codex.codex_foundingHabs0=Yasam alanlari üç sekilde kurulabilir. Birincisi, ana modülü Dünya'dan, boost kullanarak firlatmaktir. Eger konum evrenin uzak bir yerindeyse, bu uzun zaman alabilir ve bu tür görevler iki yildan fazla sürecekse planlanmayabilir. Ikincisi, bir yörüngede bulunan veya bir uzay cisminin yüzeyine inen gemilerin kullanabilecegi kitler gelistirmek ve insa etmektir. Üçüncüsü, ayni gezegen sistemindeki diger yasam alanlarindan insaat modülü olanlardan yasam alanlari kurmaktir.
+UI.Codex.codex_automatedHabs.Title=Otomatik Yasam Alanlari
+UI.Codex.codex_automatedHabs0=Yeterli teknoloji gelistirdiginizde, otomatik yasam alanlari kurabilirsiniz. Bunlar, sadece gelistirdiginiz diger otomatik modülleri içerebilen küçük robotik kurulumlardir. Genellikle küçük bir maden veya gemileriniz için bir tedarik istasyonu olarak islev görecektir. Genellikle daha fazla görev kontrol gerektirirler ancak desteklemek için genellikle daha az uzay kaynagina ihtiyaç duyarlar.
+UI.Codex.codex_automatedHabs1=Not: Otomatik yasam alanlari standart modülleri (bir mürettebat ile) kullanamazlar ve standart yasam alanlarina yükseltilemezler.
+UI.Codex.codex_buildingHabs.Title=Yasam Alani Insaati
+UI.Codex.codex_buildingHabs0=Yasam alani modülleri, ya Dünya'dan boost kullanarak nakledilerek ya da uzay malzemelerinden insa edilerek eklenir. Bazi modüllerin daha büyük versiyonlarina yükseltme yollari vardir; bu sekilde bir modülü yükseltmek indirimli bir sekilde yapilir.
+UI.Codex.codex_assaultingHabs.Title=Yasam Alanlarina Saldiri
+UI.Codex.codex_assaultingHabs0=Deniz piyadeleri ve "Düsman Uzay Varligina Saldiri" görevinde bulunan konseyciler ve filo ya da yasam alani deniz piyadelerine erisim sahibi olan filolar, düsman yasam alanlarina saldirarak onlari ele geçirmeye çalisabilirler. Her iki durumda da, saldiri, saldiriyi baslatmak için bir lokasyondaki mevcut tüm deniz piyadelerini kullanir, buna ayni lokasyonda demirlemis diger filolardan gelen deniz piyadeleri de dahildir. Yasam alanlari deniz piyade modülleriyle korunur. Yörüngeden bir üssü saldirirken, aktif yüzeyden-yörüngeye savunma modüllerine sahip yasam alanlari da savunmaya katkida bulunur. Her iki taraf da saldiriya katilan deniz piyade modüllerinin hasar görmesine veya yok olmasina neden olabilir.
+UI.Codex.codex_assaultingHabs1=Saldiri görevini kullanan konseyciler, Komuta istatistiklerini ve Operasyonlar kaynagini savasa katkida bulunabilirler ve bu, filo baslatmali saldirilara göre basari sanslarini artirir.
+UI.Codex.codex_shipDesign.Title=Gemi Tasarimi
+UI.Codex.codex_shipDesign0=Dünya üzerindeki gizli komplolar ve uzaydaki sanayilesme çabalari, fraksiyonlarin çikarlarini korumak ve ilerletmek için filolar insa etme yoludur. Fraksiyonlar erken asama yörünge gemi insaat teknolojilerini ve yasam alanlari için takip eden uzay dokunusu projesini kilitlediklerinde, gezegenler arasi uzay araçlari insa edebilirler.
+UI.Codex.codex_shipDesign1=Dogru modüllerle, gemiler kesif yapabilir ve yasam alanlari kurabilir, ancak çogu geminin ana rolü savas olmaktadir.
+UI.Codex.codex_shipDesign2=Her zaman, gelistirdiginiz modüllerle gemiler tasarlayabilirsiniz. Bir gemi insa yeri kurdugunuzda, gemileri uzay kaynaklarinizla insa edebilir ve gerekiyorsa boost ve parayla destekleyebilirsiniz.
+UI.Codex.codes_shipDesign3=Gemi insa ederken yönetilmesi kritik degerler kütle, ivme ve Delta-V'dir. Daha fazla kütle, daha az ivme ve daha az manevra kabiliyetine sahip bir gemi anlamina gelir. Delta-V, hizinizi ne kadar degistirebileceginizi ölçer; bu, bir yere ne kadar hizli ulasabileceginizi belirler.
+UI.Codex.codex_hull.Title=Gövde
+UI.Codex.codex_hull0=Bir gemiyi tasarlamak, bir gövde seçmekle baslar. Gövde türü, burun ve gövde silah noktalarinin sayisini, yardimci modül sayisini ve gövdenin uzunlugunu belirler.
+UI.Codex.codex_hull1=Daha kisa gemiler daha düsük eylemsizlik degerine sahip olacak, bu da onlarin daha uzun karsiliklarindan daha hizli dönecekleri anlamina gelir.
+UI.Codex.codex_drive.Title=Itici
+UI.Codex.codex_drive0=<LOC,UI.Fleets.Drive.Description>
+UI.Codex.codex_drive1=Savasta, ates eden bir itici bazen kuyruguna yönelik gelen bir füzeyi veya mermiyi yok edebilir. Daha yüksek enerjili iticiler basarili olma olasiligi daha yüksektir. Bu "flare'i üstlenmek" olarak bilinir.
+UI.Codex.codex_powerPlant.Title=Güç Ünitesi
+UI.Codex.codex_powerPlant0=<LOC,UI.Fleets.PowerPlant.Description>
+UI.Codex.codex_radiators.Title=Radyatörler
+UI.Codex.codex_radiators0=<LOC,UI.Fleets.Radiator.Description>
+UI.Codex.codex_batteries.Title=Piller
+UI.Codex.codex_batteries0=<LOC,UI.Fleets.Battery.Description>
+UI.Codex.codex_weapons.Title=Silahlar
+UI.Codex.codex_weapons0=Silah sistemleri genellikle geminin burun kismina veya gövdesine monte edilir. Burun silahlari genellikle benzer boyuttaki gövde silahlarindan daha güçlüdür, ancak ates açma alani sinirlidir. Gövde silahlari, geminin etrafinda her yöne ates edebilir.
+UI.Codex.codex_weapons1=Silahlar ayrica çesitli boyutlarda gelir; daha büyük silah sistemleri geminin gövdesindeki birden fazla silah yuvasini kaplayacaktir.
+UI.Codex.codex_weapons2=Silahlar dört genel türde siniflandirilabilir: lazer silahlari, isik hizinda ates eder ve hedefe aninda zarar verir; mermi silahlari, güdümsüz mühimmatlari hedefe firlatir ve kinetik ve bazen kimyasal enerji kullanarak hedefi yok eder; füzeler, kendinden güdümlü silah sistemleridir ve hedefi pesinden takip ederler ta ki itici maddeleri tükenene kadar; ve parçacik silahlari, lazerlere benzer sekilde hedefe yönlendirilir ancak hedefin gövdesi içinde radyasyon hasari yayar.
+UI.Codex.codex_weapons3=Belirli silahlar sadece düsman gemilerine ve yasam alani modüllerine karsi saldiri olarak kullanilabilir; digerleri sadece gelen mermileri ve füzeleri düsürmek için savunma amaçli kullanilabilir ve bazilari her iki tür hedefe karsi da kullanilabilir.
+UI.Codex.codex_armor.Title=Zirh
+UI.Codex.codex_armor0=Gemi üzerindeki zirh kaplamasi gelen silah atesini emer, iç bilesenlere zarar vermeyi engeller. Her bir zirh noktasi, buharlasmadan önce gövdede tek bir noktada 20 Megajoule enerji emer. Farkli zirh türleri belirli bir miktar hasari emmek için farkli kalinlik ve kütle gerektirir. Yüzeyden-yörüngeye saldirilar, bombardiman eden filolar tarafindan her zaman geminin burun zirhina isabet eder.
+UI.Codex.codex_armor1=Burun ve kuyruk zirhlari, çok daha genis bir yüzey alanini kaplamasi gereken yan zirhlardan daha az kütle gerektirir. Her ek lateral zirh noktasi ayrica geminin yüzey alani büyüdükçe artan bir kütleye sahiptir. Burun ve kuyruk zirhlari, lateral zirh büyüdükçe daha genis bir alani kaplamalidir.
+UI.Codex.codex_armor2=Her gövde türü ayrica destekleyebilecegi maksimum zirh miktarina sahiptir.
+UI.Codex.codex_propellantTanks.Title=Iticiler
+UI.Codex.codex_propellantTanks0=Her geminin bir veya daha fazla 100-ton itici tankina sahip olmasi gereklidir. Itici tanklarinin sayisi, geminin Delta-V degerini belirler.
+UI.Codex.codex_shipOfficers.Title=Gemi Subaylari
+UI.Codex.codex_shipOfficers0=Gemi uzun yolculuklar yaptikça veya savaslara katildikça, mürettebatlari kritik deneyim kazanir. Zaman zaman, geminin bir veya daha fazla subayi uzmanlik alanlarinda yetenekli bir uzman olarak taninabilir ve onlara hizmet eden bir veteran astronot ekibi olabilir. Bu subaylar isimlendirilir ve hizmet ettikleri gemiye bonuslar saglarlar.
+UI.Codex.codex_shipOfficers1=Subaylar birden fazla kez terfi edebilir, her rütbede daha büyük bonuslar saglarlar. Savasta ölebilirler. // Ayrica uzun süre hizmet ederlerse emekli olabilirler. Daha yüksek rütbeli subaylar ayni filodaki veya ayni yasam alaninda demirlemis gemiler arasinda transfer olabilirler, ancak bunu yaparken bir rütbe kaybederler, bu da çevrelerine olan asinaligin kaybini temsil eder.
+UI.Codex.codex_shipOfficers2=Asagidaki liste, gelistirebileceginiz subay türlerini, gereksinimleri ve yetenekleri içerir.
+UI.Codex.codex_fleets.Title=Filolar
+UI.Codex.codex_fleets0=Filolar, bir veya daha fazla gemiden olusur ve bunlar insan fraksiyonlari veya uzaylilar tarafindan yönlendirilir. Filolar operasyonlar yapar ve uzay savaslarina katilir.
+UI.Codex.codex_shipConstruction.Title=Gemi Insasi
+UI.Codex.codex_shipConstruction0=Bireysel gemiler, yasam alanlarindaki bir uzay dokunusu, gemi insa yeri veya uzay çalismalari modülünde insa edilir. Gemiler, uzayda madencilik yapilan kaynaklar ile Dünya'dan boost ile getirilen malzemelerin karisimindan insa edilebilir. Insaat tamamlandiginda, gemiler insa eden yasam alanina demirler.
+UI.Codex.codex_shipRefits.Title=Yenilemeler
+UI.Codex.codex_shipRefits0=Fraksiyonlar, yasam alanlarinda gemi insa modülleri ile gemileri yenileyebilir. Yenileme genellikle benzer türdeki parçalari degistirmekle sinirlidir.<br/><br/>Gövde degistirilemez.<br/>Güç Ünitesi degistirilebilir, eger yeni Güç Ünitesi ayni Siniftaysa.<br/>Iticiler mevcut iticiye thruster ekleyebilir veya mevcut iticiyi ayni Siniflandirma, gerekli Güç Ünitesi ve Itici tipi ile degistirebilir.<br/>Silahlar, yeni silah ayni Sinif ve Montajda (örnegin, 1-gövde lazer sadece 1-gövde lazerlerle degistirilebilir) ise degistirilebilir.<br/>Zirh serbestçe degistirilebilir.<br/>Piller serbestçe diger pillere degistirilebilir, ancak diger Yardimci modüllerle degistirilemez.<br/>Isi emiciler serbestçe degistirilebilir, ancak diger Yardimci modüllerle degistirilemez.<br/>Radyatörler serbestçe degistirilebilir.<br/>Piller veya isi emiciler olmayan Yardimci modüller, ayni Siniftaki diger modüllerle degistirilebilir.
+UI.Codex.codex_propellant.Title=Delta-V
+UI.Codex.codex_propellant0=Delta-V terimi, hiz degisimini kisaltmasidir. Bir geminin makul bir sürede belirli bir hedefe ulasma yeteneginin ölçüsüdür. Itici maddelerin sinirli kaynagini kullanarak itici yaratmak, geminin kullanilabilir Delta-V'sini azaltir çünkü itici tanklarini bosaltir.
+UI.Codex.codex_propellant1=Bir geminin Delta-V'si, genel kütlesinin, sahip oldugu itici miktarinin ve iticiyi kullanma verimliliginin (spesifik itici veya egzoz hizi olarak adlandirilir) bir ürünüdür. Terra Invicta, son terimi kullanir.
+UI.Codex.codex_propellant2=Gemi itis gücüne ve Solar Sistemdeki yerindeki yerçekimine bagli olarak, ekstra Delta-V harcayarak diger hedeflere daha hizli rotalar çizebilir.
+UI.Codex.codex_propellant3=Bir filonun Delta-V'si, filodaki tüm gemilerin en düsük Delta-V'sidir.
+UI.Codex.codex_propellant4=Gemiler, itici yüklerini yasam alanlarindaki tedarik depolarinda veya gemi insa yerlerinde yeniden doldurmalidir.
+UI.Codex.codex_transfers.Title=Transferler
+UI.Codex.codex_transfers0=Bir transfer, bir filanin uzayda kalirken bir yerden baska bir yere hareket etmesi terimidir. Filolar yörüngelere, istasyonlara veya diger filolara transfer olabilirler.
+UI.Codex.codex_transfers1=Bir transfer operasyonu baslatildiginda, bir filo varis noktasina ulasip ulasamayacagini belirten bir veya daha fazla yörünge seçenegi alir. Birden fazla yörünge varsa, oyuncu varis süresi ve Delta-V harcamasi arasinda seçim yapabilir.
+UI.Codex.codex_transfers2=Yörüngeler <h>mikroitme spiralleri</h>, düsük ivmeye sahip filolar için tipiktir; <h>impuls konikleri</h>, yüksek ivmeye ancak düsük Delta-V'ye sahip filolar için; veya <h>mesale akorlari</h>, yüksek ivme ve Delta-V'ye sahip gelismis filolar için olabilir.
+
+UI.Codex.codex_fleetOperations.Title=Filo Operasyonlari
+UI.Codex.codex_fleetOperations0=Filolar çesitli operasyonlar gerçeklestirebilir, genellikle sadece yörüngede olduklarinda ve transferde olmadiklarinda. Bunlar sunlardir:
+
+UI.Codex.codex_orbitalBombardment.Title=Yörünge Bombardimani
+UI.Codex.codex_orbitalBombardment0=Manyetik, lazer veya nükleer silahlarla donatilmis bir filo, bir uzay cismindeki yüzey hedeflerine yörünge bombardimani gerçeklestirebilir. Saldirilari baslatmak için bir arayüz yörüngesinde olmalari gerekir.
+UI.Codex.codex_orbitalBombardment1=Yukarida Dünya'nin üzerinde, geçerli hedefler ordular, uzay tesisleri, bölgeler ve tespit ettigimiz herhangi bir yabanci varlik içerir. Diger uzay cisimlerinde, üsler ve yere inis yapmis uzay filolari hedef alinabilir.
+UI.Codex.codex_orbitalBombardment2=Bazi silahlar, örnegin ultraviyole dalga boylarinda ates eden lazerler, daha kalin atmosferler üzerinden bombardiman yapamazlar, özellikle Dünya ve Titan'in atmosferleri.
+UI.Codex.codex_orbitalBombardment3=Hedeflenen bir yasam alani veya bölge savunmalara sahipse, bunlar saldiran filoya karsi ates açacak ve mermileri ve füzeleri düsürmeye çalisacaktir.
+UI.Codex.codex_orbitalBombardment4=Bombardiman filosu, hedefle angajman yaptigi irtifayi seçebilir, risk ve hasar arasinda bir denge kurarak. Daha yüksek irtifalarda, her iki taraftaki lazerler daha az etkili olacak ve savunmalar, mermileri ve füzeleri düsürme firsatina sahip olacaktir.
+
+UI.Codex.codex_spaceCombat.Title=Uzay Savasi
+UI.Codex.codex_spaceCombat0=Iki düsman fraksiyonundan gemiler bir yörüngede, derin uzayda veya bir istasyonda karsilastiginda, bir uzay savasi baslar. Oyuncular savaslari otomatik olarak çözmeyi seçebilirler.
+UI.Codex.codex_spaceCombat1=Savas baslamadan önce, her filo üç tavirdan birini seçecektir: Saldir, Kabul Et veya Kaç. Bir savasin gerçeklesmesi için en az bir filonun "Saldir" seçmesi gerekir; diger filo "Kaç" seçerse, her iki filo da takibin yapilmasi için Delta-V teklif edebilir. "Saldir" seçen filo daha yüksek teklifi verirse, savas gerçeklesir. Yasam alanlarinda demirlemis veya önceki savaslar nedeniyle operasyonlara uygun olmayan filolar yalnizca "Kabul Et" seçenegini seçebilirler.
+UI.Codex.codex_spaceCombat2=Bir kovalamacada, iki filonun göreceli ivmeleri, kovalamanin nasil gerçeklesecegini belirler. Bir filo rakibini önemli ölçüde daha hizli ivmelendiriyorsa, çatismayi zorlayabilir veya küçük bir Delta-V ile kaçabilir. Benzer ivmelere sahip iki filo, yavas bir arka kovalamaca yapar, eger her iki taraf da harcama yapmayi kabul ederse büyük miktarda Delta-V harcayabilir. Kovalamaca, takip eden filo belirlenmis bir mesafeye kapandiginda veya kaçan filo mesafeyi artirdiginda sona erer.
+UI.Codex.codex_spaceCombat3=Savunma modüllerine sahip istasyonlar savaslara katilacaktir; bu modüller yok edilirse, istasyon engelli olarak kabul edilir.
+UI.Codex.codex_spaceCombat4=Çok büyük uzay savaslarinda aktif ve destekleyen gemiler olacaktir. Destekleyen gemiler, savas sirasinda aktif gemileri degistirmek üzere daha sonra katilacaktir. Savas sirasinda her zaman aktif olabilecek maksimum gemi sayisini oyun içi ayarlarda seçenekler menüsünden ayarlayabilirsiniz. Örnegin, 30 maksimum degeri, her iki tarafin da her zaman en fazla 15 aktif gemisi olmasini sinirlayacaktir. Bu, çok büyük savaslarda performans nedenleri içindir.
+UI.Codex.codex_spaceCombat5=Bir filo veya istasyon saldiriya ugradiginda, savunucunun ayni yörüngede ve 1.000 kilometreden daha yakin mesafedeki dost filolari savasta yer alacak ve savunan filoya katilacaktir.
+
+UI.Codex.codex_maneuvers.Title=Manevralar
+UI.Codex.codex_maneuvers0=Savas sirasinda oyuncular, gemilerinin 3D uzayda rota noktalari ayarlayarak manevralarini planlarlar. Gemiler rota noktalarina ulasmak için dönecek ve itis gücü kullanacaktir. Oyuncular ayrica geminin yönelmesini bagimsiz olarak döndürebilirler, böylece belirli silahlar veya zirh yüzeyleri düsmana karsi yer alabilir.
+
+UI.Codex.codex_specialManeuvers.Title=Özel Manevralar
+UI.Codex.codex_specialManeuvers0=Özel manevralar sürekli dönüsler, yuvarlanmalar ve geminin burun kismini ana hedefe dogrultmak için kullanilan bir hedefleme komutunu içerir.
+
+UI.Codex.codex_fireControl.Title=Ates Kontrolü
+UI.Codex.codex_fireControl0=Silahlarin bir veya daha fazla ates modu mevcuttur. Savas sirasinda bunlar filo, gemi veya bireysel silah düzeyinde ayarlanabilir.
+UI.Codex.codex_fireControl.Title=Ates Kontrolü
+UI.Codex.codex_fireControl0=Gemiler ayrica bir düsman gemiyi veya yasam alani modülünü ana hedef olarak belirleyebilirler. Geminin silahlari bu düsmana digerlerinden daha fazla öncelik verecektir. Füze silahlari ates edebilmek için bir ana hedefe ihtiyaç duyar.
+UI.Codex.codex_fireControl1=Kapasitelerine bagli olarak, silahlar sadece düsman gemilerini hedef alacak sekilde, sadece gelen mermilere ve füzeleri savunma amaçli ates edecek sekilde veya "koruyucu" modda, önce tehdit edici mermilere ates edip sonra düsman gemilerini hedef alacak sekilde ayarlanabilirler.
+
+UI.Codex.codex_targeting.Title=Hedefleme ve ECM
+UI.Codex.codex_targeting0=Tüm silahlarin kilometre cinsinden bir hedefleme menzili degeri vardir. Bu, silahin hedef gemileri ayirt edebilecegi ve ates edebilecegi mutlak maksimum menzildir. Isin silahlari, hedefe yeterli hasar veremeyecekleri takdirde bu maksimum menzilde ates edemeyebilirler.
+UI.Codex.codex_targeting1=Her gemi silahi, düsman elektronik karsi önlemleri (ECM) yenmek zorundadir. Basarisiz olursa, karsi önlemleri asarken zorunlu bir bekleme süresi yasar. Hedefleme bilgisayar modülleri düsman ECM'sini asabilir.
+UI.Codex.codex_targeting2=Gemiler ayrica dis kisimlarinda, zirh disinda sensörler monte etmelidir. Bunlar tüm silahlara, özellikle nükleer, antimadde, lazer ve parçacik silahlarina karsi hassastir. Sensörlere verilen hasar, geminin düsman ECM'sini asma yetenegini azaltir, ancak hizli bir sekilde onarilir.
+
+UI.Codex.codex_heatManagement.Title=Sicaklik Yönetimi
+UI.Codex.codex_heatManagement0=Gemi güç santralinin bataryalari yeniden sarj etmek veya itis gücünü çalistirmak, genellikle geminin radyatörleri tarafindan atilan isi yaratir; bunlar zirhli olamaz. Savasta, radyatörler korunmak amaciyla geri çekilebilir, ancak gemi tüm isisini, sinirli kapasiteye sahip isi emicilere vermelidir. Isi seviyesi, radyatörler genisletildiginde otomatik olarak azalir. Isi emicilerdeki isi seviyesi maksimuma ulastiginda, gemi iç hasar almaya baslar. Savasta, mümkünse radyatörler otomatik olarak genisletilerek isi yayilmaya baslanir. <h>Uygun isi yönetimi olmadan, bir gemi felaket bir ariza yasar.</h>
+
+UI.Codex.codex_batteryManagement.Title=Batarya Yönetimi
+UI.Codex.codex_batteryManagement0=Bir geminin bataryasi, güç santrali itis gücü için kullanildiginda veya hasar gördügünde güç kaynagi olarak görev yapar.
+
+UI.Codex.codex_damage.Title=Hasar Kontrolü
+UI.Codex.codex_damage0=Bir geminin zirhini delip geçen herhangi bir hasar, iç sistemlerine uygulanir. Silahlar ve diger modüller geçici olarak devre disi kalabilir veya kalici olarak yok olabilir, bu da bir gemi insa atölyesine sahip bir yasam alaninda onarim gerektirir.
+UI.Codex.codex_damage1=Hasar kontrol ekipleri savas sirasinda kritik sistemlerin islevlerini geri kazandirmak için de çaba gösterecektir.

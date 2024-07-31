@@ -1,0 +1,462 @@
+TIHabModuleTemplate.displayName.AdministrationNode=Yönetim Dügümü
+TIHabModuleTemplate.description.AdministrationNode=Bu yasam alaninin ekonomik çiktilarini ve fraksiyonumuzun genel verimliligini artiran bir ofis kompleksi.
+TIHabModuleTemplate.displayName.AntimatterTrap=Antimadde Tuzaklari
+TIHabModuleTemplate.description.AntimatterTrap=Büyük gezegenlerin etrafindaki manyetik alanlarda dogal olarak olusan antimaddeyi toplayan bir manyetik toplayici.
+TIHabModuleTemplate.displayName.AutomatedFissionPile=Otomatik Fisyon Yigini
+TIHabModuleTemplate.description.AutomatedFissionPile=Otomatik yasam alanlari için kendi kendine çalisan bir fisyon reaktörü.
+TIHabModuleTemplate.displayName.AutomatedMiningComplex=Otomatik Madencilik Kompleksi
+TIHabModuleTemplate.description.AutomatedMiningComplex=Bir robot madeni, rafinerisi ve elektromanyetik mancinik.
+TIHabModuleTemplate.displayName.AutomatedOutpostCore=Otomatik Ileri Üs Merkezi
+TIHabModuleTemplate.description.AutomatedOutpostCore=Yerinde insan bulunmadan küçük bir yüzey üssünü yönetmek için bir AI merkezi.
+TIHabModuleTemplate.displayName.AutomatedPlatformCore=Otomatik Platform Merkezi
+TIHabModuleTemplate.description.AutomatedPlatformCore=Küçük bir mürettebatsiz istasyonda operasyonlari yönetmek için bir bilgisayar merkezi.
+TIHabModuleTemplate.displayName.AutomatedSolarCollector=Otomatik Günes Toplayici
+TIHabModuleTemplate.description.AutomatedSolarCollector=Otomatik yasam alanlari için mürettebatsiz bir günes enerji modülü.
+TIHabModuleTemplate.displayName.AutomatedSupplyDepot=Otomatik Tedarik Deposu
+TIHabModuleTemplate.description.AutomatedSupplyDepot=Yakit ve mühimmat temin etmek için kendini hizmet eden otomatik bir modül.
+TIHabModuleTemplate.displayName.BroadcastOutlet=Yayin Çikisi
+TIHabModuleTemplate.description.BroadcastOutlet=Çabalarimizi insanliga ileten basit bir medya istasyonu.
+TIHabModuleTemplate.displayName.ConstructionModule=Insaat Modülü
+TIHabModuleTemplate.description.ConstructionModule=Bu yasam alanindaki modüllerin insaatini hizlandirir ve bu gezegen/asteroit sisteminde ek Platformlar ve Ileri Üsler kurmaya olanak tanir.
+TIHabModuleTemplate.displayName.EnergyLab=Enerji Laboratuvari
+TIHabModuleTemplate.description.EnergyLab=Yüksek enerji fizigi deneyleri yapmak için küçük bir laboratuvar.
+TIHabModuleTemplate.displayName.FissionPile=Fisyon Yigini
+TIHabModuleTemplate.description.FissionPile=Yasam alanimiza sürekli elektrik saglayan küçük bir fisyon reaktörü.
+TIHabModuleTemplate.displayName.FusionPile=Fizyon Yigini
+TIHabModuleTemplate.description.FusionPile=Yasam alanimiza temiz ve güvenli güç saglayan temel bir füzyon reaktörü.
+TIHabModuleTemplate.displayName.HeavyFusionPile=Agir Füzyon Yigini
+TIHabModuleTemplate.description.HeavyFusionPile=Yasam alanimiz için önemli miktarda güç saglayan gelismis bir füzyon reaktörü.
+TIHabModuleTemplate.displayName.HeavyFissionPile=Agir Fisyon Yigini
+TIHabModuleTemplate.description.HeavyFissionPile=Yasam alanlarimiza güç saglayan gelismis, kompakt bir fisyon reaktörü.
+TIHabModuleTemplate.displayName.HydroponicsBay=Hidroponik Bölme
+TIHabModuleTemplate.description.HydroponicsBay=Mürettebatimiz için gida yetistirmek üzere bir modül.
+TIHabModuleTemplate.displayName.InformationScienceLab=Bilgi Bilimleri Laboratuvari
+TIHabModuleTemplate.description.InformationScienceLab=Yeni hesaplama teorileri ve teknolojilerini incelemek için bir laboratuvar.
+TIHabModuleTemplate.displayName.LifeScienceLab=Hayat Bilimleri Laboratuvari
+TIHabModuleTemplate.description.LifeScienceLab=Uzayda biyoloji ve hayatta kalmayi arastirmaya adanmis küçük bir arastirma modülü.
+TIHabModuleTemplate.displayName.MarinePlatoonBarracks=Denizci Bölügü Kislasi
+TIHabModuleTemplate.description.MarinePlatoonBarracks=Bu yasam alaninda çikarlarimizi koruyan birkaç denizci takimini barindirir.
+TIHabModuleTemplate.displayName.MaterialsLab=Malzemeler Laboratuvari
+TIHabModuleTemplate.description.MaterialsLab=Düsük ve sifir yerçekimi ortamlarinda yeni güçlü malzemeleri incelemek için bir laboratuvar.
+TIHabModuleTemplate.displayName.MilitaryScienceLab=Askeri Bilim Laboratuvari
+TIHabModuleTemplate.description.MilitaryScienceLab=Askeri teknolojiler ve doktrinler gelistirmeye adanmis küçük bir modül.
+TIHabModuleTemplate.displayName.OutpostCore=Ileri Üs Merkezi
+TIHabModuleTemplate.description.OutpostCore=Küçük bir gezegen üssü için temel bir kontrol merkezi.
+TIHabModuleTemplate.displayName.OutpostMiningComplex=Ileri Üs Madencilik Kompleksi
+TIHabModuleTemplate.description.OutpostMiningComplex=Küçük ama kritik bir tesis, maden çikarir ve cevheri rafineriden geçirir ve elektromanyetik mancinik kullanarak ürünü diger yasam alanlarimiza gönderir.
+TIHabModuleTemplate.displayName.ParticleCollider=Parçacik Çarpistirici
+TIHabModuleTemplate.description.ParticleCollider=Arastirma ve küçük miktarda antimadde üretimi için kullanilabilen küçük bir parçacik hizlandirici.
+TIHabModuleTemplate.displayName.PlatformCore=Platform Merkezi
+TIHabModuleTemplate.description.PlatformCore=Küçük bir uzay istasyonu için kontrol merkezi.
+TIHabModuleTemplate.displayName.PointDefenseArray=Nokta Savunma Dizisi
+TIHabModuleTemplate.description.PointDefenseArray=Yasam alanini saldirilardan koruyan savunma silahlari toplulugu. Yeni teknolojiler gelistirdikçe silahlari ve zirhi otomatik olarak yükseltir.
+TIHabModuleTemplate.displayName.Quarters=Kisisel Alan
+TIHabModuleTemplate.description.Quarters=Yasam alani mürettebati için küçük bir konfor ve ara sira gizlilik sunan yatakhane, mutfak ve spor salonu.
+TIHabModuleTemplate.displayName.SentinelComplex=Sentinel Kompleksi
+TIHabModuleTemplate.description.SentinelComplex=Yerküre ülkelerini kontrol altina almak için tasarlanmis büyük bir yörüngeden yüzeye saldiri silahlari cephaneligi.
+TIHabModuleTemplate.displayName.SocialScienceLab=Sosyal Bilimler Laboratuvari
+TIHabModuleTemplate.description.SocialScienceLab=Siyasi bilimler, ekonomi ve iletisim konularinda arastirmalar yapan birkaç arastirmaciyi barindiran bir düsünce kurulusu.
+TIHabModuleTemplate.displayName.SolarCollector=Günes Toplayici
+TIHabModuleTemplate.description.SolarCollector=Yasam alanimizi beslemek için küçük bir günes paneli kümesi. Günes'e yakin oldugunda çok daha etkili.
+TIHabModuleTemplate.displayName.SpaceDock=Uzay Limani
+TIHabModuleTemplate.description.SpaceDock=Gezegenler arasi uzay araçlari için temel bir montaj platformu. Ayrica bir tedarik deposu olarak islev görür ve sonda firlatir.
+TIHabModuleTemplate.displayName.SpaceScienceLab=Uzay Bilimleri Laboratuvari
+TIHabModuleTemplate.description.SpaceScienceLab=Astronomi ve gezegen bilimlerine adanmis küçük bir laboratuvar.
+TIHabModuleTemplate.displayName.SupplyDepot=Tedarik Deposu
+TIHabModuleTemplate.description.SupplyDepot=Gemi ve araçlarimizin yakit, mühimmat ve malzeme alabilecegi bir yer.
+TIHabModuleTemplate.displayName.TouristBerth=Turist Yatakhane
+TIHabModuleTemplate.description.TouristBerth=Yüksek ücretli müsterilere hizmet eden bir uzay oteli odasi.
+TIHabModuleTemplate.displayName.XenologyLab=Xenoloji Laboratuvari
+TIHabModuleTemplate.description.XenologyLab=Uzaylilarin gelislerini arastirmak için temel bir laboratuvar.
+TIHabModuleTemplate.displayName.AdministrationTower=Yönetim Kulesi
+TIHabModuleTemplate.description.AdministrationTower=Bu yasam alaninin ekonomik çiktilarini ve fraksiyonumuzun genel verimliligini artirmaya adanmis ofisler.
+TIHabModuleTemplate.displayName.AntimatterHarvester=Antimadde Hasat Makinesi
+TIHabModuleTemplate.description.AntimatterHarvester=Bir gezegenin manyetik alanindan antimadde toplamak için manyetik döngüler dagitan bir platform ve kontrol merkezi.
+TIHabModuleTemplate.displayName.Atomsmasher=Atom Çarpistirici
+TIHabModuleTemplate.description.Atomsmasher=Arastirma ve sinirli miktarda antimadde üretimi için kullanilan bir parçacik hizlandirici.
+TIHabModuleTemplate.displayName.CommunicationsHub=Iletisim Merkezi
+TIHabModuleTemplate.description.CommunicationsHub=Dünyaya hikayemizi anlatan büyük bir yayin dügümü.
+TIHabModuleTemplate.displayName.DeepSpaceTelescope=Derin Uzay Teleskobu
+TIHabModuleTemplate.description.DeepSpaceTelescope=Diger yildizlar etrafindaki karasal gezegenleri görüntüleyebilen büyük bir teleskop dizisi.
+TIHabModuleTemplate.displayName.EnergyResearchCenter=Enerji Arastirma Merkezi
+TIHabModuleTemplate.description.EnergyResearchCenter=Tahrik, yönlendirilmis enerji silahlari ve enerji depolama üzerine çalisan büyük bir laboratuvar.
+TIHabModuleTemplate.displayName.Farm=Çiftlik
+TIHabModuleTemplate.description.Farm=Maddeyi taze yiyecege ve nefes alinabilir hava haline dönüstüren hidroponik bir çiftlik.
+TIHabModuleTemplate.displayName.FissionReactorArray=Fisyon Reaktörü Dizisi
+TIHabModuleTemplate.description.FissionReactorArray=Günes'ten herhangi bir mesafede yasam alanini besleyebilen büyük bir nükleer reaktör.
+TIHabModuleTemplate.displayName.FusionReactorArray=Füzyon Reaktörü Dizisi
+TIHabModuleTemplate.description.FusionReactorArray=Yasam alanimiza büyük miktarda enerji saglayan büyük bir füzyon reaktörü.
+TIHabModuleTemplate.displayName.HeavyFissionReactorArray=Agir Fisyon Reaktörü Dizisi
+TIHabModuleTemplate.description.HeavyFissionReactorArray=Yasam alanlarimiza güç saglayan gelismis bir fisyon reaktörü.
+TIHabModuleTemplate.displayName.HeavyFusionReactorArray=Agir Füzyon Reaktörü Dizisi
+TIHabModuleTemplate.description.HeavyFusionReactorArray=Yasam alanlarimiza büyük miktarda güç saglayan gelismis füzyon reaktörleri.
+TIHabModuleTemplate.displayName.InformationScienceResearchCenter=Bilgi Bilimleri Arastirma Merkezi
+TIHabModuleTemplate.description.InformationScienceResearchCenter=Yeni bilgisayar teknolojilerini gelistirmek için büyük bir düsük yerçekimli temiz oda.
+TIHabModuleTemplate.displayName.LayeredDefenseArray=Katmanli Savunma Dizisi
+TIHabModuleTemplate.description.LayeredDefenseArray=Yasam alanini saldirilardan koruyabilecek bir savas platformu. Yeni teknolojiler gelistirdikçe silahlari ve zirhi otomatik olarak yükseltir.
+TIHabModuleTemplate.displayName.LifeScienceResearchCenter=Hayat Bilimleri Arastirma Merkezi
+TIHabModuleTemplate.description.LifeScienceResearchCenter=Uzayda mikroplarin, hayvanlarin ve insanlarin etkilerini incelemek için büyük bir biyolab.
+TIHabModuleTemplate.displayName.MarineCompanyBarracks=Denizci Tabur Kislasi
+TIHabModuleTemplate.description.MarineCompanyBarracks=Üç tabur denizci ve bir karargah personelini barindiran bir tesis, bu yasam alaninda çikarlarimizi korur.
+TIHabModuleTemplate.displayName.MaterialsResearchCenter=Malzeme Arastirma Merkezi
+TIHabModuleTemplate.description.MaterialsResearchCenter=Yeni zirh, enerji depolama ve diger kullanimlar için kimya merkezine adanmis bir merkez.
+TIHabModuleTemplate.displayName.MilitaryScienceResearchCenter=Askeri Bilim Arastirma Merkezi
+TIHabModuleTemplate.description.MilitaryScienceResearchCenter=Savas kapasitemizi gelistirmeye adanmis bir merkez.
+TIHabModuleTemplate.displayName.Nanofactory=Nanofabrika
+TIHabModuleTemplate.description.Nanofactory=Bu yasam alanindaki modüllerin insasini hizlandirir ve bu gezegen/asteroit sisteminde ek Yörüngeler ve Yerlesim Yerleri kurmaya olanak tanir.
+TIHabModuleTemplate.displayName.OperationsCenter=Operasyon Merkezi
+TIHabModuleTemplate.description.OperationsCenter=Bu yasam alanindaki ve diger yerlerdeki uzay varliklarimizi yönetmek için 24 saat personel tarafindan desteklenen bir tesis.
+TIHabModuleTemplate.displayName.OrbitalCore=Yörünge Merkezi
+TIHabModuleTemplate.description.OrbitalCore=Platformu bir Yörüngelige yükseltir, iki yeni sektör ve her biri dört modül ekler ve Seviye 2 modüllerinin insasina izin verir.
+TIHabModuleTemplate.displayName.OrbitalHospital=Medical Center=Orbital Hastane
+TIHabModuleTemplate.description.OrbitalHospital=Düsük veya sifir yerçekiminde hastalik ve yaralanmalardan iyilesen yüksek ücretli müsteriler için bir tibbi tesis.
+TIHabModuleTemplate.displayName.ResearchCampus=Arastirma Kampüsü
+TIHabModuleTemplate.description.ResearchCampus=Ikincil egitim kurumlariyla isbirligi içinde yürütülen genel bir arastirma merkezi.
+TIHabModuleTemplate.displayName.ResidentialModule=Konut Modülü
+TIHabModuleTemplate.description.ResidentialModule=Bu yasam alaninin mürettebati ve aileleri için daireler ve diger sivil ve ticari tesisler.
+TIHabModuleTemplate.displayName.SettlementCore=Yerlesim Merkezi
+TIHabModuleTemplate.description.SettlementCore=Ileri Üs'ü bir Yerlesim Yeri'ne yükseltir, iki yeni sektör ve her biri dört modül ekler ve Seviye 2 modüllerinin insasina izin verir.
+TIHabModuleTemplate.displayName.SettlementMiningComplex=Yerlesim Madencilik Kompleksi
+TIHabModuleTemplate.description.SettlementMiningComplex=Islenmis malzemeleri diger yasam alanlarimiza gönderebilen büyük bir maden, rafineri ve elektromanyetik mancinik.
+TIHabModuleTemplate.displayName.Shipyard=Gemi Insa Yeri
+TIHabModuleTemplate.description.Shipyard=Büyük gemileri çok daha hizli tamamlayabilen büyük bir gemi insa tesisi. Ayrica bir tedarik deposu olarak islev görür ve sonda firlatir.
+TIHabModuleTemplate.displayName.SkunkWorks=Skunkworks
+TIHabModuleTemplate.description.SkunkWorks=Bürokratik engellerden bagimsiz olarak yeni modüller, sistemler ve araçlar gelistirmek için mühendislik yeteneklerinin bir araya geldigi bir yer.
+TIHabModuleTemplate.displayName.SocialScienceResearchCenter=Sosyal Bilimler Arastirma Merkezi
+TIHabModuleTemplate.description.SocialScienceResearchCenter=Insan davranisini genisletmeye ve hedeflerimizi ilerletmeye yönelik politikalar gelistirmeye adanmis büyük bir tesis.
+TIHabModuleTemplate.displayName.SolarArray=Günes Dizisi
+TIHabModuleTemplate.description.SolarArray=Günes'e yakin konumlandirildiginda büyük miktarda enerji saglayan büyük bir günes paneli montaji.
+TIHabModuleTemplate.displayName.SpaceHotel=Uzay Oteli
+TIHabModuleTemplate.description.SpaceHotel=Yüksek ücretli müsteriler için büyük bir düsük yerçekimli eglence ve konferans merkezi.
+TIHabModuleTemplate.displayName.SpaceScienceResearchCenter=Uzay Bilimleri Arastirma Merkezi
+TIHabModuleTemplate.description.SpaceScienceResearchCenter=Büyük bir astronomi ve gezegen bilimi laboratuvari.
+TIHabModuleTemplate.displayName.XenoscienceResearchCenter=Xenobilim Arastirma Merkezi
+TIHabModuleTemplate.description.XenoscienceResearchCenter=Uzaylilari, yöntemlerini ve hedeflerini incelemek için disiplinlerarasi bir merkez.
+TIHabModuleTemplate.displayName.AdministrationComplex=Yönetim Kompleksi
+TIHabModuleTemplate.description.AdministrationComplex=Bu yasam alani için büyük bir yönetim merkezi.
+TIHabModuleTemplate.displayName.AgricultureComplex=Tarim Kompleksi
+TIHabModuleTemplate.description.AgricultureComplex=Bu yasam alanini bir dereceye kadar kendine yeterli hale getiren dev bir hidroponik çiftlik kompleksi.
+TIHabModuleTemplate.displayName.AntimatterFarm=Antimadde Çiftligi
+TIHabModuleTemplate.description.AntimatterFarm=Büyük bir gezegenin manyetik alaninda dogal olarak olusan antimaddeyi toplamak için plazma döngüleri kullanan büyük ölçekli bir madencilik merkezi.
+TIHabModuleTemplate.displayName.Battlestations=Savas Istasyonlari
+TIHabModuleTemplate.description.Battlestations=Önemli bir saldiriya dayanabilecek sekilde insa edilmis agir silahlanmis bir savas modülü. Yeni teknolojiler gelistikçe silahlari ve zirhi otomatik olarak yükseltir.
+
+TIHabModuleTemplate.displayName.CivilianComplex=Sivil Kompleks
+TIHabModuleTemplate.description.CivilianComplex=Ekibimiz ve aileleri için çesitli olanaklar sunan küçük bir uzay kasabasi.
+
+TIHabModuleTemplate.displayName.ColonyCore=Koloni Merkezi
+TIHabModuleTemplate.description.ColonyCore=Üssü bir Koloni'ye yükseltir, toplamda bes sektör ekler ve Seviye 3 modüllerinin insasina izin verir.
+
+TIHabModuleTemplate.displayName.ColonyMiningComplex=Koloni Madencilik Kompleksi
+TIHabModuleTemplate.description.ColonyMiningComplex=Bu uzay cisminin ham maddelerini çikaran, isleyen ve tasiyan büyük bir katapult tarafindan desteklenen genis bir madencilik ve rafinaj kompleksidir.
+
+TIHabModuleTemplate.displayName.CommandCenter=Komuta Merkezi
+TIHabModuleTemplate.description.CommandCenter=Günes Sistemi boyunca uzay varliklarimizi ag baglantilari için komuta, kontrol ve iletisim tesisi.
+
+TIHabModuleTemplate.displayName.EnergyInstitute=Enerji Enstitüsü
+TIHabModuleTemplate.description.EnergyInstitute=Fizik çalismalarina adanmis dev bir laboratuvar kompleksi.
+
+TIHabModuleTemplate.displayName.FissionReactorFarm=Fisyon Reaktörü Çiftligi
+TIHabModuleTemplate.description.FissionReactorFarm=Bu yasam alanini beslemek için genis bir nükleer reaktör kompleksi.
+
+TIHabModuleTemplate.displayName.Foundry=Dökümhane
+TIHabModuleTemplate.description.Foundry=Yeni teknolojilerin hizli prototiplenmesi ve gelistirilmesi için adanmis bir site.
+
+TIHabModuleTemplate.displayName.FusionReactorFarm=Füzyon Reaktörü Çiftligi
+TIHabModuleTemplate.description.FusionReactorFarm=Yasam alanimiza temiz enerji üreten yüksek enerjili, verimli füzyon reaktörleri dizisi.
+
+TIHabModuleTemplate.displayName.GeriatricsFacility=Uzay Hastanesi
+TIHabModuleTemplate.description.GeriatricsFacility=Düsük yerçekimi ortamlarinda yalnizca mümkün olan özel tedavilere adanmis büyük bir tibbi tesis, acil ve uzun süreli bakim üniteleriyle birlikte.
+
+TIHabModuleTemplate.displayName.HeavyFissionReactorFarm=Agir Fisyon Reaktörü Çiftligi
+TIHabModuleTemplate.description.HeavyFissionReactorFarm=Yasam alanlarimizi besleyen genis bir gelismis fisyon reaktörleri kümesi.
+
+TIHabModuleTemplate.displayName.HeavyFusionReactorFarm=Agir Füzyon Reaktörü Çiftligi
+TIHabModuleTemplate.description.HeavyFusionReactorFarm=En büyük yasam alanlarimizi desteklemek için bir dizi birinci sinif füzyon reaktörü.
+
+TIHabModuleTemplate.displayName.Helium-3Mine=Helyum-3 Madeni
+TIHabModuleTemplate.description.Helium-3Mine=Helyum-3 füzyon yakitini büyük bir gaz devinden toplayan hasat drone'lari, Günes Sistemi çevresindeki varliklarimiza tasima yapar.
+
+TIHabModuleTemplate.displayName.InformationScienceInstitute=Bilgi Bilimleri Enstitüsü
+TIHabModuleTemplate.description.InformationScienceInstitute=Bilgisayar bilimi, veri bilimi ve istihbarat toplama alanlarinda ilerlemelere adanmis yüksek güçlü bir laboratuvar kompleksi.
+
+TIHabModuleTemplate.displayName.InterstellarLaunchingLaser=Yildizlararasi Firlatma Tesisi
+TIHabModuleTemplate.description.InterstellarLaunchingLaser=Yildizlararasi uzay gemileri insa etmek için bir insaat alani. Gemiyi yolculuguna baslatmak için devasa firlatma lazerleri içerir.
+
+TIHabModuleTemplate.displayName.LifeScienceInstitute=Hayat Bilimleri Enstitüsü
+TIHabModuleTemplate.description.LifeScienceInstitute=Kapsama tesisleri ve genetik mühendisligi hizli prototipleme merkezleri içeren büyük biyolablar.
+
+TIHabModuleTemplate.displayName.MarineBattalionBarracks=Denizci Taburu Kislasi
+TIHabModuleTemplate.description.MarineBattalionBarracks=Üssümüzü düsman saldirilarindan koruyabilecek yüzlerce uzay denizcisini barindiran bir tesis.
+
+TIHabModuleTemplate.displayName.MaterialsInstitute=Malzemeler Enstitüsü
+TIHabModuleTemplate.description.MaterialsInstitute=Uzay kosullarina dayanabilecek yeni maddeler gelistirmeyi amaçlayan kimya laboratuvarlari ve test tesislerinin kompleksi.
+
+TIHabModuleTemplate.displayName.MediaCenter=Medya Merkezi
+TIHabModuleTemplate.description.MediaCenter=Hikayemizi birçok dilde haber ve eglence kanallari araciligiyla ileten stüdyolar ve iletisim dizileri.
+
+TIHabModuleTemplate.displayName.MilitaryScienceInstitute=Askeri Bilim Enstitüsü
+TIHabModuleTemplate.description.MilitaryScienceInstitute=Yeni nesil savasta çatisma, lojistik ve doktrin ustaligina adanmis birkaç savas laboratuvari.
+
+TIHabModuleTemplate.displayName.NanofacturingComplex=Nanofabrikasyon Kompleksi
+TIHabModuleTemplate.description.NanofacturingComplex=Bu yasam alanindaki tüm modüllerin insasini hizlandirir ve bu gezegen/asteroit sisteminde ek Yüzeyler ve Koloniler kurmaya olanak tanir.
+
+TIHabModuleTemplate.displayName.ResearchUniversity=Arastirma Üniversitesi
+TIHabModuleTemplate.description.ResearchUniversity=Yeni nesil akademisyenler ve politika yapicilar gelistirmeye adanmis uzayda tam hizmet veren bir arastirma akademisi.
+
+TIHabModuleTemplate.displayName.SocialScienceInstitute=Sosyal Bilimler Enstitüsü
+TIHabModuleTemplate.description.SocialScienceInstitute=Yeni çagin siyasi, ekonomik ve sosyolojik yönlerini inceleyen tam kapsamli bir politika enstitüsü.
+
+TIHabModuleTemplate.displayName.SolarFarm=Günes Çiftligi
+TIHabModuleTemplate.description.SolarFarm=Günes'ten alinan enerjiyi maksimize etmek için tasarlanmis devasa günes panelleri dizisi.
+
+TIHabModuleTemplate.displayName.SpaceResort=Uzay Tatil Köyü
+TIHabModuleTemplate.description.SpaceResort=Müsterilerimiz için dis uzaydaki en yüksek eglence deneyimi.
+
+TIHabModuleTemplate.displayName.SpaceScienceInstitute=Uzay Bilimleri Enstitüsü
+TIHabModuleTemplate.description.SpaceScienceInstitute=Günes Sistemi'mizi ve derin uzayi astronomlarin önceki kusaklarinin yalnizca hayal edebilecegi bir ayrinti seviyesinde inceleyebilen laboratuvarlar.
+
+TIHabModuleTemplate.displayName.Spaceworks=Uzay Çalismalari
+TIHabModuleTemplate.description.Spaceworks=En büyük savas gemilerimizi küçük gemi insa yerlerimizden çok daha kisa sürede monte edebilen devasa bir uzay gemisi insa tesisi. Ayrica bir tedarik deposu olarak islev görür ve sondalar firlatir.
+
+TIHabModuleTemplate.displayName.Supercollider=Süper Çarpistirici
+TIHabModuleTemplate.description.Supercollider=Antimadde üretimi ve yüksek enerjili fizigin anlasilmasini gelistirmek için kullanilan yüksek güçlü bir parçacik hizlandirici halkasi.
+
+TIHabModuleTemplate.displayName.RingCore=Yüzey Merkezi
+TIHabModuleTemplate.description.RingCore=Istasyonu bir Yüzey'e yükseltir, toplamda bes sektör ekler ve Seviye 3 modüllerinin insasina izin verir.
+
+TIHabModuleTemplate.displayName.XenoscienceInstitute=Xenobilim Enstitüsü
+TIHabModuleTemplate.description.XenoscienceInstitute=Uzaylilarin gelisini incelemeye adanmis büyük bir disiplinlerarasi merkez.
+
+TIHabModuleTemplate.displayName.AlienOutpostCore=Uzayli Ileri Üs Merkezi
+TIHabModuleTemplate.description.AlienOutpostCore=Bu üssün komuta ve kontrol merkezi gibi görünen bir yapi.
+
+TIHabModuleTemplate.displayName.AlienSettlementCore=Uzayli Yerlesim Merkezi
+TIHabModuleTemplate.description.AlienSettlementCore=Bu üssün büyük bir komuta ve kontrol dügümü.
+
+TIHabModuleTemplate.displayName.AlienColonyCore=Uzayli Koloni Merkezi
+TIHabModuleTemplate.description.AlienColonyCore=Dev bir karargah tesisi.
+
+TIHabModuleTemplate.displayName.AlienPlatformCore=Uzayli Platform Merkezi
+TIHabModuleTemplate.description.AlienPlatformCore=Bu küçük uzayli istasyon için yapisal bir merkez.
+
+TIHabModuleTemplate.displayName.AlienOrbitalCore=Uzayli Yörünge Merkezi
+TIHabModuleTemplate.description.AlienOrbitalCore=Bu istasyon için bir komuta merkezi.
+
+TIHabModuleTemplate.displayName.AlienRingCore=Uzayli Yüzey Merkezi
+TIHabModuleTemplate.description.AlienRingCore=Bu istasyon için büyük bir komuta modülü.
+
+TIHabModuleTemplate.displayName.AlienSpacedock=Uzayli Uzay Limani
+TIHabModuleTemplate.description.AlienSpacedock=Uzaylilarin uzay araçlari için bir montaj tesisi.
+
+TIHabModuleTemplate.displayName.AlienShipyard=Uzayli Gemi Insa Yeri
+TIHabModuleTemplate.description.AlienShipyard=Uzaylilarin uzay araçlari için büyük bir montaj tesisi.
+
+TIHabModuleTemplate.displayName.AlienSpaceworks=Uzayli Uzay Çalismalari
+TIHabModuleTemplate.description.AlienSpaceworks=Uzaylilarin uzay araçlari için genis bir montaj tesisi.
+
+TIHabModuleTemplate.displayName.AlienFusionPile=Uzayli Füzyon Yigini
+TIHabModuleTemplate.description.AlienFusionPile=Bu yasam alani için bazi türde bir anevtronik nükleer füzyona dayali bir güç dügümü.
+
+TIHabModuleTemplate.displayName.AlienFusionReactorArray=Uzayli Füzyon Reaktörü Dizisi
+TIHabModuleTemplate.description.AlienFusionReactorArray=Büyük bir uzayli güç tesisi.
+
+TIHabModuleTemplate.displayName.AlienFusionReactorFarm=Uzayli Füzyon Reaktörü Çiftligi
+TIHabModuleTemplate.description.AlienFusionReactorFarm=Dev bir uzayli güç tesisi.
+
+TIHabModuleTemplate.displayName.AlienAssembler=Uzayli Montajci
+TIHabModuleTemplate.description.AlienAssembler=Bir tür üretim ve insaat modülü.
+
+TIHabModuleTemplate.displayName.AlienNanofactory=Uzayli Nanofabrika
+TIHabModuleTemplate.description.AlienNanofactory=Genis bir fab ve insaat ünitesi.
+
+TIHabModuleTemplate.displayName.AlienNanofacturingComplex=Uzayli Nanofabrikasyon Kompleksi
+TIHabModuleTemplate.description.AlienNanofacturingComplex=Dev bir üretim merkezi.
+
+TIHabModuleTemplate.displayName.AlienWormholeFacility=Bilinmeyen Tesis
+TIHabModuleTemplate.displayName.AlienWormholeFacility_reveal=Uzayli Karanlik Geçit Tesisi
+TIHabModuleTemplate.description.AlienWormholeFacility=Bu yapinin ne için oldugunu bilmiyoruz.
+TIHabModuleTemplate.description.AlienWormholeFacility_reveal=Bu yapi, bu üssü ve bilinmeyen bir hedef arasinda bir karanlik geçit barindiriyor. Uzaylilarin materyalleri Günes Sistemi'ne nasil tasidigini düsünüyoruz.
+TIHabModuleTemplate.displayName.AlienPointDefenseArray=Uzayli Nokta Savunma Dizisi
+TIHabModuleTemplate.description.AlienPointDefenseArray=Bir savas kapasitesine sahip modül.
+
+TIHabModuleTemplate.displayName.AlienLayeredDefenseArray=Uzayli Katmanli Savunma Dizisi
+TIHabModuleTemplate.description.AlienLayeredDefenseArray=Genis bir silah modülü.
+
+TIHabModuleTemplate.displayName.AlienBattlestations=Uzayli Savas Istasyonlari
+TIHabModuleTemplate.description.AlienBattlestations=Silahlarla dolu büyük bir modül.
+
+TIHabModuleTemplate.displayName.AlienOutpostMiningComplex=Küçük Uzayli Madencilik Kompleksi
+TIHabModuleTemplate.description.AlienOutpostMiningComplex=Bir uzayli kaynak çikarim tesisi.
+
+TIHabModuleTemplate.displayName.AlienSettlementMiningComplex=Büyük Uzayli Madencilik Kompleksi
+TIHabModuleTemplate.description.AlienSettlementMiningComplex=Büyük bir uzayli kaynak çikarim ve rafinaj tesisi.
+
+TIHabModuleTemplate.displayName.AlienColonyMiningComplex=Dev Uzayli Madencilik Kompleksi
+TIHabModuleTemplate.description.AlienColonyMiningComplex=Dev bir uzayli kaynak çikarim ve isleme tesisi.
+
+TIHabModuleTemplate.displayName.AlienBarracks=Uzayli Kisla
+TIHabModuleTemplate.description.AlienBarracks=Bir tür askeri modül.
+
+TIHabModuleTemplate.displayName.AlienGarrison=Uzayli Garnizon
+TIHabModuleTemplate.description.AlienGarrison=Genis bir askeri modül.
+
+TIHabModuleTemplate.displayName.AlienCitadel=Uzayli Hisar
+TIHabModuleTemplate.description.AlienCitadel=Dev bir askeri modül.
+
+TIHabModuleTemplate.displayName.AlienObservationPost=Uzayli Gözlemevi
+TIHabModuleTemplate.description.AlienObservationPost=Bir uzayli gözetleme modülü.
+
+TIHabModuleTemplate.displayName.AlienSurveillanceArray=Uzayli Gözetleme Dizisi
+TIHabModuleTemplate.description.AlienSurveillanceArray=Genis bir uzayli gözetleme modülü.
+
+TIHabModuleTemplate.displayName.AlienWatchtower=Uzayli Gözcü Kulesi
+TIHabModuleTemplate.description.AlienWatchtower=Dev bir uzayli gözetleme modülü.
+
+TIHabModuleTemplate.displayName.DestroyedModule11=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule11=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule12=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule12=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule13=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule13=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule21=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule21=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule22=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule22=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule23=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule23=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule31=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule31=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule32=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule32=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.DestroyedModule33=Yikilmis Modül
+TIHabModuleTemplate.description.DestroyedModule33=Bu yasam modülü artik çalismiyor. Burada yeni bir modül insa edilebilir.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule11=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule11=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule12=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule12=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule13=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule13=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule21=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule21=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule22=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule22=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule23=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule23=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule31=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule31=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule32=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule32=Bu yasam modülü artik çalismiyor.
+
+TIHabModuleTemplate.displayName.AlienDestroyedModule33=Yikilmis Uzayli Modül
+TIHabModuleTemplate.description.AlienDestroyedModule33=Bu yasam modülü artik çalismiyor.
+
+HabModuleSpecialRule.DropTroops=-Bir danismanin, ayni gezegendeki bir arayüz yörüngesinden veya dost bir yasam alanindan düsman yasam alanlarina saldirmasini destekler. Savas gücü: {0}
+
+HabModuleSpecialRule.Cost_Scales_With_Gravity=-Insaat maliyeti ve güç tüketimi kaçis hizi ve ev sahibi uzay cisminden uzakliga göre ölçeklenir.
+
+HabModuleSpecialRule.Shipyard=-Uzay cisimlerinin yüzeylerinde bulunan gemi insa yerlerinden firlatilan gemiler, yörüngeye ulasmak için minimum bir savas ivmesi ve Delta-V'ye ihtiyaç duyar. Bu degerler daha büyük cisimlerde artar ve Delta-V gereksinimi yüksek enlemlerde artar.
+
+HabModuleSpecialRule.Requires_Colonized_Body=-Sadece Dünya-Luna sistemi veya 10.000 nüfuslu ya da daha büyük dünyalarda izin verilmistir.
+
+HabModuleSpecialRule.Requires_Inhabited_Body=-Sadece Dünya-Luna sistemi veya 50.000 nüfuslu ya da daha büyük dünyalarda izin verilmistir.
+
+HabModuleSpecialRule.Requires_GasGiant_Orbit=-Sadece bir gaz devi yörüngesinde izin verilmistir.
+
+HabModuleSpecialRule.Requires_Interface_Orbit=-Sadece arayüz yörüngelerinde izin verilmistir.
+
+HabModuleSpecialRule.Solar_Power_Variable_Output=-Güç çiktisi, Günes'e yakinlikla artar.
+
+HabModuleSpecialRule.CanFoundTier1Habs=-Platformlar ve ileri üslerin kurulmasina izin verir.
+
+HabModuleSpecialRule.CanFoundTier2Habs=-Yörüngeler ve yerlesimlerin kurulmasina izin verir.
+
+HabModuleSpecialRule.CanFoundTier3Habs=-Yüzeyler ve kolonilerin kurulmasina izin verir.
+
+HabModuleSpecialRule.MarinePlatoon=<skip/>
+
+HabModuleSpecialRule.MarineCompany=<skip/>
+
+HabModuleSpecialRule.MarineBattalion=<skip/>
+
+HabModuleSpecialRule.Griffins=<skip/>
+
+HabModuleSpecialRule.WarDogs=<skip/>
+
+HabModuleSpecialRule.Salamanders=<skip/>
+
+HabModuleSpecialRule.PowerFirst=-Bu modül, digerlerinden önce yeniden enerji verilecektir.
+
+HabModuleSpecialRule.SentinelModule=-Kurumumuz için Dominasyon Ulus görevini etkinlestirir.
+
+HabModuleSpecialRule.InterstellarLaunchModule=-Yildizlararasi uzay gemileri için insaat merkezi ve firlatma lazeri sitesi.
+
+HabModuleSpecialRule.EarthLEOOnly=-Sadece Düsük Dünya Yörüngesi'nde insa edilebilir.
+
+HabModuleSpecialRule.HarvestAntimatter=-Bir yörüngede kozmik isinlar tarafindan üretilen antimaddeden {1} toplar. Yörüngede antimadde varligi gerektirir. Her yörüngede sadece biri çalisabilir, hangi fraksiyondan olduguna bakilmaksizin.
+
+HabModuleSpecialRule.Farm=-Yasam alaninin uçucu ve su tüketimini {0} mürettebatin tükettigi miktar kadar azaltir.
+
+HabModuleSpecialRule.AlienWormhole=<skip/>
+
+HabModuleSpecialRule.MoneyIfNotBuilding=-Eger yasam alaninda insaatta modül yoksa, para geliri için ürünler üretir.
+
+HabModuleSpecialRule.NotInIrradiated=-Radyasyonlu yerlerde insa edilemez.
+
+HabModuleSpecialRule.ConsumesMCWhenUnpowered=-Enerji verilmediginde bile Misyon Kontrolü gerektirir.
+
+HabModuleSpecialRule.TechBonusDiminishingReturns=-Tüm teknoloji kategorisi bonuslari, 50%'den fazla toplu bonus oldugunda azalan getirilerle sinirlidir.
+
+HabModuleSpecialRule.LEOBonusArmyCombatValue=-Modül, Dünya arayüz yörüngesindeyse ordularimizin askeri teknoloji degerine +{2} ekler, maksimum 0.3.
+
+HabModuleSpecialRule.LEOBonusPropagandaStrength=-Modül, Dünya arayüz yörüngesindeyse, basarili Kamu Kampanyasi görevlerimizde +{0} güç ekler, maksimum 9.
+
+HabModuleSpecialRule.LEOBonusAlienDetection=-Modül, Dünya arayüz yörüngesindeyse, uzayli tespitimize +{0} bonus ekler, maksimum 9.
+
+HabModuleSpecialRule.LEOBonusMiltech=-Modül, Dünya arayüz yörüngesindeyse Askeri öncelige olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOBonusWelfare=-Modül, Dünya arayüz yörüngesindeyse Refah önceligine olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOBonusLaunchFacilities=-Modül, Dünya arayüz yörüngesindeyse Artis önceligine olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOBonusKnowledge=-Modül, Dünya arayüz yörüngesindeyse Bilgi önceligine olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOBonusMissionControl=-Modül, Dünya arayüz yörüngesindeyse Misyon Kontrolü önceligine olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOBonusEconomy=-Modül, Dünya arayüz yörüngesindeyse Ekonomi önceligine olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOBonusUnity=-Modül, Dünya arayüz yörüngesindeyse Birlik önceligine olan yatirimlarimiza +{1} bonus ekler, tüm fraksiyon yasam alanlarindan maksimum %30.
+
+HabModuleSpecialRule.LEOControlPointCapacity=-Kontrol Noktasi kapasite bonuslari sadece yasam alani Düsük Dünya Yörüngesi'ndeyse geçerlidir.
+
+HabModuleSpecialRule.AtrocityToKill=-Bu modülün yok edilmesi bir soykirimdir.
+
+HabModuleSpecialRule.AtrocityToKill_Populous=-Bu modülün yok edilmesi, Dünya-Luna sisteminde veya 50.000 nüfuslu ya da daha büyük dünyalarda bir soykirimdir.
+
+HabModuleSpecialRule.Stability=-Modül, bu yasam alanindaki Kontrol Alani görevlerine {0} malus verir ve modülün mürettebati için para bakimi gerektirmez.
+
+HabModuleSpecialRule.Efficiency=-Modül, yasam alaninin üretimine <color=#FFFFFFFF><sprite name="currency"><sprite name="influence"><sprite name="ops"><sprite name="research"><sprite name="water"><sprite name="metal"><sprite name="metal_noble"><sprite name="volatiles"><sprite name="radioactive"></color> {1} bonus ekler.
+
+HabModuleSpecialRule.HarvestHelium3=-Aktif oldugunda, bu fraksiyonun Helion füzyon motorlari, itici yükünde fissil madde kullanmaz.
+
+TIHabModuleTemplate.OnePerHab=Bir yasam alaninda yalnizca bir tane bu tür modül bulunabilir.
+
+TIHabModuleTemplate.BaseOnly=Bu modül yalnizca yüzey üslere insa edilebilir, istasyonlara degil.
+
+TIHabModuleTemplate.StationOnly=Bu modül yalnizca istasyonlara insa edilebilir, yüzey üslere degil.

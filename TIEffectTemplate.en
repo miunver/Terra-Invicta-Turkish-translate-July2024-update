@@ -1,0 +1,1398 @@
+TIEffectTemplate.displayName.Effect_DetectAbductions=Kaçirilmalari Tespit Et
+TIEffectTemplate.description.Effect_DetectAbductions=Yerli kaçirilmalari tespit etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_DetectEnthralls=Zihin Kontrolünü Tespit Et
+TIEffectTemplate.description.Effect_DetectEnthralls=Uzaylilarin insanlarla temaslarini tespit etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_DetectAllOperations=Tüm Operasyonlari Tespit Et
+TIEffectTemplate.description.Effect_DetectAllOperations=Tüm uzayli operasyonlarini tespit etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_DetectAlienMovements=Uzayli Hareketlerini Tespit Et
+TIEffectTemplate.description.Effect_DetectAlienMovements=Uzayli ajanlarinin dogrudan tespit edilmesini saglar
+
+TIEffectTemplate.displayName.Effect_Skywatch=Gözlem
+TIEffectTemplate.description.Effect_Skywatch=Satürn'ün yörüngesindeki uzayli gemileri ve yapilari izleme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_DeepSkywatch=Derin Gözlem
+TIEffectTemplate.description.Effect_DeepSkywatch=Günes Sistemi genelinde uzayli gemileri ve yapilari izleme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreVenus=Venüs'ü Kesfet
+TIEffectTemplate.description.Effect_ExploreVenus=Venüs üzerinde istasyonlar insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreInnerPlanets=Iç Gezegenleri Kesfet
+TIEffectTemplate.description.Effect_ExploreInnerPlanets=Merkür'e sonda gönderme ve burada yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreLuna=Luna'yi Kesfet
+TIEffectTemplate.description.Effect_ExploreLuna=Ay'a sonda gönderme ve Ay yüzeyinde yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreMars=Mars'i Kesfet
+TIEffectTemplate.description.Effect_ExploreMars=Mars ve iç sistem asteroitlerine sonda gönderme ve bu bölgelerde yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreEarthLagrangePoints=Yerküre Lagrange Noktalarini Kesfet
+TIEffectTemplate.description.Effect_ExploreEarthLagrangePoints=Günes-Yer Lagrange Noktalari ve Yerküre'nin yörüngesindeki asteroitlerde kesif ve insaat yapma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreAsteroids=Asteroitleri Kesfet
+TIEffectTemplate.description.Effect_ExploreAsteroids=Asteroit Kusagi'na sonda gönderme ve burada yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreJupiter=Jüpiter'i Kesfet
+TIEffectTemplate.description.Effect_ExploreJupiter=Jüpiter'e sonda gönderme ve Jüpiter'in uydularinda yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreSaturn=Satürn'ü Kesfet
+TIEffectTemplate.description.Effect_ExploreSaturn=Satürn'e sonda gönderme ve Satürn'ün uydularinda yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreOuterPlanets=Kusak Disi Gezegenleri Kesfet
+TIEffectTemplate.description.Effect_ExploreOuterPlanets=Uranüs ve Neptün'e sonda gönderme ve uzak Günes Sistemi'nde yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_ExploreKuiperBelt=Kuiper Kusagini Kesfet
+TIEffectTemplate.description.Effect_ExploreKuiperBelt=Kuiper Kusagi'na sonda gönderme ve burada yasam alanlari insa etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_TechProbeSpeed=Teknoloji Sonda Hizi
+TIEffectTemplate.description.Effect_TechProbeSpeed=Bu teknolojiye daha fazla katkida bulunan fraksiyonlar, uzay cisimlerini tarama süresini daha hizli tamamlar
+
+TIEffectTemplate.displayName.Effect_CanFoundTier1Station=Seviye 1 Istasyon Kurma
+TIEffectTemplate.description.Effect_CanFoundTier1Station=Platformlar kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundTier2Station=Seviye 2 Istasyon Kurma
+TIEffectTemplate.description.Effect_CanFoundTier2Station=Yörüngesel yapilar kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundTier3Station=Seviye 3 Istasyon Kurma
+TIEffectTemplate.description.Effect_CanFoundTier3Station=Halkalar kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundTier1Base=Seviye 1 Üs Kurma
+TIEffectTemplate.description.Effect_CanFoundTier1Base=Istasyonlar kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundTier2Base=Seviye 2 Üs Kurma
+TIEffectTemplate.description.Effect_CanFoundTier2Base=Yerlesim yerleri kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundTier3Base=Seviye 3 Üs Kurma
+TIEffectTemplate.description.Effect_CanFoundTier3Base=Koloniler kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundAutomatedT1Station=Otomatik Seviye 1 Istasyon Kurma
+TIEffectTemplate.description.Effect_CanFoundAutomatedT1Station=Otomatik platformlar kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanFoundAutomatedT1Base=Otomatik Seviye 1 Üs Kurma
+TIEffectTemplate.description.Effect_CanFoundAutomatedT1Base=Otomatik istasyonlar kurma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanAmassAntimatter=Antimadde Biriktirme
+TIEffectTemplate.description.Effect_CanAmassAntimatter=Antimadde stoklari biriktirme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanAmassExotics=Egzotik Madde Biriktirme
+TIEffectTemplate.description.Effect_CanAmassExotics=Egzotik madde stoklari biriktirme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanCaptureHydra=Hydra'yi Yakalama
+TIEffectTemplate.description.Effect_CanCaptureHydra=Canli uzaylilari yakalayip tutma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_CanContactAliens=Uzaylilarla Temasa Geçme
+TIEffectTemplate.description.Effect_CanContactAliens=Uzaylilarla iletisim görevleri düzenleme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_AlienRelationsEstablished=Uzaylilarla Iletisim Kuruldu
+TIEffectTemplate.description.Effect_AlienRelationsEstablished=Uzaylilarla iletisim kanali kurar
+
+TIEffectTemplate.displayName.Effect_CooperateTransferTerritorytoAliens=Toprak Transferi Isbirligi
+TIEffectTemplate.description.Effect_CooperateTransferTerritorytoAliens=Topragi Uzayli Ulusa transfer etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_AppeaseTransferTerritoryToAliens=Toprak Transferi Rahatlatma
+TIEffectTemplate.description.Effect_AppeaseTransferTerritoryToAliens=Topragi Uzayli Ulusa transfer etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_SubmitTransferTerritoryToAliens=Toprak Transferi Sunma
+TIEffectTemplate.description.Effect_SubmitTransferTerritoryToAliens=Topragi Uzayli Ulusa transfer etme yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_GlobalListeningNetwork=Küresel Dinleme Agi
+TIEffectTemplate.description.Effect_GlobalListeningNetwork=Konsey üyelerimiz uzaylilari tespit ederken +1 Sorusturma kazanir
+
+TIEffectTemplate.displayName.Effect_SpaceTugs=Uzay Çekicileri
+TIEffectTemplate.description.Effect_SpaceTugs=Roket güdümlü çekiciler, yasam modüllerinin teslimatini %{18} hizlandirir
+
+TIEffectTemplate.displayName.Effect_SolarSteamers=Günes Enerjili Tasiyicilar
+TIEffectTemplate.description.Effect_SolarSteamers=Uzun menzilli yük tasiyicilar, firlatma pencereleri disinda firlatilan yasam modüllerinin teslimat sürelerini %{4} azaltir
+
+TIEffectTemplate.displayName.Effect_NuclearFreighters=Nükleer Nakliyeciler
+TIEffectTemplate.description.Effect_NuclearFreighters=Nükleer güdümlü tasiyicilar, yasam modüllerinin teslimatini %{18} hizlandirir
+
+TIEffectTemplate.displayName.Effect_FusionFreighters=Füzyon Nakliyeciler
+TIEffectTemplate.description.Effect_FusionFreighters=Ucuz füzyon motorlari, yasam modüllerinin teslimatini %{18} hizlandirir
+
+TIEffectTemplate.displayName.Effect_FastProbes=Hizli Sondalar
+TIEffectTemplate.description.Effect_FastProbes=Sondalar varis noktalarina %{18} daha hizli ulasir
+
+TIEffectTemplate.displayName.Effect_IncreaseCouncilSize=Konsey Boyutunu Artir
+TIEffectTemplate.description.Effect_IncreaseCouncilSize=Ekstra bir konsey üyesi ise alma yetenegi kazandirir
+
+TIEffectTemplate.displayName.Effect_SpaceMarketEfficiency1=Uzay Pazari Verimliligi 1
+TIEffectTemplate.description.Effect_SpaceMarketEfficiency1=Yeryüzü pazarinda uzay kaynaklari satisindan %{3} daha fazla gelir elde ederiz
+
+TIEffectTemplate.displayName.Effect_SpaceMarketEfficiency2=Uzay Pazari Verimliligi 2
+TIEffectTemplate.description.Effect_SpaceMarketEfficiency2=Yeryüzü pazarinda uzay kaynaklari satisindan %{3} daha fazla gelir elde ederiz
+TIEffectTemplate.description.Effect_AdvancedAircraft=<skip/>
+
+TIEffectTemplate.description.Effect_IncreaseMaxAvailableOrgs5=Aylik olarak ek {0} örgüt edinilebilir
+
+TIEffectTemplate.description.Effect_IncreaseMaxArmyTechLevel=Tüm insan uluslari için askeri teknoloji seviyesinin maksimumunu %{0} artirir
+
+TIEffectTemplate.description.Effect_AllowSpaceDefensesConstruction=Uluslarin bölgelerinde yüzeyden yörüngeye savunmalar insa etmelerini saglar
+
+TIEffectTemplate.description.Effect_SpaceScan=Algilama menzilimiz içindeki tüm uzayli gemileri ve habitatlarini hemen açiga çikarir
+
+TIEffectTemplate.description.Effect_MajorGlobalPropaganda=Dünyada {14} için önemli bir kamuoyu artisi saglar
+
+TIEffectTemplate.description.Effect_GlobalPropagandaForSecondary10=Dünyada {2} için önemli bir kamuoyu artisi saglar
+
+TIEffectTemplate.description.Effect_NegativeGlobalPropaganda10={21} dünya genelinde kamuoyunda kayba ugrar
+
+TIEffectTemplate.description.Effect_NegativeGlobalPropaganda25={21} dünya genelinde büyük bir kamuoyu kaybina neden olur
+
+TIEffectTemplate.description.Effect_NegativeGlobalPropaganda_Secondary50={22} dünya genelinde büyük bir kamuoyu kaybina neden olur
+
+TIEffectTemplate.description.Effect_NegativeGlobalPropaganda_Secondary75={22} dünya genelinde büyük bir kamuoyu kaybina neden olur
+
+TIEffectTemplate.description.Effect_GlobalPropaganda=Dünyada {14} için kamuoyu artisi saglar
+
+TIEffectTemplate.description.Effect_MinorGlobalPropaganda=Dünyada {14} için küçük bir kamuoyu artisi saglar
+
+TIEffectTemplate.description.Effect_NationPropaganda={14} {5} için önemli bir kamuoyu artisi saglar
+
+TIEffectTemplate.description.Effect_MajorNationPropaganda={14} {5} için büyük bir kamuoyu artisi saglar
+
+TIEffectTemplate.description.Effect_NegativeNationPropaganda={14} {5} için bazi kamuoyu kaybina neden olur
+
+TIEffectTemplate.description.Effect_NegativeNationPropaganda25={14} {5} için önemli bir kamuoyu kaybina neden olur
+
+TIEffectTemplate.description.Effect_NegativeNationPropaganda5_PerCP=Her kontrol noktamiz için {5} kamuoyunda küçük bir kayba neden olur
+
+TIEffectTemplate.description.Effect_NegativeNationPropaganda10_PerCP=Her kontrol noktamiz için {5} kamuoyunda kayba neden olur
+
+TIEffectTemplate.description.Effect_MinusculeSingleRegionDamage={10} bölgesinde ekonomiye ve nüfusa küçük miktarda zarar verir
+
+TIEffectTemplate.description.Effect_MinorSingleRegionDamage={10} bölgesinde ekonomiye ve nüfusa sinirli miktarda zarar verir
+
+TIEffectTemplate.description.Effect_MajorSingleRegionDamage={10} bölgesinde ekonomiye ve nüfusa büyük miktarda zarar verir
+
+TIEffectTemplate.description.Effect_MassiveSingleRegionDamage={10} bölgesinde ekonomiye ve nüfusa büyük miktarda zarar verir
+
+TIEffectTemplate.description.Effect_TotalSingleRegionDamage={10} bölgesinde ekonominin ve nüfusun neredeyse tamamen yok olmasina neden olur
+
+TIEffectTemplate.description.Effect_NuclearDetonation025={10} bölgesinde bir nükleer baslik patlar, ekonomiye ve nüfusa büyük zarar verir
+
+TIEffectTemplate.description.Effect_NuclearDetonation05={10} bölgesinde bir nükleer baslik patlar, ekonomiye ve nüfusa büyük zarar verir
+
+TIEffectTemplate.description.Effect_SecondaryMinusculeSingleRegionDamage={12} bölgesinde ekonomiye ve nüfusa küçük miktarda zarar verir
+
+TIEffectTemplate.description.Effect_SecondaryMinorSingleRegionDamage={12} bölgesinde ekonomiye ve nüfusa sinirli miktarda zarar verir
+
+TIEffectTemplate.description.Effect_SecondaryMajorSingleRegionDamage={12} bölgesinde ekonomiye ve nüfusa büyük miktarda zarar verir
+
+TIEffectTemplate.description.Effect_SecondaryMassiveSingleRegionDamage={12} bölgesinde ekonomiye ve nüfusa büyük miktarda zarar verir
+
+TIEffectTemplate.description.Effect_SecondaryNuclearDetonation025={12} bölgesinde bir nükleer baslik patlar, ekonomiye ve nüfusa büyük zarar verir
+
+TIEffectTemplate.description.Effect_SecondaryNuclearDetonation05={12} bölgesinde bir nükleer baslik patlar, ekonomiye ve nüfusa büyük zarar verir
+
+TIEffectTemplate.description.Effect_MajorRegionBoostDamage={10} bölgesi büyük miktarda güç kaybeder
+
+TIEffectTemplate.description.Effect_MinorRegionBoostDamage={10} bölgesi küçük miktarda güç kaybeder
+
+TIEffectTemplate.displayName.Effect_LocalProsperity=Refah
+TIEffectTemplate.description.Effect_LocalProsperity={9} bölgesinde GDP'de artis yasanir, esitsizlik ve çevresel zararlar küçük artis gösterir
+
+TIEffectTemplate.displayName.Effect_MajorLocalProsperity=Büyük Ekonomik Patlama
+TIEffectTemplate.description.Effect_MajorLocalProsperity={9} bölgesinde GDP'de büyük artis yasanir, esitsizlik ve çevresel zararlar da artar
+
+TIEffectTemplate.displayName.Effect_LocalProsperity50=Refah
+TIEffectTemplate.description.Effect_LocalProsperity50={9} bölgesinde GDP'de artis yasanir, esitsizlik ve çevresel zararlar küçük artis gösterir
+
+TIEffectTemplate.displayName.Effect_LocalProsperity200=Refah
+TIEffectTemplate.description.Effect_LocalProsperity200={9} bölgesinde GDP'de artis yasanir, esitsizlik ve çevresel zararlar küçük artis gösterir
+
+TIEffectTemplate.displayName.Effect_SecondaryProsperity1=Refah
+TIEffectTemplate.description.Effect_SecondaryProsperity1={11} bölgesinde GDP'de artis yasanir, esitsizlik ve çevresel zararlar küçük artis gösterir
+
+TIEffectTemplate.displayName.Effect_SecondaryProsperity2=Refah
+TIEffectTemplate.description.Effect_SecondaryProsperity2={11} bölgesinde GDP'de artis yasanir, esitsizlik ve çevresel zararlar küçük artis gösterir
+TIEffectTemplate.displayName.Effect_SecondaryProsperity3=Refah
+TIEffectTemplate.description.Effect_SecondaryProsperity3={11} bölgesinde GDP'de artis yasanir, esitsizlik ve çevresel zararlar küçük artis gösterir
+
+TIEffectTemplate.displayName.Effect_LocalRecession=Kriz
+TIEffectTemplate.description.Effect_LocalRecession={9} bölgesinde GDP'de azalma ve esitsizlikte artis yasanir
+
+TIEffectTemplate.displayName.Effect_MajorLocalRecession=Büyük Kriz
+TIEffectTemplate.description.Effect_MajorLocalRecession={9} bölgesinde GDP'de önemli bir azalma ve esitsizlikte artis yasanir
+
+TIEffectTemplate.displayName.Effect_LocalRecession50=Kriz
+TIEffectTemplate.description.Effect_LocalRecession50={9} bölgesinde GDP'de önemli bir azalma ve esitsizlikte artis yasanir
+
+TIEffectTemplate.displayName.Effect_FreePriorityWelfare10=Sosyal Yatirim
+TIEffectTemplate.description.Effect_FreePriorityWelfare10={9} sosyal ve çevresel programlara biraz daha fazla yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityWelfare50=Sosyal Yatirim
+TIEffectTemplate.description.Effect_FreePriorityWelfare50={9} sosyal ve çevresel programlara çok daha fazla yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityWelfare200=Sosyal Yatirim
+TIEffectTemplate.description.Effect_FreePriorityWelfare200={9} sosyal ve çevresel programlara büyük miktarda yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityKnowledge10=Bilgi Yatirimi
+TIEffectTemplate.description.Effect_FreePriorityKnowledge10={9} egitim ve ögretim programlarina biraz daha fazla yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityKnowledge20=Bilgi Yatirimi
+TIEffectTemplate.description.Effect_FreePriorityKnowledge20={9} egitim ve ögretim programlarina önemli bir miktar yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityMilitary10=Askeri Yatirim
+TIEffectTemplate.description.Effect_FreePriorityMilitary10={9} askeri egitim ve alimlara biraz daha fazla yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityMilitary20=Askeri Yatirim
+TIEffectTemplate.description.Effect_FreePriorityMilitary20={9} askeri egitim ve alimlara önemli bir miktar yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_SecondaryFreePriorityMilitary20=Askeri Yatirim
+TIEffectTemplate.description.Effect_SecondaryFreePriorityMilitary20={11} askeri egitim ve alimlara önemli bir miktar yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityMilitary200=Askeri Yatirim
+TIEffectTemplate.description.Effect_FreePriorityMilitary200={9} askeri egitim ve alimlara büyük miktarda yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityBoost1=Uzay Yatirimi
+TIEffectTemplate.description.Effect_FreePriorityBoost1={9} uzay firlatma ve uzay uçusuna daha fazla yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityBoost2=Uzay Yatirimi
+TIEffectTemplate.description.Effect_FreePriorityBoost2={9} uzay firlatma ve uzay uçusuna önemli bir miktar yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FreePriorityFunding1=Fon Yatirimi
+TIEffectTemplate.description.Effect_FreePriorityFunding1={9} bütçesinden bir kismini serbest fon olarak ayiracaktir
+
+TIEffectTemplate.displayName.Effect_XenoformingReduction=Xenoformlar Yok Oluyor
+TIEffectTemplate.description.Effect_XenoformingReduction={10} bölgesinde xenoformlarin yayilmasi azalir
+
+TIEffectTemplate.displayName.Effect_XenoformingReduction100=Xenoformlar Yok Oluyor
+TIEffectTemplate.description.Effect_XenoformingReduction100={10} bölgesindeki tüm xenoformlar tamamen yok edilecektir
+
+TIEffectTemplate.displayName.Effect_XenoformingIncrease25=Xenoformlar Büyüyor
+TIEffectTemplate.description.Effect_XenoformingIncrease25={10} bölgesindeki xenoformlarin yayilmasi küçük bir miktarda artar
+
+TIEffectTemplate.displayName.Effect_XenoformingIncrease50=Xenoformlar Büyüyor
+TIEffectTemplate.description.Effect_XenoformingIncrease50={10} bölgesindeki xenoformlarin yayilmasi orta miktarda artar
+
+TIEffectTemplate.displayName.Effect_XenoformingIncrease75=Xenoformlar Büyüyor
+TIEffectTemplate.description.Effect_XenoformingIncrease75={10} bölgesindeki xenoformlarin yayilmasi büyük bir miktarda artar
+
+TIEffectTemplate.displayName.Effect_XenoformingIncrease100=Xenoformlar Büyüyor
+TIEffectTemplate.description.Effect_XenoformingIncrease100={10} bölgesindeki xenoformlarin yayilmasi devasa bir miktarda artar
+
+TIEffectTemplate.displayName.Effect_MinorExposure=Küçük Maruziyet
+TIEffectTemplate.displayName.Effect_MinorExposure=Küçük Maruziyet
+TIEffectTemplate.description.Effect_MinorExposure={14} hakkinda bilgiler düsmanlarimiza açiga çikacaktir
+
+TIEffectTemplate.displayName.Effect_MajorExposure=Büyük Maruziyet
+TIEffectTemplate.description.Effect_MajorExposure={14} hakkinda çok fazla bilgi düsmanlarimiza açiga çikacaktir
+
+TIEffectTemplate.displayName.Effect_CouncilorExposure=Danisman Maruziyeti
+TIEffectTemplate.description.Effect_CouncilorExposure={1} hakkinda çok fazla bilgi düsmanlarimiza açiga çikacaktir
+
+TIEffectTemplate.displayName.Effect_SmallDemocracyGain=Küçük Demokrasi Kazanci
+TIEffectTemplate.description.Effect_SmallDemocracyGain={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SmallDemocracyLoss=Küçük Demokrasi Kaybi
+TIEffectTemplate.description.Effect_SmallDemocracyLoss={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_DemocracyLoss02=Demokrasi Kaybi
+TIEffectTemplate.description.Effect_DemocracyLoss02={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_DemocracyLoss05=Demokrasi Kaybi
+TIEffectTemplate.description.Effect_DemocracyLoss05={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_DemocracyLoss1=Demokrasi Kaybi
+TIEffectTemplate.description.Effect_DemocracyLoss1={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_DemocracyLoss5=Büyük Demokrasi Kaybi
+TIEffectTemplate.description.Effect_DemocracyLoss5={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_DemocracyLoss7=Büyük Demokrasi Kaybi
+TIEffectTemplate.description.Effect_DemocracyLoss7={9}'un demokrasi skoru {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetPropaganda=Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetPropaganda={15} {5} için kamuoyunda artis saglanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetNegativePropaganda10=Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetNegativePropaganda10={15} {5} için kamuoyunda azalma yasanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetPropagandaGlobal10=Küresel Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetPropagandaGlobal10={15} için dünya genelinde kamuoyunda artis saglanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetPropaganda_Faction10=Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetPropaganda_Faction10={21}'in kamuoyunda {5} artis saglanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetPropaganda_Faction25=Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetPropaganda_Faction25={21}'in kamuoyunda {5} artis saglanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetRegionPropaganda15=Bölgesel Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetRegionPropaganda15={15} için {1} bölgesinde kamuoyunda artis saglanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetNegativePropaganda_Faction10=Olumsuz Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetNegativePropaganda_Faction10={21}'in kamuoyunda {6} düsüs yasanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetNegativePropaganda_Faction25=Olumsuz Propaganda
+TIEffectTemplate.description.Effect_SecondaryTargetNegativePropaganda_Faction25={21}'in kamuoyunda {6} düsüs yasanir
+
+TIEffectTemplate.displayName.Effect_SecondaryMiltechLoss=Ulus Askeri Teknoloji Seviyesi Düsüsü
+TIEffectTemplate.description.Effect_SecondaryMiltechLoss={11} askeri teknoloji seviyesinden {0} kaybeder
+
+TIEffectTemplate.displayName.Effect_SecondaryMiltechLoss02=Ulus Askeri Teknoloji Seviyesi Düsüsü
+TIEffectTemplate.description.Effect_SecondaryMiltechLoss02={11} askeri teknoloji seviyesinden {0} kaybeder
+
+TIEffectTemplate.displayName.Effect_MiltechLoss005=Ulus Askeri Teknoloji Seviyesi Düsüsü
+TIEffectTemplate.description.Effect_MiltechLoss005={9} askeri teknoloji seviyesinden {0} kaybeder
+
+TIEffectTemplate.displayName.Effect_MiltechLoss01=Ulus Askeri Teknoloji Seviyesi Düsüsü
+TIEffectTemplate.description.Effect_MiltechLoss01={9} askeri teknoloji seviyesinden {0} kaybeder
+
+TIEffectTemplate.displayName.Effect_MiltechLoss02=Ulus Askeri Teknoloji Seviyesi Düsüsü
+TIEffectTemplate.description.Effect_MiltechLoss02={9} askeri teknoloji seviyesinden {0} kaybeder
+
+TIEffectTemplate.displayName.Effect_MiltechGain005=Ulus Askeri Teknoloji Seviyesi Artisi
+TIEffectTemplate.description.Effect_MiltechGain005={9} askeri teknoloji seviyesine {0} ekler
+
+TIEffectTemplate.displayName.Effect_MiltechGain01=Ulus Askeri Teknoloji Seviyesi Artisi
+TIEffectTemplate.description.Effect_MiltechGain01={9} askeri teknoloji seviyesine {0} ekler
+
+TIEffectTemplate.displayName.Effect_MiltechGain02=Ulus Askeri Teknoloji Seviyesi Artisi
+TIEffectTemplate.description.Effect_MiltechGain02={9} askeri teknoloji seviyesine {0} ekler
+TIEffectTemplate.displayName.Effect_MiltechGain03=Ulus Askeri Teknoloji Seviyesi Artisi
+TIEffectTemplate.description.Effect_MiltechGain03={9} askeri teknoloji seviyesine {0} ekler
+
+TIEffectTemplate.displayName.Effect_MassiveCohesionLoss=Büyük Kohezyon Kaybi
+TIEffectTemplate.description.Effect_MassiveCohesionLoss={5} kohezyonunda {0} degisim yasanir
+
+TIEffectTemplate.displayName.Effect_MajorCohesionGain=Büyük Kohezyon Artisi
+TIEffectTemplate.description.Effect_MajorCohesionGain={5} kohezyonunda {23} artis saglanir
+
+TIEffectTemplate.displayName.Effect_MajorCohesionLoss=Büyük Kohezyon Kaybi
+TIEffectTemplate.description.Effect_MajorCohesionLoss={5} kohezyonunda {23} düsüs yasanir
+
+TIEffectTemplate.displayName.Effect_MinorCohesionLoss=Kohezyon Kaybi
+TIEffectTemplate.description.Effect_MinorCohesionLoss={5} kohezyonunda {23} degisim yasanir
+
+TIEffectTemplate.displayName.Effect_MinorCohesionGain=Ulus Kohezyon Kazanci
+TIEffectTemplate.description.Effect_MinorCohesionGain={9} {23} kohezyon kazanir
+
+TIEffectTemplate.displayName.Effect_SecondaryCohesionGain=Ulus Kohezyon Kazanci
+TIEffectTemplate.description.Effect_SecondaryCohesionGain={11} {24} kohezyon kazanir
+
+TIEffectTemplate.displayName.Effect_SecondaryCohesionLoss=Kohezyon Kaybi
+TIEffectTemplate.description.Effect_SecondaryCohesionLoss={6} kohezyonunda {24} degisim yasanir
+
+TIEffectTemplate.displayName.Effect_MajorCohesionOutward=Kohezyon Yayilmasi (Büyük)
+TIEffectTemplate.description.Effect_MajorCohesionOutward={5} kohezyonunda {23} asiri degerlere dogru degisim yasanir
+
+TIEffectTemplate.displayName.Effect_MinorCohesionOutward=Kohezyon Yayilmasi (Küçük)
+TIEffectTemplate.description.Effect_MinorCohesionOutward={5} kohezyonunda {23} asiri degerlere dogru degisim yasanir
+
+TIEffectTemplate.displayName.Effect_MajorGlobalCohesionOutward=Küresel Kohezyon Yayilmasi (Büyük)
+TIEffectTemplate.description.Effect_MajorGlobalCohesionOutward=Tüm uluslarin kohezyonu {0} kadar asiri degerlere dogru degisir
+
+TIEffectTemplate.displayName.Effect_MinorGlobalCohesionOutward=Küresel Kohezyon Yayilmasi (Küçük)
+TIEffectTemplate.description.Effect_MinorGlobalCohesionOutward=Tüm uluslarin kohezyonu {0} kadar asiri degerlere dogru degisir
+
+TIEffectTemplate.displayName.Effect_GlobalCohesionGain=Tüm Uluslar Kohezyon Kazanir
+TIEffectTemplate.description.Effect_GlobalCohesionGain=Tüm uluslar {0} kadar kohezyon kazanir
+
+TIEffectTemplate.displayName.Effect_MinorGlobalCohesionGain=Tüm Uluslar Kohezyon Kazanir
+TIEffectTemplate.description.Effect_MinorGlobalCohesionGain=Tüm uluslar {0} kadar kohezyon kazanir
+
+TIEffectTemplate.displayName.Effect_GlobalCohesionLoss=Tüm Uluslar Kohezyon Kaybeder
+TIEffectTemplate.description.Effect_GlobalCohesionLoss=Tüm uluslar {0} kadar kohezyon kaybeder
+
+TIEffectTemplate.displayName.Effect_MajorGlobalCohesionLoss=Tüm Uluslar Kohezyon Kaybeder
+TIEffectTemplate.description.Effect_MajorGlobalCohesionLoss=Tüm uluslar {0} kadar kohezyon kaybeder
+
+TIEffectTemplate.displayName.Effect_TotalGlobalCohesionLoss=Tüm Uluslar Kohezyon Kaybeder
+TIEffectTemplate.description.Effect_TotalGlobalCohesionLoss=Tüm uluslar {0} kadar kohezyon kaybeder
+
+TIEffectTemplate.displayName.Effect_MaximumUnrestGain=Siddetli Isyan Artisi
+TIEffectTemplate.description.Effect_MaximumUnrestGain={5} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_MassiveUnrestGain=Siddetli Isyan Artisi
+TIEffectTemplate.description.Effect_MassiveUnrestGain={5} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_MajorUnrestGain=Isyan Artisi
+TIEffectTemplate.description.Effect_MajorUnrestGain={5} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_MajorUnrestLoss=Isyan Stabilize Olur
+TIEffectTemplate.description.Effect_MajorUnrestLoss={5} isyani {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_MinorUnrestGain=Isyan Artisi
+TIEffectTemplate.description.Effect_MinorUnrestGain={5} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_MinorUnrestLoss=Isyan Düsüsü
+TIEffectTemplate.description.Effect_MinorUnrestLoss={5} isyani {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_MajorUnrestGain_ByFaction=Siddetli Isyan Artisi
+TIEffectTemplate.description.Effect_MajorUnrestGain_ByFaction={5} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_MajorUnrestLoss_ByFaction=Isyan Stabilize Olur
+TIEffectTemplate.displayName.Effect_MajorUnrestLoss_ByFaction=Unrest Stabilizes
+TIEffectTemplate.description.Effect_MajorUnrestLoss_ByFaction={5} isyani {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_MinorUnrestGain_ByFaction=Unrest Artisi
+TIEffectTemplate.description.Effect_MinorUnrestGain_ByFaction={5} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_MinorUnrestLoss_ByFaction=Unrest Düsüsü
+TIEffectTemplate.description.Effect_MinorUnrestLoss_ByFaction={5} isyani {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SecondaryMassiveUnrestGain_ByFaction=Unrest Artisi
+TIEffectTemplate.description.Effect_SecondaryMassiveUnrestGain_ByFaction={6} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_SecondaryMajorUnrestGain_ByFaction=Unrest Artisi
+TIEffectTemplate.description.Effect_SecondaryMajorUnrestGain_ByFaction={6} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_SecondaryMajorUnrestLoss_ByFaction=Unrest Stabilize Olur
+TIEffectTemplate.description.Effect_SecondaryMajorUnrestLoss_ByFaction={6} isyani {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SecondaryMinorUnrestGain_ByFaction=Unrest Artisi
+TIEffectTemplate.description.Effect_SecondaryMinorUnrestGain_ByFaction={6} isyani {0} kadar artar
+
+TIEffectTemplate.displayName.Effect_SecondaryMinorUnrestLoss_ByFaction=Unrest Düsüsü
+TIEffectTemplate.description.Effect_SecondaryMinorUnrestLoss_ByFaction={6} isyani {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_MajorInequalityGain=Esitsizlik Artisi
+TIEffectTemplate.description.Effect_MajorInequalityGain={5} esitsizligi {23} kadar artar
+
+TIEffectTemplate.displayName.Effect_ModerateInequalityGain=Esitsizlik Artisi
+TIEffectTemplate.description.Effect_ModerateInequalityGain={5} esitsizligi {23} kadar artar
+
+TIEffectTemplate.displayName.Effect_MinorInequalityGain=Esitsizlik Artisi
+TIEffectTemplate.description.Effect_MinorInequalityGain={5} esitsizligi {23} kadar artar
+
+TIEffectTemplate.displayName.Effect_MinorInequalityLoss=Esitsizlik Düsüsü
+TIEffectTemplate.description.Effect_MinorInequalityLoss={5} esitsizligi {23} kadar düser
+
+TIEffectTemplate.displayName.Effect_EducationLoss=Beyin Göçü
+TIEffectTemplate.description.Effect_EducationLoss={5} egitiminde {23} kadar degisim yasanir
+
+TIEffectTemplate.displayName.Effect_EducationGain01=Beyin Kazanci
+TIEffectTemplate.description.Effect_EducationGain01={5} egitiminde {0} kadar degisim yasanir
+
+TIEffectTemplate.displayName.Effect_GDPGain01=Ulusun GDP'si Artar
+TIEffectTemplate.description.Effect_GDPGain01={5} GDP'si {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_GDPGain02=Ulusun GDP'si Artar
+TIEffectTemplate.description.Effect_GDPGain02={5} GDP'si {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_GDPLoss02=Ulusun GDP'si Düser
+TIEffectTemplate.description.Effect_GDPLoss02={5} GDP'si {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_GDPLoss04=Ulusun GDP'si Düser
+TIEffectTemplate.description.Effect_GDPLoss04={5} GDP'si {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_GDPLoss20=Ulusun GDP'si Çöküse Geçer
+TIEffectTemplate.description.Effect_GDPLoss20={5} GDP'si {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_GDPLoss50=Ulusun GDP'si Çöküse Geçer
+TIEffectTemplate.description.Effect_GDPLoss50={5} GDP'si {3} kadar degisir
+
+TIEffectTemplate.description.Effect_GlobalGDPLoss1=Tüm uluslarin GDP'si {3} kadar degisir
+
+TIEffectTemplate.description.Effect_GlobalGDPLoss2=Tüm uluslarin GDP'si {3} kadar degisir
+
+TIEffectTemplate.description.Effect_GlobalGDPLoss3=Tüm uluslarin GDP'si {3} kadar degisir
+
+TIEffectTemplate.description.Effect_GlobalGDPLoss10=Tüm uluslarin GDP'si {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_GlobalGDPLoss50=Küresel Ekonomi Çöküse Geçer
+TIEffectTemplate.description.Effect_GlobalGDPLoss50=Tüm uluslarin GDP'si {3} kadar degisir
+TIEffectTemplate.displayName.Effect_GlobalGDPLossByCPTrigger=Küresel Ekonomi Etkilendi
+TIEffectTemplate.description.Effect_GlobalGDPLossByCPTrigger=-Tüm uluslarin GDP'si, tetikleyici ulusun büyüklügüne bagli olarak düser
+
+TIEffectTemplate.displayName.Effect_SecondaryGDPLoss=Ulusun GDP'si Düser
+TIEffectTemplate.description.Effect_SecondaryGDPLoss=-GDP {6} {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SecondaryGDPLoss02=Ulusun GDP'si Düser
+TIEffectTemplate.description.Effect_SecondaryGDPLoss02=-GDP {6} {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SecondaryGDPLoss04=Ulusun GDP'si Düser
+TIEffectTemplate.description.Effect_SecondaryGDPLoss04=-GDP {6} {3} kadar degisir
+
+TIEffectTemplate.displayName.Effect_SecondaryInequalityIncrease=Ulusun Esitsizligi Artar
+TIEffectTemplate.description.Effect_SecondaryInequalityIncrease=-{11} {0} esitsizlik kazanir
+
+TIEffectTemplate.displayName.Effect_SecondaryGDPGain=Ulusun GDP'si Artar
+TIEffectTemplate.description.Effect_SecondaryGDPGain=-GDP {6} {3} kadar artar
+
+TIEffectTemplate.displayName.Effect_SecondaryMiltechGain=Ulusun Askeri Teknoloji Düzeyi Artar
+TIEffectTemplate.description.Effect_SecondaryMiltechGain=-{11} askeri teknoloji düzeyi {0} kadar artar
+
+TIEffectTemplate.description.Effect_NukeAdd1=-{0} nükleer füzesi {9}'un cephaneligine eklenecek
+
+TIEffectTemplate.description.Effect_NukeRemove1=-{19} nükleer füzesi {9}'un cephaneliginden çikarilacak
+
+TIEffectTemplate.description.Effect_NukeRemoveSecondary1=-{19} nükleer füzesi {11}'in cephaneliginden çikarilacak
+
+TIEffectTemplate.description.Effect_LooseNukeAdd1=-Dünyadaki gevsek nükleerlerin sayisi {0} kadar degisir
+
+TIEffectTemplate.description.Effect_LooseNukeAdd3=-Dünyadaki gevsek nükleerlerin sayisi {0} kadar degisir
+
+TIEffectTemplate.description.Effect_LooseNukeRemove1=-Dünyadaki gevsek nükleerlerin sayisi {0} kadar degisir
+
+TIEffectTemplate.description.Effect_ShipNukeAdd1=-{0} baslikli bir nükleer torpido {1} üzerindeki torpido firlaticiya eklenecek
+
+TIEffectTemplate.description.Effect_ShipNukeRemove1=-{1} üzerindeki nükleer torpido sayisi {0} kadar degisir
+
+TIEffectTemplate.displayName.Effect_UpgradeRelations=Iliskiler Iyilesiyor
+TIEffectTemplate.description.Effect_UpgradeRelations=-{9} ve {11} arasindaki iliskiler iyilesiyor
+
+TIEffectTemplate.displayName.Effect_DowngradeRelations=Iliskiler Kötülesiyor
+TIEffectTemplate.description.Effect_DowngradeRelations=-{9} ve {11} arasindaki iliskiler kötülesiyor
+
+TIEffectTemplate.displayName.Effect_DeclareLimitedWar=Savas Basliyor
+TIEffectTemplate.description.Effect_DeclareLimitedWar=-{9} ve {11} arasinda savas basliyor
+
+TIEffectTemplate.displayName.Effect_DeclareFullWar=Savas Basliyor
+TIEffectTemplate.description.Effect_DeclareFullWar=-{9} ve {11} arasinda savas basliyor, {11}'in tüm müttefikleri katiliyor
+
+TIEffectTemplate.displayName.Effect_RevealRegionAlienActivities=Son Alien Etkinlikleri Ortaya Çikti
+TIEffectTemplate.description.Effect_RevealRegionAlienActivities=-Bu bölgede son alien etkinlikleri ortaya çikti
+
+TIEffectTemplate.displayName.Effect_Atrocity=Vahset
+TIEffectTemplate.description.Effect_Atrocity=-{21} bir vahset gerçeklestiriyor
+
+TIEffectTemplate.description.Effect_EconomyPriorityBonus02=-Ekonomi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_EconomyPriorityBonus05=-Ekonomi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_EconomyPriorityBonus1=-Ekonomi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_WelfarePriorityBonus05=-Refah önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_KnowledgePriorityBonus02=-Bilgi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_KnowledgePriorityBonus05=-Bilgi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_KnowledgePriorityBonus1=-Bilgi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_MilitaryPriorityBonus02=-Askeri öncelige yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_MilitaryPriorityBonus05=-Askeri öncelige yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_BuildArmyPriorityBonus05=-Ordu kurma önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_UpgradeArmyPriorityBonus05=-Kara Kuvvetleri yükseltme önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityBonus05=-Destek önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityBonus1=-Destek önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityBonus15=-Destek önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityBonus2=-Destek önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityBonus25=-Destek önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_SpaceflightProgramPriorityBonus05=-Uzay Uçus Programi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_SpaceflightProgramPriorityBonus50=-Uzay Uçus Programi önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_MissionControlPriorityBonus05=-Misyon Kontrol önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_MissionControlPriorityBonus25=-Misyon Kontrol önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_UnityPriorityBonus05=-Birlik önceligine yönlendirdigimiz Ulusal Yatirim Puanlari {3} kadar artirilir
+
+TIEffectTemplate.description.Effect_DirectInvestMoneyReduction15=-Dogrudan Yatirim maliyeti {3} kadar azaltilir
+
+TIEffectTemplate.description.Effect_DirectInvestInfluenceReduction25=-Dogrudan Yatirimin etki maliyeti {3} kadar azaltilir
+
+TIEffectTemplate.displayName.Effect_ArcticMethaneRelease=Arktik Metan Salinimi
+TIEffectTemplate.description.Effect_ArcticMethaneRelease=-Dünya atmosferindeki metan {0} ppm kadar artar
+
+TIEffectTemplate.displayName.Effect_CO2Fires=Atmosferde Karbondioksit Artisi
+TIEffectTemplate.description.Effect_CO2Fires=-Dünya atmosferindeki karbondioksit {0} ppm kadar artar
+
+TIEffectTemplate.displayName.Effect_AerosolsFires=Yüksek Irtifa Dumani
+TIEffectTemplate.description.Effect_AerosolsFires=-Stratosferik aerosoller {0} ppm kadar artar
+
+TIEffectTemplate.displayName.Effect_AerosolsVolcano=Volkanik Kül ve Dumanin Stratosfere Salinmasi
+TIEffectTemplate.description.Effect_AerosolsVolcano=-Stratosferik aerosoller {0} ppm kadar artar
+
+TIEffectTemplate.displayName.Effect_AerosolsMajorVolcano=Yüksek Miktarda Volkanik Kül ve Dumanin Stratosfere Salinmasi
+TIEffectTemplate.description.Effect_AerosolsMajorVolcano=-Stratosferik aerosoller {0} ppm kadar artar
+
+TIEffectTemplate.displayName.Effect_AerosolsColossalVolcano=Devasa Miktarda Volkanik Kül ve Dumanin Stratosfere Salinmasi
+TIEffectTemplate.description.Effect_AerosolsColossalVolcano=-Stratosferik aerosoller {0} ppm kadar artar
+
+TIEffectTemplate.description.Effect_SpaceMiningBonus5=-Dis Uzay madencilik çiktisi {3} kadar artar
+
+TIEffectTemplate.description.Effect_SpaceMiningBonus10=-Dis Uzay madencilik çiktisi {3} kadar artar
+
+TIEffectTemplate.description.Effect_SolidFuelRockets=-Dis Uzaya malzeme gönderme için kullanilan itici güç azaltilir
+
+TIEffectTemplate.description.Effect_LiquidFuelRockets=-Dis Uzaya malzeme gönderme için kullanilan itici güç azaltilir
+
+TIEffectTemplate.description.Effect_NuclearRockets=-Dis Uzaya malzeme gönderme için kullanilan itici güç azaltilir
+
+TIEffectTemplate.description.Effect_CryogenicFuelRockets=-Dis Uzaya malzeme gönderme için kullanilan itici güç azaltilir
+
+TIEffectTemplate.description.Effect_ImprovedRockets=-Dis Uzaya malzeme gönderme için kullanilan itici güç azaltilir
+
+TIEffectTemplate.description.Effect_AdvancedRockets=-Dis Uzaya malzeme gönderme için kullanilan itici güç azaltilir
+
+TIEffectTemplate.description.Effect_ManyAliensOnEarth=-Yeryüzünde önemli bir alien nüfusu mevcut
+
+TIEffectTemplate.description.Effect_PherocyteResistance=-Alien feromonlarina karsi savunmamizi artirir
+
+TIEffectTemplate.description.Effect_MinorFloodingRiskIncrease=-Siddetli sel sikligindaki artis, dünya genelinde GDP'yi düsürür
+
+TIEffectTemplate.description.Effect_ModerateFloodingRiskIncrease=-Siddetli sel sikliginda önemli bir artis, dünya genelinde GDP'yi düsürür
+
+TIEffectTemplate.description.Effect_MajorFloodingRiskIncrease=-Sürekli siddetli sel tehdidi, dünya genelinde GDP'yi düsürür ve bazi bölgeler sular altinda kalir
+
+TIEffectTemplate.description.Effect_ArcticOceanBlue=-{1} bölgesinin kiyisi artik yil boyunca erisilebilir
+
+TIEffectTemplate.description.Effect_GainOpenControlPoint=-Açik bir kontrol noktasi kazanilir
+
+TIEffectTemplate.description.Effect_GainAnyControlPoint=-Bu ulusta rastgele bir kontrol noktasi kazanilir
+
+TIEffectTemplate.description.Effect_GainAnyControlPoint_Plus=-Bu ulusta rastgele bir kontrol noktasi kazanilir, ardindan {0} ay süreyle savunulmus hale gelir
+
+TIEffectTemplate.description.Effect_LoseUndefendedControlPoint=-Savunmasiz bir kontrol noktasi baska bir fraksiyona kaybedilir
+
+TIEffectTemplate.description.Effect_LoseUndefendedControlPoint_Plus=-Savunmasiz bir kontrol noktasi baska bir fraksiyona kaybedilir, ardindan {0} ay süreyle savunulmus hale gelir
+
+TIEffectTemplate.description.Effect_CrackdownArmyControlPoint=-Bu orduya ait kontrol noktasinda {0} ay sürecek bir baski gerçeklesecek
+
+TIEffectTemplate.description.Effect_IncreaseMaxMissionSliderSteps=-Bir misyonun basari sansini artirmak için harcayabileceginiz kaynak miktarini artirir
+TIEffectTemplate.description.Effect_ShipConstructionTimeReduction5=-Gemiler {18} daha hizli insa edilir
+
+TIEffectTemplate.description.Effect_ShipConstructionTimeReduction10=-Gemiler {18} daha hizli insa edilir
+
+TIEffectTemplate.description.Effect_ShipConstructionTimeReduction=-Gemiler {18} daha hizli insa edilir
+
+TIEffectTemplate.displayName.Effect_FactionSoftPower=Fraksiyon Yumusak Gücü
+TIEffectTemplate.description.Effect_FactionSoftPower=-Kontrol noktasi veya bir yasam alani elde etmek için misyonlara +{0} kazanin
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyMoneyIncome2=-{21}'in aylik para geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyMoneyIncome10=-{21}'in aylik para geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyMoneyIncome200=-{21}'in aylik para geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyMoneyIncome5=-{21}'in aylik para geliri {0} kadar azalir
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyMoneyIncome10=-{21}'in aylik para geliri {0} kadar azalir
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyMoneyIncome25=-{21}'in aylik para geliri {0} kadar azalir
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyMoneyIncome50=-{21}'in aylik para geliri {0} kadar azalir
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyMoneyIncome100=-{21}'in aylik para geliri {0} kadar azalir
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyMoneyIncome200=-{21}'in aylik para geliri {0} kadar azalir
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyInfluenceIncome1=-{21}'in aylik etki geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyInfluenceIncome3=-{21}'in aylik etki geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyBoostIncome025=-{21}'in aylik itici güç geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyOpsIncome5=-{21}'in aylik operasyon geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyOpsIncome3=-{21}'in aylik operasyon geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyOpsIncome05=-{21}'in aylik operasyon geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyResearchIncome15=-{21}'in aylik arastirma geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyNoblesIncome10=-{21}'in aylik degerli metaller geliri {0} kadar artar
+
+TIEffectTemplate.description.Effect_DecreaseMonthlyNoblesIncome10=-{21}'in aylik degerli metaller geliri {0} kadar azalir
+
+TIEffectTemplate.displayName.Effect_RapidResponseTeams=Hizli Müdahale Takimlari
+TIEffectTemplate.description.Effect_RapidResponseTeams=-Alienler, kontrol noktalarimiza karsi gerçeklestirdikleri terörize misyonlarinda -{0} zarar görürler
+
+TIEffectTemplate.displayName.Effect_RapidDiplomacy=Gelismis Uluslararasi Diplomasi
+TIEffectTemplate.description.Effect_RapidDiplomacy=-Diplomatik olaylardan sonra, ülkeler arasindaki iliskileri iyilestirmek için bekleme süreleri {4} kadar azaltilir
+
+TIEffectTemplate.displayName.Effect_EnthrallElitesDefense=Yönetici Koruma
+TIEffectTemplate.description.Effect_EnthrallElitesDefense=-Alienler, kontrol noktalarimiza karsi gerçeklestirdikleri etkileyici misyonlarda -{0} zarar görürler
+
+TIEffectTemplate.description.Effect_DestroyNationalSpaceAssets=-{9}'in tüm itici güç, misyon kontrolü ve uzay savunmalari kaybolur
+
+TIEffectTemplate.description.Effect_DamageNationalSpaceAssets=-{9}'in itici güç, misyon kontrolü ve uzay savunmalarinin {3} kadari kaybolur
+
+TIEffectTemplate.description.Effect_DamageNationalSpaceAssetsSecondary025=-{11}'in itici güç, misyon kontrolü ve uzay savunmalarinin {3} kadari kaybolur
+
+TIEffectTemplate.description.Effect_GlobalFamine=-Dünya'nin uluslari büyük nüfus kayiplari yasar, bu biraz zenginlikle hafifletilir
+
+TIEffectTemplate.description.Effect_WetBulb=-{1} bölgesi önemli nüfus kayiplari yasar, bu biraz zenginlikle hafifletilir
+
+TIEffectTemplate.description.Effect_MitigatedWetBulb=-{1} bölgesi bazi nüfus kayiplari yasar, bu biraz zenginlikle hafifletilir
+
+TIEffectTemplate.displayName.Effect_Apparatchiks=Apparatchiks
+TIEffectTemplate.description.Effect_Apparatchiks=-Purge misyonlarina +{0} kazanin
+
+TIEffectTemplate.displayName.Effect_IncreasePurgeAttack_10=Efendileri Kölelestir
+TIEffectTemplate.description.Effect_IncreasePurgeAttack_10=-Purge misyonlarina +{0} kazanin
+
+TIEffectTemplate.description.Effect_GainFactionSpaceOrg=-Uzayda itici güç ve misyon kontrol gelirleri saglayan özel bir organizasyon kazanin
+
+TIEffectTemplate.description.Effect_FreeAbductions1=-Alienler {0} kaçirma gerçeklestirir {5}
+
+TIEffectTemplate.description.Effect_FreeAbductions2=-Alienler {0} kaçirma gerçeklestirir {5}
+
+TIEffectTemplate.description.Effect_FreeAbductions4=-Alienler {0} kaçirma gerçeklestirir {5}
+
+TIEffectTemplate.description.Effect_FreeAbductions6=-Alienler {0} kaçirma gerçeklestirir {5}
+
+TIEffectTemplate.description.Effect_AtrocityMitigation50=-Bir soykirim gerçeklestirilmesinin olumsuz propaganda etkilerini azaltir
+TIEffectTemplate.displayName.Effect_HostileTakeoverDefense=Kurumsal Savunmalar
+TIEffectTemplate.description.Effect_HostileTakeoverDefense=-Düsmanlar, bize karsi yapilan Düsmanca Ele Geçirme misyonlarinda -{0} zarar görür
+
+TIEffectTemplate.displayName.Effect_HostileTakeoverAttack=Düsmanca Ele Geçirme Projeleri
+TIEffectTemplate.description.Effect_HostileTakeoverAttack=-Düsmanca Ele Geçirme misyonlarinda +{0} kazanirsiniz
+
+TIEffectTemplate.displayName.Effect_FactionResearchEncryption=Arastirma Sifreleme
+TIEffectTemplate.description.Effect_FactionResearchEncryption=-Düsmanlar, Çalma ve Sabotaj Projesi misyonlarinda -{0} zarar görürler
+
+TIEffectTemplate.displayName.Effect_AssassinationAttack=Suikast Teknolojisi
+TIEffectTemplate.description.Effect_AssassinationAttack=-Suikast misyonlarina +{0} kazanin
+
+TIEffectTemplate.displayName.Effect_ControlAssetDefense=Ekibin Sadakati
+TIEffectTemplate.description.Effect_ControlAssetDefense=-Düsmanlar, Uzay Varliklarini Kontrol misyonlarinda -{0} zarar görürler
+
+TIEffectTemplate.displayName.Effect_GainControlPoint_Debuff4_12=Yabanci Casus Yazilim
+TIEffectTemplate.description.Effect_GainControlPoint_Debuff4_12=-Bir kontrol noktasi veya bir yasam alaninin kontrolünü kazanma misyonlarina {0} zarar görürsünüz, {7} ay süresince
+
+TIEffectTemplate.displayName.Effect_ControlAssetDefense_Debuff6_12=Yabanci Casus Yazilim
+TIEffectTemplate.description.Effect_ControlAssetDefense_Debuff6_12=-Uzay Varliklarini Kontrol misyonlarina karsi {0} zarar görürsünüz, {7} ay süresince
+
+TIEffectTemplate.displayName.Effect_AssassinationAttack_Debuff6_12=Yabanci Casus Yazilim
+TIEffectTemplate.description.Effect_AssassinationAttack_Debuff6_12=-Suikast misyonlarina karsi {0} zarar görürsünüz, {7} ay süresince
+
+TIEffectTemplate.displayName.Effect_TerrorizeDefense_Debuff6_12=Yabanci Casus Yazilim
+TIEffectTemplate.description.Effect_TerrorizeDefense_Debuff6_12=-Kontrol noktalarimiza karsi yapilan terörize misyonlarinda {0} zarar görürsünüz, {7} ay süresince
+
+TIEffectTemplate.displayName.Effect_EnthrallElitesDefense_Debuff4_12=Yabanci Casus Yazilim
+TIEffectTemplate.description.Effect_EnthrallElitesDefense_Debuff4_12=-Kontrol noktalarimiza karsi yapilan etkileyici misyonlarda {0} zarar görürsünüz, {7} ay süresince
+
+TIEffectTemplate.displayName.Effect_StealSabotageProjectDefense_Debuff6_12=Yabanci Casus Yazilim
+TIEffectTemplate.description.Effect_StealSabotageProjectDefense_Debuff6_12=-Çalma ve Sabotaj Projesi misyonlarina karsi {0} zarar görürsünüz, {7} ay süresince
+
+TIEffectTemplate.displayName.Effect_PublicCampaign_Debuff6_12=Kamu Sirketleri
+TIEffectTemplate.description.Effect_PublicCampaign_Debuff6_12=-{1} Kamu Kampanyasi misyonlarinda kalici olarak {0} zarar görür
+
+TIEffectTemplate.description.Effect_PrimaryOccupiesSecondary15=-{5}: {6} bölgesinin isgali {3} kadar artar
+
+TIEffectTemplate.description.Effect_PrimaryOccupiesSecondary25=-{5}: {6} bölgesinin isgali {3} kadar artar
+
+TIEffectTemplate.description.Effect_SecondaryOccupiesPrimary15=-{6}: {6} bölgesinin isgali {3} kadar artar
+
+TIEffectTemplate.description.Effect_SecondaryRegimeChangesPrimary=-{2}, {5} rejim degisikligi gerçeklestirir
+
+TIEffectTemplate.description.Effect_SecondaryAnnexesPrimary=-{2}, {1}'i ilhak eder
+
+TIEffectTemplate.description.Effect_SnapElection0=-Kontrol noktalari {5}, fraksiyon popülerligine göre yeniden dagitilacaktir
+
+TIEffectTemplate.description.Effect_SnapElection15=-Kontrol noktalari {5}, fraksiyon popülerligine göre yeniden dagitilacaktir, {14}'e {3} oraninda agirlik verilerek
+
+TIEffectTemplate.description.Effect_PopularityContestLegislature0=-{13} kontrol noktasi {5}, fraksiyon popülerligine göre rastgele yeniden atanacaktir
+
+TIEffectTemplate.description.Effect_PopularityContestLegislature25=-{13} kontrol noktasi {5}, fraksiyon popülerligine göre rastgele yeniden atanacaktir, {14}'e {3} oraninda agirlik verilerek
+
+TIEffectTemplate.description.Effect_CoupNullFaction=-Bir darbe gerçeklesecektir {5}
+
+TIEffectTemplate.description.Effect_IncreaseProjectUnlockChance=-Herhangi bir projeyi arastirmak için sansimiz {0}% artar
+
+TIEffectTemplate.displayName.Effect_IncreaseUnrestAttack=Huzursuzluk Projeleri
+TIEffectTemplate.description.Effect_IncreaseUnrestAttack=-Huzursuzluk misyonlarina +{0} kazanin
+
+TIEffectTemplate.displayName.Effect_StabilizeAttack=Stabilize Projeleri
+TIEffectTemplate.description.Effect_StabilizeAttack=-Stabilize misyonlarina +{0} kazanin
+
+TIEffectTemplate.description.Effect_PostRegimeChangeUnrestControl=-Ordu tarafindan fethedilen uluslarda huzursuzluk {0} kadar azalir
+
+TIEffectTemplate.description.Effect_PostRegimeLossUnrestIncrease=-Fethedilen uluslarda huzursuzluk {0} kadar artar
+
+TIEffectTemplate.description.Effect_BreakawayChance=-Bagimsizlik hareketleri olan bölgelerde, huzursuzluk misyonlarimizin ardindan ayrilma sansi {8} oraninda artar
+
+TIEffectTemplate.displayName.Effect_IncreaseInspireAttack=Ilham Verme Projeleri
+TIEffectTemplate.description.Effect_IncreaseInspireAttack=-Ilham verme misyonlarina +{0} kazanin
+
+TIEffectTemplate.description.Effect_GlobalFissionTechIncrease=<skip/>
+TIEffectTemplate.description.Effect_GlobalFusionTechIncrease=<skip/>																														// ÇEVIRMENLER: YENIDEN EKLENEBILECEKSE ÇEVIRIYI YORUMDA SAKLAYIN -Küresel nükleer füzyon teknoloji seviyesini {0} kadar artirir, dünyayi enerji krizlerine karsi tamponlar
+
+TIEffectTemplate.description.Effect_DestroyRandomModules1=-{1} üzerinde rastgele bir modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomModules_Marines1=-{1} üzerinde yer alan Marines içeren bir modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomModules_Marines2=-{1} üzerinde {0} tane Marines içeren modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomModules_Power2=-{1} üzerinde {0} tane enerji üreten modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomModules_Power3=-{1} üzerinde {0} tane enerji üreten modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomNumberOfModules1=-{1} üzerinde en fazla {0} modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomNumberOfModules2=-{1} üzerinde en fazla {0} modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomNumberOfModules3=-{1} üzerinde en fazla {0} modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyRandomNumberOfModules4=-{1} üzerinde en fazla {0} modül yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyHabSector=-{1} üzerinde rastgele bir sektör yok edilecektir
+
+TIEffectTemplate.description.Effect_DestroyHab=-{1} tamamen yok edilecektir
+
+TIEffectTemplate.description.Effect_HabDefectsToSecondary=-{1}, {2}'ye defekt verir
+
+TIEffectTemplate.description.Effect_FreeDailySpaceResources1=-Tüm temel uzay kaynaklari için ücretsiz bir günlük gelir elde edilir
+
+TIEffectTemplate.description.Effect_LoseDailySpaceResources1=-Tüm temel uzay kaynaklari için bir günlük gelir kaybedilir
+
+TIEffectTemplate.description.Effect_IncreaseMineProduction25=-{1} üzerinde mevcut olan tüm temel uzay kaynaklarinin madenciligi % {3} oraninda artar
+
+TIEffectTemplate.description.Effect_IncreaseMineProduction50=-{1} üzerinde mevcut olan tüm temel uzay kaynaklarinin madenciligi % {3} oraninda artar
+
+TIEffectTemplate.description.Effect_DecreaseMineProduction25=-{1} üzerinde temel uzay kaynaklarinin madenciligi % {3} oraninda azalir
+
+TIEffectTemplate.description.Effect_DecreaseMineProduction50=-{1} üzerinde temel uzay kaynaklarinin madenciligi % {3} oraninda azalir
+
+TIEffectTemplate.description.Effect_DecreaseMineProduction75=-{1} üzerinde temel uzay kaynaklarinin madenciligi % {3} oraninda azalir
+
+TIEffectTemplate.displayName.Effect_MiningPerformance_LuckyStrike=Madencilik Performans Kaydi
+TIEffectTemplate.description.Effect_MiningPerformance_LuckyStrike=-Bu durumu fraksiyonumuzun madencilik performans kaydina not edecegiz
+
+TIEffectTemplate.displayName.Effect_MiningPerformance_DryHole=Madencilik Performans Kaydi
+TIEffectTemplate.description.Effect_MiningPerformance_DryHole=-Bu durumu fraksiyonumuzun madencilik performans kaydina not edecegiz
+
+TIEffectTemplate.description.Effect_IncreaseDebrisInOrbit1=-{1} yörüngesindeki enkaza {0} kadar artis
+
+TIEffectTemplate.description.Effect_IncreaseDebrisInOrbit3=-{1} yörüngesindeki enkaza {0} kadar artis
+
+TIEffectTemplate.description.Effect_IncreaseDebrisInOrbit5=-{1} yörüngesindeki enkaza {0} kadar artis
+
+TIEffectTemplate.description.Effect_DecreaseDebrisInOrbit1=-{1} yörüngesindeki enkaza {0} kadar azalma
+
+TIEffectTemplate.description.Effect_KesslerSyndrome2=-Düsük Dünya Yörüngesi'nde enkaza {0} kadar artis
+
+TIEffectTemplate.description.Effect_KesslerSyndrome5=-Düsük Dünya Yörüngesi'nde enkaza {0} kadar artis
+
+TIEffectTemplate.description.Effect_KesslerSyndrome10=-Düsük Dünya Yörüngesi'nde enkaza {0} kadar artis
+
+TIEffectTemplate.description.Effect_LEOCleanup1=-Düsük Dünya Yörüngesi'nde enkaza {0} kadar azalma
+
+TIEffectTemplate.description.Effect_LEOCleanup3=-Düsük Dünya Yörüngesi'nde enkaza {0} kadar azalma
+
+TIEffectTemplate.description.Effect_LEOCleanup6=-Düsük Dünya Yörüngesi'nde enkaza {0} kadar azalma
+
+TIEffectTemplate.description.Effect_GlobalSeaLevelRise_5cm=Küresel deniz seviyesi 5 santimetre yükselir
+
+TIEffectTemplate.description.Effect_GlobalSeaLevelRise_10cm=Küresel deniz seviyesi 10 santimetre yükselir
+
+TIEffectTemplate.description.Effect_GlobalSeaLevelRise_20cm=Küresel deniz seviyesi 20 santimetre yükselir
+
+TIEffectTemplate.description.Effect_GlobalSeaLevelRise_50cm=Küresel deniz seviyesi 50 santimetre yükselir
+
+TIEffectTemplate.description.Effect_GlobalSeaLevelRise_120cm=Küresel deniz seviyesi 120 santimetre yükselir
+
+TIEffectTemplate.description.Effect_ArmyNuclearHardening25=Ordularimiz nükleer saldirilardan {4} daha az hasar alir
+
+TIEffectTemplate.description.Effect_ArmyNuclearHardening50=Ordularimiz nükleer saldirilardan {4} daha az hasar alir
+
+TIEffectTemplate.description.Effect_LifeExtension05=Konsey üyelerimiz ortalama olarak 6 ay daha uzun yasar
+
+TIEffectTemplate.description.Effect_LifeExtension10=Konsey üyelerimiz ortalama olarak 10 yil daha uzun yasar
+
+TIEffectTemplate.description.Effect_SpawnMegafaunaArmy=-{10} içinde bir uzay megafaunasi ortaya çikacak
+
+TIEffectTemplate.description.Effect_SpawnMegafaunaArmyDamaged25=-{10} içinde hasarli bir uzay megafaunasi ortaya çikacak
+TIEffectTemplate.displayName.Effect_MissionControlDisruption10_Global=Küresel Görev Kontrolü Bozulmasi
+TIEffectTemplate.description.Effect_MissionControlDisruption10_Global=-Tüm insan fraksiyonlarinin Görev Kontrolü gelirleri {4} oraninda {7} ay süreyle azaltilacaktir							// 4: deger yüzde olarak (azalma), 7: süre ay olarak
+
+TIEffectTemplate.displayName.Effect_MissionControlDisruption25=Görev Kontrolü Bozulmasi
+TIEffectTemplate.description.Effect_MissionControlDisruption25=-Görev Kontrolü gelirimiz {4} oraninda {7} ay süreyle azaltilacaktir
+
+TIEffectTemplate.displayName.Effect_MissionControlDisruption50=Görev Kontrolü Bozulmasi
+TIEffectTemplate.description.Effect_MissionControlDisruption50=-Görev Kontrolü gelirimiz {4} oraninda {7} ay süreyle azaltilacaktir
+
+TIEffectTemplate.displayName.Effect_MissionControlDisruption75=Görev Kontrolü Bozulmasi
+TIEffectTemplate.description.Effect_MissionControlDisruption75=-Görev Kontrolü gelirimiz {4} oraninda {7} ay süreyle azaltilacaktir
+
+TIEffectTemplate.displayName.Effect_LaunchFacilitiesPriorityDisruption25_6=Ikincil Öncelik Bozulmasi
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityDisruption25_6=-Boost önceligine yönlendirdigimiz Ulusal Yatirim Noktalari {4} oraninda {7} ay süreyle azaltilacaktir
+
+TIEffectTemplate.displayName.Effect_LaunchFacilitiesPriorityDisruption25_12=Ikincil Öncelik Bozulmasi
+TIEffectTemplate.description.Effect_LaunchFacilitiesPriorityDisruption25_12=-Boost önceligine yönlendirdigimiz Ulusal Yatirim Noktalari {4} oraninda {7} ay süreyle azaltilacaktir
+
+TIEffectTemplate.description.Effect_PropagandaStrengthMultiplier25=-Kamu Kampanyasi görevlerimiz ulusal kamuoyunda {8} daha büyük bir etkiye sahip olacak
+
+TIEffectTemplate.description.Effect_PropagandaStrengthMultiplier15=-Kamu Kampanyasi görevlerimiz ulusal kamuoyunda {8} daha büyük bir etkiye sahip olacak
+
+TIEffectTemplate.description.Effect_AlienSpaceResourceShareMajor=-Uzaylilar günlük olarak stoklarimiza önemli miktarda uzay kaynagi transfer edecektir
+
+TIEffectTemplate.description.Effect_AlienSpaceResourceShareMinor=-Uzaylilar günlük olarak stoklarimiza uzay kaynagi transfer edecektir
+
+TIEffectTemplate.description.Effect_ControlPointMaintenanceBonus160=-Kontrol noktasi yönetim kapasitemizi {19} oraninda artirir																// 19: negatif deger
+
+TIEffectTemplate.description.Effect_ControlPointMaintenanceBonus40=-Kontrol noktasi yönetim kapasitemizi {19} oraninda artirir
+
+TIEffectTemplate.description.Effect_ControlPointMaintenanceBonus20=-Kontrol noktasi yönetim kapasitemizi {19} oraninda artirir
+
+TIEffectTemplate.description.Effect_ControlPointMaintenanceBonus10=-Kontrol noktasi yönetim kapasitemizi {19} oraninda artirir
+
+TIEffectTemplate.description.Effect_ControlPointMaintenanceBonus3=-Kontrol noktasi yönetim kapasitemizi {19} oraninda artirir
+
+TIEffectTemplate.description.Effect_StandardLaserDefenses=Yüzey savunmalari insa edildikten sonra temel lazerler kullanacaktir
+
+TIEffectTemplate.description.Effect_ArcLaserDefenses=Yüzey savunmalari kavisli lazerler kullanacaktir
+
+TIEffectTemplate.description.Effect_PhaserDefenses=Yüzey savunmalari Phaser'lar kullanacaktir
+
+TIEffectTemplate.description.Effect_IRLaserDefenses=Yüzey savunmalari insa edildikten sonra kizilötesi lazerler kullanacaktir
+
+TIEffectTemplate.description.Effect_GreenLaserDefenses=Yüzey savunmalari görünür spektrum lazerleri kullanacaktir
+
+TIEffectTemplate.description.Effect_UVLaserDefenses=Temel savunma modülleri ultraviyole lazerler kullanacaktir
+
+TIEffectTemplate.description.Effect_GainXP4=-{1} {0} XP kazanir
+
+TIEffectTemplate.description.Effect_GainXP10=-{1} {0} XP kazanir
+
+TIEffectTemplate.description.Effect_GainXP20=-{1} {0} XP kazanir
+
+TIEffectTemplate.description.Effect_GainXP60=-{1} {0} XP kazanir
+
+TIEffectTemplate.description.Effect_GainXPSecondary20=-{2} {0} XP kazanir
+
+TIEffectTemplate.description.Effect_GainXPSecondary60=-{2} {0} XP kazanir
+
+TIEffectTemplate.description.Effect_GainTraitIndebted=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitDelinquent=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitInflexible=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitAddict=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitIndulgent=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_CouncilorDetained6=-{1} mevcut konumunda {0} görev asamasi süreyle alikonacaktir
+
+TIEffectTemplate.displayName.Effect_SabotageFacilitiesDefense2=Uzay Limani Güvenligi
+TIEffectTemplate.description.Effect_SabotageFacilitiesDefense2=-Düsmanlar, kontrolümüzdeki uluslarda Tesis Sabotaji görevlerinde -{0} ceza alacaktir
+
+TIEffectTemplate.displayName.Effect_SabotageFacilitiesOrHabModulesDefense1=Kaçakçi Tarayicilar
+TIEffectTemplate.description.Effect_SabotageFacilitiesOrHabModulesDefense1=-Düsmanlar, varliklarimiza karsi Tesis Sabotaji ve Yasam Modülü Sabotaji görevlerinde -{0} ceza alacaktir
+
+TIEffectTemplate.description.Effect_ArmyHealingRate005=-Ordumuzun onarim hizi günlük olarak {3} oraninda artar
+
+TIEffectTemplate.description.Effect_ArmyUrbanWarfare125=-Ordularimiz, ana ekonomik bölgelerde savasirken artan savas degeri elde eder
+TIEffectTemplate.description.Effect_ArmyRuggedWarfare125=-Ordularimiz, engebeli bölgelerde savasirken artan savas degeri elde eder
+
+TIEffectTemplate.description.Effect_BonusDamageToXenoforming=-Konsey üyelerimiz ve ordularimiz xenoforming'e {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_ArmyDamageBonustoMegafauna=-Ordularimiz megafaunaya {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_ArmyDamageBonustoInvaderArmy=-Ordularimiz yabanci ordulara {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_ArmyDamageBonustoHumanArmy=-Ordularimiz insan ordularina {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_ArmyDamageBonustoAllArmies=-Ordularimiz tüm ordulara {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_MegafaunaDamageMitigation=-Megafauna, bölgelerimize {3} daha az hasar verir
+
+TIEffectTemplate.description.Effect_MegafaunaDamageElimination=-Megafauna artik bölgelerimize hasar vermez
+
+TIEffectTemplate.description.Effect_MegafaunaRepellent=-Megafauna, mümkünse ülkelerimizin bölgelerinden kaçinacaktir
+
+TIEffectTemplate.displayName.Effect_CrackdownBonus3=Crackdown Projeleri
+TIEffectTemplate.description.Effect_CrackdownBonus3=-Crackdown görevlerinde +{0} kazanin
+
+TIEffectTemplate.displayName.Effect_CoupBonus3=Darbe Projeleri
+TIEffectTemplate.description.Effect_CoupBonus3=-Darbe görevlerinde +{0} kazanin
+
+TIEffectTemplate.displayName.Effect_CrackdownDefense3=Crackdown Savunma Projeleri
+TIEffectTemplate.description.Effect_CrackdownDefense3=-Düsmanlar, kontrol noktalarimiza karsi Crackdown görevlerinde -{0} ceza alacaktir
+
+TIEffectTemplate.description.Effect_TotalHabMissionControlCost=-Hâlâ harcamalarimizin toplam <color=#FFFFFFFF><sprite name="mission_control"></color> maliyeti {4} oraninda azaltilacaktir
+
+TIEffectTemplate.description.Effect_TotalShipMissionControlCost=-Gemilerimizin toplam <color=#FFFFFFFF><sprite name="mission_control"></color> maliyeti {4} oraninda azaltilacaktir
+
+TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl5=-Hasar kontrol ekiplerimiz onarimlari {8} daha hizli gerçeklestirir
+
+TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl25=-Hasar kontrol ekiplerimiz onarimlari {8} daha hizli gerçeklestirir
+
+TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl=-Hasar kontrol ekiplerimiz onarimlari {8} daha hizli gerçeklestirir
+
+TIEffectTemplate.description.Effect_ShipLaserDamage=-Gemi üzerindeki lazer silahlarimiz {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_ShipMagDamage=-Gemi üzerindeki manyetik silahlarimiz {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_ShipConvMissileDamage=-Gemi üzerindeki füzeler {8} ek hasar verir
+
+TIEffectTemplate.description.Effect_MiningWaterBonus=-Madenlerimiz {8} daha fazla <color=#FFFFFFFF><sprite name="water"></color> üretir
+
+TIEffectTemplate.description.Effect_MiningVolatilesBonus=-Madenlerimiz {8} daha fazla <color=#FFFFFFFF><sprite name="volatiles"></color> üretir
+
+TIEffectTemplate.description.Effect_MiningMetalsBonus=-Madenlerimiz {8} daha fazla <color=#FFFFFFFF><sprite name="metal"></color> üretir
+
+TIEffectTemplate.description.Effect_MiningNoblesBonus=-Madenlerimiz {8} daha fazla <color=#FFFFFFFF><sprite name="metal_noble"></color> üretir
+
+TIEffectTemplate.description.Effect_MiningFissilesBonus=-Madenlerimiz {8} daha fazla <color=#FFFFFFFF><sprite name="radioactive"></color> üretir
+
+TIEffectTemplate.description.Effect_EconomyInequalityReduction=-Ekonomi önceligi tarafindan üretilen esitsizlik {4} oraninda azaltilir
+
+TIEffectTemplate.description.Effect_WelfareInequalityReductionEffectiveness=-Refah önceligi tarafindan azaltilan esitsizlik {8} oraninda artirilir
+
+TIEffectTemplate.description.Effect_Economy_CO2_ppm90=-Ekonomi önceligi, küresel olarak {4} daha az karbon dioksit üretir
+
+TIEffectTemplate.description.Effect_Economy_CO2_ppm50=-Ekonomi önceligi, küresel olarak {4} daha az karbon dioksit üretir
+
+TIEffectTemplate.description.Effect_WelfareReduction_CO2_ppm=-Refah önceligi atmosferden {8} daha fazla karbon dioksit çikarir
+
+TIEffectTemplate.description.Effect_Economy_CH4_ppm=-Ekonomi önceligi, küresel olarak {4} daha az metan üretir
+
+TIEffectTemplate.description.Effect_WelfareReduction_CH4_ppm=-Refah önceligi atmosferden {8} daha fazla metan çikarir
+
+TIEffectTemplate.description.Effect_Economy_N2O_ppm=-Ekonomi önceligi, küresel olarak {4} daha az azot oksit üretir
+
+TIEffectTemplate.description.Effect_WelfareReduction_N2O_ppm=-Refah önceligi, atmosferden {8} daha fazla azot oksit çikarir
+
+TIEffectTemplate.description.Effect_NuclearStrikeDamageReduction80=-Nükleer saldirilardan kaynaklanan nüfus kaybi ve GSYIH hasari {4} oraninda azaltilir
+
+TIEffectTemplate.description.Effect_RecruitStartingXP=-Yeni konsey üyeleri +{0} XP ile baslar
+
+TIEffectTemplate.description.Effect_Economy_BasePCGDPIncrease02=-Ekonomi önceligi, bir ulustaki kisi basina GSYIH'yi ek olarak {8} artirir
+
+TIEffectTemplate.description.Effect_Economy_BasePCGDPIncreasePenalty02=-Ekonomi önceliginin bir ulustaki kisi basina GSYIH üzerindeki etkisi {4} oraninda azaltilir
+
+TIEffectTemplate.description.Effect_Economy_BasePCGDPIncreaseDisruption08_12=-Ekonomi önceliginin bir ulustaki kisi basina GSYIH üzerindeki etkisi {4} oraninda {7} ay süreyle azaltilir
+
+TIEffectTemplate.description.Effect_NuclearWeaponsProgramPenalty50=-Tüm uluslarin nükleer silah programlarina yatirdigi Yatirim Noktalari {3} oraninda degisir
+
+TIEffectTemplate.description.Effect_MilitaryPriorityPenalty10=-Tüm uluslarin Askeri öncelige yatirdigi Yatirim Noktalari {3} oraninda degisir
+
+TIEffectTemplate.description.Effect_BuildArmyPriorityPenalty10=-Tüm uluslarin Ordu Kurma önceligine yatirdigi Yatirim Noktalari {3} oraninda degisir
+TIEffectTemplate.description.Effect_UpgradeArmyPriorityPenalty10=-Tüm uluslarin Donanma Yükseltme önceligine yatirdigi Yatirim Noktalari {3} oraninda degisir
+
+TIEffectTemplate.description.Effect_ArmyBombardmentDefenses=-Ordular, yörüngesel bombardimandan {4} daha az hasar alir
+
+TIEffectTemplate.description.Effect_HabBombardmentDefenses=-Hâllar, yörüngesel bombardimandan {4} daha az hasar alir
+
+TIEffectTemplate.description.Effect_TerrorKnowledge=-Düsman terörize görevleri, kontrol noktalarimiza karsi -{0} ceza alir
+
+TIEffectTemplate.displayName.Effect_AssaultAlienAssetKnowledge=Yabanci Sorgulamalar
+TIEffectTemplate.description.Effect_AssaultAlienAssetKnowledge=-Yabanci Varlik Saldiri görevlerimiz +{0} bonus alir
+
+TIEffectTemplate.displayName.Effect_CounterXenoforming=Anti-xenoforming Projeleri
+TIEffectTemplate.description.Effect_CounterXenoforming=-Yabancilarin bölgelerimize xenoform yerlestirme girisimleri -{0} ceza alir
+
+TIEffectTemplate.description.Effect_FocusedDefenses=-Gemilerimiz, yabanci silahlarindan {4} daha az hasar alir
+
+TIEffectTemplate.description.Effect_SurvivabilityUpgrades=-Gemilerimiz, düsman silahlarindan savasta {4} daha az hasar alir
+
+TIEffectTemplate.displayName.Effect_SeizeSpaceAssetAttack_Griffin=Griffin Arastirmasi
+TIEffectTemplate.description.Effect_SeizeSpaceAssetAttack_Griffin=-Düsman Uzay Varligi Saldiri görevlerinde +{0} kazanin
+
+TIEffectTemplate.displayName.Effect_SeizeSpaceAssetDefense_Griffin=Griffin Arastirmasi
+TIEffectTemplate.description.Effect_SeizeSpaceAssetDefense_Griffin=-Düsmanlar, bize karsi Düsman Uzay Varligi Saldiri görevlerinde -{0} ceza alir
+
+TIEffectTemplate.description.Effect_DamageArmy10=-{1}, mevcut gücüne {3} hasar alir
+
+TIEffectTemplate.description.Effect_DamageArmy15=-{1}, mevcut gücüne {3} hasar alir
+
+TIEffectTemplate.description.Effect_DamageArmy20=-{1}, mevcut gücüne {3} hasar alir
+
+TIEffectTemplate.description.Effect_DamageArmy30=-{1}, mevcut gücüne {3} hasar alir
+
+TIEffectTemplate.description.Effect_DamageArmy40=-{1}, mevcut gücüne {3} hasar alir
+
+TIEffectTemplate.description.Effect_RepairArmy20=-{1}, mevcut gücündeki {3} hasari onarir
+
+TIEffectTemplate.description.Effect_RepairArmy40=-{1}, mevcut gücündeki {3} hasari onarir
+
+TIEffectTemplate.description.Effect_DamageAllRegionArmies10=-Etkilenen bölgelerdeki tüm ordular hafif hasar alir
+
+TIEffectTemplate.description.Effect_DummyTooltipImprovedMaintenanceProcedures1=-Hab Kazasi olaylari bizleri daha az etkiler
+
+TIEffectTemplate.description.Effect_DummyTooltipImprovedMaintenanceProcedures2=-Kademeli Ariza sonuçlari daha az siklikla meydana gelir
+
+TIEffectTemplate.description.Effect_DummyTooltipDevolvedSpaceCommand1=-Hab Isyani olaylari bizleri daha az etkiler
+
+TIEffectTemplate.description.Effect_DummyTooltipDevolvedSpaceCommand2=-Görev Kontrolü’ne karsi daha iyi direnç gösteririz
+
+TIEffectTemplate.description.Effect_DummyTooltipInSituResourceUtilization1=-Madenlerimizde Kuru Delik olaylari daha az meydana gelir
+
+TIEffectTemplate.description.Effect_DummyTooltipInSituResourceUtilization2=-Madenlerimizde Sansli Darbe olaylari daha sik meydana gelir
+
+TIEffectTemplate.description.Effect_MegafaunaMastery=-Ordularimiz, savasta karsilarina çikan yabanci megafaunalari kontrol altina alma sansina sahip
+
+TIEffectTemplate.description.Effect_SpoilsBonus20=-Spoils önceliginden {8} daha fazla para kazaniriz
+
+TIEffectTemplate.description.Effect_CorruptionReduction20=-Kontrol ettigimiz ülkelerde, elitler spoils önceligine daha az yatirim talep eder, darbe olasiliklarini azaltir
+
+TIEffectTemplate.description.Effect_EndofOil=-Tüm petrol Temel Kaynak Bölgeleri ortadan kaldirilir
+
+TIEffectTemplate.description.Effect_ShipDefectsToSecondary=-{1} {2}'ye arizalanir
+
+TIEffectTemplate.description.Effect_DestroyShip=-{1} tamamen yok edilecektir
+
+TIEffectTemplate.description.Effect_CouncilorGoesToGround=-Diger fraksiyonlar, {1}'in hareketlerini takip edemez
+
+TIEffectTemplate.description.Effect_LoyaltyGain1=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyGainSecondary1=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyGain3=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyGainSecondary3=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyLoss3=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyLossSecondary3=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyLoss4=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyLossSecondary4=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyLoss6=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_LoyaltyLossSecondary6=-{2}'nin {20} istatistigi {0} degisir
+TIEffectTemplate.description.Effect_ApparentLoyaltyGain1=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyGainSecondary1=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyGain3=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyGainSecondary3=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyLoss3=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyLossSecondary3=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyLoss4=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyLossSecondary4=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyLoss6=-{1}'in {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_ApparentLoyaltyLossSecondary6=-{2}'nin {20} istatistigi {0} degisir
+
+TIEffectTemplate.description.Effect_CouncilorSelfDetained4=-{1}, mevcut konumunda {0} görev asamasi boyunca alikonacaktir
+
+TIEffectTemplate.description.Effect_CouncilorSelfDetainedSecondary6=-{2}, mevcut konumunda {0} görev asamasi boyunca alikonacaktir
+
+TIEffectTemplate.description.Effect_DamageShipParts_Marines05=-{1} gemisinde bulunan tüm deniz piyade modülleri {3} hasar alacaktir
+
+TIEffectTemplate.description.Effect_AlienECM=-Gemilerimizin ECM modülleri artik yabanci füzeler karsisinda etkili olacaktir
+
+TIEffectTemplate.description.Effect_GlobalEnergyCrisis1=-Kontrolümüz altindaki tüm uluslar, yerel petrol bölgeleri ve küresel fisyon ve füzyon teknoloji seviyeleriyle modifiye edilmis {3} güçle, GDP kaybi ve Esitsizlik artisi yasayacaktir
+
+TIEffectTemplate.description.Effect_GlobalEnergyCrisis075=-Kontrolümüz altindaki tüm uluslar, yerel petrol bölgeleri ve küresel fisyon ve füzyon teknoloji seviyeleriyle modifiye edilmis {3} güçle, GDP kaybi ve Esitsizlik artisi yasayacaktir
+
+TIEffectTemplate.description.Effect_GlobalEnergyCrisis066=-Kontrolümüz altindaki tüm uluslar, yerel petrol bölgeleri ve küresel fisyon ve füzyon teknoloji seviyeleriyle modifiye edilmis {3} güçle, GDP kaybi ve Esitsizlik artisi yasayacaktir
+
+TIEffectTemplate.description.Effect_GlobalEnergyCrisis05=-Kontrolümüz altindaki tüm uluslar, yerel petrol bölgeleri ve küresel fisyon ve füzyon teknoloji seviyeleriyle modifiye edilmis {3} güçle, GDP kaybi ve Esitsizlik artisi yasayacaktir
+
+TIEffectTemplate.description.Effect_GlobalEnergyCrisis025=-Kontrolümüz altindaki tüm uluslar, yerel petrol bölgeleri ve küresel fisyon ve füzyon teknoloji seviyeleriyle modifiye edilmis {3} güçle, GDP kaybi ve Esitsizlik artisi yasayacaktir
+
+TIEffectTemplate.description.Effect_InterrogationTechniques25=-Diger fraksiyonlardan tutuklanan mahkumlarin sorgulanmasindan {8} daha fazla istihbarat kazaniriz
+
+TIEffectTemplate.description.Effect_InterrogationTechniques100=-Diger fraksiyonlardan tutuklanan mahkumlarin sorgulanmasindan {8} daha fazla istihbarat kazaniriz
+
+TIEffectTemplate.description.Effect_AddTraitGroup5=-{1}, asagidaki kisilik özelliklerinden birini kazanir: {16}
+
+TIEffectTemplate.description.Effect_RemoveTraitGroup5=-{1}, {17} özelligini kaybeder
+
+TIEffectTemplate.description.Effect_AddTraitGroup9=-{1}, asagidaki güvenlik özelliklerinden birini kazanir: {16}
+
+TIEffectTemplate.displayName.Effect_BuddyMovieFlag=Arkadas Filmi
+TIEffectTemplate.description.Effect_BuddyMovieFlag=-{1} ve {2} ünlü bir suç patronunu yakalamak için birlikte çalisir
+
+TIEffectTemplate.description.Effect_PropagandaCouncilorHome25=-{1}'in ana vatanindaki kamuoyumuz büyük ölçüde iyilesir
+
+TIEffectTemplate.description.Effect_NegativePropagandaCouncilorHome10=-{1}'in ana vatanindaki kamuoyumuz önemli ölçüde kötülesir
+
+TIEffectTemplate.description.Effect_NegativePropagandaCouncilorHome25=-{1}'in ana vatanindaki kamuoyumuz büyük ölçüde kötülesir
+
+TIEffectTemplate.description.Effect_PropagandaCouncilorHomeSecondary25=-{2}'nin ana vatanindaki kamuoyumuz büyük ölçüde iyilesir
+
+TIEffectTemplate.description.Effect_NegativePropagandaCouncilorHomeSecondary10=-{2}'nin ana vatanindaki kamuoyumuz önemli ölçüde kötülesir
+
+TIEffectTemplate.description.Effect_NegativePropagandaCouncilorHomeSecondary25=-{2}'nin ana vatanindaki kamuoyumuz büyük ölçüde kötülesir
+
+TIEffectTemplate.description.Effect_GlobalCrackdown50_Secondary=-{2}‘ye ait kontrol noktalarinin yaklasik yarisi, 12 ay boyunca Crackdown etkisine maruz kalacak
+
+TIEffectTemplate.description.Effect_CouncilorHomeNationsImproveRelations=-{1} ve {2}'nin ana vatanlari iliskilerini iyilestirecek
+
+TIEffectTemplate.description.Effect_KillCouncilor=-{1} ölecek, baska bir konsey üyesi koruma saglamazsa
+
+TIEffectTemplate.description.Effect_KillCouncilorSecondary=-{2} ölecek, baska bir konsey üyesi koruma saglamazsa
+
+TIEffectTemplate.description.Effect_LoseRandomNumberOfOrgs3=-{1}, benzersiz olmayan {0} kadar örgütünü kaybedecektir
+
+TIEffectTemplate.description.Effect_LoseTraitGovernment=-{1}, {13} özelligini kaybeder
+
+TIEffectTemplate.description.Effect_GainTraitEnemyOfTheState=-{1}, {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitExtorted=-{1}, {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainSpain=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainRabat=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainAden=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainDjibouti=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainJava=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+TIEffectTemplate.description.Effect_RegionGDPGainSumatra=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainHijaz=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainCairo=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainEgypt=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainAfghanistan=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainXinjiang=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainPanama=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainColombia=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainTibet=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainUpperMyanmar=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainAlaska=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainKamchatka=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainMalayPeninsula=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainSriLanka=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainChennai=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainScotland=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_RegionGDPGainNorthernIreland=-{13} bir defaya mahsus {3} artis ile GDP kazanir
+
+TIEffectTemplate.description.Effect_MCUsageMasking=-Filomuzu ve yerlesim insaatimizi {18} oraninda artirabilecegimizi tahmin ediyoruz (Görev Kontrol kullanimimizla ölçülen) ve bu, yabanci misilleme davet etmeden yapilabilir
+
+TIEffectTemplate.description.Effect_FreeXenoInvestigations10=-{0} esdegerinde yabanci sorusturmalar elde ederiz
+
+TIEffectTemplate.description.Effect_TriggerEventHabRevolt=-{15} için bir {13} olayi baslatir
+
+TIEffectTemplate.displayName.Effect_EnthrallPublicDefense=Kamusal Savunmalari Büyüle
+
+TIEffectTemplate.description.Effect_EnthrallPublicDefense=-Yabancilar, yürütme kontrolümüz altindaki uluslarda kamusal büyüleme görevlerinde -{0} cezasi çeker
+
+TIEffectTemplate.displayName.Effect_AbductionsDefense=Kaçirma Savunmalari
+
+TIEffectTemplate.description.Effect_AbductionsDefense=-Yabancilar, yürütme kontrolümüz altindaki uluslarda kaçirma görevlerinde -{0} cezasi çeker
+
+TIEffectTemplate.description.Effect_UpdateAlienThreatMeter=-Yabancilarin fraksiyonumuza nasil baktigi hakkinda istihbarat tahminimizi güncelleriz
+
+TIEffectTemplate.description.Effect_FixAlienThreatMeter=-Yabancilarin fraksiyonumuza nasil baktigi hakkinda dogru bilgilerle istihbarat tahminimizi güncelleriz
+
+TIEffectTemplate.displayName.Effect_HackProject_Steal=Hack Projeleri
+
+TIEffectTemplate.description.Effect_HackProject_Steal=-Çalma Projesi görevlerinde +{0} kazaniriz
+
+TIEffectTemplate.displayName.Effect_HackProject_Sabotage=Hack Projeleri
+
+TIEffectTemplate.description.Effect_HackProject_Sabotage=-Sabotaj Projesi görevlerinde +{0} kazaniriz
+
+TIEffectTemplate.displayName.Effect_InspireBonus=Ilham Projeleri
+
+TIEffectTemplate.description.Effect_InspireBonus=-Ilham görevlerinde +{0} kazaniriz
+
+TIEffectTemplate.description.Effect_TurnBonus=-Konsey Üyesi Dönüs görevlerinde +{0} kazaniriz
+
+TIEffectTemplate.description.Effect_LoseTraitDeclining=-{1} {13} özelligini kaybeder
+
+TIEffectTemplate.displayName.Effect_EaseAbductions=Kaçirma Izleme Çipleri
+
+TIEffectTemplate.description.Effect_EaseAbductions=-Kaçirma görevleri küresel olarak +{0} basari sansi kazanir
+
+TIEffectTemplate.description.Effect_SpaceResearchBoost05=Tüm Habs +{8} Arastirma üretimi saglar
+
+TIEffectTemplate.description.Effect_SpaceResearchBoost1=-Tüm Habs +{8} Arastirma üretimi saglar
+
+TIEffectTemplate.description.Effect_SetAlienHate0=-Yabancilarin bize karsi tutumu toleransa ayarlanir
+
+TIEffectTemplate.description.Effect_BlockAlienContact=-Yabanci Konsey Üyeleri ile iletisim kurmayi engeller
+
+TIEffectTemplate.description.Effect_GainTraitLoyaltyMonitor=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_HabNuclearFreighters=<skip/>
+
+TIEffectTemplate.displayName.Effect_VaccineTrackers=Asi Izleme Çipleri
+
+TIEffectTemplate.description.Effect_VaccineTrackers=-Asi izleme çipleri
+
+TIEffectTemplate.description.Effect_LoseTraitBillionaire=-{1} {13} özelligini kaybeder
+TIEffectTemplate.description.Effect_GainTraitBeloved=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitProsperous=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.displayName.Effect_SecondaryTargetFreePriorityWelfare200=Refah yatirimi
+
+TIEffectTemplate.description.Effect_SecondaryTargetFreePriorityWelfare200=-{11} sosyal ve çevresel programlara çok daha fazla yatirim yapacaktir
+
+TIEffectTemplate.displayName.Effect_FakedDeath=Sahte Ölüm
+
+TIEffectTemplate.description.Effect_FakedDeath={1} yakin zamanda ölümünü sahte olarak gösterme girisiminde bulundu
+
+TIEffectTemplate.displayName.Effect_LiedAboutInfluence=Etkiler hakkinda yalan söyledi
+
+TIEffectTemplate.description.Effect_LiedAboutInfluence=-{21} kamuoyunu etkileri hakkinda yanlis bilgilendirir
+
+TIEffectTemplate.description.Effect_NegativeGlobalPropaganda5=-{21} dünya genelinde kamuoyunda küçük bir kayip yasar
+
+TIEffectTemplate.description.Effect_RegionMinorGDPGain=-{1} bölgesindeki ekonomi çok az bir artis gösterir
+
+TIEffectTemplate.description.Effect_RegionGDPGain=-{1} bölgesindeki ekonomi küçük bir artis gösterir
+
+TIEffectTemplate.description.Effect_MarkedChain=-"Marked" etkinlik zinciri baslar
+
+TIEffectTemplate.description.Effect_MarkedCombatChain=-"Marked: Combat" etkinlik zinciri baslar
+
+TIEffectTemplate.description.Effect_InfiltratedChain=-"Infiltrated" etkinlik zinciri baslar
+
+TIEffectTemplate.description.Effect_LoseTraitMarked=-{1} {13} özelligini kaybeder
+
+TIEffectTemplate.description.Effect_KillCouncilorNoSave=-{1} ölür
+
+TIEffectTemplate.description.Effect_RetireCouncilor=-{1} emekli olur, hemen geçerli
+
+TIEffectTemplate.description.Effect_InfiltratedCombatChain=-"Infiltrated: Operations" etkinlik zinciri baslar
+
+TIEffectTemplate.description.Effect_InfiltratedMoneyChain=-"Infiltrated: Money" etkinlik zinciri baslar
+
+TIEffectTemplate.description.Effect_InfiltratedInfluenceChain=-"Infiltrated: Influence" etkinlik zinciri baslar
+
+TIEffectTemplate.description.Effect_IncreaseInfiltratedCount=-Sizinti, operasyonlarimizi tekrar tehlikeye atiyor
+
+TIEffectTemplate.description.Effect_EndInfiltratedChain=-Sizinti sorunu çözülmüs gibi görünüyor
+
+TIEffectTemplate.description.Effect_GainTraitMarked=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_GainTraitAce=-{1} {13} özelligini kazanir
+
+TIEffectTemplate.description.Effect_RemoveLiedAboutInfluence=-Yalanlarimiz artik üzerimizdeki etkisini kaybetti
+
+TIEffectTemplate.description.Effect_IncreaseMonthlyProjectTriggerChance01=-Tüm kilitli projeler, her ay arastirilabilir hale gelme sansini +{3} artirir
+
+TIEffectTemplate.description.Effect_TargetingComputer1=-Hab modüllerimiz ve yüzey savunmalarimiz, gemi ECM’ini asmada {3} bonusu kazanir
+
+TIEffectTemplate.description.Effect_TargetingComputer2=-Hab modüllerimiz ve yüzey savunmalarimiz, gemi ECM’ini asmada {3} bonusu kazanir
+
+TIEffectTemplate.description.Effect_TargetingComputer3=-Hab modüllerimiz ve yüzey savunmalarimiz, gemi ECM’ini asmada {3} bonusu kazanir
+
+TIEffectTemplate.description.Effect_EnvironmentBestSustainabilityValue05=Ülkeler tarafindan elde edilebilecek en iyi sürdürülebilirlik degeri iyilestirildi
+
+TIEffectTemplate.description.Effect_EnvironmentBestSustainabilityValue10=Ülkeler tarafindan elde edilebilecek en iyi sürdürülebilirlik degeri önemli ölçüde iyilestirildi
+
+TIEffectTemplate.description.Effect_SpaceMineFreebies1=-Görev Kontrol maliyeti ödemeden destekleyebilecegimiz habitat madencilik modüllerinin sayisi {0} artar
+
+TIEffectTemplate.description.Effect_SpaceMineFreebies3=-Görev Kontrol maliyeti ödemeden destekleyebilecegimiz habitat madencilik modüllerinin sayisi {0} artar
+
+TIEffectTemplate.description.Effect_SpaceMineFreebies4=-Görev Kontrol maliyeti ödemeden destekleyebilecegimiz habitat madencilik modüllerinin sayisi {0} artar
+
+TIEffectTemplate.description.Effect_SpaceMineFreebies6=-Görev Kontrol maliyeti ödemeden destekleyebilecegimiz habitat madencilik modüllerinin sayisi {0} artar

@@ -1,0 +1,3130 @@
+TISpaceBodyTemplate.displayName.Sol=Sol
+TISpaceBodyTemplate.bodyAltName.Sol=Günes
+TISpaceBodyTemplate.classification.Sol=Yildiz
+TISpaceBodyTemplate.descriptor1.Sol=G2V
+TISpaceBodyTemplate.descriptor2.Sol=
+TISpaceBodyTemplate.discovery_year.Sol=Antik Çag
+
+TISpaceBodyTemplate.displayName.Mercury=Merkür
+TISpaceBodyTemplate.bodyAltName.Mercury=Sol I
+TISpaceBodyTemplate.classification.Mercury=Karasal Gezegen
+TISpaceBodyTemplate.descriptor1.Mercury=Karasal Gezegen
+TISpaceBodyTemplate.descriptor2.Mercury=Demir Zengin Kutup Regoliti
+TISpaceBodyTemplate.discovery_year.Mercury=Antik Çag
+
+TISpaceBodyTemplate.displayName.Venus=Venüs
+TISpaceBodyTemplate.bodyAltName.Venus=Sol II
+TISpaceBodyTemplate.classification.Venus=Karasal Gezegen
+TISpaceBodyTemplate.descriptor1.Venus=Karasal Gezegen
+TISpaceBodyTemplate.descriptor2.Venus=Üs Kurulamaz
+TISpaceBodyTemplate.discovery_year.Venus=Antik Çag
+
+TISpaceBodyTemplate.displayName.Earth=Dünya
+TISpaceBodyTemplate.bodyAltName.Earth=Sol III
+TISpaceBodyTemplate.classification.Earth=Karasal Gezegen
+TISpaceBodyTemplate.descriptor1.Earth=Karasal Gezegen
+TISpaceBodyTemplate.descriptor2.Earth=
+TISpaceBodyTemplate.discovery_year.Earth=Antik Çag
+
+TISpaceBodyTemplate.displayName.Luna=Luna
+TISpaceBodyTemplate.bodyAltName.Luna=Dünya I
+TISpaceBodyTemplate.classification.Luna=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Luna=Dünya'nin Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Luna=Kurak Regolit
+TISpaceBodyTemplate.discovery_year.Luna=Antik Çag
+
+TISpaceBodyTemplate.displayName.Mars=Mars
+TISpaceBodyTemplate.bodyAltName.Mars=Sol IV
+TISpaceBodyTemplate.classification.Mars=Karasal Gezegen
+TISpaceBodyTemplate.descriptor1.Mars=Karasal Gezegen
+TISpaceBodyTemplate.descriptor2.Mars=Çesitli Regolit
+TISpaceBodyTemplate.discovery_year.Mars=Antik Çag
+
+TISpaceBodyTemplate.displayName.Phobos=Phobos
+TISpaceBodyTemplate.bodyAltName.Phobos=Mars I
+TISpaceBodyTemplate.classification.Phobos=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Phobos=Mars'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Phobos=
+TISpaceBodyTemplate.discovery_year.Phobos=1877
+
+TISpaceBodyTemplate.displayName.Deimos=Deimos
+TISpaceBodyTemplate.bodyAltName.Deimos=Mars II
+TISpaceBodyTemplate.classification.Deimos=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Deimos=Mars'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Deimos=
+TISpaceBodyTemplate.discovery_year.Deimos=1877
+
+TISpaceBodyTemplate.displayName.Jupiter=Jüpiter
+TISpaceBodyTemplate.bodyAltName.Jupiter=Sol V
+TISpaceBodyTemplate.classification.Jupiter=Amonyak Jovian Gezegen
+TISpaceBodyTemplate.descriptor1.Jupiter=Amonyak Gaz Devi
+TISpaceBodyTemplate.descriptor2.Jupiter=Üs Kurulamaz
+TISpaceBodyTemplate.discovery_year.Jupiter=Antik Çag
+
+TISpaceBodyTemplate.displayName.Metis=Metis
+TISpaceBodyTemplate.bodyAltName.Metis=Jüpiter XVI
+TISpaceBodyTemplate.classification.Metis=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Metis=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Metis=
+TISpaceBodyTemplate.discovery_year.Metis=1979
+
+TISpaceBodyTemplate.displayName.Adrastea=Adrastea
+TISpaceBodyTemplate.bodyAltName.Adrastea=Jüpiter XV
+TISpaceBodyTemplate.classification.Adrastea=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Adrastea=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Adrastea=
+TISpaceBodyTemplate.discovery_year.Adrastea=1975
+
+TISpaceBodyTemplate.displayName.Amalthea=Amalthea
+TISpaceBodyTemplate.bodyAltName.Amalthea=Jüpiter V
+TISpaceBodyTemplate.classification.Amalthea=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Amalthea=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Amalthea=
+TISpaceBodyTemplate.discovery_year.Amalthea=1892
+
+TISpaceBodyTemplate.displayName.Thebe=Thebe
+TISpaceBodyTemplate.bodyAltName.Thebe=Jüpiter XIV
+TISpaceBodyTemplate.classification.Thebe=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Thebe=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Thebe=
+TISpaceBodyTemplate.discovery_year.Thebe=1979
+
+TISpaceBodyTemplate.displayName.Io=Io
+TISpaceBodyTemplate.bodyAltName.Io=Jüpiter I
+TISpaceBodyTemplate.classification.Io=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Io=Jüpiter'in Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Io=Kükürtlü, Demir Zengin Regolit
+TISpaceBodyTemplate.discovery_year.Io=1610
+
+TISpaceBodyTemplate.displayName.Europa=Europa
+TISpaceBodyTemplate.bodyAltName.Europa=Jüpiter II
+TISpaceBodyTemplate.classification.Europa=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Europa=Jüpiter'in Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Europa=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Europa=1610
+
+TISpaceBodyTemplate.displayName.Ganymede=Ganymede
+TISpaceBodyTemplate.bodyAltName.Ganymede=Jüpiter III
+TISpaceBodyTemplate.classification.Ganymede=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Ganymede=Jüpiter'in Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Ganymede=Karisik Buzlu-Kayalik Regolit
+TISpaceBodyTemplate.discovery_year.Ganymede=1610
+
+TISpaceBodyTemplate.displayName.Callisto=Callisto
+TISpaceBodyTemplate.bodyAltName.Callisto=Jüpiter IV
+TISpaceBodyTemplate.classification.Callisto=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Callisto=Jüpiter'in Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Callisto=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Callisto=1610
+
+TISpaceBodyTemplate.displayName.Leda=Leda
+TISpaceBodyTemplate.bodyAltName.Leda=Jüpiter XIII
+TISpaceBodyTemplate.classification.Leda=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Leda=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Leda=
+TISpaceBodyTemplate.discovery_year.Leda=1974
+
+TISpaceBodyTemplate.displayName.Himalia=Himalia
+TISpaceBodyTemplate.bodyAltName.Himalia=Jüpiter VI
+TISpaceBodyTemplate.classification.Himalia=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Himalia=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Himalia=
+TISpaceBodyTemplate.discovery_year.Himalia=1904
+
+TISpaceBodyTemplate.displayName.Lysithea=Lysithea
+TISpaceBodyTemplate.bodyAltName.Lysithea=Jüpiter X
+TISpaceBodyTemplate.classification.Lysithea=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Lysithea=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Lysithea=
+TISpaceBodyTemplate.discovery_year.Lysithea=1938
+
+TISpaceBodyTemplate.displayName.Elara=Elara
+TISpaceBodyTemplate.bodyAltName.Elara=Jüpiter VII
+TISpaceBodyTemplate.classification.Elara=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Elara=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Elara=
+TISpaceBodyTemplate.discovery_year.Elara=1905
+
+TISpaceBodyTemplate.displayName.Praxidike=Praxidike
+TISpaceBodyTemplate.bodyAltName.Praxidike=Jüpiter XXVII
+TISpaceBodyTemplate.classification.Praxidike=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Praxidike=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Praxidike=
+TISpaceBodyTemplate.discovery_year.Praxidike=2000
+
+TISpaceBodyTemplate.displayName.Ananke=Ananke
+TISpaceBodyTemplate.bodyAltName.Ananke=Jüpiter XII
+TISpaceBodyTemplate.classification.Ananke=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Ananke=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Ananke=
+TISpaceBodyTemplate.discovery_year.Ananke=1951
+
+TISpaceBodyTemplate.displayName.Iocaste=Iocaste
+TISpaceBodyTemplate.bodyAltName.Iocaste=Jüpiter XXIV
+TISpaceBodyTemplate.classification.Iocaste=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Iocaste=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Iocaste=
+TISpaceBodyTemplate.discovery_year.Iocaste=2000
+
+TISpaceBodyTemplate.displayName.Taygete=Taygete
+TISpaceBodyTemplate.bodyAltName.Taygete=Jüpiter XX
+TISpaceBodyTemplate.classification.Taygete=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Taygete=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Taygete=
+TISpaceBodyTemplate.discovery_year.Taygete=2000
+
+TISpaceBodyTemplate.displayName.Carme=Carme
+TISpaceBodyTemplate.bodyAltName.Carme=Jüpiter XI
+TISpaceBodyTemplate.classification.Carme=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Carme=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Carme=
+TISpaceBodyTemplate.discovery_year.Carme=1938
+
+TISpaceBodyTemplate.displayName.Kalyke=Kalyke
+TISpaceBodyTemplate.bodyAltName.Kalyke=Jüpiter XXIII
+TISpaceBodyTemplate.classification.Kalyke=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Kalyke=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Kalyke=
+TISpaceBodyTemplate.discovery_year.Kalyke=2000
+
+TISpaceBodyTemplate.displayName.Pasiphae=Pasiphae
+TISpaceBodyTemplate.bodyAltName.Pasiphae=Jüpiter VIII
+TISpaceBodyTemplate.classification.Pasiphae=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Pasiphae=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Pasiphae=
+TISpaceBodyTemplate.discovery_year.Pasiphae=1908
+
+TISpaceBodyTemplate.displayName.Megaclite=Megaclite
+TISpaceBodyTemplate.bodyAltName.Megaclite=Jüpiter XIX
+TISpaceBodyTemplate.classification.Megaclite=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Megaclite=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Megaclite=
+TISpaceBodyTemplate.discovery_year.Megaclite=2000
+
+TISpaceBodyTemplate.displayName.Sinope=Sinope
+TISpaceBodyTemplate.bodyAltName.Sinope=Jüpiter IX
+TISpaceBodyTemplate.classification.Sinope=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Sinope=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Sinope=
+TISpaceBodyTemplate.discovery_year.Sinope=1914
+
+TISpaceBodyTemplate.displayName.Callirrhoe=Callirrhoe
+TISpaceBodyTemplate.bodyAltName.Callirrhoe=Jüpiter XVII
+TISpaceBodyTemplate.classification.Callirrhoe=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Callirrhoe=Jüpiter'in Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Callirrhoe=Pasiphae Grubu
+TISpaceBodyTemplate.discovery_year.Callirrhoe=1999
+
+TISpaceBodyTemplate.displayName.Saturn=Satürn
+TISpaceBodyTemplate.bodyAltName.Saturn=Sol VI
+TISpaceBodyTemplate.classification.Saturn=Amonyak Jovian Gezegen
+TISpaceBodyTemplate.descriptor1.Saturn=Amonyak Gaz Devi
+TISpaceBodyTemplate.descriptor2.Saturn=Üs Kurulamaz
+TISpaceBodyTemplate.discovery_year.Saturn=Antik Çag
+
+TISpaceBodyTemplate.displayName.Pan=Pan
+TISpaceBodyTemplate.bodyAltName.Pan=Satürn XVIII
+TISpaceBodyTemplate.classification.Pan=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Pan=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Pan=Encke Boslugu Çobani
+TISpaceBodyTemplate.discovery_year.Pan=1990
+
+TISpaceBodyTemplate.displayName.Daphnis=Daphnis
+TISpaceBodyTemplate.bodyAltName.Daphnis=Satürn XXXV
+TISpaceBodyTemplate.classification.Daphnis=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Daphnis=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Daphnis=Keeler Boslugu Çobani
+TISpaceBodyTemplate.discovery_year.Daphnis=2005
+
+TISpaceBodyTemplate.displayName.Atlas=Atlas
+TISpaceBodyTemplate.bodyAltName.Atlas=Satürn XV
+TISpaceBodyTemplate.classification.Atlas=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Atlas=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Atlas=
+TISpaceBodyTemplate.discovery_year.Atlas=1980
+
+TISpaceBodyTemplate.displayName.Prometheus=Prometheus
+TISpaceBodyTemplate.bodyAltName.Prometheus=Satürn XVI
+TISpaceBodyTemplate.classification.Prometheus=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Prometheus=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Prometheus=
+TISpaceBodyTemplate.discovery_year.Prometheus=1980
+
+TISpaceBodyTemplate.displayName.Pandora=Pandora
+TISpaceBodyTemplate.bodyAltName.Pandora=Satürn XVII
+TISpaceBodyTemplate.classification.Pandora=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Pandora=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Pandora=
+TISpaceBodyTemplate.discovery_year.Pandora=1980
+
+TISpaceBodyTemplate.displayName.Epimetheus=Epimetheus
+TISpaceBodyTemplate.bodyAltName.Epimetheus=Satürn XI
+TISpaceBodyTemplate.classification.Epimetheus=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Epimetheus=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Epimetheus=
+TISpaceBodyTemplate.discovery_year.Epimetheus=1977
+
+TISpaceBodyTemplate.displayName.Janus=Janus
+TISpaceBodyTemplate.bodyAltName.Janus=Satürn X
+TISpaceBodyTemplate.classification.Janus=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Janus=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Janus=
+TISpaceBodyTemplate.discovery_year.Janus=1966
+
+TISpaceBodyTemplate.displayName.Mimas=Mimas
+TISpaceBodyTemplate.bodyAltName.Mimas=Satürn I
+TISpaceBodyTemplate.classification.Mimas=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Mimas=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Mimas=
+TISpaceBodyTemplate.discovery_year.Mimas=1789
+
+TISpaceBodyTemplate.displayName.Enceladus=Enceladus
+TISpaceBodyTemplate.bodyAltName.Enceladus=Satürn II
+TISpaceBodyTemplate.classification.Enceladus=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Enceladus=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Enceladus=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Enceladus=1789
+
+TISpaceBodyTemplate.displayName.Tethys=Tethys
+TISpaceBodyTemplate.bodyAltName.Tethys=Satürn III
+TISpaceBodyTemplate.classification.Tethys=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Tethys=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Tethys=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Tethys=1684
+
+TISpaceBodyTemplate.displayName.Telesto=Telesto
+TISpaceBodyTemplate.bodyAltName.Telesto=Satürn XIII
+TISpaceBodyTemplate.classification.Telesto=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Telesto=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Telesto=Önde Tethys Trojan Asteroyidi
+TISpaceBodyTemplate.discovery_year.Telesto=1980
+
+TISpaceBodyTemplate.displayName.Calypso=Calypso
+TISpaceBodyTemplate.bodyAltName.Calypso=Satürn XIV
+TISpaceBodyTemplate.classification.Calypso=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Calypso=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Calypso=Arkada Tethys Trojan Asteroyidi
+TISpaceBodyTemplate.discovery_year.Calypso=1980
+
+TISpaceBodyTemplate.displayName.Dione=Dione
+TISpaceBodyTemplate.bodyAltName.Dione=Satürn IV
+TISpaceBodyTemplate.classification.Dione=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Dione=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Dione=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Dione=1684
+
+TISpaceBodyTemplate.displayName.Helene=Helene
+TISpaceBodyTemplate.bodyAltName.Helene=Satürn XII
+TISpaceBodyTemplate.classification.Helene=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Helene=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Helene=Önde Dione Trojan Asteroyidi
+TISpaceBodyTemplate.discovery_year.Helene=1980
+
+TISpaceBodyTemplate.displayName.Rhea=Rhea
+TISpaceBodyTemplate.bodyAltName.Rhea=Satürn V
+TISpaceBodyTemplate.classification.Rhea=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Rhea=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Rhea=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Rhea=1672
+
+TISpaceBodyTemplate.displayName.Titan=Titan
+TISpaceBodyTemplate.bodyAltName.Titan=Satürn VI
+TISpaceBodyTemplate.classification.Titan=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Titan=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Titan=Hidrokarbon Zengin Regolit
+TISpaceBodyTemplate.discovery_year.Titan=1655
+
+TISpaceBodyTemplate.displayName.Hyperion=Hyperion
+TISpaceBodyTemplate.bodyAltName.Hyperion=Satürn VII
+TISpaceBodyTemplate.classification.Hyperion=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Hyperion=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Hyperion=
+TISpaceBodyTemplate.discovery_year.Hyperion=1848
+
+TISpaceBodyTemplate.displayName.Iapetus=Iapetus
+TISpaceBodyTemplate.bodyAltName.Iapetus=Satürn VIII
+TISpaceBodyTemplate.classification.Iapetus=Gezegensel Uydu
+TISpaceBodyTemplate.descriptor1.Iapetus=Satürn'ün Gezegensel Uydu
+TISpaceBodyTemplate.descriptor2.Iapetus=Karisik Buzlu-Uçucu Zengin Regolit
+TISpaceBodyTemplate.discovery_year.Iapetus=1671
+TISpaceBodyTemplate.displayName.S2019S1=Akna
+TISpaceBodyTemplate.bodyAltName.S2019S1=S/2019 S 1
+TISpaceBodyTemplate.classification.S2019S1=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2019S1=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2019S1=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.S2019S1=2019
+
+TISpaceBodyTemplate.displayName.Kiviuq=Kiviuq
+TISpaceBodyTemplate.bodyAltName.Kiviuq=Satürn XXIV
+TISpaceBodyTemplate.classification.Kiviuq=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Kiviuq=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Kiviuq=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.Kiviuq=2000
+
+TISpaceBodyTemplate.displayName.S2005S4=Pinga
+TISpaceBodyTemplate.bodyAltName.S2005S4=S/2005 S 4
+TISpaceBodyTemplate.classification.S2005S4=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2005S4=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2005S4=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.S2005S4=2005
+
+TISpaceBodyTemplate.displayName.Ijiraq=Ijiraq
+TISpaceBodyTemplate.bodyAltName.Ijiraq=Satürn XXII
+TISpaceBodyTemplate.classification.Ijiraq=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Ijiraq=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Ijiraq=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.Ijiraq=2000
+
+TISpaceBodyTemplate.displayName.Phoebe=Phoebe
+TISpaceBodyTemplate.bodyAltName.Phoebe=Satürn IX
+TISpaceBodyTemplate.classification.Phoebe=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Phoebe=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Phoebe=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Phoebe=1899
+
+TISpaceBodyTemplate.displayName.S2006S20=Ulfrun
+TISpaceBodyTemplate.bodyAltName.S2006S20=S/2006 S 20
+TISpaceBodyTemplate.classification.S2006S20=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2006S20=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2006S20=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2006S20=2006
+
+TISpaceBodyTemplate.displayName.Paaliaq=Paaliaq
+TISpaceBodyTemplate.bodyAltName.Paaliaq=Satürn XX
+TISpaceBodyTemplate.classification.Paaliaq=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Paaliaq=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Paaliaq=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.Paaliaq=2000
+
+TISpaceBodyTemplate.displayName.Skathi=Skathi
+TISpaceBodyTemplate.bodyAltName.Skathi=Satürn XXVII
+TISpaceBodyTemplate.classification.Skathi=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Skathi=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Skathi=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Skathi=2000
+
+TISpaceBodyTemplate.displayName.S2007S2=Vali
+TISpaceBodyTemplate.bodyAltName.S2007S2=S/2007 S 2
+TISpaceBodyTemplate.classification.S2007S2=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2007S2=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2007S2=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2007S2=2007
+
+TISpaceBodyTemplate.displayName.Albiorix=Albiorix
+TISpaceBodyTemplate.bodyAltName.Albiorix=Satürn XXVI
+TISpaceBodyTemplate.classification.Albiorix=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Albiorix=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Albiorix=Galya Grubu
+TISpaceBodyTemplate.discovery_year.Albiorix=2000
+
+TISpaceBodyTemplate.displayName.Bebhionn=Bebhionn
+TISpaceBodyTemplate.bodyAltName.Bebhionn=Satürn XXXVII
+TISpaceBodyTemplate.classification.Bebhionn=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Bebhionn=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Bebhionn=Galya Grubu
+TISpaceBodyTemplate.discovery_year.Bebhionn=2004
+
+TISpaceBodyTemplate.displayName.S2004S31=Amarok
+TISpaceBodyTemplate.bodyAltName.S2004S31=S/2004 S 31
+TISpaceBodyTemplate.classification.S2004S31=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2004S31=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2004S31=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.S2004S31=2004
+
+TISpaceBodyTemplate.displayName.Erriapus=Erriapus
+TISpaceBodyTemplate.bodyAltName.Erriapus=Satürn XXVIII
+TISpaceBodyTemplate.classification.Erriapus=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Erriapus=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Erriapus=Galya Grubu
+TISpaceBodyTemplate.discovery_year.Erriapus=2000
+
+TISpaceBodyTemplate.displayName.Skoll=Skoll
+TISpaceBodyTemplate.bodyAltName.Skoll=Satürn XLVII
+TISpaceBodyTemplate.classification.Skoll=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Skoll=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Skoll=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Skoll=2006
+
+TISpaceBodyTemplate.displayName.Tarqeq=Tarqeq
+TISpaceBodyTemplate.bodyAltName.Tarqeq=Satürn LII
+TISpaceBodyTemplate.classification.Tarqeq=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Tarqeq=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Tarqeq=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.Tarqeq=2007
+
+TISpaceBodyTemplate.displayName.Siarnaq=Siarnaq
+TISpaceBodyTemplate.bodyAltName.Siarnaq=Satürn XXIX
+TISpaceBodyTemplate.classification.Siarnaq=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Siarnaq=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Siarnaq=Inuit Grubu
+TISpaceBodyTemplate.discovery_year.Siarnaq=2000
+
+TISpaceBodyTemplate.displayName.Tarvos=Tarvos
+TISpaceBodyTemplate.bodyAltName.Tarvos=Satürn XXI
+TISpaceBodyTemplate.classification.Tarvos=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Tarvos=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Tarvos=Galya Grubu
+TISpaceBodyTemplate.discovery_year.Tarvos=2000
+
+TISpaceBodyTemplate.displayName.Hyrrokkin=Hyrrokkin
+TISpaceBodyTemplate.bodyAltName.Hyrrokkin=Satürn XLIV
+TISpaceBodyTemplate.classification.Hyrrokkin=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Hyrrokkin=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Hyrrokkin=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Hyrrokkin=2004
+
+TISpaceBodyTemplate.displayName.Greip=Greip
+TISpaceBodyTemplate.bodyAltName.Greip=Satürn LI
+TISpaceBodyTemplate.classification.Greip=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Greip=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Greip=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Greip=2006
+
+TISpaceBodyTemplate.displayName.Mundilfari=Mundilfari
+TISpaceBodyTemplate.bodyAltName.Mundilfari=Satürn XXV
+TISpaceBodyTemplate.classification.Mundilfari=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Mundilfari=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Mundilfari=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Mundilfari=2000
+
+TISpaceBodyTemplate.displayName.S2006S1=Kolga
+TISpaceBodyTemplate.bodyAltName.S2006S1=S/2006 S 1
+TISpaceBodyTemplate.classification.S2006S1=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2006S1=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2006S1=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2006S1=2006
+
+TISpaceBodyTemplate.displayName.Gridr=Gridr
+TISpaceBodyTemplate.bodyAltName.Gridr=Satürn LIV
+TISpaceBodyTemplate.classification.Gridr=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Gridr=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Gridr=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Gridr=2004
+
+TISpaceBodyTemplate.displayName.Bergelmir=Bergelmir
+TISpaceBodyTemplate.bodyAltName.Bergelmir=Satürn XXXVIII
+TISpaceBodyTemplate.classification.Bergelmir=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Bergelmir=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Bergelmir=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Bergelmir=2004
+
+TISpaceBodyTemplate.displayName.Jarnsaxa=Jarnsaxa
+TISpaceBodyTemplate.bodyAltName.Jarnsaxa=Satürn L
+TISpaceBodyTemplate.classification.Jarnsaxa=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Jarnsaxa=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Jarnsaxa=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Jarnsaxa=2006
+
+TISpaceBodyTemplate.displayName.Narvi=Narvi
+TISpaceBodyTemplate.bodyAltName.Narvi=Satürn XXXI
+TISpaceBodyTemplate.classification.Narvi=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Narvi=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Narvi=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Narvi=2003
+
+TISpaceBodyTemplate.displayName.Suttungr=Suttungr
+TISpaceBodyTemplate.bodyAltName.Suttungr=Satürn XXXIII
+TISpaceBodyTemplate.classification.Suttungr=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Suttungr=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Suttungr=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Suttungr=2000
+
+TISpaceBodyTemplate.displayName.S2007S3=Fenja
+TISpaceBodyTemplate.bodyAltName.S2007S3=S/2007 S 3
+TISpaceBodyTemplate.classification.S2007S3=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2007S3=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2007S3=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2007S3=2007
+
+TISpaceBodyTemplate.displayName.S2004S44=Menja
+TISpaceBodyTemplate.bodyAltName.S2004S44=S/2004 S 44
+TISpaceBodyTemplate.classification.S2004S44=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2004S44=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2004S44=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2004S44=2004
+
+TISpaceBodyTemplate.displayName.Hati=Hati
+TISpaceBodyTemplate.bodyAltName.Hati=Satürn XLIII
+TISpaceBodyTemplate.classification.Hati=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Hati=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Hati=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Hati=2004
+
+TISpaceBodyTemplate.displayName.Eggther=Eggther
+TISpaceBodyTemplate.bodyAltName.Eggther=Satürn LIX
+TISpaceBodyTemplate.classification.Eggther=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Eggther=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Eggther=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Eggther=2004
+
+TISpaceBodyTemplate.displayName.Farbauti=Farbauti
+TISpaceBodyTemplate.bodyAltName.Farbauti=Satürn XL
+TISpaceBodyTemplate.classification.Farbauti=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Farbauti=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Farbauti=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Farbauti=2004
+
+TISpaceBodyTemplate.displayName.Thyrmr=Thyrmr
+TISpaceBodyTemplate.bodyAltName.Thyrmr=Satürn XXX
+TISpaceBodyTemplate.classification.Thyrmr=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Thyrmr=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Thyrmr=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Thyrmr=2000
+
+TISpaceBodyTemplate.displayName.Bestla=Bestla
+TISpaceBodyTemplate.bodyAltName.Bestla=Satürn XXXIX
+TISpaceBodyTemplate.classification.Bestla=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Bestla=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Bestla=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Bestla=2004
+
+TISpaceBodyTemplate.displayName.Aegir=Aegir
+TISpaceBodyTemplate.bodyAltName.Aegir=Satürn XXXVI
+TISpaceBodyTemplate.classification.Aegir=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Aegir=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Aegir=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Aegir=2004
+
+TISpaceBodyTemplate.displayName.Beli=Beli
+TISpaceBodyTemplate.bodyAltName.Beli=Satürn LXI
+TISpaceBodyTemplate.classification.Beli=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Beli=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Beli=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Beli=2004
+
+TISpaceBodyTemplate.displayName.Gunnlod=Gunnlod
+TISpaceBodyTemplate.bodyAltName.Gunnlod=Satürn LXII
+TISpaceBodyTemplate.classification.Gunnlod=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Gunnlod=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Gunnlod=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Gunnlod=2004
+
+TISpaceBodyTemplate.displayName.S2004S7=Hefring
+TISpaceBodyTemplate.bodyAltName.S2004S7=S/2004 S 7
+TISpaceBodyTemplate.classification.S2004S7=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2004S7=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2004S7=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2004S7=2004
+
+TISpaceBodyTemplate.displayName.S2006S3=Thiazi
+TISpaceBodyTemplate.bodyAltName.S2006S3=S/2006 S 3
+TISpaceBodyTemplate.classification.S2006S3=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2006S3=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2006S3=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2006S3=2006
+
+TISpaceBodyTemplate.displayName.Skrymir=Skrymir
+TISpaceBodyTemplate.bodyAltName.Skrymir=Satürn LVI
+TISpaceBodyTemplate.classification.Skrymir=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Skrymir=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Skrymir=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Skrymir=2004
+
+TISpaceBodyTemplate.displayName.S2004S28=Grendel
+TISpaceBodyTemplate.bodyAltName.S2004S28=S/2004 S 28
+TISpaceBodyTemplate.classification.S2004S28=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2004S28=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2004S28=Norse Grubu
+TISpaceBodyTemplate.discovery_year.S2004S28=2004
+
+TISpaceBodyTemplate.displayName.Alvaldi=Alvaldi
+TISpaceBodyTemplate.bodyAltName.Alvaldi=Satürn LXV
+TISpaceBodyTemplate.classification.Alvaldi=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Alvaldi=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Alvaldi=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Alvaldi=2004
+
+TISpaceBodyTemplate.displayName.Kari=Kari
+TISpaceBodyTemplate.bodyAltName.Kari=Satürn XLV
+TISpaceBodyTemplate.classification.Kari=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Kari=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Kari=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Kari=2006
+
+TISpaceBodyTemplate.displayName.Surtur=Surtur
+TISpaceBodyTemplate.bodyAltName.Surtur=Satürn XLVIII
+TISpaceBodyTemplate.classification.Surtur=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Surtur=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Surtur=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Surtur=2006
+
+TISpaceBodyTemplate.displayName.Loge=Loge
+TISpaceBodyTemplate.bodyAltName.Loge=Satürn XLVI
+TISpaceBodyTemplate.classification.Loge=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Loge=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Loge=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Loge=2006
+
+TISpaceBodyTemplate.displayName.Ymir=Ymir
+TISpaceBodyTemplate.bodyAltName.Ymir=Satürn XIX
+TISpaceBodyTemplate.classification.Ymir=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Ymir=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Ymir=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Ymir=2000
+
+TISpaceBodyTemplate.displayName.Fornjot=Fornjot
+TISpaceBodyTemplate.bodyAltName.Fornjot=Satürn XLII
+TISpaceBodyTemplate.classification.Fornjot=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Fornjot=Satürn'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Fornjot=Norse Grubu
+TISpaceBodyTemplate.discovery_year.Fornjot=2004
+
+TISpaceBodyTemplate.displayName.Uranus=Uranüs
+TISpaceBodyTemplate.bodyAltName.Uranus=Günes VII
+TISpaceBodyTemplate.classification.Uranus=Buz Jüpiteri Gezegen
+TISpaceBodyTemplate.descriptor1.Uranus=Buz Dev
+TISpaceBodyTemplate.descriptor2.Uranus=Temel yapi destekleyemez
+TISpaceBodyTemplate.discovery_year.Uranus=1781
+
+TISpaceBodyTemplate.displayName.Cordelia=Cordelia
+TISpaceBodyTemplate.bodyAltName.Cordelia=Uranüs VI
+TISpaceBodyTemplate.classification.Cordelia=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Cordelia=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Cordelia=
+TISpaceBodyTemplate.discovery_year.Cordelia=1986
+
+TISpaceBodyTemplate.displayName.Ophelia=Ophelia
+TISpaceBodyTemplate.bodyAltName.Ophelia=Uranüs VII
+TISpaceBodyTemplate.classification.Ophelia=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Ophelia=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Ophelia=
+TISpaceBodyTemplate.discovery_year.Ophelia=1986
+
+TISpaceBodyTemplate.displayName.Bianca=Bianca
+TISpaceBodyTemplate.bodyAltName.Bianca=Uranüs VIII
+TISpaceBodyTemplate.classification.Bianca=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Bianca=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Bianca=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Bianca=1986
+TISpaceBodyTemplate.displayName.Cressida=Cressida
+TISpaceBodyTemplate.bodyAltName.Cressida=Uranüs IX
+TISpaceBodyTemplate.classification.Cressida=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Cressida=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Cressida=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Cressida=1986
+
+TISpaceBodyTemplate.displayName.Desdemona=Desdemona
+TISpaceBodyTemplate.bodyAltName.Desdemona=Uranüs X
+TISpaceBodyTemplate.classification.Desdemona=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Desdemona=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Desdemona=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Desdemona=1986
+
+TISpaceBodyTemplate.displayName.Juliet=Juliet
+TISpaceBodyTemplate.bodyAltName.Juliet=Uranüs XI
+TISpaceBodyTemplate.classification.Juliet=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Juliet=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Juliet=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Juliet=1986
+
+TISpaceBodyTemplate.displayName.Portia=Portia
+TISpaceBodyTemplate.bodyAltName.Portia=Uranüs XII
+TISpaceBodyTemplate.classification.Portia=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Portia=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Portia=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Portia=1986
+
+TISpaceBodyTemplate.displayName.Rosalind=Rosalind
+TISpaceBodyTemplate.bodyAltName.Rosalind=Uranüs XIII
+TISpaceBodyTemplate.classification.Rosalind=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Rosalind=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Rosalind=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Rosalind=1986
+
+TISpaceBodyTemplate.displayName.Cupid=Cupid
+TISpaceBodyTemplate.bodyAltName.Cupid=Uranüs XXVII
+TISpaceBodyTemplate.classification.Cupid=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Cupid=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Cupid=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Cupid=2003
+
+TISpaceBodyTemplate.displayName.Belinda=Belinda
+TISpaceBodyTemplate.bodyAltName.Belinda=Uranüs XIV
+TISpaceBodyTemplate.classification.Belinda=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Belinda=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Belinda=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Belinda=1986
+
+TISpaceBodyTemplate.displayName.Perdita=Perdita
+TISpaceBodyTemplate.bodyAltName.Perdita=Uranüs XXV
+TISpaceBodyTemplate.classification.Perdita=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Perdita=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Perdita=Portia Grubu
+TISpaceBodyTemplate.discovery_year.Perdita=1999
+
+TISpaceBodyTemplate.displayName.Puck=Puck
+TISpaceBodyTemplate.bodyAltName.Puck=Uranüs XV
+TISpaceBodyTemplate.classification.Puck=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Puck=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Puck=
+TISpaceBodyTemplate.discovery_year.Puck=1985
+
+TISpaceBodyTemplate.displayName.Mab=Mab
+TISpaceBodyTemplate.bodyAltName.Mab=Uranüs XXVI
+TISpaceBodyTemplate.classification.Mab=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Mab=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Mab=
+TISpaceBodyTemplate.discovery_year.Mab=2003
+
+TISpaceBodyTemplate.displayName.Miranda=Miranda
+TISpaceBodyTemplate.bodyAltName.Miranda=Uranüs V
+TISpaceBodyTemplate.classification.Miranda=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Miranda=Uranüs'ün Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Miranda=
+TISpaceBodyTemplate.discovery_year.Miranda=1948
+
+TISpaceBodyTemplate.displayName.Ariel=Ariel
+TISpaceBodyTemplate.bodyAltName.Ariel=Uranüs I
+TISpaceBodyTemplate.classification.Ariel=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Ariel=Uranüs'ün Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Ariel=Buzlu Rejolit
+TISpaceBodyTemplate.discovery_year.Ariel=1851
+
+TISpaceBodyTemplate.displayName.Umbriel=Umbriel
+TISpaceBodyTemplate.bodyAltName.Umbriel=Uranüs II
+TISpaceBodyTemplate.classification.Umbriel=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Umbriel=Uranüs'ün Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Umbriel=Buzlu Rejolit
+TISpaceBodyTemplate.discovery_year.Umbriel=1851
+
+TISpaceBodyTemplate.displayName.Titania=Titania
+TISpaceBodyTemplate.bodyAltName.Titania=Uranüs III
+TISpaceBodyTemplate.classification.Titania=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Titania=Uranüs'ün Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Titania=Volatil-Içerikli Rejolit
+TISpaceBodyTemplate.discovery_year.Titania=1787
+
+TISpaceBodyTemplate.displayName.Oberon=Oberon
+TISpaceBodyTemplate.bodyAltName.Oberon=Uranüs IV
+TISpaceBodyTemplate.classification.Oberon=Gezegen Uydusu
+TISpaceBodyTemplate.descriptor1.Oberon=Uranüs'ün Gezegen Uydusu
+TISpaceBodyTemplate.descriptor2.Oberon=Buzlu Rejolit
+TISpaceBodyTemplate.discovery_year.Oberon=1787
+
+TISpaceBodyTemplate.displayName.Francisco=Francisco
+TISpaceBodyTemplate.bodyAltName.Francisco=Uranüs XXII
+TISpaceBodyTemplate.classification.Francisco=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Francisco=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Francisco=
+TISpaceBodyTemplate.discovery_year.Francisco=2003
+
+TISpaceBodyTemplate.displayName.Caliban=Caliban
+TISpaceBodyTemplate.bodyAltName.Caliban=Uranüs XVI
+TISpaceBodyTemplate.classification.Caliban=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Caliban=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Caliban=
+TISpaceBodyTemplate.discovery_year.Caliban=1997
+
+TISpaceBodyTemplate.displayName.S2023U1=Hero
+TISpaceBodyTemplate.bodyAltName.S2023U1=S/2023 U 1
+TISpaceBodyTemplate.classification.Hero=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2023U1=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2023U1=
+TISpaceBodyTemplate.discovery_year.S2023U1=2023
+
+TISpaceBodyTemplate.displayName.Stephano=Stephano
+TISpaceBodyTemplate.bodyAltName.Stephano=Uranüs XX
+TISpaceBodyTemplate.classification.Stephano=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Stephano=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Stephano=
+TISpaceBodyTemplate.discovery_year.Stephano=1999
+
+TISpaceBodyTemplate.displayName.Trinculo=Trinculo
+TISpaceBodyTemplate.bodyAltName.Trinculo=Uranüs XXI
+TISpaceBodyTemplate.classification.Trinculo=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Trinculo=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Trinculo=
+TISpaceBodyTemplate.discovery_year.Trinculo=2001
+
+TISpaceBodyTemplate.displayName.Sycorax=Sycorax
+TISpaceBodyTemplate.bodyAltName.Sycorax=Uranüs XVII
+TISpaceBodyTemplate.classification.Sycorax=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Sycorax=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Sycorax=
+TISpaceBodyTemplate.discovery_year.Sycorax=1997
+
+TISpaceBodyTemplate.displayName.Margaret=Margaret
+TISpaceBodyTemplate.bodyAltName.Margaret=Uranüs XXIII
+TISpaceBodyTemplate.classification.Margaret=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Margaret=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Margaret=
+TISpaceBodyTemplate.discovery_year.Margaret=2003
+
+TISpaceBodyTemplate.displayName.Prospero=Prospero
+TISpaceBodyTemplate.bodyAltName.Prospero=Uranüs XVIII
+TISpaceBodyTemplate.classification.Prospero=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Prospero=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Prospero=
+TISpaceBodyTemplate.discovery_year.Prospero=1999
+
+TISpaceBodyTemplate.displayName.Setebos=Setebos
+TISpaceBodyTemplate.bodyAltName.Setebos=Uranüs XIX
+TISpaceBodyTemplate.classification.Setebos=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Setebos=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Setebos=
+TISpaceBodyTemplate.discovery_year.Setebos=1999
+
+TISpaceBodyTemplate.displayName.Ferdinand=Ferdinand
+TISpaceBodyTemplate.bodyAltName.Ferdinand=Uranüs XXIV
+TISpaceBodyTemplate.classification.Ferdinand=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Ferdinand=Uranüs'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Ferdinand=
+TISpaceBodyTemplate.discovery_year.Ferdinand=2003
+
+TISpaceBodyTemplate.displayName.Neptune=Neptün
+TISpaceBodyTemplate.bodyAltName.Neptune=Günes VIII
+TISpaceBodyTemplate.classification.Neptune=Buzlu Jüpiter Gezegeni
+TISpaceBodyTemplate.descriptor1.Neptune=Buzlu Dev
+TISpaceBodyTemplate.descriptor2.Neptune=Üs Kurulamaz
+TISpaceBodyTemplate.discovery_year.Neptune=1846
+
+TISpaceBodyTemplate.displayName.Naiad=Naiad
+TISpaceBodyTemplate.bodyAltName.Naiad=Neptün III
+TISpaceBodyTemplate.classification.Naiad=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Naiad=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Naiad=
+TISpaceBodyTemplate.discovery_year.Naiad=1989
+
+TISpaceBodyTemplate.displayName.Thalassa=Thalassa
+TISpaceBodyTemplate.bodyAltName.Thalassa=Neptün IV
+TISpaceBodyTemplate.classification.Thalassa=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Thalassa=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Thalassa=
+TISpaceBodyTemplate.discovery_year.Thalassa=1989
+
+TISpaceBodyTemplate.displayName.Despina=Despina
+TISpaceBodyTemplate.bodyAltName.Despina=Neptün V
+TISpaceBodyTemplate.classification.Despina=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Despina=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Despina=
+TISpaceBodyTemplate.discovery_year.Despina=1989
+
+TISpaceBodyTemplate.displayName.Galatea=Galatea
+TISpaceBodyTemplate.bodyAltName.Galatea=Neptün VI
+TISpaceBodyTemplate.classification.Galatea=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Galatea=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Galatea=
+TISpaceBodyTemplate.discovery_year.Galatea=1989
+
+TISpaceBodyTemplate.displayName.Larissa=Larissa
+TISpaceBodyTemplate.bodyAltName.Larissa=Neptün VII
+TISpaceBodyTemplate.classification.Larissa=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Larissa=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Larissa=
+TISpaceBodyTemplate.discovery_year.Larissa=1981
+
+TISpaceBodyTemplate.displayName.Hippocamp=Hippocamp
+TISpaceBodyTemplate.bodyAltName.Hippocamp=S/2004 N 1
+TISpaceBodyTemplate.classification.Hippocamp=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Hippocamp=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Hippocamp=
+TISpaceBodyTemplate.discovery_year.Hippocamp=2013
+
+TISpaceBodyTemplate.displayName.Proteus=Proteus
+TISpaceBodyTemplate.bodyAltName.Proteus=Neptün VIII
+TISpaceBodyTemplate.classification.Proteus=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Proteus=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Proteus=
+TISpaceBodyTemplate.discovery_year.Proteus=1989
+
+TISpaceBodyTemplate.displayName.Triton=Triton
+TISpaceBodyTemplate.bodyAltName.Triton=Neptün I
+TISpaceBodyTemplate.classification.Triton=Gezegen Uydu
+TISpaceBodyTemplate.descriptor1.Triton=Neptün'ün Gezegen Uydu
+TISpaceBodyTemplate.descriptor2.Triton=Volatil Zengin Regolit
+TISpaceBodyTemplate.discovery_year.Triton=1846
+
+TISpaceBodyTemplate.displayName.Nereid=Nereid
+TISpaceBodyTemplate.bodyAltName.Nereid=Neptün II
+TISpaceBodyTemplate.classification.Nereid=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Nereid=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Nereid=
+TISpaceBodyTemplate.discovery_year.Nereid=1949
+
+TISpaceBodyTemplate.displayName.Halimede=Halimede
+TISpaceBodyTemplate.bodyAltName.Halimede=Neptün IX
+TISpaceBodyTemplate.classification.Halimede=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Halimede=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Halimede=
+TISpaceBodyTemplate.discovery_year.Halimede=2002
+
+TISpaceBodyTemplate.displayName.Sao=Sao
+TISpaceBodyTemplate.bodyAltName.Sao=Neptün XI
+TISpaceBodyTemplate.classification.Sao=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Sao=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Sao=
+TISpaceBodyTemplate.discovery_year.Sao=2002
+
+TISpaceBodyTemplate.displayName.S2002N5=Ione
+TISpaceBodyTemplate.bodyAltName.S2002N5=S/2002 N 5
+TISpaceBodyTemplate.classification.S2002N5=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2002N5=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2002N5=
+TISpaceBodyTemplate.discovery_year.S2002N5=2002
+
+TISpaceBodyTemplate.displayName.Laomedeia=Laomedeia
+TISpaceBodyTemplate.bodyAltName.Laomedeia=Neptün XII
+TISpaceBodyTemplate.classification.Laomedeia=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Laomedeia=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Laomedeia=
+TISpaceBodyTemplate.discovery_year.Laomedeia=2002
+
+TISpaceBodyTemplate.displayName.Psamathe=Psamathe
+TISpaceBodyTemplate.bodyAltName.Psamathe=Neptün X
+TISpaceBodyTemplate.classification.Psamathe=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Psamathe=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Psamathe=
+TISpaceBodyTemplate.discovery_year.Psamathe=2003
+
+TISpaceBodyTemplate.displayName.Neso=Neso
+TISpaceBodyTemplate.bodyAltName.Neso=Neptün XIII
+TISpaceBodyTemplate.classification.Neso=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Neso=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Neso=
+TISpaceBodyTemplate.discovery_year.Neso=2002
+
+TISpaceBodyTemplate.displayName.S2023N1=Protho
+TISpaceBodyTemplate.bodyAltName.S2023N1=S/2021 N 1
+TISpaceBodyTemplate.classification.S2023N1=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.S2023N1=Neptün'ün Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.S2023N1=
+TISpaceBodyTemplate.discovery_year.S2023N1=2021
+
+TISpaceBodyTemplate.displayName.Ceres=Ceres
+TISpaceBodyTemplate.bodyAltName.Ceres=1 Ceres
+TISpaceBodyTemplate.classification.Ceres=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Ceres=Ana Kusak Cüce Gezegeni
+TISpaceBodyTemplate.descriptor2.Ceres=Volatil Zengin Regolit
+TISpaceBodyTemplate.discovery_year.Ceres=1801
+
+TISpaceBodyTemplate.displayName.2Pallas=2 Pallas
+TISpaceBodyTemplate.bodyAltName.2Pallas=
+TISpaceBodyTemplate.classification.2Pallas=Asteroyit
+TISpaceBodyTemplate.descriptor1.2Pallas=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.2Pallas=Tasli Asteroyit
+TISpaceBodyTemplate.discovery_year.2Pallas=1802
+
+TISpaceBodyTemplate.displayName.3Juno=3 Juno
+TISpaceBodyTemplate.bodyAltName.3Juno=
+TISpaceBodyTemplate.classification.3Juno=Asteroyit
+TISpaceBodyTemplate.descriptor1.3Juno=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.3Juno=
+TISpaceBodyTemplate.discovery_year.3Juno=1804
+
+TISpaceBodyTemplate.displayName.4Vesta=4 Vesta
+TISpaceBodyTemplate.bodyAltName.4Vesta=
+TISpaceBodyTemplate.classification.4Vesta=Asteroyit
+TISpaceBodyTemplate.descriptor1.4Vesta=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.4Vesta=Vesta Ailesi
+TISpaceBodyTemplate.discovery_year.4Vesta=1807
+
+TISpaceBodyTemplate.displayName.5Astraea=5 Astraea
+TISpaceBodyTemplate.bodyAltName.5Astraea=
+TISpaceBodyTemplate.classification.5Astraea=Asteroyit
+TISpaceBodyTemplate.descriptor1.5Astraea=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.5Astraea=
+TISpaceBodyTemplate.discovery_year.5Astraea=1845
+
+TISpaceBodyTemplate.displayName.6Hebe=6 Hebe
+TISpaceBodyTemplate.bodyAltName.6Hebe=
+TISpaceBodyTemplate.classification.6Hebe=Asteroyit
+TISpaceBodyTemplate.descriptor1.6Hebe=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.6Hebe=
+TISpaceBodyTemplate.discovery_year.6Hebe=1847
+
+TISpaceBodyTemplate.displayName.7Iris=7 Iris
+TISpaceBodyTemplate.bodyAltName.7Iris=
+TISpaceBodyTemplate.classification.7Iris=Asteroyit
+TISpaceBodyTemplate.descriptor1.7Iris=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.7Iris=
+TISpaceBodyTemplate.discovery_year.7Iris=1847
+
+TISpaceBodyTemplate.displayName.8Flora=8 Flora
+TISpaceBodyTemplate.bodyAltName.8Flora=
+TISpaceBodyTemplate.classification.8Flora=Asteroyit
+TISpaceBodyTemplate.descriptor1.8Flora=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.8Flora=Flora Ailesi
+TISpaceBodyTemplate.discovery_year.8Flora=1847
+TISpaceBodyTemplate.displayName.9Metis=9 Metis
+TISpaceBodyTemplate.bodyAltName.9Metis=
+TISpaceBodyTemplate.classification.9Metis=Asteroyit
+TISpaceBodyTemplate.descriptor1.9Metis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.9Metis=
+TISpaceBodyTemplate.discovery_year.9Metis=1848
+
+TISpaceBodyTemplate.displayName.10Hygiea=10 Hygiea
+TISpaceBodyTemplate.bodyAltName.10Hygiea=
+TISpaceBodyTemplate.classification.10Hygiea=Asteroyit
+TISpaceBodyTemplate.descriptor1.10Hygiea=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.10Hygiea=
+TISpaceBodyTemplate.discovery_year.10Hygiea=1849
+
+TISpaceBodyTemplate.displayName.11Parthenope=11 Parthenope
+TISpaceBodyTemplate.bodyAltName.11Parthenope=
+TISpaceBodyTemplate.classification.11Parthenope=Asteroyit
+TISpaceBodyTemplate.descriptor1.11Parthenope=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.11Parthenope=
+TISpaceBodyTemplate.discovery_year.11Parthenope=1850
+
+TISpaceBodyTemplate.displayName.12Victoria=12 Victoria
+TISpaceBodyTemplate.bodyAltName.12Victoria=
+TISpaceBodyTemplate.classification.12Victoria=Asteroyit
+TISpaceBodyTemplate.descriptor1.12Victoria=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.12Victoria=
+TISpaceBodyTemplate.discovery_year.12Victoria=1850
+
+TISpaceBodyTemplate.displayName.13Egeria=13 Egeria
+TISpaceBodyTemplate.bodyAltName.13Egeria=
+TISpaceBodyTemplate.classification.13Egeria=Asteroyit
+TISpaceBodyTemplate.descriptor1.13Egeria=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.13Egeria=
+TISpaceBodyTemplate.discovery_year.13Egeria=1850
+
+TISpaceBodyTemplate.displayName.14Irene=14 Irene
+TISpaceBodyTemplate.bodyAltName.14Irene=
+TISpaceBodyTemplate.classification.14Irene=Asteroyit
+TISpaceBodyTemplate.descriptor1.14Irene=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.14Irene=
+TISpaceBodyTemplate.discovery_year.14Irene=1851
+
+TISpaceBodyTemplate.displayName.15Eunomia=15 Eunomia
+TISpaceBodyTemplate.bodyAltName.15Eunomia=
+TISpaceBodyTemplate.classification.15Eunomia=Asteroyit
+TISpaceBodyTemplate.descriptor1.15Eunomia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.15Eunomia=
+TISpaceBodyTemplate.discovery_year.15Eunomia=1851
+
+TISpaceBodyTemplate.displayName.16Psyche=16 Psyche
+TISpaceBodyTemplate.bodyAltName.16Psyche=
+TISpaceBodyTemplate.classification.16Psyche=Asteroyit
+TISpaceBodyTemplate.descriptor1.16Psyche=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.16Psyche=
+TISpaceBodyTemplate.discovery_year.16Psyche=1852
+
+TISpaceBodyTemplate.displayName.17Thetis=17 Thetis
+TISpaceBodyTemplate.bodyAltName.17Thetis=
+TISpaceBodyTemplate.classification.17Thetis=Asteroyit
+TISpaceBodyTemplate.descriptor1.17Thetis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.17Thetis=
+TISpaceBodyTemplate.discovery_year.17Thetis=1852
+
+TISpaceBodyTemplate.displayName.18Melpomene=18 Melpomene
+TISpaceBodyTemplate.bodyAltName.18Melpomene=
+TISpaceBodyTemplate.classification.18Melpomene=Asteroyit
+TISpaceBodyTemplate.descriptor1.18Melpomene=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.18Melpomene=
+TISpaceBodyTemplate.discovery_year.18Melpomene=1852
+
+TISpaceBodyTemplate.displayName.19Fortuna=19 Fortuna
+TISpaceBodyTemplate.bodyAltName.19Fortuna=
+TISpaceBodyTemplate.classification.19Fortuna=Asteroyit
+TISpaceBodyTemplate.descriptor1.19Fortuna=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.19Fortuna=
+TISpaceBodyTemplate.discovery_year.19Fortuna=1852
+
+TISpaceBodyTemplate.displayName.20Massalia=20 Massalia
+TISpaceBodyTemplate.bodyAltName.20Massalia=
+TISpaceBodyTemplate.classification.20Massalia=Asteroyit
+TISpaceBodyTemplate.descriptor1.20Massalia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.20Massalia=
+TISpaceBodyTemplate.discovery_year.20Massalia=1852
+
+TISpaceBodyTemplate.displayName.21Lutetia=21 Lutetia
+TISpaceBodyTemplate.bodyAltName.21Lutetia=
+TISpaceBodyTemplate.classification.21Lutetia=Asteroyit
+TISpaceBodyTemplate.descriptor1.21Lutetia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.21Lutetia=
+TISpaceBodyTemplate.discovery_year.21Lutetia=1852
+
+TISpaceBodyTemplate.displayName.22Kalliope=22 Kalliope
+TISpaceBodyTemplate.bodyAltName.22Kalliope=
+TISpaceBodyTemplate.classification.22Kalliope=Asteroyit
+TISpaceBodyTemplate.descriptor1.22Kalliope=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.22Kalliope=
+TISpaceBodyTemplate.discovery_year.22Kalliope=1852
+
+TISpaceBodyTemplate.displayName.Linus=Linus
+TISpaceBodyTemplate.bodyAltName.Linus=22 Kalliope I
+TISpaceBodyTemplate.classification.Linus=Asteroyit Uydu
+TISpaceBodyTemplate.descriptor1.Linus=22 Kalliope'nin Asteroyit Uydusu
+TISpaceBodyTemplate.descriptor2.Linus=
+TISpaceBodyTemplate.discovery_year.Linus=2001
+
+TISpaceBodyTemplate.displayName.23Thalia=23 Thalia
+TISpaceBodyTemplate.bodyAltName.23Thalia=
+TISpaceBodyTemplate.classification.23Thalia=Asteroyit
+TISpaceBodyTemplate.descriptor1.23Thalia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.23Thalia=
+TISpaceBodyTemplate.discovery_year.23Thalia=1852
+
+TISpaceBodyTemplate.displayName.24Themis=24 Themis
+TISpaceBodyTemplate.bodyAltName.24Themis=
+TISpaceBodyTemplate.classification.24Themis=Asteroyit
+TISpaceBodyTemplate.descriptor1.24Themis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.24Themis=Themis Ailesi
+TISpaceBodyTemplate.discovery_year.24Themis=1853
+
+TISpaceBodyTemplate.displayName.25Phocaea=25 Phocaea
+TISpaceBodyTemplate.bodyAltName.25Phocaea=
+TISpaceBodyTemplate.classification.25Phocaea=Asteroyit
+TISpaceBodyTemplate.descriptor1.25Phocaea=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.25Phocaea=
+TISpaceBodyTemplate.discovery_year.25Phocaea=1853
+
+TISpaceBodyTemplate.displayName.26Proserpina=26 Proserpina
+TISpaceBodyTemplate.bodyAltName.26Proserpina=
+TISpaceBodyTemplate.classification.26Proserpina=Asteroyit
+TISpaceBodyTemplate.descriptor1.26Proserpina=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.26Proserpina=
+TISpaceBodyTemplate.discovery_year.26Proserpina=1853
+
+TISpaceBodyTemplate.displayName.27Euterpe=27 Euterpe
+TISpaceBodyTemplate.bodyAltName.27Euterpe=
+TISpaceBodyTemplate.classification.27Euterpe=Asteroyit
+TISpaceBodyTemplate.descriptor1.27Euterpe=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.27Euterpe=
+TISpaceBodyTemplate.discovery_year.27Euterpe=1853
+
+TISpaceBodyTemplate.displayName.28Bellona=28 Bellona
+TISpaceBodyTemplate.bodyAltName.28Bellona=
+TISpaceBodyTemplate.classification.28Bellona=Asteroyit
+TISpaceBodyTemplate.descriptor1.28Bellona=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.28Bellona=
+TISpaceBodyTemplate.discovery_year.28Bellona=1854
+
+TISpaceBodyTemplate.displayName.29Amphitrite=29 Amphitrite
+TISpaceBodyTemplate.bodyAltName.29Amphitrite=
+TISpaceBodyTemplate.classification.29Amphitrite=Asteroyit
+TISpaceBodyTemplate.descriptor1.29Amphitrite=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.29Amphitrite=
+TISpaceBodyTemplate.discovery_year.29Amphitrite=1854
+
+TISpaceBodyTemplate.displayName.30Urania=30 Urania
+TISpaceBodyTemplate.bodyAltName.30Urania=
+TISpaceBodyTemplate.classification.30Urania=Asteroyit
+TISpaceBodyTemplate.descriptor1.30Urania=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.30Urania=
+TISpaceBodyTemplate.discovery_year.30Urania=1854
+
+TISpaceBodyTemplate.displayName.31Euphrosyne=31 Euphrosyne
+TISpaceBodyTemplate.bodyAltName.31Euphrosyne=
+TISpaceBodyTemplate.classification.31Euphrosyne=Asteroyit
+TISpaceBodyTemplate.descriptor1.31Euphrosyne=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.31Euphrosyne=
+TISpaceBodyTemplate.discovery_year.31Euphrosyne=1854
+
+TISpaceBodyTemplate.displayName.34Circe=34 Circe
+TISpaceBodyTemplate.bodyAltName.34Circe=
+TISpaceBodyTemplate.classification.34Circe=Asteroyit
+TISpaceBodyTemplate.descriptor1.34Circe=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.34Circe=
+TISpaceBodyTemplate.discovery_year.34Circe=1855
+
+TISpaceBodyTemplate.displayName.35Leukothea=35 Leukothea
+TISpaceBodyTemplate.bodyAltName.35Leukothea=
+TISpaceBodyTemplate.classification.35Leukothea=Asteroyit
+TISpaceBodyTemplate.descriptor1.35Leukothea=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.35Leukothea=
+TISpaceBodyTemplate.discovery_year.35Leukothea=1855
+
+TISpaceBodyTemplate.displayName.36Atalante=36 Atalante
+TISpaceBodyTemplate.bodyAltName.36Atalante=
+TISpaceBodyTemplate.classification.36Atalante=Asteroyit
+TISpaceBodyTemplate.descriptor1.36Atalante=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.36Atalante=
+TISpaceBodyTemplate.discovery_year.36Atalante=1855
+
+TISpaceBodyTemplate.displayName.37Fides=37 Fides
+TISpaceBodyTemplate.bodyAltName.37Fides=
+TISpaceBodyTemplate.classification.37Fides=Asteroyit
+TISpaceBodyTemplate.descriptor1.37Fides=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.37Fides=
+TISpaceBodyTemplate.discovery_year.37Fides=1855
+
+TISpaceBodyTemplate.displayName.38Leda=38 Leda
+TISpaceBodyTemplate.bodyAltName.38Leda=
+TISpaceBodyTemplate.classification.38Leda=Asteroyit
+TISpaceBodyTemplate.descriptor1.38Leda=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.38Leda=
+TISpaceBodyTemplate.discovery_year.38Leda=1856
+
+TISpaceBodyTemplate.displayName.39Laetitia=39 Laetitia
+TISpaceBodyTemplate.bodyAltName.39Laetitia=
+TISpaceBodyTemplate.classification.39Laetitia=Asteroyit
+TISpaceBodyTemplate.descriptor1.39Laetitia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.39Laetitia=
+TISpaceBodyTemplate.discovery_year.39Laetitia=1856
+
+TISpaceBodyTemplate.displayName.40Harmonia=40 Harmonia
+TISpaceBodyTemplate.bodyAltName.40Harmonia=
+TISpaceBodyTemplate.classification.40Harmonia=Asteroyit
+TISpaceBodyTemplate.descriptor1.40Harmonia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.40Harmonia=
+TISpaceBodyTemplate.discovery_year.40Harmonia=1856
+
+TISpaceBodyTemplate.displayName.41Daphne=41 Daphne
+TISpaceBodyTemplate.bodyAltName.41Daphne=
+TISpaceBodyTemplate.classification.41Daphne=Asteroyit
+TISpaceBodyTemplate.descriptor1.41Daphne=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.41Daphne=
+TISpaceBodyTemplate.discovery_year.41Daphne=1856
+
+TISpaceBodyTemplate.displayName.42Isis=42 Isis
+TISpaceBodyTemplate.bodyAltName.42Isis=
+TISpaceBodyTemplate.classification.42Isis=Asteroyit
+TISpaceBodyTemplate.descriptor1.42Isis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.42Isis=
+TISpaceBodyTemplate.discovery_year.42Isis=1856
+
+TISpaceBodyTemplate.displayName.43Ariadne=43 Ariadne
+TISpaceBodyTemplate.bodyAltName.43Ariadne=
+TISpaceBodyTemplate.classification.43Ariadne=Asteroyit
+TISpaceBodyTemplate.descriptor1.43Ariadne=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.43Ariadne=Flora Ailesi
+TISpaceBodyTemplate.discovery_year.43Ariadne=1857
+
+TISpaceBodyTemplate.displayName.44Nysa=44 Nysa
+TISpaceBodyTemplate.bodyAltName.44Nysa=
+TISpaceBodyTemplate.classification.44Nysa=Asteroyit
+TISpaceBodyTemplate.descriptor1.44Nysa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.44Nysa=Nysa Ailesi
+TISpaceBodyTemplate.discovery_year.44Nysa=1857
+
+TISpaceBodyTemplate.displayName.45Eugenia=45 Eugenia
+TISpaceBodyTemplate.bodyAltName.45Eugenia=
+TISpaceBodyTemplate.classification.45Eugenia=Asteroyit
+TISpaceBodyTemplate.descriptor1.45Eugenia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.45Eugenia=
+TISpaceBodyTemplate.discovery_year.45Eugenia=1857
+
+TISpaceBodyTemplate.displayName.46Hestia=46 Hestia
+TISpaceBodyTemplate.bodyAltName.46Hestia=
+TISpaceBodyTemplate.classification.46Hestia=Asteroyit
+TISpaceBodyTemplate.descriptor1.46Hestia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.46Hestia=Hestia Ailesi
+TISpaceBodyTemplate.discovery_year.46Hestia=1857
+
+TISpaceBodyTemplate.displayName.47Aglaja=47 Aglaja
+TISpaceBodyTemplate.bodyAltName.47Aglaja=
+TISpaceBodyTemplate.classification.47Aglaja=Asteroyit
+TISpaceBodyTemplate.descriptor1.47Aglaja=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.47Aglaja=
+TISpaceBodyTemplate.discovery_year.47Aglaja=1857
+
+TISpaceBodyTemplate.displayName.48Doris=48 Doris
+TISpaceBodyTemplate.bodyAltName.48Doris=
+TISpaceBodyTemplate.classification.48Doris=Asteroyit
+TISpaceBodyTemplate.descriptor1.48Doris=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.48Doris=
+TISpaceBodyTemplate.discovery_year.48Doris=1857
+
+TISpaceBodyTemplate.displayName.49Pales=49 Pales
+TISpaceBodyTemplate.bodyAltName.49Pales=
+TISpaceBodyTemplate.classification.49Pales=Asteroyit
+TISpaceBodyTemplate.descriptor1.49Pales=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.49Pales=
+TISpaceBodyTemplate.discovery_year.49Pales=1857
+
+TISpaceBodyTemplate.displayName.51Nemausa=51 Nemausa
+TISpaceBodyTemplate.bodyAltName.51Nemausa=
+TISpaceBodyTemplate.classification.51Nemausa=Asteroyit
+TISpaceBodyTemplate.descriptor1.51Nemausa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.51Nemausa=
+TISpaceBodyTemplate.discovery_year.51Nemausa=1858
+
+TISpaceBodyTemplate.displayName.52Europa=52 Europa
+TISpaceBodyTemplate.bodyAltName.52Europa=
+TISpaceBodyTemplate.classification.52Europa=Asteroyit
+TISpaceBodyTemplate.descriptor1.52Europa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.52Europa=
+TISpaceBodyTemplate.discovery_year.52Europa=1858
+
+TISpaceBodyTemplate.displayName.54Alexandra=54 Alexandra
+TISpaceBodyTemplate.bodyAltName.54Alexandra=
+TISpaceBodyTemplate.classification.54Alexandra=Asteroyit
+TISpaceBodyTemplate.descriptor1.54Alexandra=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.54Alexandra=
+TISpaceBodyTemplate.discovery_year.54Alexandra=1858
+
+TISpaceBodyTemplate.displayName.55Pandora=55 Pandora
+TISpaceBodyTemplate.bodyAltName.55Pandora=
+TISpaceBodyTemplate.classification.55Pandora=Asteroyit
+TISpaceBodyTemplate.descriptor1.55Pandora=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.55Pandora=
+TISpaceBodyTemplate.discovery_year.55Pandora=1858
+
+TISpaceBodyTemplate.displayName.56Melete=56 Melete
+TISpaceBodyTemplate.bodyAltName.56Melete=
+TISpaceBodyTemplate.classification.56Melete=Asteroyit
+TISpaceBodyTemplate.descriptor1.56Melete=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.56Melete=
+TISpaceBodyTemplate.discovery_year.56Melete=1857
+
+TISpaceBodyTemplate.displayName.57Mnemosyne=57 Mnemosyne
+TISpaceBodyTemplate.bodyAltName.57Mnemosyne=
+TISpaceBodyTemplate.classification.57Mnemosyne=Asteroyit
+TISpaceBodyTemplate.descriptor1.57Mnemosyne=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.57Mnemosyne=
+TISpaceBodyTemplate.discovery_year.57Mnemosyne=1859
+
+TISpaceBodyTemplate.displayName.59Elpis=59 Elpis
+TISpaceBodyTemplate.bodyAltName.59Elpis=
+TISpaceBodyTemplate.classification.59Elpis=Asteroyit
+TISpaceBodyTemplate.descriptor1.59Elpis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.59Elpis=
+TISpaceBodyTemplate.discovery_year.59Elpis=1860
+
+TISpaceBodyTemplate.displayName.62Erato=62 Erato
+TISpaceBodyTemplate.bodyAltName.62Erato=
+TISpaceBodyTemplate.classification.62Erato=Asteroyit
+TISpaceBodyTemplate.descriptor1.62Erato=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.62Erato=Themis Ailesi
+TISpaceBodyTemplate.discovery_year.62Erato=1860
+
+TISpaceBodyTemplate.displayName.63Ausonia=63 Ausonia
+TISpaceBodyTemplate.bodyAltName.63Ausonia=
+TISpaceBodyTemplate.classification.63Ausonia=Asteroyit
+TISpaceBodyTemplate.descriptor1.63Ausonia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.63Ausonia=Vestoid
+TISpaceBodyTemplate.discovery_year.63Ausonia=1861
+
+TISpaceBodyTemplate.displayName.65Cybele=65 Cybele
+TISpaceBodyTemplate.bodyAltName.65Cybele=
+TISpaceBodyTemplate.classification.65Cybele=Asteroyit
+TISpaceBodyTemplate.descriptor1.65Cybele=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.65Cybele=Cybele Ailesi
+TISpaceBodyTemplate.discovery_year.65Cybele=1861
+TISpaceBodyTemplate.displayName.68Leto=68 Leto
+TISpaceBodyTemplate.bodyAltName.68Leto=
+TISpaceBodyTemplate.classification.68Leto=Asteroyit
+TISpaceBodyTemplate.descriptor1.68Leto=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.68Leto=
+TISpaceBodyTemplate.discovery_year.68Leto=1861
+
+TISpaceBodyTemplate.displayName.69Hesperia=69 Hesperia
+TISpaceBodyTemplate.bodyAltName.69Hesperia=
+TISpaceBodyTemplate.classification.69Hesperia=Asteroyit
+TISpaceBodyTemplate.descriptor1.69Hesperia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.69Hesperia=
+TISpaceBodyTemplate.discovery_year.69Hesperia=1861
+
+TISpaceBodyTemplate.displayName.76Freia=76 Freia
+TISpaceBodyTemplate.bodyAltName.76Freia=
+TISpaceBodyTemplate.classification.76Freia=Asteroyit
+TISpaceBodyTemplate.descriptor1.76Freia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.76Freia=Cybele Ailesi
+TISpaceBodyTemplate.discovery_year.76Freia=1862
+
+TISpaceBodyTemplate.displayName.85Io=85 Io
+TISpaceBodyTemplate.bodyAltName.85Io=
+TISpaceBodyTemplate.classification.85Io=Asteroyit
+TISpaceBodyTemplate.descriptor1.85Io=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.85Io=
+TISpaceBodyTemplate.discovery_year.85Io=1865
+
+TISpaceBodyTemplate.displayName.87Sylvia=87 Sylvia
+TISpaceBodyTemplate.bodyAltName.87Sylvia=
+TISpaceBodyTemplate.classification.87Sylvia=Asteroyit
+TISpaceBodyTemplate.descriptor1.87Sylvia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.87Sylvia=Cybele Ailesi
+TISpaceBodyTemplate.discovery_year.87Sylvia=1866
+
+TISpaceBodyTemplate.displayName.88Thisbe=88 Thisbe
+TISpaceBodyTemplate.bodyAltName.88Thisbe=
+TISpaceBodyTemplate.classification.88Thisbe=Asteroyit
+TISpaceBodyTemplate.descriptor1.88Thisbe=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.88Thisbe=
+TISpaceBodyTemplate.discovery_year.88Thisbe=1866
+
+TISpaceBodyTemplate.displayName.89Julia=89 Julia
+TISpaceBodyTemplate.bodyAltName.89Julia=
+TISpaceBodyTemplate.classification.89Julia=Asteroyit
+TISpaceBodyTemplate.descriptor1.89Julia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.89Julia=
+TISpaceBodyTemplate.discovery_year.89Julia=1866
+
+TISpaceBodyTemplate.displayName.92Undina=92 Undina
+TISpaceBodyTemplate.bodyAltName.92Undina=
+TISpaceBodyTemplate.classification.92Undina=Asteroyit
+TISpaceBodyTemplate.descriptor1.92Undina=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.92Undina=
+TISpaceBodyTemplate.discovery_year.92Undina=1867
+
+TISpaceBodyTemplate.displayName.93Minerva=93 Minerva
+TISpaceBodyTemplate.bodyAltName.93Minerva=
+TISpaceBodyTemplate.classification.93Minerva=Asteroyit
+TISpaceBodyTemplate.descriptor1.93Minerva=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.93Minerva=
+TISpaceBodyTemplate.discovery_year.93Minerva=1867
+
+TISpaceBodyTemplate.displayName.94Aurora=94 Aurora
+TISpaceBodyTemplate.bodyAltName.94Aurora=
+TISpaceBodyTemplate.classification.94Aurora=Asteroyit
+TISpaceBodyTemplate.descriptor1.94Aurora=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.94Aurora=
+TISpaceBodyTemplate.discovery_year.94Aurora=1867
+
+TISpaceBodyTemplate.displayName.95Arethusa=95 Arethusa
+TISpaceBodyTemplate.bodyAltName.95Arethusa=
+TISpaceBodyTemplate.classification.95Arethusa=Asteroyit
+TISpaceBodyTemplate.descriptor1.95Arethusa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.95Arethusa=
+TISpaceBodyTemplate.discovery_year.95Arethusa=1867
+
+TISpaceBodyTemplate.displayName.96Aegle=96 Aegle
+TISpaceBodyTemplate.bodyAltName.96Aegle=
+TISpaceBodyTemplate.classification.96Aegle=Asteroyit
+TISpaceBodyTemplate.descriptor1.96Aegle=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.96Aegle=
+TISpaceBodyTemplate.discovery_year.96Aegle=1868
+
+TISpaceBodyTemplate.displayName.97Klotho=97 Klotho
+TISpaceBodyTemplate.bodyAltName.97Klotho=
+TISpaceBodyTemplate.classification.97Klotho=Asteroyit
+TISpaceBodyTemplate.descriptor1.97Klotho=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.97Klotho=
+TISpaceBodyTemplate.discovery_year.97Klotho=1868
+
+TISpaceBodyTemplate.displayName.104Klymene=104 Klymene
+TISpaceBodyTemplate.bodyAltName.104Klymene=
+TISpaceBodyTemplate.classification.104Klymene=Asteroyit
+TISpaceBodyTemplate.descriptor1.104Klymene=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.104Klymene=Themis Ailesi
+TISpaceBodyTemplate.discovery_year.104Klymene=1868
+
+TISpaceBodyTemplate.displayName.106Dione=106 Dione
+TISpaceBodyTemplate.bodyAltName.106Dione=
+TISpaceBodyTemplate.classification.106Dione=Asteroyit
+TISpaceBodyTemplate.descriptor1.106Dione=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.106Dione=Hecuba Ailesi
+TISpaceBodyTemplate.discovery_year.106Dione=1868
+
+TISpaceBodyTemplate.displayName.107Camilla=107 Camilla
+TISpaceBodyTemplate.bodyAltName.107Camilla=
+TISpaceBodyTemplate.classification.107Camilla=Asteroyit
+TISpaceBodyTemplate.descriptor1.107Camilla=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.107Camilla=Cybele Ailesi
+TISpaceBodyTemplate.discovery_year.107Camilla=1868
+
+TISpaceBodyTemplate.displayName.110Lydia=110 Lydia
+TISpaceBodyTemplate.bodyAltName.110Lydia=
+TISpaceBodyTemplate.classification.110Lydia=Asteroyit
+TISpaceBodyTemplate.descriptor1.110Lydia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.displayName.110Lydia=110 Lydia
+TISpaceBodyTemplate.bodyAltName.110Lydia=
+TISpaceBodyTemplate.classification.110Lydia=Asteroyit
+TISpaceBodyTemplate.descriptor1.110Lydia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.110Lydia=Lydia Ailesi
+TISpaceBodyTemplate.discovery_year.110Lydia=1870
+
+TISpaceBodyTemplate.displayName.114Kassandra=114 Kassandra
+TISpaceBodyTemplate.bodyAltName.114Kassandra=
+TISpaceBodyTemplate.classification.114Kassandra=Asteroyit
+TISpaceBodyTemplate.descriptor1.114Kassandra=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.114Kassandra=
+TISpaceBodyTemplate.discovery_year.114Kassandra=1871
+
+TISpaceBodyTemplate.displayName.117Lomia=117 Lomia
+TISpaceBodyTemplate.bodyAltName.117Lomia=
+TISpaceBodyTemplate.classification.117Lomia=Asteroyit
+TISpaceBodyTemplate.descriptor1.117Lomia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.117Lomia=
+TISpaceBodyTemplate.discovery_year.117Lomia=1871
+
+TISpaceBodyTemplate.displayName.120Lachesis=120 Lachesis
+TISpaceBodyTemplate.bodyAltName.120Lachesis=
+TISpaceBodyTemplate.classification.120Lachesis=Asteroyit
+TISpaceBodyTemplate.descriptor1.120Lachesis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.120Lachesis=
+TISpaceBodyTemplate.discovery_year.120Lachesis=1872
+
+TISpaceBodyTemplate.displayName.121Hermione=121 Hermione
+TISpaceBodyTemplate.bodyAltName.121Hermione=
+TISpaceBodyTemplate.classification.121Hermione=Asteroyit
+TISpaceBodyTemplate.descriptor1.121Hermione=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.121Hermione=
+TISpaceBodyTemplate.discovery_year.121Hermione=1872
+
+TISpaceBodyTemplate.displayName.127Johanna=127 Johanna
+TISpaceBodyTemplate.bodyAltName.127Johanna=
+TISpaceBodyTemplate.classification.127Johanna=Asteroyit
+TISpaceBodyTemplate.descriptor1.127Johanna=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.127Johanna=
+TISpaceBodyTemplate.discovery_year.127Johanna=1872
+
+TISpaceBodyTemplate.displayName.128Nemesis=128 Nemesis
+TISpaceBodyTemplate.bodyAltName.128Nemesis=
+TISpaceBodyTemplate.classification.128Nemesis=Asteroyit
+TISpaceBodyTemplate.descriptor1.128Nemesis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.128Nemesis=Nemesis Ailesi
+TISpaceBodyTemplate.discovery_year.128Nemesis=1872
+
+TISpaceBodyTemplate.displayName.129Antigone=129 Antigone
+TISpaceBodyTemplate.bodyAltName.129Antigone=
+TISpaceBodyTemplate.classification.129Antigone=Asteroyit
+TISpaceBodyTemplate.descriptor1.129Antigone=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.129Antigone=
+TISpaceBodyTemplate.discovery_year.129Antigone=1873
+
+TISpaceBodyTemplate.displayName.130Elektra=130 Elektra
+TISpaceBodyTemplate.bodyAltName.130Elektra=
+TISpaceBodyTemplate.classification.130Elektra=Asteroyit
+TISpaceBodyTemplate.descriptor1.130Elektra=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.130Elektra=
+TISpaceBodyTemplate.discovery_year.130Elektra=1873
+
+TISpaceBodyTemplate.displayName.132Aethra=132 Aethra
+TISpaceBodyTemplate.bodyAltName.132Aethra=
+TISpaceBodyTemplate.classification.132Aethra=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor1.132Aethra=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.132Aethra=
+TISpaceBodyTemplate.discovery_year.132Aethra=1873
+
+TISpaceBodyTemplate.displayName.135Hertha=135 Hertha
+TISpaceBodyTemplate.bodyAltName.135Hertha=
+TISpaceBodyTemplate.classification.135Hertha=Asteroyit
+TISpaceBodyTemplate.descriptor1.135Hertha=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.135Hertha=Nysa Ailesi
+TISpaceBodyTemplate.discovery_year.135Hertha=1874
+
+TISpaceBodyTemplate.displayName.137Meliboea=137 Meliboea
+TISpaceBodyTemplate.bodyAltName.137Meliboea=
+TISpaceBodyTemplate.classification.137Meliboea=Asteroyit
+TISpaceBodyTemplate.descriptor1.137Meliboea=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.137Meliboea=Meliboea Ailesi
+TISpaceBodyTemplate.discovery_year.137Meliboea=1874
+
+TISpaceBodyTemplate.displayName.139Juewa=139 Juewa
+TISpaceBodyTemplate.bodyAltName.139Juewa=
+TISpaceBodyTemplate.classification.139Juewa=Asteroyit
+TISpaceBodyTemplate.descriptor1.139Juewa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.139Juewa=
+TISpaceBodyTemplate.discovery_year.139Juewa=1874
+
+TISpaceBodyTemplate.displayName.146Lucina=146 Lucina
+TISpaceBodyTemplate.bodyAltName.146Lucina=
+TISpaceBodyTemplate.classification.146Lucina=Asteroyit
+TISpaceBodyTemplate.descriptor1.146Lucina=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.146Lucina=
+TISpaceBodyTemplate.discovery_year.146Lucina=1875
+
+TISpaceBodyTemplate.displayName.153Hilda=153 Hilda
+TISpaceBodyTemplate.bodyAltName.153Hilda=
+TISpaceBodyTemplate.classification.153Hilda=Asteroyit
+TISpaceBodyTemplate.descriptor1.153Hilda=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.153Hilda=Hilda Grubu
+TISpaceBodyTemplate.discovery_year.153Hilda=1875
+
+TISpaceBodyTemplate.displayName.154Bertha=154 Bertha
+TISpaceBodyTemplate.bodyAltName.154Bertha=
+TISpaceBodyTemplate.classification.154Bertha=Asteroyit
+TISpaceBodyTemplate.descriptor1.154Bertha=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.154Bertha=
+TISpaceBodyTemplate.discovery_year.154Bertha=1875
+
+TISpaceBodyTemplate.displayName.165Loreley=165 Loreley
+TISpaceBodyTemplate.bodyAltName.165Loreley=
+TISpaceBodyTemplate.classification.165Loreley=Asteroyit
+TISpaceBodyTemplate.descriptor1.165Loreley=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.165Loreley=
+TISpaceBodyTemplate.discovery_year.165Loreley=1876
+
+TISpaceBodyTemplate.displayName.168Sibylla=168 Sibylla
+TISpaceBodyTemplate.bodyAltName.168Sibylla=
+TISpaceBodyTemplate.displayName.168Sibylla=168 Sibylla
+TISpaceBodyTemplate.bodyAltName.168Sibylla=
+TISpaceBodyTemplate.classification.168Sibylla=Asteroyit
+TISpaceBodyTemplate.descriptor1.168Sibylla=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.168Sibylla=
+TISpaceBodyTemplate.discovery_year.168Sibylla=1876
+
+TISpaceBodyTemplate.displayName.185Eunike=185 Eunike
+TISpaceBodyTemplate.bodyAltName.185Eunike=
+TISpaceBodyTemplate.classification.185Eunike=Asteroyit
+TISpaceBodyTemplate.descriptor1.185Eunike=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.185Eunike=
+TISpaceBodyTemplate.discovery_year.185Eunike=1878
+
+TISpaceBodyTemplate.displayName.187Lamberta=187 Lamberta
+TISpaceBodyTemplate.bodyAltName.187Lamberta=
+TISpaceBodyTemplate.classification.187Lamberta=Asteroyit
+TISpaceBodyTemplate.descriptor1.187Lamberta=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.187Lamberta=
+TISpaceBodyTemplate.discovery_year.187Lamberta=1878
+
+TISpaceBodyTemplate.displayName.190Ismene=190 Ismene
+TISpaceBodyTemplate.bodyAltName.190Ismene=
+TISpaceBodyTemplate.classification.190Ismene=Asteroyit
+TISpaceBodyTemplate.descriptor1.190Ismene=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.190Ismene=Hilda Grubu
+TISpaceBodyTemplate.discovery_year.190Ismene=1878
+
+TISpaceBodyTemplate.displayName.192Nausikaa=192 Nausikaa
+TISpaceBodyTemplate.bodyAltName.192Nausikaa=
+TISpaceBodyTemplate.classification.192Nausikaa=Asteroyit
+TISpaceBodyTemplate.descriptor1.192Nausikaa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.192Nausikaa=
+TISpaceBodyTemplate.discovery_year.192Nausikaa=1879
+
+TISpaceBodyTemplate.displayName.194Prokne=194 Prokne
+TISpaceBodyTemplate.bodyAltName.194Prokne=
+TISpaceBodyTemplate.classification.194Prokne=Asteroyit
+TISpaceBodyTemplate.descriptor1.194Prokne=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.194Prokne=
+TISpaceBodyTemplate.discovery_year.194Prokne=1879
+
+TISpaceBodyTemplate.displayName.196Philomela=196 Philomela
+TISpaceBodyTemplate.bodyAltName.196Philomela=
+TISpaceBodyTemplate.classification.196Philomela=Asteroyit
+TISpaceBodyTemplate.descriptor1.196Philomela=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.196Philomela=
+TISpaceBodyTemplate.discovery_year.196Philomela=1879
+
+TISpaceBodyTemplate.displayName.209Dido=209 Dido
+TISpaceBodyTemplate.bodyAltName.209Dido=
+TISpaceBodyTemplate.classification.209Dido=Asteroyit
+TISpaceBodyTemplate.descriptor1.209Dido=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.209Dido=
+TISpaceBodyTemplate.discovery_year.209Dido=1879
+
+TISpaceBodyTemplate.displayName.216Kleopatra=216 Kleopatra
+TISpaceBodyTemplate.bodyAltName.216Kleopatra=
+TISpaceBodyTemplate.classification.216Kleopatra=Asteroyit
+TISpaceBodyTemplate.descriptor1.216Kleopatra=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.216Kleopatra=
+TISpaceBodyTemplate.discovery_year.216Kleopatra=1880
+
+TISpaceBodyTemplate.displayName.221Eos=221 Eos
+TISpaceBodyTemplate.bodyAltName.221Eos=
+TISpaceBodyTemplate.classification.221Eos=Asteroyit
+TISpaceBodyTemplate.descriptor1.221Eos=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.221Eos=Eos Ailesi
+TISpaceBodyTemplate.discovery_year.221Eos=1882
+
+TISpaceBodyTemplate.displayName.230Athamantis=230 Athamantis
+TISpaceBodyTemplate.bodyAltName.230Athamantis=
+TISpaceBodyTemplate.classification.230Athamantis=Asteroyit
+TISpaceBodyTemplate.descriptor1.230Athamantis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.230Athamantis=
+TISpaceBodyTemplate.discovery_year.230Athamantis=1882
+
+TISpaceBodyTemplate.displayName.233Asterope=233 Asterope
+TISpaceBodyTemplate.bodyAltName.233Asterope=
+TISpaceBodyTemplate.classification.233Asterope=Asteroyit
+TISpaceBodyTemplate.descriptor1.233Asterope=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.233Asterope=
+TISpaceBodyTemplate.discovery_year.233Asterope=1883
+
+TISpaceBodyTemplate.displayName.238Hypatia=238 Hypatia
+TISpaceBodyTemplate.bodyAltName.238Hypatia=
+TISpaceBodyTemplate.classification.238Hypatia=Asteroyit
+TISpaceBodyTemplate.descriptor1.238Hypatia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.238Hypatia=
+TISpaceBodyTemplate.discovery_year.238Hypatia=1884
+
+TISpaceBodyTemplate.displayName.241Germania=241 Germania
+TISpaceBodyTemplate.bodyAltName.241Germania=
+TISpaceBodyTemplate.classification.241Germania=Asteroyit
+TISpaceBodyTemplate.descriptor1.241Germania=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.241Germania=
+TISpaceBodyTemplate.discovery_year.241Germania=1884
+
+TISpaceBodyTemplate.displayName.246Asperina=246 Asperina
+TISpaceBodyTemplate.bodyAltName.246Asperina=
+TISpaceBodyTemplate.classification.246Asperina=Asteroyit
+TISpaceBodyTemplate.descriptor1.246Asperina=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.246Asperina=
+TISpaceBodyTemplate.discovery_year.246Asperina=1885
+
+TISpaceBodyTemplate.displayName.250Bettina=250 Bettina
+TISpaceBodyTemplate.bodyAltName.250Bettina=
+TISpaceBodyTemplate.classification.250Bettina=Asteroyit
+TISpaceBodyTemplate.descriptor1.250Bettina=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.250Bettina=
+TISpaceBodyTemplate.discovery_year.250Bettina=1885
+
+TISpaceBodyTemplate.displayName.253Mathilde=253 Mathilde
+TISpaceBodyTemplate.bodyAltName.253Mathilde=
+TISpaceBodyTemplate.classification.253Mathilde=Asteroyit
+TISpaceBodyTemplate.descriptor1.253Mathilde=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.253Mathilde=
+TISpaceBodyTemplate.discovery_year.253Mathilde=1885
+TISpaceBodyTemplate.displayName.259Aletheia=259 Aletheia
+TISpaceBodyTemplate.bodyAltName.259Aletheia=
+TISpaceBodyTemplate.classification.259Aletheia=Asteroyit
+TISpaceBodyTemplate.descriptor1.259Aletheia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.259Aletheia=
+TISpaceBodyTemplate.discovery_year.259Aletheia=1886
+
+TISpaceBodyTemplate.displayName.279Thule=279 Thule
+TISpaceBodyTemplate.bodyAltName.279Thule=
+TISpaceBodyTemplate.classification.279Thule=Asteroyit
+TISpaceBodyTemplate.descriptor1.279Thule=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.279Thule=
+TISpaceBodyTemplate.discovery_year.279Thule=1888
+
+TISpaceBodyTemplate.displayName.308Polyxo=308 Polyxo
+TISpaceBodyTemplate.bodyAltName.308Polyxo=
+TISpaceBodyTemplate.classification.308Polyxo=Asteroyit
+TISpaceBodyTemplate.descriptor1.308Polyxo=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.308Polyxo=
+TISpaceBodyTemplate.discovery_year.308Polyxo=1891
+
+TISpaceBodyTemplate.displayName.323Brucia=323 Brucia
+TISpaceBodyTemplate.bodyAltName.323Brucia=
+TISpaceBodyTemplate.classification.323Brucia=Asteroyit
+TISpaceBodyTemplate.descriptor1.323Brucia=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.323Brucia=Tasli
+TISpaceBodyTemplate.discovery_year.323Brucia=1891
+
+TISpaceBodyTemplate.displayName.324Bamberga=324 Bamberga
+TISpaceBodyTemplate.bodyAltName.324Bamberga=
+TISpaceBodyTemplate.classification.324Bamberga=Asteroyit
+TISpaceBodyTemplate.descriptor1.324Bamberga=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.324Bamberga=
+TISpaceBodyTemplate.discovery_year.324Bamberga=1892
+
+TISpaceBodyTemplate.displayName.325Heidelberga=325 Heidelberga
+TISpaceBodyTemplate.bodyAltName.325Heidelberga=
+TISpaceBodyTemplate.classification.325Heidelberga=Asteroyit
+TISpaceBodyTemplate.descriptor1.325Heidelberga=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.325Heidelberga=
+TISpaceBodyTemplate.discovery_year.325Heidelberga=1892
+
+TISpaceBodyTemplate.displayName.328Gudrun=328 Gudrun
+TISpaceBodyTemplate.bodyAltName.328Gudrun=
+TISpaceBodyTemplate.classification.328Gudrun=Asteroyit
+TISpaceBodyTemplate.descriptor1.328Gudrun=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.328Gudrun=
+TISpaceBodyTemplate.discovery_year.328Gudrun=1892
+
+TISpaceBodyTemplate.displayName.334Chicago=334 Chicago
+TISpaceBodyTemplate.bodyAltName.334Chicago=
+TISpaceBodyTemplate.classification.334Chicago=Asteroyit
+TISpaceBodyTemplate.descriptor1.334Chicago=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.334Chicago=
+TISpaceBodyTemplate.discovery_year.334Chicago=1892
+
+TISpaceBodyTemplate.displayName.336Lacadiera=336 Lacadiera
+TISpaceBodyTemplate.bodyAltName.336Lacadiera=
+TISpaceBodyTemplate.classification.336Lacadiera=Asteroyit
+TISpaceBodyTemplate.descriptor1.336Lacadiera=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.336Lacadiera=
+TISpaceBodyTemplate.discovery_year.336Lacadiera=1892
+
+TISpaceBodyTemplate.displayName.349Dembowska=349 Dembowska
+TISpaceBodyTemplate.bodyAltName.349Dembowska=
+TISpaceBodyTemplate.classification.349Dembowska=Asteroyit
+TISpaceBodyTemplate.descriptor1.349Dembowska=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.349Dembowska=
+TISpaceBodyTemplate.discovery_year.349Dembowska=1892
+
+TISpaceBodyTemplate.displayName.354Eleonora=354 Eleonora
+TISpaceBodyTemplate.bodyAltName.354Eleonora=
+TISpaceBodyTemplate.classification.354Eleonora=Asteroyit
+TISpaceBodyTemplate.descriptor1.354Eleonora=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.354Eleonora=
+TISpaceBodyTemplate.discovery_year.354Eleonora=1893
+
+TISpaceBodyTemplate.displayName.356Liguria=356 Liguria
+TISpaceBodyTemplate.bodyAltName.356Liguria=
+TISpaceBodyTemplate.classification.356Liguria=Asteroyit
+TISpaceBodyTemplate.descriptor1.356Liguria=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.356Liguria=
+TISpaceBodyTemplate.discovery_year.356Liguria=1893
+
+TISpaceBodyTemplate.displayName.361Bononia=361 Bononia
+TISpaceBodyTemplate.bodyAltName.361Bononia=
+TISpaceBodyTemplate.classification.361Bononia=Asteroyit
+TISpaceBodyTemplate.descriptor1.361Bononia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.361Bononia=Hilda Grubu
+TISpaceBodyTemplate.discovery_year.361Bononia=1893
+
+TISpaceBodyTemplate.displayName.372Palma=372 Palma
+TISpaceBodyTemplate.bodyAltName.372Palma=
+TISpaceBodyTemplate.classification.372Palma=Asteroyit
+TISpaceBodyTemplate.descriptor1.372Palma=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.372Palma=
+TISpaceBodyTemplate.discovery_year.372Palma=1893
+
+TISpaceBodyTemplate.displayName.375Ursula=375 Ursula
+TISpaceBodyTemplate.bodyAltName.375Ursula=
+TISpaceBodyTemplate.classification.375Ursula=Asteroyit
+TISpaceBodyTemplate.descriptor1.375Ursula=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.375Ursula=
+TISpaceBodyTemplate.discovery_year.375Ursula=1893
+
+TISpaceBodyTemplate.displayName.386Siegena=386 Siegena
+TISpaceBodyTemplate.bodyAltName.386Siegena=
+TISpaceBodyTemplate.classification.386Siegena=Asteroyit
+TISpaceBodyTemplate.descriptor1.386Siegena=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.386Siegena=
+TISpaceBodyTemplate.discovery_year.386Siegena=1894
+
+TISpaceBodyTemplate.displayName.391Ingeborg=391 Ingeborg
+TISpaceBodyTemplate.bodyAltName.391Ingeborg=1894 BE
+TISpaceBodyTemplate.classification.391Ingeborg=Asteroyit
+TISpaceBodyTemplate.descriptor1.391Ingeborg=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.391Ingeborg=S-tipi Asteroyid
+TISpaceBodyTemplate.discovery_year.391Ingeborg=1894
+
+TISpaceBodyTemplate.displayName.409Aspasia=409 Aspasia
+TISpaceBodyTemplate.bodyAltName.409Aspasia=
+TISpaceBodyTemplate.classification.409Aspasia=Asteroyit
+TISpaceBodyTemplate.descriptor1.409Aspasia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.409Aspasia=
+TISpaceBodyTemplate.discovery_year.409Aspasia=1895
+
+TISpaceBodyTemplate.displayName.419Aurelia=419 Aurelia
+TISpaceBodyTemplate.bodyAltName.419Aurelia=
+TISpaceBodyTemplate.classification.419Aurelia=Asteroyit
+TISpaceBodyTemplate.descriptor1.419Aurelia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.419Aurelia=
+TISpaceBodyTemplate.discovery_year.419Aurelia=1896
+
+TISpaceBodyTemplate.displayName.423Diotima=423 Diotima
+TISpaceBodyTemplate.bodyAltName.423Diotima=
+TISpaceBodyTemplate.classification.423Diotima=Asteroyit
+TISpaceBodyTemplate.descriptor1.423Diotima=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.423Diotima=
+TISpaceBodyTemplate.discovery_year.423Diotima=1896
+
+TISpaceBodyTemplate.displayName.433Eros=433 Eros
+TISpaceBodyTemplate.bodyAltName.433Eros=
+TISpaceBodyTemplate.classification.433Eros=Asteroyit
+TISpaceBodyTemplate.descriptor1.433Eros=Amor Asteroyidi
+TISpaceBodyTemplate.descriptor2.433Eros=
+TISpaceBodyTemplate.discovery_year.433Eros=1898
+
+TISpaceBodyTemplate.displayName.434Hungaria=434 Hungaria
+TISpaceBodyTemplate.bodyAltName.434Hungaria=
+TISpaceBodyTemplate.classification.434Hungaria=Asteroyit
+TISpaceBodyTemplate.descriptor1.434Hungaria=Hungaria Asteroyidi
+TISpaceBodyTemplate.descriptor2.434Hungaria=
+TISpaceBodyTemplate.discovery_year.434Hungaria=1898
+
+TISpaceBodyTemplate.displayName.444Gyptis=444 Gyptis
+TISpaceBodyTemplate.bodyAltName.444Gyptis=
+TISpaceBodyTemplate.classification.444Gyptis=Asteroyit
+TISpaceBodyTemplate.descriptor1.444Gyptis=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.444Gyptis=
+TISpaceBodyTemplate.discovery_year.444Gyptis=1899
+
+TISpaceBodyTemplate.displayName.451Patientia=451 Patientia
+TISpaceBodyTemplate.bodyAltName.451Patientia=
+TISpaceBodyTemplate.classification.451Patientia=Asteroyit
+TISpaceBodyTemplate.descriptor1.451Patientia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.451Patientia=
+TISpaceBodyTemplate.discovery_year.451Patientia=1899
+
+TISpaceBodyTemplate.displayName.475Ocllo=475 Ocllo
+TISpaceBodyTemplate.bodyAltName.475Ocllo=
+TISpaceBodyTemplate.classification.475Ocllo=Asteroyit
+TISpaceBodyTemplate.descriptor1.475Ocllo=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.475Ocllo=
+TISpaceBodyTemplate.discovery_year.475Ocllo=1901
+
+TISpaceBodyTemplate.displayName.488Kreusa=488 Kreusa
+TISpaceBodyTemplate.bodyAltName.488Kreusa=
+TISpaceBodyTemplate.classification.488Kreusa=Asteroyit
+TISpaceBodyTemplate.descriptor1.488Kreusa=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.488Kreusa=
+TISpaceBodyTemplate.discovery_year.488Kreusa=1902
+
+TISpaceBodyTemplate.displayName.490Veritas=490 Veritas
+TISpaceBodyTemplate.bodyAltName.490Veritas=
+TISpaceBodyTemplate.classification.490Veritas=Asteroyit
+TISpaceBodyTemplate.descriptor1.490Veritas=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.490Veritas=Veritas Ailesi
+TISpaceBodyTemplate.discovery_year.490Veritas=1902
+
+TISpaceBodyTemplate.displayName.511Davida=511 Davida
+TISpaceBodyTemplate.bodyAltName.511Davida=
+TISpaceBodyTemplate.classification.511Davida=Asteroyit
+TISpaceBodyTemplate.descriptor1.511Davida=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.511Davida=
+TISpaceBodyTemplate.discovery_year.511Davida=1903
+
+TISpaceBodyTemplate.displayName.512Taurinensis=512 Taurinensis
+TISpaceBodyTemplate.bodyAltName.512Taurinensis=
+TISpaceBodyTemplate.classification.512Taurinensis=Asteroyit
+TISpaceBodyTemplate.descriptor1.512Taurinensis=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.512Taurinensis=Tasli
+TISpaceBodyTemplate.discovery_year.512Taurinensis=1903
+
+TISpaceBodyTemplate.displayName.532Herculina=532 Herculina
+TISpaceBodyTemplate.bodyAltName.532Herculina=
+TISpaceBodyTemplate.classification.532Herculina=Asteroyit
+TISpaceBodyTemplate.descriptor1.532Herculina=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.532Herculina=
+TISpaceBodyTemplate.discovery_year.532Herculina=1904
+
+TISpaceBodyTemplate.displayName.536Merapi=536 Merapi
+TISpaceBodyTemplate.bodyAltName.536Merapi=
+TISpaceBodyTemplate.classification.536Merapi=Asteroyit
+TISpaceBodyTemplate.descriptor1.536Merapi=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.536Merapi=
+TISpaceBodyTemplate.discovery_year.536Merapi=1904
+
+TISpaceBodyTemplate.displayName.566Stereoskopia=566 Stereoskopia
+TISpaceBodyTemplate.bodyAltName.566Stereoskopia=
+TISpaceBodyTemplate.classification.566Stereoskopia=Asteroyit
+TISpaceBodyTemplate.descriptor1.566Stereoskopia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.566Stereoskopia=
+TISpaceBodyTemplate.discovery_year.566Stereoskopia=1905
+
+TISpaceBodyTemplate.displayName.588Achilles=588 Achilles
+TISpaceBodyTemplate.bodyAltName.588Achilles=
+TISpaceBodyTemplate.classification.588Achilles=Asteroyit
+TISpaceBodyTemplate.descriptor1.588Achilles=Jüpiter'in Önde Gelen Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.588Achilles=
+TISpaceBodyTemplate.discovery_year.588Achilles=1906
+
+TISpaceBodyTemplate.displayName.596Scheila=596 Scheila
+TISpaceBodyTemplate.bodyAltName.596Scheila=
+TISpaceBodyTemplate.classification.596Scheila=Asteroyit
+TISpaceBodyTemplate.descriptor1.596Scheila=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.596Scheila=
+TISpaceBodyTemplate.discovery_year.596Scheila=1906
+
+TISpaceBodyTemplate.displayName.617Patroclus=617 Patroclus
+TISpaceBodyTemplate.bodyAltName.617Patroclus=
+TISpaceBodyTemplate.classification.617Patroclus=Asteroyit
+TISpaceBodyTemplate.descriptor1.617Patroclus=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.617Patroclus=
+TISpaceBodyTemplate.discovery_year.617Patroclus=1906
+
+TISpaceBodyTemplate.displayName.Menoetius=Menoetius
+TISpaceBodyTemplate.bodyAltName.Menoetius=617 Patroclus I
+TISpaceBodyTemplate.classification.Menoetius=Asteroyidal Uydu
+TISpaceBodyTemplate.descriptor1.Menoetius=617 Patroclus'un Asteroyidal Uydu
+TISpaceBodyTemplate.descriptor2.Menoetius=
+TISpaceBodyTemplate.discovery_year.Menoetius=2001
+
+TISpaceBodyTemplate.displayName.624Hektor=624 Hektor
+TISpaceBodyTemplate.bodyAltName.624Hektor=
+TISpaceBodyTemplate.classification.624Hektor=Asteroyit
+TISpaceBodyTemplate.descriptor1.624Hektor=Jüpiter'in Önde Gelen Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.624Hektor=
+TISpaceBodyTemplate.discovery_year.624Hektor=1907
+
+TISpaceBodyTemplate.displayName.654Zelinda=654 Zelinda
+TISpaceBodyTemplate.bodyAltName.654Zelinda=
+TISpaceBodyTemplate.classification.654Zelinda=Asteroyit
+TISpaceBodyTemplate.descriptor1.654Zelinda=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.654Zelinda=
+TISpaceBodyTemplate.discovery_year.654Zelinda=1908
+
+TISpaceBodyTemplate.displayName.699Hela=699 Hela
+TISpaceBodyTemplate.bodyAltName.699Hela=
+TISpaceBodyTemplate.classification.699Hela=Asteroyit
+TISpaceBodyTemplate.descriptor1.699Hela=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.699Hela=
+TISpaceBodyTemplate.discovery_year.699Hela=1910
+
+TISpaceBodyTemplate.displayName.702Alauda=702 Alauda
+TISpaceBodyTemplate.bodyAltName.702Alauda=
+TISpaceBodyTemplate.classification.702Alauda=Asteroyit
+TISpaceBodyTemplate.descriptor1.702Alauda=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.702Alauda=
+TISpaceBodyTemplate.discovery_year.702Alauda=1910
+
+TISpaceBodyTemplate.displayName.704Interamnia=704 Interamnia
+TISpaceBodyTemplate.bodyAltName.704Interamnia=
+TISpaceBodyTemplate.classification.704Interamnia=Asteroyit
+TISpaceBodyTemplate.descriptor1.704Interamnia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.704Interamnia=
+TISpaceBodyTemplate.discovery_year.704Interamnia=1910
+
+TISpaceBodyTemplate.displayName.747Winchester=747 Winchester
+TISpaceBodyTemplate.bodyAltName.747Winchester=
+TISpaceBodyTemplate.classification.747Winchester=Asteroyit
+TISpaceBodyTemplate.descriptor1.747Winchester=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.747Winchester=
+TISpaceBodyTemplate.discovery_year.747Winchester=1913
+
+TISpaceBodyTemplate.displayName.762Pulcova=762 Pulcova
+TISpaceBodyTemplate.bodyAltName.762Pulcova=
+TISpaceBodyTemplate.classification.762Pulcova=Asteroyit
+TISpaceBodyTemplate.descriptor1.762Pulcova=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.762Pulcova=
+TISpaceBodyTemplate.discovery_year.762Pulcova=1913
+
+TISpaceBodyTemplate.displayName.776Berbericia=776 Berbericia
+TISpaceBodyTemplate.bodyAltName.776Berbericia=
+TISpaceBodyTemplate.classification.776Berbericia=Asteroyit
+TISpaceBodyTemplate.descriptor1.776Berbericia=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.776Berbericia=
+TISpaceBodyTemplate.discovery_year.776Berbericia=1914
+
+TISpaceBodyTemplate.displayName.790Praetoria=790 Praetoria
+TISpaceBodyTemplate.bodyAltName.790Praetoria=
+TISpaceBodyTemplate.classification.790Praetoria=Asteroyit
+TISpaceBodyTemplate.descriptor1.790Praetoria=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.790Praetoria=Cybele Grubu
+TISpaceBodyTemplate.discovery_year.790Praetoria=1912
+
+TISpaceBodyTemplate.displayName.911Agamemnon=911 Agamemnon
+TISpaceBodyTemplate.bodyAltName.911Agamemnon=
+TISpaceBodyTemplate.classification.911Agamemnon=Asteroyit
+TISpaceBodyTemplate.descriptor1.911Agamemnon=Jüpiter'in Önde Gelen Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.911Agamemnon=
+TISpaceBodyTemplate.discovery_year.911Agamemnon=1919
+
+TISpaceBodyTemplate.displayName.944Hidalgo=944 Hidalgo
+TISpaceBodyTemplate.bodyAltName.944Hidalgo=
+TISpaceBodyTemplate.classification.944Hidalgo=Asteroyit
+TISpaceBodyTemplate.descriptor1.944Hidalgo=Centaur
+TISpaceBodyTemplate.descriptor2.944Hidalgo=
+TISpaceBodyTemplate.discovery_year.944Hidalgo=1920
+
+TISpaceBodyTemplate.displayName.1036Ganymed=1036 Ganymed
+TISpaceBodyTemplate.bodyAltName.1036Ganymed=
+TISpaceBodyTemplate.classification.1036Ganymed=Asteroyit
+TISpaceBodyTemplate.descriptor1.1036Ganymed=Amor Asteroyidi
+TISpaceBodyTemplate.descriptor2.1036Ganymed=
+TISpaceBodyTemplate.discovery_year.1036Ganymed=1924
+
+TISpaceBodyTemplate.displayName.1143Odysseus=1143 Odysseus
+TISpaceBodyTemplate.bodyAltName.1143Odysseus=
+TISpaceBodyTemplate.classification.1143Odysseus=Asteroyit
+TISpaceBodyTemplate.descriptor1.1143Odysseus=Jüpiter'in Önde Gelen Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.1143Odysseus=
+TISpaceBodyTemplate.discovery_year.1143Odysseus=1930
+
+TISpaceBodyTemplate.displayName.1172Aneas=1172 Äneas
+TISpaceBodyTemplate.bodyAltName.1172Aneas=
+TISpaceBodyTemplate.classification.1172Aneas=Asteroyit
+TISpaceBodyTemplate.descriptor1.1172Aneas=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.1172Aneas=
+TISpaceBodyTemplate.discovery_year.1172Aneas=1932
+TISpaceBodyTemplate.displayName.1173Anchises=1173 Anchises
+TISpaceBodyTemplate.bodyAltName.1173Anchises=
+TISpaceBodyTemplate.classification.1173Anchises=Asteroyit
+TISpaceBodyTemplate.descriptor1.1173Anchises=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.1173Anchises=
+TISpaceBodyTemplate.discovery_year.1173Anchises=1930
+
+TISpaceBodyTemplate.displayName.1437Diomedes=1437 Diomedes
+TISpaceBodyTemplate.bodyAltName.1437Diomedes=
+TISpaceBodyTemplate.classification.1437Diomedes=Asteroyit
+TISpaceBodyTemplate.descriptor1.1437Diomedes=Jüpiter'in Önde Gelen Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.1437Diomedes=
+TISpaceBodyTemplate.discovery_year.1437Diomedes=1937
+
+TISpaceBodyTemplate.displayName.1627Ivar=1627 Ivar
+TISpaceBodyTemplate.bodyAltName.1627Ivar=1929 SH
+TISpaceBodyTemplate.classification.1627Ivar=Asteroyit
+TISpaceBodyTemplate.descriptor1.1627Ivar=Amor Asteroyidi
+TISpaceBodyTemplate.descriptor2.1627Ivar=S-Tipi Asteroyit
+TISpaceBodyTemplate.discovery_year.1627Ivar=1929
+
+TISpaceBodyTemplate.displayName.1866Sisyphus=1866 Sisyphus
+TISpaceBodyTemplate.bodyAltName.1866Sisyphus=1972 XA
+TISpaceBodyTemplate.classification.1866Sisyphus=Asteroyit
+TISpaceBodyTemplate.descriptor1.1866Sisyphus=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.1866Sisyphus=S-Tipi Asteroyit
+TISpaceBodyTemplate.discovery_year.1866Sisyphus=1972
+
+TISpaceBodyTemplate.displayName.1867Deiphobus=1867 Deiphobus
+TISpaceBodyTemplate.bodyAltName.1867Deiphobus=
+TISpaceBodyTemplate.classification.1867Deiphobus=Asteroyit
+TISpaceBodyTemplate.descriptor1.1867Deiphobus=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.1867Deiphobus=
+TISpaceBodyTemplate.discovery_year.1867Deiphobus=1971
+
+TISpaceBodyTemplate.displayName.1870Glaukos=1870 Glaukos
+TISpaceBodyTemplate.bodyAltName.1870Glaukos=
+TISpaceBodyTemplate.classification.1870Glaukos=Asteroyit
+TISpaceBodyTemplate.descriptor1.1870Glaukos=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.1870Glaukos=
+TISpaceBodyTemplate.discovery_year.1870Glaukos=1971
+
+TISpaceBodyTemplate.displayName.1911Schubart=1911 Schubart
+TISpaceBodyTemplate.bodyAltName.1911Schubart=
+TISpaceBodyTemplate.classification.1911Schubart=Asteroyit
+TISpaceBodyTemplate.descriptor1.1911Schubart=Ana Kusak Asteroyidi
+TISpaceBodyTemplate.descriptor2.1911Schubart=Hilda Grubu
+TISpaceBodyTemplate.discovery_year.1911Schubart=1973
+
+TISpaceBodyTemplate.displayName.1951Lick=1951 Lick
+TISpaceBodyTemplate.bodyAltName.1951Lick=
+TISpaceBodyTemplate.classification.1951Lick=Asteroyit
+TISpaceBodyTemplate.descriptor1.1951Lick=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.1951Lick=
+TISpaceBodyTemplate.discovery_year.1951Lick=1949
+
+TISpaceBodyTemplate.displayName.2060Chiron=2060 Chiron
+TISpaceBodyTemplate.bodyAltName.2060Chiron=
+TISpaceBodyTemplate.classification.2060Chiron=Asteroyit
+TISpaceBodyTemplate.descriptor1.2060Chiron=Centaur
+TISpaceBodyTemplate.descriptor2.2060Chiron=
+TISpaceBodyTemplate.discovery_year.2060Chiron=1977
+
+TISpaceBodyTemplate.displayName.2064Thomsen=2064 Thomsen
+TISpaceBodyTemplate.bodyAltName.2064Thomsen=
+TISpaceBodyTemplate.classification.2064Thomsen=Asteroyit
+TISpaceBodyTemplate.descriptor1.2064Thomsen=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.2064Thomsen=
+TISpaceBodyTemplate.discovery_year.2064Thomsen=1942
+
+TISpaceBodyTemplate.displayName.2204Lyyli=2204 Lyyli
+TISpaceBodyTemplate.bodyAltName.2204Lyyli=
+TISpaceBodyTemplate.classification.2204Lyyli=Asteroyit
+TISpaceBodyTemplate.descriptor1.2204Lyyli=Mars-Kesici Asteroyidi
+TISpaceBodyTemplate.descriptor2.2204Lyyli=
+TISpaceBodyTemplate.discovery_year.2204Lyyli=1943
+
+TISpaceBodyTemplate.displayName.2212Hephaistos=2212 Hephaistos
+TISpaceBodyTemplate.bodyAltName.2212Hephaistos=
+TISpaceBodyTemplate.classification.2212Hephaistos=Asteroyit
+TISpaceBodyTemplate.descriptor1.2212Hephaistos=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.2212Hephaistos=
+TISpaceBodyTemplate.discovery_year.2212Hephaistos=1978
+
+TISpaceBodyTemplate.displayName.3200Phaethon=3200 Phaethon
+TISpaceBodyTemplate.bodyAltName.3200Phaethon=
+TISpaceBodyTemplate.classification.3200Phaethon=Asteroyit
+TISpaceBodyTemplate.descriptor1.3200Phaethon=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.3200Phaethon=
+TISpaceBodyTemplate.discovery_year.3200Phaethon=1983
+
+TISpaceBodyTemplate.displayName.3317Paris=3317 Paris
+TISpaceBodyTemplate.bodyAltName.3317Paris=
+TISpaceBodyTemplate.classification.3317Paris=Asteroyit
+TISpaceBodyTemplate.descriptor1.3317Paris=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.3317Paris=
+TISpaceBodyTemplate.discovery_year.3317Paris=1984
+
+TISpaceBodyTemplate.displayName.3353Jarvis=3353 Jarvis
+TISpaceBodyTemplate.bodyAltName.3353Jarvis=
+TISpaceBodyTemplate.classification.3353Jarvis=Asteroyit
+TISpaceBodyTemplate.descriptor1.3353Jarvis=Hungaria Asteroyidi
+TISpaceBodyTemplate.descriptor2.3353Jarvis=
+TISpaceBodyTemplate.discovery_year.3353Jarvis=1981
+
+TISpaceBodyTemplate.displayName.3451Mentor=3451 Mentor
+TISpaceBodyTemplate.bodyAltName.3451Mentor=
+TISpaceBodyTemplate.classification.3451Mentor=Asteroyit
+TISpaceBodyTemplate.descriptor1.3451Mentor=Jüpiter'in Geride Kalan Trojan Asteroyidi
+TISpaceBodyTemplate.descriptor2.3451Mentor=
+TISpaceBodyTemplate.discovery_year.3451Mentor=1984
+
+TISpaceBodyTemplate.displayName.3552DonQuixote=3552 Don Quixote
+TISpaceBodyTemplate.bodyAltName.3552DonQuixote=
+TISpaceBodyTemplate.classification.3552DonQuixote=Asteroyit
+TISpaceBodyTemplate.descriptor1.3552DonQuixote=Amor Asteroyidi
+TISpaceBodyTemplate.descriptor2.3552DonQuixote=
+TISpaceBodyTemplate.discovery_year.3552DonQuixote=1983
+
+TISpaceBodyTemplate.displayName.3753Cruithne=3753 Cruithne
+TISpaceBodyTemplate.bodyAltName.3753Cruithne=
+TISpaceBodyTemplate.classification.3753Cruithne=Asteroyit
+TISpaceBodyTemplate.descriptor1.3753Cruithne=Aten Asteroyidi
+TISpaceBodyTemplate.descriptor2.3753Cruithne=Yer Ko-orbitali
+TISpaceBodyTemplate.discovery_year.3753Cruithne=1986
+
+TISpaceBodyTemplate.displayName.4954Eric=4954 Eric
+TISpaceBodyTemplate.bodyAltName.4954Eric=
+TISpaceBodyTemplate.classification.4954Eric=Asteroyit
+TISpaceBodyTemplate.descriptor1.4954Eric=Amor Asteroyidi
+TISpaceBodyTemplate.descriptor2.4954Eric=
+TISpaceBodyTemplate.discovery_year.4954Eric=1990
+
+TISpaceBodyTemplate.displayName.5145Pholus=5145 Pholus
+TISpaceBodyTemplate.bodyAltName.5145Pholus=Big Red
+TISpaceBodyTemplate.classification.5145Pholus=Asteroyit
+TISpaceBodyTemplate.descriptor1.5145Pholus=Centaur
+TISpaceBodyTemplate.descriptor2.5145Pholus=
+TISpaceBodyTemplate.discovery_year.5145Pholus=1992
+
+TISpaceBodyTemplate.displayName.5731Zeus=5731 Zeus
+TISpaceBodyTemplate.bodyAltName.5731Zeus=
+TISpaceBodyTemplate.classification.5731Zeus=Asteroyit
+TISpaceBodyTemplate.descriptor1.5731Zeus=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.5731Zeus=
+TISpaceBodyTemplate.discovery_year.5731Zeus=1988
+
+TISpaceBodyTemplate.displayName.7066Nessus=7066 Nessus
+TISpaceBodyTemplate.bodyAltName.7066Nessus=
+TISpaceBodyTemplate.classification.7066Nessus=Asteroyit
+TISpaceBodyTemplate.descriptor1.7066Nessus=Centaur
+TISpaceBodyTemplate.descriptor2.7066Nessus=
+TISpaceBodyTemplate.discovery_year.7066Nessus=1993
+
+TISpaceBodyTemplate.displayName.7092Cadmus=7092 Cadmus
+TISpaceBodyTemplate.bodyAltName.7092Cadmus=
+TISpaceBodyTemplate.classification.7092Cadmus=Asteroyit
+TISpaceBodyTemplate.descriptor1.7092Cadmus=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.7092Cadmus=
+TISpaceBodyTemplate.discovery_year.7092Cadmus=1992
+
+TISpaceBodyTemplate.displayName.8405Asbolus=8405 Asbolus
+TISpaceBodyTemplate.bodyAltName.8405Asbolus=
+TISpaceBodyTemplate.classification.8405Asbolus=Asteroyit
+TISpaceBodyTemplate.descriptor1.8405Asbolus=Centaur
+TISpaceBodyTemplate.descriptor2.8405Asbolus=
+TISpaceBodyTemplate.discovery_year.8405Asbolus=1995
+
+TISpaceBodyTemplate.displayName.10199Chariklo=10199 Chariklo
+TISpaceBodyTemplate.bodyAltName.10199Chariklo=
+TISpaceBodyTemplate.classification.10199Chariklo=Asteroyit
+TISpaceBodyTemplate.descriptor1.10199Chariklo=Centaur
+TISpaceBodyTemplate.descriptor2.10199Chariklo=
+TISpaceBodyTemplate.discovery_year.10199Chariklo=1997
+
+TISpaceBodyTemplate.displayName.10370Hylonome=10370 Hylonome
+TISpaceBodyTemplate.bodyAltName.10370Hylonome=
+TISpaceBodyTemplate.classification.10370Hylonome=Asteroyit
+TISpaceBodyTemplate.descriptor1.10370Hylonome=Centaur
+TISpaceBodyTemplate.descriptor2.10370Hylonome=
+TISpaceBodyTemplate.discovery_year.10370Hylonome=1995
+
+TISpaceBodyTemplate.displayName.15760Albion=15760 Albion
+TISpaceBodyTemplate.bodyAltName.15760Albion=
+TISpaceBodyTemplate.classification.15760Albion=Asteroyit
+TISpaceBodyTemplate.descriptor1.15760Albion=Centaur
+TISpaceBodyTemplate.descriptor2.15760Albion=
+TISpaceBodyTemplate.discovery_year.15760Albion=1992
+
+TISpaceBodyTemplate.displayName.15789KBO=15789 Anguta
+TISpaceBodyTemplate.bodyAltName.15789KBO=15789 (1993 SC)
+TISpaceBodyTemplate.classification.15789KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.15789KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.15789KBO=Plutino
+TISpaceBodyTemplate.discovery_year.15789KBO=1993
+
+TISpaceBodyTemplate.displayName.15810Arawn=15810 Arawn
+TISpaceBodyTemplate.bodyAltName.15810Arawn=15810 1994 JR1
+TISpaceBodyTemplate.classification.15810Arawn=Asteroyit
+TISpaceBodyTemplate.descriptor1.15810Arawn=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.15810Arawn=Plutino
+TISpaceBodyTemplate.discovery_year.15810Arawn=1994
+
+TISpaceBodyTemplate.displayName.19521Chaos=Chaos
+TISpaceBodyTemplate.bodyAltName.19521Chaos=19521 Chaos
+TISpaceBodyTemplate.classification.19521Chaos=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.19521Chaos=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.19521Chaos=Cubewano
+TISpaceBodyTemplate.discovery_year.19521Chaos=1998
+
+TISpaceBodyTemplate.displayName.20000Varuna=Varuna
+TISpaceBodyTemplate.bodyAltName.20000Varuna=20000 Varuna
+TISpaceBodyTemplate.classification.20000Varuna=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.20000Varuna=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.20000Varuna=Cubewano
+TISpaceBodyTemplate.discovery_year.20000Varuna=2000
+
+TISpaceBodyTemplate.displayName.28978Ixion=Ixion
+TISpaceBodyTemplate.bodyAltName.28978Ixion=28978 Ixion
+TISpaceBodyTemplate.classification.28978Ixion=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.28978Ixion=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.28978Ixion=Plutino
+TISpaceBodyTemplate.discovery_year.28978Ixion=2001
+
+TISpaceBodyTemplate.displayName.31824Elatus=31824 Elatus
+TISpaceBodyTemplate.bodyAltName.31824Elatus=
+TISpaceBodyTemplate.classification.31824Elatus=Asteroyit
+TISpaceBodyTemplate.descriptor1.31824Elatus=Centaur
+TISpaceBodyTemplate.descriptor2.31824Elatus=
+TISpaceBodyTemplate.discovery_year.31824Elatus=1999
+
+TISpaceBodyTemplate.displayName.32532Thereus=32532 Thereus
+TISpaceBodyTemplate.bodyAltName.32532Thereus=
+TISpaceBodyTemplate.classification.32532Thereus=Asteroyit
+TISpaceBodyTemplate.descriptor1.32532Thereus=Centaur
+TISpaceBodyTemplate.descriptor2.32532Thereus=
+TISpaceBodyTemplate.discovery_year.32532Thereus=2001
+
+TISpaceBodyTemplate.displayName.35671KBO=35671 Tawa
+TISpaceBodyTemplate.bodyAltName.35671KBO=35671 1998 SN165
+TISpaceBodyTemplate.classification.35671KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.35671KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.35671KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.35671KBO=1998
+
+TISpaceBodyTemplate.displayName.38628Huya=38628 Huya
+TISpaceBodyTemplate.bodyAltName.38628Huya=38628 Huya
+TISpaceBodyTemplate.classification.38628Huya=Asteroyit
+TISpaceBodyTemplate.descriptor1.38628Huya=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.38628Huya=Plutino
+TISpaceBodyTemplate.discovery_year.38628Huya=2000
+
+TISpaceBodyTemplate.displayName.49036Pelion=49036 Pelion
+TISpaceBodyTemplate.bodyAltName.49036Pelion=
+TISpaceBodyTemplate.classification.49036Pelion=Asteroyit
+TISpaceBodyTemplate.descriptor1.49036Pelion=Centaur
+TISpaceBodyTemplate.descriptor2.49036Pelion=
+TISpaceBodyTemplate.discovery_year.49036Pelion=1887
+
+TISpaceBodyTemplate.displayName.Quaoar=Quaoar
+TISpaceBodyTemplate.bodyAltName.Quaoar=50000 Quaoar
+TISpaceBodyTemplate.classification.Quaoar=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Quaoar=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.Quaoar=Cubewano
+TISpaceBodyTemplate.discovery_year.Quaoar=2002
+
+TISpaceBodyTemplate.displayName.Weywot=Weywot
+TISpaceBodyTemplate.bodyAltName.Weywot=Quaoar I
+TISpaceBodyTemplate.classification.Weywot=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Weywot=Quaoar'in Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Weywot=
+TISpaceBodyTemplate.discovery_year.Weywot=2007
+
+TISpaceBodyTemplate.displayName.52762Asteroid=52762 Khonsu
+TISpaceBodyTemplate.bodyAltName.52762Asteroid=
+TISpaceBodyTemplate.classification.52762Asteroid=Asteroyit
+TISpaceBodyTemplate.descriptor1.52762Asteroid=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.52762Asteroid=
+TISpaceBodyTemplate.discovery_year.52762Asteroid=1998
+
+TISpaceBodyTemplate.displayName.52872Okyrhoe=52872 Okyrhoe
+TISpaceBodyTemplate.bodyAltName.52872Okyrhoe=
+TISpaceBodyTemplate.classification.52872Okyrhoe=Asteroyit
+TISpaceBodyTemplate.descriptor1.52872Okyrhoe=Centaur
+TISpaceBodyTemplate.descriptor2.52872Okyrhoe=
+TISpaceBodyTemplate.discovery_year.52872Okyrhoe=1998
+
+TISpaceBodyTemplate.displayName.52975Cyllarus=52975 Cyllarus
+TISpaceBodyTemplate.bodyAltName.52975Cyllarus=
+TISpaceBodyTemplate.classification.52975Cyllarus=Asteroyit
+TISpaceBodyTemplate.descriptor1.52975Cyllarus=Centaur
+TISpaceBodyTemplate.descriptor2.52975Cyllarus=
+TISpaceBodyTemplate.discovery_year.52975Cyllarus=1998
+
+TISpaceBodyTemplate.displayName.53311Deucalion=53311 Deucalion
+TISpaceBodyTemplate.bodyAltName.53311Deucalion=
+TISpaceBodyTemplate.classification.53311Deucalion=Asteroyit
+TISpaceBodyTemplate.descriptor1.53311Deucalion=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.53311Deucalion=Cubewano
+TISpaceBodyTemplate.discovery_year.53311Deucalion=1999
+
+TISpaceBodyTemplate.displayName.53319Asteroid=53319 Thoth
+TISpaceBodyTemplate.bodyAltName.53319Asteroid=53319 1999 JM8
+TISpaceBodyTemplate.classification.53319Asteroid=Asteroyit
+TISpaceBodyTemplate.descriptor1.53319Asteroid=Apollo Asteroyidi
+TISpaceBodyTemplate.descriptor2.53319Asteroid=
+TISpaceBodyTemplate.discovery_year.53319Asteroid=1999
+
+TISpaceBodyTemplate.displayName.54598Bienor=54598 Bienor
+TISpaceBodyTemplate.bodyAltName.54598Bienor=
+TISpaceBodyTemplate.classification.54598Bienor=Asteroyit
+TISpaceBodyTemplate.descriptor1.54598Bienor=Centaur
+TISpaceBodyTemplate.descriptor2.54598Bienor=
+TISpaceBodyTemplate.discovery_year.54598Bienor=2000
+
+TISpaceBodyTemplate.displayName.55565KBO=Jasagnan
+TISpaceBodyTemplate.bodyAltName.55565KBO=55565 2002 AW197
+TISpaceBodyTemplate.classification.55565KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.55565KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.55565KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.55565KBO=2002
+
+TISpaceBodyTemplate.displayName.55576Amycus=55576 Amycus
+TISpaceBodyTemplate.bodyAltName.55576Amycus=
+TISpaceBodyTemplate.classification.55576Amycus=Asteroyit
+TISpaceBodyTemplate.descriptor1.55576Amycus=Centaur
+TISpaceBodyTemplate.descriptor2.55576Amycus=
+TISpaceBodyTemplate.discovery_year.55576Amycus=2002
+
+TISpaceBodyTemplate.displayName.55637KBO=Ranginui
+TISpaceBodyTemplate.bodyAltName.55637KBO=55637 2002 UX25
+TISpaceBodyTemplate.classification.55637KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.55637KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.55637KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.55637KBO=2002
+
+TISpaceBodyTemplate.displayName.55637KBOMoonI=Papatuanuku
+TISpaceBodyTemplate.bodyAltName.55637KBOMoonI=Ranguinui I
+TISpaceBodyTemplate.classification.55637KBOMoonI=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.55637KBOMoonI=Ranginui'nin Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.55637KBOMoonI=
+TISpaceBodyTemplate.discovery_year.55637KBOMoonI=2007
+
+TISpaceBodyTemplate.displayName.60558Echeclus=60558 Echeclus
+TISpaceBodyTemplate.bodyAltName.60558Echeclus=
+TISpaceBodyTemplate.classification.60558Echeclus=Asteroyit
+TISpaceBodyTemplate.descriptor1.60558Echeclus=Centaur
+TISpaceBodyTemplate.descriptor2.60558Echeclus=
+TISpaceBodyTemplate.discovery_year.60558Echeclus=2000
+TISpaceBodyTemplate.displayName.78799KBO=Raweno
+TISpaceBodyTemplate.bodyAltName.78799KBO=78799 2002 XW93
+TISpaceBodyTemplate.classification.78799KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.78799KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.78799KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.78799KBO=2002
+
+TISpaceBodyTemplate.displayName.83982Crantor=83982 Crantor
+TISpaceBodyTemplate.bodyAltName.83982Crantor=
+TISpaceBodyTemplate.classification.83982Crantor=Asteroyit
+TISpaceBodyTemplate.descriptor1.83982Crantor=Centaur
+TISpaceBodyTemplate.descriptor2.83982Crantor=
+TISpaceBodyTemplate.discovery_year.83982Crantor=2002
+
+TISpaceBodyTemplate.displayName.84719KBO=84719 Ankou
+TISpaceBodyTemplate.bodyAltName.84719KBO=84719 2002 VR128
+TISpaceBodyTemplate.classification.84719KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.84719KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.84719KBO=Plutino
+TISpaceBodyTemplate.discovery_year.84719KBO=2002
+
+TISpaceBodyTemplate.displayName.84922KBO=84922 Veles
+TISpaceBodyTemplate.bodyAltName.84922KBO=84922 2003 VS2
+TISpaceBodyTemplate.classification.84922KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.84922KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.84922KBO=Plutino
+TISpaceBodyTemplate.discovery_year.84922KBO=2003
+
+TISpaceBodyTemplate.displayName.90482Orcus=Orcus
+TISpaceBodyTemplate.bodyAltName.90482Orcus=90482 Orcus
+TISpaceBodyTemplate.classification.90482Orcus=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.90482Orcus=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.90482Orcus=Plutino
+TISpaceBodyTemplate.discovery_year.Orcus=2004
+
+TISpaceBodyTemplate.displayName.Vanth=Vanth
+TISpaceBodyTemplate.bodyAltName.Vanth=Orcus I
+TISpaceBodyTemplate.classification.Vanth=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Vanth=Orcus'un Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Vanth=
+TISpaceBodyTemplate.discovery_year.Vanth=2005
+
+TISpaceBodyTemplate.displayName.90568KBO=Amma
+TISpaceBodyTemplate.bodyAltName.90568KBO=90568 2004 GV9
+TISpaceBodyTemplate.classification.90568KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.90568KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.90568KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.90568KBO=2004
+
+TISpaceBodyTemplate.displayName.95626Centaur=95626 Demeleon
+TISpaceBodyTemplate.bodyAltName.95626Centaur=95626 2002 GZ32
+TISpaceBodyTemplate.classification.95626Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.95626Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.95626Centaur=
+TISpaceBodyTemplate.discovery_year.95626Centaur=2002
+
+TISpaceBodyTemplate.displayName.119951KBO=119951 Nuwa
+TISpaceBodyTemplate.bodyAltName.119951KBO=119951 2002 KX4
+TISpaceBodyTemplate.classification.119951KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.119951KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.119951KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.119951KBO=2002
+
+TISpaceBodyTemplate.displayName.120061Centaur=120061 Lykas
+TISpaceBodyTemplate.bodyAltName.120061Centaur=120061 2003 CO1
+TISpaceBodyTemplate.classification.120061Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.120061Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.120061Centaur=
+TISpaceBodyTemplate.discovery_year.120061Centaur=2003
+
+TISpaceBodyTemplate.displayName.Salacia=Salacia
+TISpaceBodyTemplate.bodyAltName.Salacia=120347 Salacia
+TISpaceBodyTemplate.classification.Salacia=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Salacia=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.Salacia=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Salacia=2004
+
+TISpaceBodyTemplate.displayName.Actaea=Actaea
+TISpaceBodyTemplate.bodyAltName.Actaea=Salacia I
+TISpaceBodyTemplate.classification.Actaea=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Actaea=Salacia'nin Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Actaea=
+TISpaceBodyTemplate.discovery_year.Actaea=2006
+
+TISpaceBodyTemplate.displayName.120348KBO=120348 Xolas
+TISpaceBodyTemplate.bodyAltName.120348KBO=120348 TY364
+TISpaceBodyTemplate.classification.120348KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.120348KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.120348KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.120348KBO=2004
+
+TISpaceBodyTemplate.displayName.Pluto=Pluto
+TISpaceBodyTemplate.bodyAltName.Pluto=134340 Pluto
+TISpaceBodyTemplate.classification.Pluto=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Pluto=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.Pluto=Plutino
+TISpaceBodyTemplate.discovery_year.Pluto=1930
+
+TISpaceBodyTemplate.displayName.Charon=Charon
+TISpaceBodyTemplate.bodyAltName.Charon=Pluto I
+TISpaceBodyTemplate.classification.Charon=Gezegenimsi Ay
+TISpaceBodyTemplate.descriptor1.Charon=Pluto'nun Gezegenimsi Uydu
+TISpaceBodyTemplate.descriptor2.Charon=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Charon=1978
+
+TISpaceBodyTemplate.displayName.Styx=Styx
+TISpaceBodyTemplate.bodyAltName.Styx=Pluto V
+TISpaceBodyTemplate.classification.Styx=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Styx=Pluto'nun Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Styx=
+TISpaceBodyTemplate.discovery_year.Styx=2012
+
+TISpaceBodyTemplate.displayName.Nix=Nix
+TISpaceBodyTemplate.bodyAltName.Nix=Pluto II
+TISpaceBodyTemplate.classification.Nix=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Nix=Pluto'nun Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Nix=
+TISpaceBodyTemplate.discovery_year.Nix=2005
+
+TISpaceBodyTemplate.displayName.Kerberos=Kerberos
+TISpaceBodyTemplate.bodyAltName.Kerberos=Pluto IV
+TISpaceBodyTemplate.classification.Kerberos=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Kerberos=Pluto'nun Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Kerberos=
+TISpaceBodyTemplate.discovery_year.Kerberos=2011
+
+TISpaceBodyTemplate.displayName.Hydra=Hydra
+TISpaceBodyTemplate.bodyAltName.Hydra=Pluto III
+TISpaceBodyTemplate.classification.Hydra=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Hydra=Pluto'nun Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Hydra=
+TISpaceBodyTemplate.discovery_year.Hydra=2005
+
+TISpaceBodyTemplate.displayName.Haumea=Haumea
+TISpaceBodyTemplate.bodyAltName.Haumea=136108 Haumea
+TISpaceBodyTemplate.classification.Haumea=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Haumea=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.Haumea=Kayalik-Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.Haumea=2004
+
+TISpaceBodyTemplate.displayName.Namaka=Namaka
+TISpaceBodyTemplate.bodyAltName.Namaka=Haumea II
+TISpaceBodyTemplate.classification.Namaka=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Namaka=Haumea'nin Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Namaka=
+TISpaceBodyTemplate.discovery_year.Namaka=2005
+
+TISpaceBodyTemplate.displayName.Hiʻiaka=Hi'iaka
+TISpaceBodyTemplate.bodyAltName.Hiʻiaka=Haumea I
+TISpaceBodyTemplate.classification.Hiʻiaka=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Hiʻiaka=Haumea'nin Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Hiʻiaka=
+TISpaceBodyTemplate.discovery_year.Hiʻiaka=2005
+
+TISpaceBodyTemplate.displayName.136204Centaur=136204 Rhaecus
+TISpaceBodyTemplate.bodyAltName.136204Centaur=136204 2003 WL7
+TISpaceBodyTemplate.classification.136204Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.136204Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.136204Centaur=
+TISpaceBodyTemplate.discovery_year.136204Centaur=2003
+
+TISpaceBodyTemplate.displayName.Makemake=Makemake
+TISpaceBodyTemplate.bodyAltName.Makemake=136472 Makemake
+TISpaceBodyTemplate.classification.Makemake=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Makemake=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.Makemake=Cubewano
+TISpaceBodyTemplate.discovery_year.Makemake=2005
+
+TISpaceBodyTemplate.displayName.144897KBO=144897 Erlik
+TISpaceBodyTemplate.bodyAltName.144897KBO=144897 2004 UX10
+TISpaceBodyTemplate.classification.144897KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.144897KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.144897KBO=Plutino
+TISpaceBodyTemplate.discovery_year.144897KBO=2004
+
+TISpaceBodyTemplate.displayName.145452KBO=Kandakoro
+TISpaceBodyTemplate.bodyAltName.145452KBO=145452 2005 RN43
+TISpaceBodyTemplate.classification.145452KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.145452KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.145452KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.145452KBO=2005
+
+TISpaceBodyTemplate.displayName.145453KBO=145453 Viracocha
+TISpaceBodyTemplate.bodyAltName.145453KBO=145453 2005 RR43
+TISpaceBodyTemplate.classification.145453KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.145453KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.145453KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.145453KBO=2005
+
+TISpaceBodyTemplate.displayName.174567Varda=Varda
+TISpaceBodyTemplate.bodyAltName.174567Varda=174567 Varda
+TISpaceBodyTemplate.classification.174567Varda=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.174567Varda=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.174567Varda=Trans-Neptünyen Nesne
+TISpaceBodyTemplate.discovery_year.174567Varda=2003
+
+TISpaceBodyTemplate.displayName.Ilmare=Ilmarë
+TISpaceBodyTemplate.bodyAltName.Ilmare=Varda I
+TISpaceBodyTemplate.classification.Ilmare=Asteroidal Ay
+TISpaceBodyTemplate.descriptor1.Ilmare=Varda'nin Asteroidal Uydusu
+TISpaceBodyTemplate.descriptor2.Ilmare=
+TISpaceBodyTemplate.discovery_year.Ilmare=2009
+
+TISpaceBodyTemplate.displayName.175113KBO=175113 Shingon
+TISpaceBodyTemplate.bodyAltName.175113KBO=175113 2004 PF115
+TISpaceBodyTemplate.classification.175113KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.175113KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.175113KBO=Plutino
+TISpaceBodyTemplate.discovery_year.175113KBO=2004
+
+TISpaceBodyTemplate.displayName.202421KBO=Unkulunkulu
+TISpaceBodyTemplate.bodyAltName.202421KBO=202421 2005 UQ513
+TISpaceBodyTemplate.classification.202421KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.202421KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.202421KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.202421KBO=2005
+
+TISpaceBodyTemplate.displayName.208996KBO=Nergal
+TISpaceBodyTemplate.bodyAltName.208996KBO=208996 2003 AZ84
+TISpaceBodyTemplate.classification.208996KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.208996KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.208996KBO=Plutino
+TISpaceBodyTemplate.discovery_year.208996KBO=2003
+
+TISpaceBodyTemplate.displayName.248835Centaur=248835 Helops
+TISpaceBodyTemplate.bodyAltName.248835Centaur=248835 2006 SX368
+TISpaceBodyTemplate.classification.248835Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.248835Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.248835Centaur=
+TISpaceBodyTemplate.discovery_year.248835Centaur=2006
+
+TISpaceBodyTemplate.displayName.278361KBO=Marduk
+TISpaceBodyTemplate.bodyAltName.278361KBO=268361 2007 JJ43
+TISpaceBodyTemplate.displayName.278361KBO=Marduk
+TISpaceBodyTemplate.bodyAltName.278361KBO=268361 2007 JJ43
+TISpaceBodyTemplate.classification.278361KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.278361KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.278361KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.278361KBO=2007
+
+TISpaceBodyTemplate.displayName.281371Centaur=281371 Pyretos
+TISpaceBodyTemplate.bodyAltName.281371Centaur=281371 2008 FC76
+TISpaceBodyTemplate.classification.281371Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.281371Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.281371Centaur=
+TISpaceBodyTemplate.discovery_year.281371Centaur=2008
+
+TISpaceBodyTemplate.displayName.307261KBO=Pangu
+TISpaceBodyTemplate.bodyAltName.307261KBO=307261 2002 MS4
+TISpaceBodyTemplate.classification.307261KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.307261KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.307261KBO=Buzlu Regolit
+TISpaceBodyTemplate.discovery_year.307261KBO=2002
+
+TISpaceBodyTemplate.displayName.309239Centaur=309239 Ripheus
+TISpaceBodyTemplate.bodyAltName.309239Centaur=309239 2007 RW10
+TISpaceBodyTemplate.classification.309239Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.309239Centaur=Neptün Ko-ortalama
+TISpaceBodyTemplate.descriptor2.309239Centaur=
+TISpaceBodyTemplate.discovery_year.309239Centaur=2007
+
+TISpaceBodyTemplate.displayName.310071Centaur=310071 Pyraethus
+TISpaceBodyTemplate.bodyAltName.310071Centaur=310071 2010 KR59
+TISpaceBodyTemplate.classification.310071Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.310071Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.310071Centaur=
+TISpaceBodyTemplate.discovery_year.310071Centaur=2010
+
+TISpaceBodyTemplate.displayName.315898Centaur=315898 Latreus
+TISpaceBodyTemplate.bodyAltName.315898Centaur=315898 2008 QD4
+TISpaceBodyTemplate.classification.315898Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.315898Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.315898Centaur=
+TISpaceBodyTemplate.discovery_year.315898Centaur=2008
+
+TISpaceBodyTemplate.displayName.316179Centaur=316179 Sanape
+TISpaceBodyTemplate.bodyAltName.316179Centaur=316179 2010 EN65
+TISpaceBodyTemplate.classification.316179Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.316179Centaur=Ziplayan Neptün Trojani Asteroyidi
+TISpaceBodyTemplate.descriptor2.316179Centaur=
+TISpaceBodyTemplate.discovery_year.316179Centaur=2010
+
+TISpaceBodyTemplate.displayName.342842Centaur=342842 Lykidas
+TISpaceBodyTemplate.bodyAltName.342842Centaur=342842 2008 YB3
+TISpaceBodyTemplate.classification.342842Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.342842Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.342842Centaur=
+TISpaceBodyTemplate.discovery_year.342842Centaur=2008
+
+TISpaceBodyTemplate.displayName.385571Otrera=385571 Otrera
+TISpaceBodyTemplate.bodyAltName.385571Otrera=
+TISpaceBodyTemplate.classification.385571Otrera=Asteroyit
+TISpaceBodyTemplate.descriptor1.385571Otrera=Önde Gelen Neptün Trojani Asteroyidi
+TISpaceBodyTemplate.descriptor2.385571Otrera=
+TISpaceBodyTemplate.discovery_year.385571Otrera=2004
+
+TISpaceBodyTemplate.displayName.440030KBO=Kuterastan
+TISpaceBodyTemplate.bodyAltName.440030KBO=444030 2004 NT33
+TISpaceBodyTemplate.classification.440030KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.440030KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.440030KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.440030KBO=2004
+
+TISpaceBodyTemplate.displayName.447178Centaur=447178 Agrius
+TISpaceBodyTemplate.bodyAltName.447178Centaur=447178 2005 RO43
+TISpaceBodyTemplate.classification.447178Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.447178Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.447178Centaur=
+TISpaceBodyTemplate.discovery_year.447178Centaur=2005
+
+TISpaceBodyTemplate.displayName.455502KBO=Luison
+TISpaceBodyTemplate.bodyAltName.455502KBO=455502 2003 UZ413
+TISpaceBodyTemplate.classification.455502KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.455502KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.455502KBO=Plutino
+TISpaceBodyTemplate.discovery_year.455502KBO=2003
+
+TISpaceBodyTemplate.displayName.496306KBO=469306 Numbakulla
+TISpaceBodyTemplate.bodyAltName.496306KBO=469306 1999 CD158
+TISpaceBodyTemplate.classification.496306KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.496306KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.496306KBO=
+TISpaceBodyTemplate.discovery_year.496306KBO=1999
+
+TISpaceBodyTemplate.displayName.469372KBO=469372 Maximon
+TISpaceBodyTemplate.bodyAltName.469372KBO=469372 2001 QF298
+TISpaceBodyTemplate.classification.469372KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.469372KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.469372KBO=
+TISpaceBodyTemplate.discovery_year.469372KBO=2001
+
+TISpaceBodyTemplate.displayName.470308KBO=Volturnus
+TISpaceBodyTemplate.bodyAltName.470308KBO=470308 2007 JH43
+TISpaceBodyTemplate.classification.470308KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.470308KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.470308KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.470308KBO=2007
+
+TISpaceBodyTemplate.displayName.470443KBO=Tagaloa
+TISpaceBodyTemplate.bodyAltName.470443KBO=470308 2007 JH43
+TISpaceBodyTemplate.classification.470443KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.470443KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.470443KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.470443KBO=2007
+
+TISpaceBodyTemplate.displayName.471288KBO=471288 Cagn
+TISpaceBodyTemplate.bodyAltName.471288KBO=471288 2011 GM27
+TISpaceBodyTemplate.classification.471288KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.471288KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.471288KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.471288KBO=2011
+TISpaceBodyTemplate.displayName.472271KBO=Katonda
+TISpaceBodyTemplate.bodyAltName.472271KBO=472271 2014 UM33
+TISpaceBodyTemplate.classification.472271KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.472271KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.472271KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.472271KBO=2014
+
+TISpaceBodyTemplate.displayName.472651Centaur=472651 Dryalos
+TISpaceBodyTemplate.bodyAltName.472651Centaur=472651 2015 DB216
+TISpaceBodyTemplate.classification.472651Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.472651Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.472651Centaur=
+TISpaceBodyTemplate.discovery_year.472651Centaur=2015
+
+TISpaceBodyTemplate.displayName.482824KBO=Agudar
+TISpaceBodyTemplate.bodyAltName.482824KBO=482824 2013 XC26
+TISpaceBodyTemplate.classification.482824KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.482824KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.482824KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.482824KBO=2013
+
+TISpaceBodyTemplate.displayName.499514KBO=499514 Eskeri
+TISpaceBodyTemplate.bodyAltName.499514KBO=499514 2010 OO127
+TISpaceBodyTemplate.classification.499514KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.499514KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.499514KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.499514KBO=2010
+
+TISpaceBodyTemplate.displayName.523643Centaur=523643 Pisenor
+TISpaceBodyTemplate.bodyAltName.523643Centaur=523643 2010 TY53
+TISpaceBodyTemplate.classification.523643Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.523643Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.523643Centaur=
+TISpaceBodyTemplate.discovery_year.523643Centaur=2010
+
+TISpaceBodyTemplate.displayName.523645KBO=Mbombo
+TISpaceBodyTemplate.bodyAltName.523645KBO=523645 2010 VK201
+TISpaceBodyTemplate.classification.523645KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.523645KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.523645KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.523645KBO=2010
+
+TISpaceBodyTemplate.displayName.523681KBO=Coatlicue
+TISpaceBodyTemplate.bodyAltName.523681KBO=523681 2014 BV64
+TISpaceBodyTemplate.classification.523681KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.523681KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.523681KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.523681KBO=2014
+
+TISpaceBodyTemplate.displayName.523695Centaur=523695 Medon
+TISpaceBodyTemplate.bodyAltName.523695Centaur=523695 2014 GS53
+TISpaceBodyTemplate.classification.523695Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.523695Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.523695Centaur=
+TISpaceBodyTemplate.discovery_year.523695Centaur=2014
+
+TISpaceBodyTemplate.displayName.523727Centaur=523727 Eurytion
+TISpaceBodyTemplate.bodyAltName.523727Centaur=523727 2014 NW65
+TISpaceBodyTemplate.classification.523727Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.523727Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.523727Centaur=
+TISpaceBodyTemplate.discovery_year.523727Centaur=2014
+
+TISpaceBodyTemplate.displayName.523750KBO=Anansi
+TISpaceBodyTemplate.bodyAltName.523750KBO=523750 2014 US 224
+TISpaceBodyTemplate.classification.523750KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.523750KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.523750KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.523750KBO=2014
+
+TISpaceBodyTemplate.displayName.556068KBO=556068 Whiro
+TISpaceBodyTemplate.bodyAltName.556068KBO=556068 2014 JR80
+TISpaceBodyTemplate.classification.556068KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.556068KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.556068KBO=Plutino
+TISpaceBodyTemplate.discovery_year.556068KBO=2014
+
+TISpaceBodyTemplate.displayName.556416KBO=556416 Chiminigagua
+TISpaceBodyTemplate.bodyAltName.556416KBO=556416 2014 OE394
+TISpaceBodyTemplate.classification.556416KBO=Asteroyit
+TISpaceBodyTemplate.descriptor1.556416KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.556416KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.556416KBO=2014
+
+TISpaceBodyTemplate.displayName.559182KBO=Enki
+TISpaceBodyTemplate.bodyAltName.559182KBO=559182 2015 BZ518
+TISpaceBodyTemplate.classification.559182KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.559182KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.559182KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.559182KBO=2015
+
+TISpaceBodyTemplate.displayName.562274Centaur=562274 Hippasus
+TISpaceBodyTemplate.bodyAltName.562274Centaur=562274 2015 XW379
+TISpaceBodyTemplate.classification.562274Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.562274Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.562274Centaur=
+TISpaceBodyTemplate.discovery_year.562274Centaur=2015
+
+TISpaceBodyTemplate.displayName.578993KBO=578993 Xargi
+TISpaceBodyTemplate.bodyAltName.578993KBO=578993 2014 JP80
+TISpaceBodyTemplate.classification.578993KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.578993KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.578993KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.578993KBO=2014
+
+TISpaceBodyTemplate.displayName.612243Centaur=612243 Penthesilea
+TISpaceBodyTemplate.bodyAltName.612243Centaur=612243 2001 QR322
+TISpaceBodyTemplate.classification.612243Centaur=Asteroyit
+TISpaceBodyTemplate.descriptor1.612243Centaur=Önde Gelen Neptün Trojani Asteroyidi
+TISpaceBodyTemplate.descriptor2.612243Centaur=
+TISpaceBodyTemplate.discovery_year.612243Centaur=2001
+
+TISpaceBodyTemplate.displayName.612533KBO=Chernobog
+TISpaceBodyTemplate.bodyAltName.612533KBO=612553 2002 XV93
+TISpaceBodyTemplate.classification.612533KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.612533KBO=Kuiper Kusagi Nesnesi
+TISpaceBodyTemplate.descriptor2.612533KBO=Plutino
+TISpaceBodyTemplate.discovery_year.612533KBO=2002
+TISpaceBodyTemplate.displayName.613490Centaur=613490 Myrina
+TISpaceBodyTemplate.bodyAltName.613490Centaur=613490 2006 RJ103
+TISpaceBodyTemplate.classification.613490Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.613490Centaur=Neptün'ün Önde Gelen Troya Asteroidi
+TISpaceBodyTemplate.descriptor2.613490Centaur=
+TISpaceBodyTemplate.discovery_year.613490Centaur=2006
+TISpaceBodyTemplate.displayName.636872Centaur=636872 Caeneus
+TISpaceBodyTemplate.bodyAltName.636872Centaur=636872 2014 YX49
+TISpaceBodyTemplate.classification.636872Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.636872Centaur=Uranüs'ün Önde Gelen Troya Asteroidi
+TISpaceBodyTemplate.descriptor2.636872Centaur=
+TISpaceBodyTemplate.discovery_year.636872Centaur=2014
+TISpaceBodyTemplate.displayName.2008LC18Centaur=2008 LC18 Aegea
+TISpaceBodyTemplate.bodyAltName.2008LC18Centaur=2008 LC18
+TISpaceBodyTemplate.classification.2008LC18Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2008LC18Centaur=Neptün'ün Arkadan Gelen Troya Asteroidi
+TISpaceBodyTemplate.descriptor2.2008LC18Centaur=
+TISpaceBodyTemplate.discovery_year.2008LC18Centaur=2008
+TISpaceBodyTemplate.displayName.2010FX86KBO=Olorun
+TISpaceBodyTemplate.bodyAltName.2010FX86KBO=2010 FX86
+TISpaceBodyTemplate.classification.2010FX86KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.2010FX86KBO=Kuiper Kusagi Cismi
+TISpaceBodyTemplate.descriptor2.2010FX86KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.2010FX86KBO=2010
+TISpaceBodyTemplate.displayName.2010KZ39KBO=Izanagi
+TISpaceBodyTemplate.bodyAltName.2010KZ39KBO=2010 KZ39
+TISpaceBodyTemplate.classification.2010KZ39KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.2010KZ39KBO=Kuiper Kusagi Cismi
+TISpaceBodyTemplate.descriptor2.2010KZ39KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.2010KZ39KBO=2010
+TISpaceBodyTemplate.displayName.2010THCentaur=2010 TH Antimakhos
+TISpaceBodyTemplate.bodyAltName.2010THCentaur=2010 TH
+TISpaceBodyTemplate.classification.2010THCentaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2010THCentaur=Centaur
+TISpaceBodyTemplate.descriptor2.2010THCentaur=
+TISpaceBodyTemplate.discovery_year.2010THCentaur=2010
+TISpaceBodyTemplate.displayName.2011GN27Centaur=2011 GN27 Dictys
+TISpaceBodyTemplate.bodyAltName.2011GN27Centaur=2011 GN27
+TISpaceBodyTemplate.classification.2011GN27Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2011GN27Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.2011GN27Centaur=
+TISpaceBodyTemplate.discovery_year.2011GN27Centaur=2011
+TISpaceBodyTemplate.displayName.2011HM102Centaur=2011 HM102 Myrleia
+TISpaceBodyTemplate.bodyAltName.2011HM102Centaur=2011 HM102
+TISpaceBodyTemplate.classification.2011HM102Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2011HM102Centaur=Neptün'ün Arkadan Gelen Troya Asteroidi
+TISpaceBodyTemplate.descriptor2.2011HM102Centaur=
+TISpaceBodyTemplate.discovery_year.2011HM102Centaur=2011
+TISpaceBodyTemplate.displayName.2011MM4Centaur=2011 MM4 Bromos
+TISpaceBodyTemplate.bodyAltName.2011MM4Centaur=2011 MM4
+TISpaceBodyTemplate.classification.2011MM4Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2011MM4Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.2011MM4Centaur=
+TISpaceBodyTemplate.discovery_year.2011MM4Centaur=2011
+TISpaceBodyTemplate.displayName.2011QF99Centaur=2011 QF99 Exadius
+TISpaceBodyTemplate.bodyAltName.2011QF99Centaur=2011 QF99
+TISpaceBodyTemplate.classification.2011QF99Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2011QF99Centaur=Uranüs'ün Önde Gelen Troya Asteroidi
+TISpaceBodyTemplate.descriptor2.2011QF99Centaur=
+TISpaceBodyTemplate.discovery_year.2011QF99Centaur=2011
+TISpaceBodyTemplate.displayName.2013KY18Centaur=2013 KY18 Ephesos
+TISpaceBodyTemplate.bodyAltName.2013KY18Centaur=2013 KY18
+TISpaceBodyTemplate.classification.2013KY18Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2013KY18Centaur=Neptün'ün Arkadan Gelen Troya Asteroidi
+TISpaceBodyTemplate.descriptor2.2013KY18Centaur=
+TISpaceBodyTemplate.discovery_year.2013KY18Centaur=2013
+TISpaceBodyTemplate.displayName.2014WP50KBO=Huracan
+TISpaceBodyTemplate.bodyAltName.2014WP50KBO=2014 WP509
+TISpaceBodyTemplate.classification.2014WP50KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.2014WP50KBO=Kuiper Kusagi Cismi
+TISpaceBodyTemplate.descriptor2.2014WP50KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.2014WP50KBO=2014
+TISpaceBodyTemplate.displayName.2014YA50KBO=Nareau
+TISpaceBodyTemplate.bodyAltName.2014YA50KBO=2014 YA50
+TISpaceBodyTemplate.classification.2014YA50KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.2014YA50KBO=Kuiper Kusagi Cismi
+TISpaceBodyTemplate.descriptor2.2014YA50KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.2014YA50KBO=2014
+TISpaceBodyTemplate.displayName.2015AH281Centaur=2015 AH281 Pylenor
+TISpaceBodyTemplate.bodyAltName.2015AH281Centaur=2015 AH281
+TISpaceBodyTemplate.classification.2015AH281Centaur=Asteroit
+TISpaceBodyTemplate.descriptor1.2015AH281Centaur=Centaur
+TISpaceBodyTemplate.descriptor2.2015AH281Centaur=
+TISpaceBodyTemplate.discovery_year.2015AH281Centaur=2015
+TISpaceBodyTemplate.displayName.2015QW23KBO=2015 QW23 Nanabohzo
+TISpaceBodyTemplate.bodyAltName.2015QW23KBO=2015 QW23
+TISpaceBodyTemplate.classification.2015QW23KBO=Asteroit
+TISpaceBodyTemplate.descriptor1.2015QW23KBO=Kuiper Kusagi Cismi
+TISpaceBodyTemplate.descriptor2.2015QW23KBO=Cubewano
+TISpaceBodyTemplate.discovery_year.2015QW23KBO=2015
+TISpaceBodyTemplate.displayName.2017OF69KBO=Meng Po
+TISpaceBodyTemplate.bodyAltName.2017OF69KBO=2017 OF69
+TISpaceBodyTemplate.classification.2017OF69KBO=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.2017OF69KBO=Kuiper Kusagi Cismi
+TISpaceBodyTemplate.descriptor2.2017OF69KBO=Plutino
+TISpaceBodyTemplate.discovery_year.2017OF69KBO=2017
+TISpaceBodyTemplate.displayName.SwiftTuttle=Kuyruklu Yildiz Swift-Tuttle
+TISpaceBodyTemplate.bodyAltName.SwiftTuttle=109P/Swift-Tuttle
+TISpaceBodyTemplate.classification.SwiftTuttle=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.SwiftTuttle=Halley-Tipi Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.SwiftTuttle=Perseid Kaynagi
+TISpaceBodyTemplate.discovery_year.SwiftTuttle=1862
+TISpaceBodyTemplate.displayName.Neujmin=Kuyruklu Yildiz Neujmin 1
+TISpaceBodyTemplate.bodyAltName.Neujmin=28P/Neujmin 1
+TISpaceBodyTemplate.classification.Neujmin=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Neujmin=Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Neujmin=
+TISpaceBodyTemplate.discovery_year.Neujmin=1913
+TISpaceBodyTemplate.displayName.Loneos=Kuyruklu Yildiz Loneos
+TISpaceBodyTemplate.bodyAltName.Loneos=C/2001 OG108 LONEOS
+TISpaceBodyTemplate.classification.Loneos=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Loneos=Halley-Tipi Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Loneos=
+TISpaceBodyTemplate.discovery_year.Loneos=2001
+TISpaceBodyTemplate.displayName.Levy=Kuyruklu Yildiz Levy 1
+TISpaceBodyTemplate.bodyAltName.Levy=C/1991 L3 Levy
+TISpaceBodyTemplate.classification.Levy=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Levy=Halley-Tipi Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Levy=
+TISpaceBodyTemplate.discovery_year.Levy=2001
+TISpaceBodyTemplate.displayName.Halley=Halley'nin Kuyruklu Yildizi
+TISpaceBodyTemplate.bodyAltName.Halley=P1/Halley
+TISpaceBodyTemplate.classification.Halley=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Halley=Halley-Tipi Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Halley=
+TISpaceBodyTemplate.discovery_year.Halley=Antik Çag
+TISpaceBodyTemplate.displayName.Gunn=Kuyruklu Yildiz Gunn
+TISpaceBodyTemplate.bodyAltName.Gunn=65P/Gunn
+TISpaceBodyTemplate.classification.Gunn=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Gunn=Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Gunn=
+TISpaceBodyTemplate.discovery_year.Gunn=1970
+TISpaceBodyTemplate.displayName.Tempel=Kuyruklu Yildiz Tempel 2
+TISpaceBodyTemplate.bodyAltName.Tempel=10P/Tempel
+TISpaceBodyTemplate.classification.Tempel=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Tempel=Periyodik Jüpiter-Ailesi Kuyruklu Yildizi
+TISpaceBodyTemplate.descriptor2.Tempel=
+TISpaceBodyTemplate.discovery_year.Tempel=1873
+TISpaceBodyTemplate.displayName.Kowal=Kuyruklu Yildiz Kowal 2
+TISpaceBodyTemplate.bodyAltName.Kowal=99P/Kowal
+TISpaceBodyTemplate.classification.Kowal=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Kowal=Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Kowal=
+TISpaceBodyTemplate.discovery_year.Kowal=1977
+TISpaceBodyTemplate.displayName.ArendRigaux=Kuyruklu Yildiz Arend-Rigaux
+TISpaceBodyTemplate.bodyAltName.ArendRigaux=49P/Arend–Rigaux
+TISpaceBodyTemplate.classification.ArendRigaux=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.ArendRigaux=Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.ArendRigaux=
+TISpaceBodyTemplate.discovery_year.ArendRigaux=1951
+TISpaceBodyTemplate.displayName.Machholz=Kuyruklu Yildiz Machholz 1
+TISpaceBodyTemplate.bodyAltName.Machholz=96P/Machholz 1
+TISpaceBodyTemplate.classification.Machholz=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Machholz=Günes'e Yaklasan Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Machholz=
+TISpaceBodyTemplate.discovery_year.Machholz=1986
+TISpaceBodyTemplate.displayName.Encke=Kuyruklu Yildiz Encke
+TISpaceBodyTemplate.bodyAltName.Encke=2P/Encke
+TISpaceBodyTemplate.classification.Encke=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.Encke=Günes'e Yaklasan Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.Encke=Taurid Kaynagi
+TISpaceBodyTemplate.discovery_year.Encke=Antik Çag
+TISpaceBodyTemplate.displayName.PonsBrooks=Kuyruklu Yildiz Pons-Brooks
+TISpaceBodyTemplate.bodyAltName.PonsBrooks=12P/Pons-Brooks
+TISpaceBodyTemplate.classification.PonsBrooks=Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor1.PonsBrooks=Halley-Tipi Periyodik Kuyruklu Yildiz
+TISpaceBodyTemplate.descriptor2.PonsBrooks=Kappa Draconids Kaynagi
+TISpaceBodyTemplate.discovery_year.PonsBrooks=1812
+TISpaceBodyTemplate.displayName.Cineos
+TISpaceBodyTemplate.displayName.SchwassmannWachmann
+TISpaceBodyTemplate.displayName.Eris=Eris
+TISpaceBodyTemplate.bodyAltName.Eris=136199 2003 UB313
+TISpaceBodyTemplate.classification.Eris=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Eris=Dagilmis Disk Cismi
+TISpaceBodyTemplate.descriptor2.Eris=
+TISpaceBodyTemplate.discovery_year.Eris=2005
+TISpaceBodyTemplate.displayName.Dysnomia=Dysnomia
+TISpaceBodyTemplate.displayName.Gonggong=Gonggong
+TISpaceBodyTemplate.bodyAltName.Gonggong=225088 2007 OR10
+TISpaceBodyTemplate.classification.Gonggong=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Gonggong=Dagilmis Disk Cismi
+TISpaceBodyTemplate.descriptor2.Gonggong=
+TISpaceBodyTemplate.discovery_year.Gonggong=2007
+TISpaceBodyTemplate.displayName.Xianglui=Xianglui
+TISpaceBodyTemplate.displayName.Sedna=Sedna
+TISpaceBodyTemplate.bodyAltName.Sedna=90377 2003 VB12
+TISpaceBodyTemplate.classification.Sedna=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Sedna=Ayirilmis Cisim
+TISpaceBodyTemplate.descriptor2.Sedna=
+TISpaceBodyTemplate.discovery_year.Sedna=2003
+TISpaceBodyTemplate.displayName.Glkunllhomdima=Gǃkún//'hòmdímà
+TISpaceBodyTemplate.bodyAltName.Glkunllhomdima=229762 UK126
+TISpaceBodyTemplate.classification.Glkunllhomdima=Cüce Gezegen
+TISpaceBodyTemplate.descriptor1.Glkunllhomdima=Dagilmis Disk Cismi
+TISpaceBodyTemplate.descriptor2.Glkunllhomdima=
+TISpaceBodyTemplate.discovery_year.Glkunllhomdima=2007
+TISpaceBodyTemplate.displayName.Gloelhu=Gloelhu
+TISpaceBodyTemplate.displayName.Leleakuhonua=Leleakuhonua
+TISpaceBodyTemplate.displayName.Planet9=Persephone
+TISpaceBodyTemplate.bodyAltName.Planet9=
+TISpaceBodyTemplate.classification.Planet9=Buz Devi
+TISpaceBodyTemplate.descriptor1.Planet9=Trans-Neptünyen Cisim
+TISpaceBodyTemplate.descriptor2.Planet9=
+TISpaceBodyTemplate.discovery_year.Planet9=Kesfedilmedi
+TISpaceBodyTemplate.displayName.2018VG18TNO=2018 VG18
+TISpaceBodyTemplate.displayName.2014UZ224TNO=2014 UZ224
+TISpaceBodyTemplate.displayName.2012VP113TNO=2012 VP113
+TISpaceBodyTemplate.displayName.512381TNO=512381
+TISpaceBodyTemplate.displayName.523794TNO=523794
+TISpaceBodyTemplate.displayName.15874TNO=15874
+TISpaceBodyTemplate.displayName.532037TNO=53203
+

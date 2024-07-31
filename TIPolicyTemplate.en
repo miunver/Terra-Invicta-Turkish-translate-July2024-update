@@ -1,0 +1,92 @@
+WarOption.displayName=Savas Ilan Et
+WarOption.description=Bir rakibe ve onun ordulari veya nükleer silahlari olan müttefiklerine savas ilan et. Müttefiklerimiz savasa katilma seçenegine sahip olacaktir. Bu ulusun ordusundan en az birine sahip olmasi gerekir. Bir müttefik, herhangi bir tarafin lideri oldugunda savasa katilabilirsin.
+WarOption.targetHeader=... ile savasi ilan et
+WarOption.confirmText={0} ile savasi ilan etmek ister misin?
+WarOption.confirmTextAlliance=<br/><br/>Savasa {0}’yi katilmaya davet edecegiz ve {1} ittifak lideri olacak.
+WarOption.cohesionEffect=<br/><br/>Bu savasi yeni bir rakibe karsi baslatarak {0} uyum kaybedecegiz.
+WarOption.joinWarListItem={0}<br/>in {1}										// düsman ulus adi, savas adi
+WarOption.joinWarConfirmText={0} ile {1} savasina katilmak ister misin?
+
+EndWarOption.displayName=Savasi Bitir
+EndWarOption.description=Bir ulus ve müttefiklerine karsi olan savasi sona erdir. Düsman ittifakinin liderinin onayi gerekir. Savas yalnizca ittifak lideri isen tamamen sona erer.
+EndWarOption.targetHeader=... ile savasi bitir
+EndWarOption.responsePromptLeader={0}, {1} ile olan savasini bitirmeyi öneriyor. Kabul edersek, uluslar ve müttefikleri savasi durduracak ve rakip statüsüne dönecekler.
+EndWarOption.responsePromptSeparatePeace={0}, {1} ile olan savasini bitirmeyi öneriyor. Kabul edersek, {0} ayri bir baris anlasmasi yapacak ve savasi birakacak.
+EndWarOption.confirmTextLeader=Bizim {0} ile olan savasimizi bitirmeyi önermek ister misin? Müttefiklerimiz de savasi durduracak.
+EndWarOption.confirmTextSeparatePeace={0} ile ayri bir baris önermeyi ister misin? Müttefiklerimiz savasa devam edecek.
+
+ProposeAllianceOption.displayName=Ittifak Öner
+ProposeAllianceOption.description=Bir rakip olmayan ulusla ittifak öner. Önerilen müttefikten onay gerektirir. Müttefikler sadece ordulari veya nükleer silahlari varsa savaslara katilacaktir. Yeni müttefikler mevcut savaslara katilmayacaktir. Ayrilan bir ulusla ittifak kurmak, onun ana ulusuyla bir rakiplik yaratir.
+ProposeAllianceOption.targetHeader=... ile ittifak öner
+ProposeAllianceOption.responsePrompt={0}, {1} ile ittifak önermistir. Kabul edersek, iki ulus birbirini her saldiriya karsi savunacak ve her iki ulusun saldiri savaslarina katilma seçenegine sahip olacak.
+ProposeAllianceOption.confirmText={0} ile ittifak önermek ister misin?
+
+EndAllianceOption.displayName=Ittifaki Sonlandir
+EndAllianceOption.description=Bir ittifaki sonlandir ve diger bir ulusla normal iliskiler kur. Eski müttefiklerin topraklarinda bulunan tüm ordular sinir disi edilecektir.
+EndAllianceOption.targetHeader=... ile ittifaki sonlandir
+EndAllianceOption.confirmText={0} ile ittifakimizi sonlandirmak ister misin?
+
+InitiateRivalryOption.displayName=Rakiplik Baslat
+InitiateRivalryOption.description=Bir müttefik olmayan ulusu rakip ilan et, böylece gelecekte onlara savas ilan edebilirsin.
+InitiateRivalryOption.targetHeader=... ile rakiplik baslat
+InitiateRivalryOption.confirmText={0} ile rakiplik baslatmak ister misin?
+
+EndRivalryOption.displayName=Rakipligi Bitir
+EndRivalryOption.description=Bir ulusla rakipligi sona erdir ve normal iliskiler kur. Rakibin onayi gerekir.
+EndRivalryOption.targetHeader=... ile rakipligi bitir
+EndRivalryOption.confirmText={0} ile rakipligi bitirmek ister misin?
+EndRivalryOption.responsePrompt={0}, {1} ile rakipligi bitirip normal iliskilere dönmeyi öneriyor. Kabul ediyor muyuz?
+
+JoinFederationOption.displayName=Federasyon
+JoinFederationOption.description=Hedef ulus veya federasyona katil. Bir federasyon üyesi, katilmakta olan ulusun bir bölgesinde toprak talebine sahip olmalidir. Federasyon üyesi uluslar kalici bir ittifakta olup, uzay finansmanini ve tesviki paylasir. Katilma, katilmakta olan ulusun yürütme kontrol noktasinin konsolide kontrolünü gerektirir.
+JoinFederationOption.targetHeader=... ile federasyon öner
+JoinFederationOption.confirmText={0} ile federasyon önerisinde bulunmak ister misin?
+JoinFederationOption.responsePrompt={0}, {1} ile bir federasyon önerdi, kalici bir ittifak olusturarak uzay finansmanini ve tesvik kaynaklarini paylasacaklar. Kabul ediyor muyuz?
+
+LeaveFederationOption.displayName=Federasyondan Ayril
+LeaveFederationOption.description=Federasyonumuzdan ayril. Su anda federasyonun uluslariyla müttefik kalacagiz ancak GDP azalmasi yasayacagiz ve uzay programi kaynaklarini artik paylasmayacagiz. Konsolide yürütme kontrolü gerekir.
+LeaveFederationOption.targetHeader=Federasyondan ayril
+LeaveFederationOption.confirmText={0} federasyondan ayrilmak ister misin?
+
+UnificationOption.displayName=Birlesme
+UnificationOption.description=Bu ulusu ana ulusuyla veya orijinal baskenti talep ettigi bir federasyon müttefiki ile barisçil bir sekilde birlestir. Birlesen ulusun tüm kontrol noktalarina ve iki ulusun yürütme kontrol noktalarinin konsolide kontrolüne sahip olmalisin. Düsük uyum varsa, katilmakta olan ulusun bazi bölgeleri ayrilabilir.
+UnificationOption.targetHeader=... ile birlesme öner
+UnificationOption.confirmText={0} ile birlesmeyi önermek ister misin?
+UnificationOption.responsePrompt={0}, {1} ile birlesmeyi önerdi ve bu ulusun bagimsiz bir güç olarak varligini sonlandiracak. Kabul ediyor muyuz?
+
+DeclareIndependenceOption.displayName=Bagimsizlik Ilan Et
+DeclareIndependenceOption.description=Bu ayrilan ulustan tam bagimsizlik ilan et. Ana ulus karsilik olarak savas ilan edecektir.
+DeclareIndependenceOption.targetHeader=...’dan bagimsizlik ilan et
+DeclareIndependenceOption.confirmText=Bagimsizlik ilan etmek ister misin?
+
+PeacefulBreakupOption.displayName=Bagimsizlik Ver
+PeacefulBreakupOption.description=Bir ayrilan devlete bagimsizlik ver veya bu ulusun bölgelerinden bir veya daha fazlasina sahip olan yeni bir ulusu serbest birak. Tüm kontrol noktalarini kazanirsin. Konsolide yürütme kontrolü gerekir.
+PeacefulBreakupOption.targetHeader={0} ulusunu serbest birak
+PeacefulBreakupOption.confirmText={0} ulusunu serbest birakmak ister misin?
+
+TransferRegionsOption.displayName=Toprak Devri
+TransferRegionsOption.description=Baska bir ulusun talep ettigi tüm kapital olmayan bölgeleri o ulusa devret. Rakiplerin iliskileri iyilestirme yetenegine sahip olmasi gerekir. Bu, iki ulus arasindaki rakipligi sonlandirir ve iliskilerin tekrar iyilestirilmesi için bir bekleme süresi baslatir. Konsolide yürütme kontrolü gerekir.
+TransferRegionsOption.specialDescription= <h>Belki de bazi bölgeleri Uzayli Ulusa teslim edebiliriz.</h>
+TransferRegionsOption.targetHeader=...’ya bölgeleri devret
+TransferRegionsOption.confirmText={0}’ya {1} bölgesini devretmek ister misin?
+
+CancelOption.displayName=Iptal
+CancelOption.description=Hiçbir sey yapma. {1}{0} geri ödenecektir.
+CancelOption.confirmText=Hiçbir politika eylemi almama onayliyor musun?
+
+EmployNuclearWeaponsOption.displayName=Nükleer Saldiri
+EmployNuclearWeaponsOption.description=Bir düsmanin Dünya bölgesine birden fazla stratejik silah birak, büyük ekonomik ve çevresel zararlara neden olur. Düsmanla savasta olmayi gerektirir. Bir vahset olarak sayilir.
+EmployNuclearWeaponsOption.targetHeader=... bölgesine hedef ol
+EmployNuclearWeaponsOption.confirmText={0} üzerine bir nükleer saldiri baslatmak ister misin?
+
+DisarmNuclearWeaponsOption.displayName=Nükleer Basliklari Silahsizlandir
+DisarmNuclearWeaponsOption.description=Bes adede kadar nükleer silahi silahsizlandir. Silahlar sifira düserse, bu ulustaki nükleer silah önceligi üzerindeki tüm ilerlemeyi de iptal et. Konsolide yürütme kontrolü gerekir.
+DisarmNuclearWeaponsOption.confirmText={0} içindeki nükleer silahlari silahsizlandirmak ister misin?
+
+DisbandArmyOption.displayName=Orduyu Dagit
+DisbandArmyOption.description=Birligimizden bir orduyu dagit, diger kullanimlar için kaynaklari serbest birak. Konsolide yürütme kontrolü gerekir.
+DisbandArmyOption.targetHeader=Orduyu Dagit
+DisbandArmyOption.confirmText={0}’yi dagitmak ister misin?
+
+DeclareWar.TT.WarAlliances=Müttefiklerimiz<br/><br/>{0}<br/><br/>bu savasa katilacak. {1} ittifakin lideri olacak.
+DeclareWar.TT.WarEnemyAlliance={0}<br/><br/>{1} ile karsi bize karsi savasacak. {2} ittifakin lideri olacak.

@@ -1,0 +1,853 @@
+UI.Objectives.Header={0} Hedefler
+UI.Objectives.Tutorial=EGITICI HEDEFLER
+UI.Objectives.General=GENEL HEDEFLER
+UI.Objectives.Campaign=KAMPANYA HEDEFLERI
+UI.Objectives.Victory=ZAFER HEDEFI
+UI.Objectives.Completed=TAMAMLANAN HEDEFLER
+UI.Objectives.Detail.Tutorial=Egitici hedefler, size temel oyun mekaniklerini ögretir. Bu hedeflerin gerçeklestirilmesi kampanyadaki ilerlemenizi dogrudan etkilemez. Bu hedefleri istediginiz sirayla tamamlayabilirsiniz. Bazilari tamamlanmasi biraz zaman alabilir.
+UI.Objectives.Detail.General=Genel hedefler, bir kampanya boyunca bazi faydali yol göstericiler sunar.
+UI.Objectives.Detail.Campaign=Kampanya hedefleri, fraksiyonunuzun takip etmesi gereken mevcut hedeflerdir. Bunlari tamamlamak oyunu kazanmak için gereklidir.
+UI.Objectives.Detail.Victory=Zafer hedeflerini tamamlamak oyunu kazanmanizi saglar.
+UI.Objectives.Detail.Completed=Bunlar, zaten tamamladigimiz kampanya hedefleridir.
+UI.Objectives.Summary={0} hedefini tamamladik.
+UI.Objectives.VictoryConditions1=Oyunu kazanmak için danisman görevini baslatmak adina, zaferimizi saglamak için önce asagidaki hedefleri yerine getirmemiz gerekiyor:
+UI.Objectives.VictoryConditionsMult=Oyunu kazanmak için danisman görevini baslatmak adina, zaferimizi saglamak için önce asagidaki hedefleri yerine getirmemiz gerekiyor:
+
+UI.Objectives.TechProjectPrereqs=Bu hedefi yerine getirebilmek için gerekli arastirmalari tamamlamak için bu ön kosul teknolojileri ve projeleri tamamlamamiz gerekiyor:
+UI.Objectives.TechProjectPrereq_or=<sp>veya {0}
+
+UI.Objectives.HelpPanel=Yardim Paneli
+UI.Objectives.TipConfirm=Sonraki Ipucu
+UI.Objectives.TipBack=Önceki Ipucu
+UI.Objectives.TutorialSkip=Gizle
+UI.Objectives.DontShowAgain=Bunu Bir Daha Gösterme
+UI.Objectives.TutorialReset=Egitimi Sifirla
+UI.Objectives.TutorialResetAll=Tüm Egitim Ipuçlarini Sifirla
+
+UI.Objectives.CouncilGridCanvas.CouncilorCard.Name=Danisman Kafesi
+UI.Objectives.CouncilGridCanvas.CouncilorCard.NameShort=Danisman
+UI.Objectives.CouncilGridCanvas.CouncilorCard.Desc=Her danismaniniz burada bir kart üzerinde gösterilir, bu kartlar danismanin özelliklerini, gelirlerini, konumunu ve katildigi görevleri içerir. Düsman danismanlarinin casusluk yaptigi iki kart sag altta gösterilecektir.
+UI.Objectives.CouncilGridCanvas.Portrait.Name=Danisman Detaylarini Genislet
+UI.Objectives.CouncilGridCanvas.Portrait.Desc=Bir danismanin portresine tiklayarak detayli bir panel açabilir, danismaninizi gelistirmek ve danismanin organizasyonlarini edinmek ve yönetmek için deneyim puani harcayabilirsiniz.
+UI.Objectives.CouncilGridCanvas.GotoBtn.Name=Danismana Git
+UI.Objectives.CouncilGridCanvas.GotoBtn.Desc=Buraya tiklayarak kameranizi danismanin oyundaki konumuna odaklayabilirsiniz.
+UI.Objectives.CouncilGridCanvas.RecruitBtn.Name=Yeni Danismanlar Reçetleyin
+UI.Objectives.CouncilGridCanvas.RecruitBtn.Desc=Danismanlar, Terra Invicta'da ilerlemenin anahtaridir. Danismanlarinizi buradan ise alarak konseyinizin dolu oldugundan emin olun.
+
+UI.Objectives.SingleCouncilorDetailCanvas.Missions.Name=Danismanin Mevcut Görevleri
+UI.Objectives.SingleCouncilorDetailCanvas.Missions.NameShort=Bilgi
+UI.Objectives.SingleCouncilorDetailCanvas.Missions.Desc=Bu panel, bu danismanin görev asamasinda gerçeklestirebilecegi görevlerin listesini gösterir. Hedeflerinize ulasmak için gerekli görevleri yerine getirebilmeniz için dengeli bir konsey bulundurmaniz önerilir.
+UI.Objectives.SingleCouncilorDetailCanvas.Attributes.Name=Danisman Özellikleri
+UI.Objectives.SingleCouncilorDetailCanvas.Attributes.Desc=Bu panel danismanin özelliklerini gösterir, bir özelligin üzerine gelerek daha fazla ayrinti görebilirsiniz. Özellik puanlari 0 ile 25 arasinda degisebilir.
+UI.Objectives.SingleCouncilorDetailCanvas.Incomes.Name=Danismanin Gelirleri
+UI.Objectives.SingleCouncilorDetailCanvas.Incomes.Desc=Bu panel, bu danismanin ürettigi kaynaklari gösterir. Negatif kaynaklar bakim maliyetini gösterir.
+UI.Objectives.SingleCouncilorDetailCanvas.Traits.Name=Danisman Özellikleri
+UI.Objectives.SingleCouncilorDetailCanvas.Traits.Desc=Özellikler, bu danismanin niteliklerini, gelirlerini ve diger yönlerini etkileyen özel karakteristikler ve degiskenlerdir. Birçok özellik, görevlere kosullu bonuslar saglar. Daha fazla ayrinti görmek için bir özelligin üzerine gelin.
+UI.Objectives.SingleCouncilorDetailCanvas.Augment.Name=Danismaninizi Gelistirin
+UI.Objectives.SingleCouncilorDetailCanvas.Augment.Desc=Yeterli XP kazandiginizda, buradan danismaninizin özelliklerini artirabilir veya özellikler ekleyip çikarabilirsiniz. Görevler XP kazandirir, basarili görevler daha fazla XP kazandirir.
+UI.Objectives.SingleCouncilorDetailCanvas.OrgsEquipped.Name=Donatilmis Organizasyonlar
+UI.Objectives.SingleCouncilorDetailCanvas.OrgsEquipped.Desc=Organizasyonlar veya "org"lar, yeterli Yönetim yetenegine sahip bir danismana donatilabilir. Organizasyonlar, danismanina özellik bonuslari, gelirler ve yeni görevler kazandirir. Bu alan, danismaninizin su anda donatilmis olan organizasyonlarini gösterir.
+UI.Objectives.SingleCouncilorDetailCanvas.OrgsMarket.Name=Org Pazar Yeri
+UI.Objectives.SingleCouncilorDetailCanvas.OrgsMarket.Desc=Bu alan, bu danisman için su anda satin alinabilir olan tüm orglari gösterir. Bir Org'u satin almak için panelin üzerine sag tiklayin veya sürükleyin.
+UI.Objectives.SingleCouncilorDetailCanvas.FactionOrgs.Name=Faksiye Orglari
+UI.Objectives.SingleCouncilorDetailCanvas.FactionOrgs.Desc=Pazar yerinden bu panel alanina geçis yaptiginizda, faksiye tarafindan tutulan ancak hiçbir danismana ait olmayan orglari görürsünüz. Bu orglar herhangi bir fayda saglamaz ancak düsmanlariniz tarafindan alinabilirler. Danismanlar öldügünde veya görevden alindiginda, orglar buraya gelir; ayrica orglari buradan sürükleyip birakarak danismanlar arasinda transfer edebilirsiniz. Bu islemi yaparken küçük bir ücret alinir.
+UI.Objectives.SingleCouncilorDetailCanvas.Customize.Name=Danismaninizi Özellestirin
+UI.Objectives.SingleCouncilorDetailCanvas.Customize.Desc=Danismaninizin adini, görünümünü ve sesini özellestirebileceginiz yeni bir panel açmak için buraya tiklayin.
+UI.Objectives.SingleCouncilorDetailCanvas.Dismiss.Name=Danismani Görevden Al
+UI.Objectives.SingleCouncilorDetailCanvas.Dismiss.Desc=Bir danisman artik hedeflerinize uygun degilse, buradan görevden alabilir ve onun yerine baska bir adayi alabilirsiniz.
+
+UI.Objectives.GeneralControlsCanvas.Intro.Name=Terra Invicta'ya Hosgeldiniz
+UI.Objectives.GeneralControlsCanvas.Intro.Desc=UI'yi ilk kez kullanirken, mevcut hedefinizin saginda burada egitim dügmeleri görünecektir. Su anda açik olan arayüz hakkinda rehberlik almak için bu dügmelere tiklayin.
+UI.Objectives.GeneralControlsCanvas.IntroPart2.Name=Terra Invicta'ya Hosgeldiniz
+UI.Objectives.GeneralControlsCanvas.IntroPart2.Desc=<h>Terra Invicta'nin kullanici arayüzünü (UI) gezmek için Giris Egitimi simgesini seçin.</h>
+
+UI.Objectives.GeneralControlsCanvas.Objectives.Name=Hedefleri Görüntüle
+UI.Objectives.GeneralControlsCanvas.Objectives.NameShort=Giris
+UI.Objectives.GeneralControlsCanvas.Objectives.Desc=Hedefler paneli, faksiye sembolünü tiklayarak erisebileceginiz tüm mevcut ve tamamlanmis hedeflerinizi burada takip eder. Bunlar hikayeyi ilerletmek ve Günes Sistemi'mize gelen uzaylilarin arkasinda ne oldugunu kesfetmek için gereklidir. Egitim ayrica Terra Invicta'da temel eylemleri gerçeklestirmenize rehberlik edecek ek bir hedef serisi içerir.<br/><br/><h>Bu dügmeyi seçerek mevcut Hedeflerinizi kontrol edin.</h>
+UI.Objectives.GeneralControlsCanvas.PauseMenu.Name=Tanitim
+UI.Objectives.GeneralControlsCanvas.PauseMenu.NameShort=Giris
+UI.Objectives.GeneralControlsCanvas.PauseMenu.Desc=Terra Invicta'ya Hosgeldiniz! Bu egitim pencereleri, oyunun çesitli yönlerini nasil eriseceginiz ve yöneteceginiz hakkinda bilgi verecektir.<br/><br/>Ilerlemenizi kaydedebilir, son derece faydali <h>Codex</h>'i görüntüleyebilir, oyun ayarlarini ayarlayabilir ve oyundan çikabilirsiniz. 
+UI.Objectives.GeneralControlsCanvas.Resources.Name=Kaynaklar
+UI.Objectives.GeneralControlsCanvas.Resources.Desc=Bu üst panel, mevcut kaynaklarinizi ve gelirlerinizi gösterir. Detaylar için her birinin üzerine gelin. <h>Para</h>, <h>Etki</h> ve <h>Operasyonlar</h> Dünya üzerindeki hedeflerinizi ilerletmek için hayati öneme sahiptir. <h>Itme</h> ve <h>Misyon Kontrolü</h> uzay programlarinizi gelistirmek içindir. <h>Arastirma</h>, ve <h>Mühendislik Projeleri</h> gemileriniz ve habitatlariniz için yeni teknolojiler ve modüller açar.
+UI.Objectives.GeneralControlsCanvas.MoneyIncome.Name=Para
+UI.Objectives.GeneralControlsCanvas.MoneyIncome.Desc=<h>Para</h>, Dünya'da uzay programimiz için bilesenler insa etmek, birçok danisman orgu edinmek, bazi finansal amaçli görevler yapmak ve uzay varliklarimizi desteklemek için kullanilir. Ulusal fonlama, ganimet önceligi, orglar, danisman özellikleri, habitat modülleri ve Dünya'da uzay kaynaklarinin satisindan elde edilir.
+UI.Objectives.GeneralControlsCanvas.InfluenceIncome.Name=Etki
+UI.Objectives.GeneralControlsCanvas.InfluenceIncome.Desc=<h>Etki</h>, politik sermaye ve kurumlari ve insanlari hedeflerinize yönlendirme yeteneginizi temsil eder. Faksiye ideolojiniz hakkinda olumlu küresel kamuoyundan, orglardan, danisman özelliklerinden ve habitat modüllerinden elde edilir. Ayrica, kontrol noktalarinizi her ay korumak için harcanir.
+UI.Objectives.GeneralControlsCanvas.OpsIncome.Name=Operasyonlar
+UI.Objectives.GeneralControlsCanvas.OpsIncome.Desc=<h>Operasyonlar</h>, küçük ölçekli savas ve casusluk operasyonlarini yürütme yetenegimizdir. Temelde orglardan elde edilir, ancak danisman özelliklerinden ve belirli habitat modüllerinden de gelebilir.
+UI.Objectives.GeneralControlsCanvas.BoostIncome.Name=Itme
+UI.Objectives.GeneralControlsCanvas.BoostIncome.Desc=<h>Itme</h> puani, Dünya yüzeyinden Düsük Dünya Yörüngesi'ne on metrik ton malzeme tasima kapasitesini temsil eder. Itme ayrica, daha uzak yerlere malzeme teslim edebilir, ancak büyük bir ceza ile. Temelde uzay programi olan ülkelerden elde edilir, ancak orglardan da gelebilir.
+UI.Objectives.GeneralControlsCanvas.MissionControlCap.Name=Misyon Kontrolü
+UI.Objectives.GeneralControlsCanvas.MissionControlCap.Desc=<h>Misyon Kontrolü</h> kaynagi, uzaydaki operasyonlarimizi desteklemek için gerekli tüm personel ve teknik donanimi içerir. Yetersiz Misyon Kontrolü, diger faksiyonlarin uzay varliklarimizi ele geçirmelerini çok daha kolay hale getirir ve kazalarin olasiligini artirir. Yeni habitatlar veya gemiler insa edemeyiz veya edinemezsek. Fazla misyon kontrolü arastirma ve paraya dönüstürülür.
+UI.Objectives.GeneralControlsCanvas.ResearchIncome.Name=Arastirma
+UI.Objectives.GeneralControlsCanvas.ResearchIncome.Desc=<h>Arastirma</h>, bilim insanlarimizin ve mühendislerimizin çabalarini temsil eder. Diger kaynaklardan farkli olarak, birikir degil, arastirma önceliklerimize göre hemen dagitilir. Bu öncelikler, küresel arastirmalar ve yalnizca faksiyonumuza fayda saglayan özel mühendislik projeleri arasinda bölünmüstür.
+UI.Objectives.GeneralControlsCanvas.CPCap.Name=Kontrol Noktasi Kapasitesi
+UI.Objectives.GeneralControlsCanvas.CPCap.Desc=Burada, mevcut <h>Kontrol Noktalarimizi</h> <h>Kontrol Noktasi Kapasitemize</h> göre bulabilirsiniz. Kapasiteyi asmak günlük etki cezasina neden olur, bu da ulus etkisi gelirimize yansir. Düsman görevleri kontrol noktalarimiza yönelik bir bonus alir. Bu maliyeti azaltmak için kontrol noktalarini terk edebilir veya bu kapasiteyi artirmak için arastirma projeleri yapabiliriz.
+UI.Objectives.GeneralControlsCanvas.GeoscapeBtn.Name=Dünya Görünümü
+UI.Objectives.GeneralControlsCanvas.GeoscapeBtn.Desc=Bu panel, Terra Invicta için konumlara ve yönetim ekranlarina hizli erisim saglar.<br/><br/>Buraya tiklayarak kamerayi Dünya'ya odaklayabilir ve ulusal sinirlari, ordulari ve uzaylilarla ilgili olaylari gösteren siyasi katmani aktif hale getirebilirsiniz.
+UI.Objectives.GeneralControlsCanvas.SolarSystemBtn.Name=Günes Sistemi Görünümü
+UI.Objectives.GeneralControlsCanvas.SolarSystemBtn.Desc=Buraya tiklayarak kamerayi Günes Sistemi'ne getirebilirsiniz.
+UI.Objectives.GeneralControlsCanvas.CouncilBtn.Name=Faksiye Konseyi
+UI.Objectives.GeneralControlsCanvas.CouncilBtn.Desc=Danismanlariniz, Dünya'da ve daha sonra Günes Sistemi'nde baslica ajanlarinizdir. Görevlere çikarak uluslari davaniza çekebilir, uzaylilari avlayabilir veya diger faksiyonlarin operasyonlarini engelleyebilirsiniz. Buradan danismanlari yönetebilir ve ise alabilirsiniz.
+UI.Objectives.GeneralControlsCanvas.NationsBtn.Name=Dünya Uluslari
+UI.Objectives.GeneralControlsCanvas.NationsBtn.Desc=Uluslar paneli, tüm ülke verilerini tek bir yerde toplar. Ayrica, kontrol noktalariniza öncelikler atayabilirsiniz. Dünya'nin uluslarini etkilemek, faksiyonunuzla jeopolitik üstünlük saglamak için ana yollardan biridir. Buradan herhangi bir ülkenin ayrintilarina bakabilirsiniz.
+UI.Objectives.GeneralControlsCanvas.HabsBtn.Name=Habitatlari Görüntüle
+UI.Objectives.GeneralControlsCanvas.HabsBtn.Desc=Kendi ve diger faksiyonlarin uzay istasyonlari ve yüzey üslerinin ayrintilarini "Habs" panelinde görüntüleyin. Ayrica mevcut habitatlariniza modüller insa etmek için siparis verebilirsiniz.
+UI.Objectives.GeneralControlsCanvas.FleetsBtn.Name=Filolari Görüntüle
+UI.Objectives.GeneralControlsCanvas.FleetsBtn.Desc=Filolar paneli, kesfedilen tüm filolari görüntülediginiz, yeni gemiler tasarladiginiz ve gemi insasini yönettiginiz yerdir.
+UI.Objectives.GeneralControlsCanvas.ResearchBtn.Name=Arastirma Bilgilerini Görüntüle
+UI.Objectives.GeneralControlsCanvas.ResearchBtn.Desc=Arastirma, Terra Invicta'da ilerlemek için hayati öneme sahiptir. Buradan faksiyonunuzun arastirma önceliklerini görüntüleyebilir ve yönetebilirsiniz, ayrica küresel arastirma projelerine katkilarinizi görebilirsiniz.
+UI.Objectives.GeneralControlsCanvas.IntelBtn.Name=Istihbarat Panelini Görüntüle
+UI.Objectives.GeneralControlsCanvas.IntelBtn.Desc=Istihbarat paneli, Uzaylilar, diger faksiyonlar, Dünya üzerindeki etkinlikler ve Günes Sistemi'ndeki herhangi bir uzay cismi hakkinda kesfettiginiz verilerin bir koleksiyonudur. Faksiyonunuzun mevcut bilgisini degerlendirmek ve daha iyi kararlar almak için sik sik kontrol edin.
+UI.Objectives.GeneralControlsCanvas.MapModes.Name=Dünya Harita Modunu Degistir
+UI.Objectives.GeneralControlsCanvas.MapModes.Desc=Buradan Dünya'nin farkli ülke renk filtreleri arasinda geçis yapabilirsiniz.
+UI.Objectives.GeneralControlsCanvas.Finder.Name=Bulucu Paneli
+UI.Objectives.GeneralControlsCanvas.Finder.Desc=Bu, tüm danismanlar, habitatlar, ordular ve filolarin bir referans listesini içeren bulucu panelidir. Kameranizi bir nesneye odaklamak için listedeki herhangi bir nesneye tiklayin. Ayrica, panelin üstündeki dügmelerle listeyi filtreleyebilirsiniz.
+UI.Objectives.GeneralControlsCanvas.TimePlayBtn.Name=Oyun Zamani Ayarlari
+UI.Objectives.GeneralControlsCanvas.TimePlayBtn.Desc=Buradan oyunu duraklatabilir ve tekrar baslatabilir, ayrica oyun hizini ayarlayabilirsiniz. Bazen oyun, acil bir konuyu ele alana kadar duraklatilir. <br/><br/><h>Oyun duraklatildiginda, buradan oyunu baslatarak Görev Asamasina ilerleyebilirsiniz.</h>
+
+UI.Objectives.NotificationScreenCanvas.NewsFeed.Name=Haber Akisi
+UI.Objectives.NotificationScreenCanvas.NewsFeed.NameShort=Haberler
+UI.Objectives.NotificationScreenCanvas.NewsFeed.Desc=Haber ögeleri haber akisinda burada görünecektir. Açiklamayi okumak için üzerine gelin. Ilgili konum veya menüye gitmek için sol tiklayin. Haber ögesini kapatmak için sag tiklayin.
+
+UI.Objectives.CouncilorMissionControlsCanvas.CouncilorWindow.Name=Seçili Danisman
+UI.Objectives.CouncilorMissionControlsCanvas.CouncilorWindow.NameShort=Danisman
+UI.Objectives.CouncilorMissionControlsCanvas.CouncilorWindow.Desc=Bu pencere, su anda seçili olan danismani gösterir. Daha fazla bilgi edinmek için portresine tiklayarak Danisman Detaylari Ekranini açabilirsiniz. Danismanlarinizin güçlü ve zayif yönlerini anlamak basari için anahtardir. <h>Bir danismanin görev listesi, arayüzün altinda ortalanmis olarak bulunabilir.</h>
+UI.Objectives.CouncilorMissionControlsCanvas.CouncilorMissions.Name=Danisman Görevleri
+UI.Objectives.CouncilorMissionControlsCanvas.CouncilorMissions.Desc=Seçili danisman için mevcut görevler burada, <h>Görev Asamasinda</h> arayüzün alt kisminda görünür. Bir görevi seçerek atama detaylarini görüntüleyebilirsiniz.
+
+UI.Objectives.CouncilorMissionControlsCanvas.MissionSelect.Name=Bir Görev Seçin
+UI.Objectives.CouncilorMissionControlsCanvas.MissionSelect.NameShort=Görevler
+UI.Objectives.CouncilorMissionControlsCanvas.MissionSelect.Desc=Bu panel, seçili danisman için mevcut görevlerin bir listesini içerir.
+UI.Objectives.CouncilorMissionControlsCanvas.Target.Name=Görev Hedefi
+UI.Objectives.CouncilorMissionControlsCanvas.Target.Desc=Seçilen görevin hedefi burada belirtilmistir. Ayrica, jeoskapta potansiyel bir hedefe shift-sol tiklayarak görevleri baslatabilir ve o hedef için mümkün olan görevlerin bir listesini görebilirsiniz.
+UI.Objectives.CouncilorMissionControlsCanvas.Slider.Name=Kaynak Kaydirici
+UI.Objectives.CouncilorMissionControlsCanvas.Slider.Desc=Bazi görevler, basari sansini artirmak için ek kaynaklar harcamaniza izin verir. Bu kaydirici burada görünecektir.
+UI.Objectives.CouncilorMissionControlsCanvas.Bonuses.Name=Görev Bonuslari
+UI.Objectives.CouncilorMissionControlsCanvas.Bonuses.Desc=Basari oranini artiran olumlu etkiler burada listelenir. Rekabetçi görevler, ikna veya komuta gibi belirli bir danisman özelligine dayanir.
+UI.Objectives.CouncilorMissionControlsCanvas.Penalties.Name=Görev Cezalari
+UI.Objectives.CouncilorMissionControlsCanvas.Penalties.Desc=Basari oranini azaltan cezalar burada listelenir.
+UI.Objectives.CouncilorMissionControlsCanvas.SuccessRate.Name=Görev Basari Sansi
+UI.Objectives.CouncilorMissionControlsCanvas.SuccessRate.Desc=Görevin genel basari sansi burada gösterilir ve bonuslar, cezalar ve kaynak kaydiricisi tarafindan etkilenir.<br/><br/><h>Önemli:</h> Dünyadaki kosullarin degismesi, görevin basari sansini degistirebilir, hatta görevi atayip Atamalari Onaylasaniz bile. Bu, diger faksiyonlarin danismanlarini hedefleyen görevler için daha yaygindir. En son basari sansi, jeoskapta danisman simgenizin altinda görünecektir. Gerekirse, kaynak harcamalarinizi geri almak için görevleri iptal edebilirsiniz.
+UI.Objectives.CouncilorMissionControlsCanvas.Confirm.Name=Görevi Onayla
+UI.Objectives.CouncilorMissionControlsCanvas.Confirm.Desc=Planlarinizdan memnun oldugunuzda, görevi atamak için buraya tiklayin. Görev, görev asamasindan sonraki günlerde ve haftalarda gerçeklestirilecektir. Görev asamasinda danismanlari yeniden atayabilirsiniz.
+UI.Objectives.CouncilorMissionControlsCanvas.ConfirmAssignments.Name=Atamalari Onayla
+UI.Objectives.CouncilorMissionControlsCanvas.ConfirmAssignments.Desc=Mevcut tüm danismanlari görevlendirdiginizde, Görev Asamasini bitirmek için Atamalari Onayla seçenegini belirleyin. Zamani yeniden ileriye almaniza izin verilecektir ve bir görev çözüldügünde güncelleneceksiniz.
+
+UI.Objectives.NationInfoCanvas.Intro.Name=Ulus Genel Görünümü
+UI.Objectives.NationInfoCanvas.Intro.NameShort=Uluslar
+UI.Objectives.NationInfoCanvas.Intro.Desc=Ulus panelinde, Dünya üzerindeki bireysel uluslar hakkinda önemli bilgileri gözden geçirebilir ve kontrolünüz altindaki ekonomi bölümlerini yönlendirebilirsiniz.
+UI.Objectives.NationInfoCanvas.Federation.Name=Federasyon
+UI.Objectives.NationInfoCanvas.Federation.Desc=Bir ulus bir federasyona aitse, burada görüntülenir. Federasyonlar, kalici bir ittifakta bulunan uluslardir ve aralarindaki arastirmalari ve itme kaynaklarini paylasirlar.
+UI.Objectives.NationInfoCanvas.CPs.Name=Kontrol Noktalari
+UI.Objectives.NationInfoCanvas.CPs.Desc=<h>Kontrol Noktalari</h>, bir ulustaki politik ve ekonomik güç dügümlerini temsil eder, örnegin Kitle Iletisim veya Yasama organinin kontrolü gibi. Daha büyük ekonomilere sahip uluslar alti kontrol noktasina kadar sahip olabilir. Konseyinizin ana hedeflerinden biri, amaciniza uygun uluslarda kontrol noktalari kazanmaktir.<br/><br/>Bir kontrol noktasinin faksiyon mülkiyeti, logolariyla temsil edilir; basit renkli daireler, hiçbir faksiyonun o kontrol noktasini almadigini gösterir. Bir ulustaki en sagdaki kontrol noktasi, ulusun dis iliskileri üzerinde kontrol saglayan "yürütme" kontrol noktasidir ve Set Policy danisman görevinde bulunur.<br/><br/>Bazi danisman görevleri dogrudan kontrol noktalarini hedef alir. Haritada bunlara tiklayabilir veya burada görev asamasinda hedef olarak seçebilirsiniz.<br/><br/>Bir kontrol noktasinin üzerine gelerek daha fazla bilgi edinin.
+UI.Objectives.NationInfoCanvas.Overview.Name=Ulus Genel Görünümü
+UI.Objectives.NationInfoCanvas.Overview.Desc=Bu bölüm, ulusun hükümeti, huzursuzluk ve GSYIH hakkinda ayrintilar gösterir. Bir degerin üzerine gelerek daha fazla bilgi alabilirsiniz. <h>Hükümet ve Huzursuzluk, 0'dan 10'a kadar bir degerle temsil edilirken, GSYIH Milyar (BN) ölçeginde görüntülenir.
+UI.Objectives.NationInfoCanvas.Military.Name=Askeri Genel Görünüm
+UI.Objectives.NationInfoCanvas.Military.Desc=Bu bölüm, askeri teknoloji seviyesini, mevcut stratejik nükleer saldirilari ve ulusun deniz gücünü gösterir. Bir degerin üzerine gelerek daha fazla bilgi edinin.
+UI.Objectives.NationInfoCanvas.Development.Name=Gelisme Genel Görünümü
+UI.Objectives.NationInfoCanvas.Development.Desc=Bu bölüm, ulusun ekonomik ayrintilarini ve kontrol noktasi sahiplerine gelirlerin dagilimini gösterir. Herhangi bir degerin üzerine gelerek daha fazla bilgi edinin.
+UI.Objectives.NationInfoCanvas.MonthlyInvestmentPoints.Name=Aylik Yatirim Noktalari
+UI.Objectives.NationInfoCanvas.MonthlyInvestmentPoints.Desc=Bunlar, ulusun ekonomik fazlasini temsil eder. Bu noktalar, ulusta bulunan <h>Kontrol Noktalari</h> olan fraksiyonlar tarafindan <h>Öncelikler</h> sekmesi araciligiyla dagitilabilir. Deger, ulusun GSYIH'sina göre belirlenir ve ulusun sahip oldugu <h>Ordular</h> ve yüksek <h>Huzursuzluk</h> seviyeleri tarafindan azaltilir.
+
+UI.Objectives.NationInfoCanvas.Funding.Name=Finansman
+UI.Objectives.NationInfoCanvas.Funding.Desc=Bu, ulusun her ay kontrol noktasi sahiplerine dagitilmak üzere sagladigi paradir.
+
+UI.Objectives.NationInfoCanvas.Research.Name=Aylik Arastirma
+UI.Objectives.NationInfoCanvas.Research.Desc=Bir ulusun arastirma üretimi, ulusun egitim düzeyi, ekonomi, uyum, demokrasi ve huzursuzluk gibi faktörlerin bir ürünüdür.
+
+UI.Objectives.NationInfoCanvas.Boost.Name=Aylik Destek
+UI.Objectives.NationInfoCanvas.Boost.Desc=Ulusun destek kapasitesi, dekaton cinsindendir.
+
+UI.Objectives.NationInfoCanvas.MissionControl.Name=Görev Kontrolü
+UI.Objectives.NationInfoCanvas.MissionControl.Desc=Bu, ulusun sahip oldugu Görev Kontrolü noktalarini gösterir.
+
+UI.Objectives.NationInfoCanvas.People.Name=Kamu Genel Görünümü
+UI.Objectives.NationInfoCanvas.People.Desc=Bu bölüm, ulusun nüfusunu, demografisini ve fraksiyonlarin kamuoyundaki görüsünü gösterir. Daha fazla bilgi edinmek için herhangi bir degerin üzerine gelin.
+
+UI.Objectives.NationInfoCanvas.Education.Name=Egitim
+UI.Objectives.NationInfoCanvas.Education.Desc=Bir ulusun <h>Egitim</h> degeri, bu ulustaki bir vatandasin ortalama egitim yilina dayali olarak puanlanir. Daha yüksek egitim puanlarina sahip uluslar daha fazla arastirma üretir, asiri propaganda karsisinda daha dirençli olur ve <h>Birlik</h> önceliginden daha az uyum kazanir.
+
+UI.Objectives.NationInfoCanvas.Cohesion.Name=Uyum
+UI.Objectives.NationInfoCanvas.Cohesion.Desc=Bir ulusun <h>Uyum</h> degeri, ulusun halki arasindaki birlik veya çatisma seviyesini temsil eder. Yüksek degerler, çok az sapma veya karsit görüse tolerans gösteren birlesik bir toplumu tanimlar. Orta degerler, hem iç çatismaya hem de saglikli, yaratici bir karsi kültüre sahip çesitli bir toplumu temsil eder. Orta-düsük degerler, yüksek derecede politik kutuplasmayi temsil eder, en düsük degerler ise ulusun halkinin parçalanmis veya kabile seklinde oldugunu gösterir. <h>Yüksek degerler</h> huzursuzlugu kontrol altinda tutar ve ulusun isgale karsi direncini artirir, <h>orta degerler</h> ulusal arastirma üretimine bonus saglar, bu da saglam (ancak daginik) bir fikirler pazarini temsil eder, <h>düsük degerler ise Huzursuzlugu hizla artirir</h>. Uyum, yüksek esitsizlik, anokrasi, çok sayida bölge veya büyük nüfus, ordularin yok edilmesi ve kamuoyunun kontrol noktasi sahiplerinin ideolojisi ile büyük farklar yasanmasi ile azalir. Uyum, savaslar, otokrasi ve <h>Birlik önceligi</h> tarafindan artirilir. <h>Demokrasi</h> de Uyum üzerinde etkili olup, degeri ortalama bir seviyeye çeker.
+
+UI.Objectives.NationInfoCanvas.PublicOpinion.Name=Kamuoyunun Görüsü
+UI.Objectives.NationInfoCanvas.PublicOpinion.Desc=Bu grafik, bu ulustaki kamuoyunun uzaylilara yönelik görüsünü gösterir. Belirli bir ideolojiye destek, ilgili fraksiyona bir etki geliri saglar ve fraksiyon, ulusu kazanma ve kontrol altinda tutma çabalarinda bonuslar alir. <h>Kamu Kampanyasi</h> danisman görevi, görüsü lehinize degistirecektir. Suçlar islemek, görüsü fraksiyonunuzdan uzaklastiracaktir.
+
+UI.Objectives.NationInfoCanvas.PerCapitaGDP.Name=Kisi Basina GSYIH
+UI.Objectives.NationInfoCanvas.PerCapitaGDP.Desc=Bir ulusun GSYIH'si, ya da Gayri Safi Yurtiçi Hasilasi, yillik ekonomik çiktisinin ABD dolari cinsinden ölçüsüdür ve satin alma gücü paritesine göre ayarlanir. Bir ulusun GSYIH'si, ulusun sahip oldugu <h>Kontrol Noktalari</h>ni, ürettigi <h>Yatirim Noktalari</h> sayisini ve sinirlari içindeki bazi görevlerin ne kadar zor oldugunu belirler.
+
+UI.Objectives.NationInfoCanvas.Inequality.Name=Esitsizlik
+UI.Objectives.NationInfoCanvas.Inequality.Desc=Bir ulusun <h>Esitsizlik</h> puani, ulustaki servet ve gelir dagiliminin bir ölçüsüdür. Yüksek degerler, ulusun orta sinifinin pek olmadigi anlamina gelir. Esitsizlik, normal ekonomik faaliyetler (<h>Ekonomi</h> önceligi) sonucu biraz veya yolsuzluk (<h>Yagma</h> önceligi) nedeniyle oldukça fazla büyür. Ulustaki <h>Kaynak Bölgeleri</h> de esitsizlige katkida bulunabilir. Yüksek esitsizlik, <h>Uyumu azaltir</h> çünkü ulus, sahip olanlar ve olmayanlar olarak ikiye ayrilir. Bu, <h>Refah</h> önceligi ile dengelenir.
+
+UI.Objectives.NationInfoCanvas.Tabs.Name=Ekstra Bilgi Sekmeleri
+UI.Objectives.NationInfoCanvas.Tabs.Desc=Buradaki herhangi bir sekmeye tiklayarak ulus hakkinda ek önemli bilgileri görüntüleyebilirsiniz. Bir ulusta kontrol noktaniz oldugunda, <h>Öncelikler</h> sekmesini kullanarak ulusun ekonomik odaklanmasini kontrol edebilirsiniz.
+
+UI.Objectives.NationInfoCanvas.Priorities.Name=Ulus Öncelikleri
+UI.Objectives.NationInfoCanvas.Priorities.NameShort=Öncelikler
+UI.Objectives.NationInfoCanvas.Priorities.Desc=Bu sekme, kontrolünüz altindaki ülkelerde her kontrol noktasi için öncelikler belirlemenize olanak tanir. Bir ülkenin öncelikleri, ülkenin zamanla nasil degisecegini belirleyecektir. Örnegin: Sosyal Yardim’a yatirim yapmak, bir ülkenin Esitsizligini azaltabilir.
+
+UI.Objectives.NationInfoCanvas.PrioritiesInvestmentPoints.Name=Yatirim Puanlari ve Öncelikler
+UI.Objectives.NationInfoCanvas.PrioritiesInvestmentPoints.Desc=Ülkenin Yatirim Puanlari, kontrol noktalari arasinda esit olarak dagitilir ve ardindan her önceligin bireysel ayarlarina göre daha da dagitilir.
+
+UI.Objectives.NationInfoCanvas.PrioritesGDP.Name=GSYIH ve Yatirim Puanlari
+UI.Objectives.NationInfoCanvas.PrioritesGDP.Desc=Bir ülkenin GSYIH’si, ne kadar Yatirim Puanina sahip oldugunu belirler.
+
+UI.Objectives.NationInfoCanvas.PrioritiesBuckets.Name=Öncelikleri Tamamlama
+UI.Objectives.NationInfoCanvas.PrioritiesBuckets.Desc=Yatirim Puanlari, ülkenin öncelik "kafeslerini" doldurur ve tamamen doldugunda bazi etkiler tetiklenir -- örnegin kisi basina GSYIH'da (Ekonomi) bir artis veya yeni bir ordunun konuslandirilmasi (Ordu Kurma).
+
+UI.Objectives.NationInfoCanvas.PrioritesCycler.Name=Öncelikler Döngüleyici
+UI.Objectives.NationInfoCanvas.PrioritesCycler.Desc=Bu noktalari tiklayarak belirli bir öncelige verilen agirligi döndürebilirsiniz. Bu, ülkenin Yatirim Puanlarinin daha fazla kismini o öncelige yönlendirecektir.
+
+UI.Objectives.NationInfoCanvas.PrioritesApplyAcrossTheBoard.Name=Tüm Kontrol Noktalarina Degisiklik Uygula
+UI.Objectives.NationInfoCanvas.PrioritesApplyAcrossTheBoard.Desc=Bir öncelik sütununun üstündeki fraksiyon simgenizi seçerek, o sütunun önceliklerini ülkenizdeki diger kontrol noktalariniza uygulayabilirsiniz.
+
+UI.Objectives.NationInfoCanvas.PrioritesStartingOut.Name=Baslarken
+UI.Objectives.NationInfoCanvas.PrioritesStartingOut.Desc=Birçok öncelik mevcut oldugundan, bunlar arasinda seçim yapmak bunaltici olabilir. Bir ülkenin hangi alanda uzmanlasmasini istediginizi düsünün ve ardindan bu hedefe ulasmaniza yardimci olacak önceliklere odaklanin. Örnegin: Küçük bir ülkenin uzay varliklariniz için Misyon Kontrolü üretmesine odaklanmasini isteyebilir veya büyük bir ülkenin arastirma hizini artirmak için Bilim üretimine odaklanmasini isteyebilirsiniz.
+
+UI.Objectives.NationInfoCanvas.PrioritesNegatives.Name=Ulusal Olumsuzlar
+UI.Objectives.NationInfoCanvas.PrioritesNegatives.Desc=Unutmayin ki, Kargasa, Düsük Birlik ve Yüksek Esitsizlik her zaman bir ülke üzerinde olumsuz etki yapar.
+
+UI.Objectives.NationInfoCanvas.PrioritiesTemplateSelection.Name=Öncelik Sablonlari
+UI.Objectives.NationInfoCanvas.PrioritiesTemplateSelection.Desc=Buradan açilir menüden farkli öncelik sablonlari seçebilirsiniz.
+
+UI.Objectives.NationInfoCanvas.PrioritesDirectInvestment.Name=Dogrudan Yatirim
+UI.Objectives.NationInfoCanvas.PrioritesDirectInvestment.Desc=Dogrudan Yatirim penceresine eriserek, bir ülkenin gelisimini dogrudan finanse etmek için Para ve Etki harcayabilirsiniz.
+
+UI.Objectives.NationInfoCanvas.AbandonNation.Name=Ülkeyi Terket
+UI.Objectives.NationInfoCanvas.AbandonNation.Desc=Herhangi bir nedenle bir ülkeyi kontrol etmek istemiyorsaniz, "Ülkeyi Terket" seçenegini seçerek tüm kontrol noktalarinizi terk edebilirsiniz. Bu seçenek, kontrol noktasi limitinizi astiginizda ve gelen cezalardan kaçinmak istediginizde faydalidir.
+
+UI.Objectives.NationInfoCanvas.DirectInvest.Name=Ülkeye Dogrudan Yatirim
+UI.Objectives.NationInfoCanvas.DirectInvest.NameShort=Yatirim
+UI.Objectives.NationInfoCanvas.DirectInvest.Desc=Burada, ülkenin yatirim puani gelirini hizli etkiler için para ve etki harcayarak yansitabilirsiniz.
+
+UI.Objectives.NationInfoCanvas.NuclearWeapons.Name=Kirmizi Dügme
+UI.Objectives.NationInfoCanvas.NuclearWeapons.Desc=Bir ülke üzerinde yürütme kontrolüne sahipseniz, burada görünen bir dügme ile düsmanlarina nükleer saldirilar baslatabilirsiniz. Bu saldirilar bölgeler ve altyapi üzerinde korkunç zararlar verir.
+
+UI.Objectives.NationInfoCanvas.Policy.Name=Politika Belirleme Üzerine Mouseover
+UI.Objectives.NationInfoCanvas.Policy.Desc=Bir ülke üzerinde yürütme kontrolüne sahipseniz, bir danismani <h>Ulusal Politika Belirleme</h> görevine gönderebilirsiniz. Ulusal politikalari belirleyerek, ülkeleri savasa yönlendirebilir, federasyonlara katilmalarini veya ayrilmalarini saglayabilir, toprak verebilir ve daha fazlasini yapabilirsiniz. Bu simgenin üzerine gelerek hangi ulusal politikalarin mevcut oldugunu görebilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.AlienCouncilors.Name=Uzaylilar
+UI.Objectives.IntelScreenCanvas.AlienCouncilors.NameShort=Uzaylilar
+UI.Objectives.IntelScreenCanvas.AlienCouncilors.Desc=Bu bölüm, Dünya'da tespit ettiginiz bireysel uzaylilari gösterir.
+
+UI.Objectives.IntelScreenCanvas.AlienEvents.Name=Uzayli Olaylari
+UI.Objectives.IntelScreenCanvas.AlienEvents.Desc=Bu bölüm, uzaylilarla ilgili tüm olaylari gösterir. Bir olaya tiklayarak kamerayi olayin bulundugu yere odaklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.AlienSites.Name=Uzayli Siteleri
+UI.Objectives.IntelScreenCanvas.AlienSites.Desc=Bu bölüm, uzaylilarin bilinen tüm yerlerini gösterir. Bir siteye tiklayarak kamerayi sitenin bulundugu yere odaklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.AlienFleets.Name=Uzayli Filoslari
+UI.Objectives.IntelScreenCanvas.AlienFleets.Desc=Bu bölüm, bilinen tüm uzayli filoslarini listeler. Bir filoya tiklayarak kamerayi filonun bulundugu yere odaklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.AlienHabs.Name=Uzayli Yerleskeleri
+UI.Objectives.IntelScreenCanvas.AlienHabs.Desc=Bu bölüm, bilinen tüm uzayli yerleskelerini listeler. Bir yerleskeye tiklayarak kamerayi yerleskenin bulundugu yere odaklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.AlienThreat.NameShort=Tehdit
+UI.Objectives.IntelScreenCanvas.AlienThreat.Name=Tahmin Edilen Uzayli Tehdit Düzeyi
+UI.Objectives.IntelScreenCanvas.AlienThreat.Desc=Bu panel, uzaylilarin bizim fraksiyonumuzu ne kadar tehdit olarak gördügüne dair istihbarat bölümümüzün en iyi tahminini temsil eder. Bu tahmin, uzaylilari destekleyen gruplari ve Günes Sistemi'ndeki görünür uzayli etkinliklerini izlememize dayanmaktadir.<br/><br/>Uzaylilara veya onlarin vekillerine karsi düsmanca hareketlerin veya büyük bir görünür uzay varliginin, onlarin endisesini artiracagini düsünüyoruz ve uyari monitörü maksimum seviyeye ulastiginda uzaylilarin Dünya'daki ve uzaydaki çikarlarimiza karsi misilleme yapmasini bekleyebiliriz. Ayrica, bir süre dogrudan karsilarina çikmazsak ilgilerini kaybedebilirler.<br/><br/>Analistlerimiz bunun kusursuz bir tahmin olmadigini vurguluyor. Uzaylilar dogrudan bizimle harekete geçtiginde veya onlardan biriyle dogrudan konustugumuzda tahminlerimizi düzeltecegiz.
+
+UI.Objectives.IntelScreenCanvas.FactionOverview.Name=Fraksiyon Genel Görünümü
+UI.Objectives.IntelScreenCanvas.FactionOverview.NameShort=Fraksiyonlar
+UI.Objectives.IntelScreenCanvas.FactionOverview.Desc=Bu ekran, kesfettiginiz insan fraksiyonlarina dair detaylari gösterir.
+
+UI.Objectives.IntelScreenCanvas.FactionCouncilors.Name=Fraksiyon Danismanlari
+UI.Objectives.IntelScreenCanvas.FactionCouncilors.Desc=Bu sekme, kesfedilen danismanlar hakkinda bilgi gösterir. Tüm fraksiyon sekmelerini bir kerede degistirmek için herhangi bir sekmeye shift-tiklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.FactionResources.Name=Fraksiyon Kaynaklari
+UI.Objectives.IntelScreenCanvas.FactionResources.Desc=Bu sekme, bir fraksiyonun kaynaklari ve gelirleri hakkinda herhangi bir bilgiyi gösterir.
+
+UI.Objectives.IntelScreenCanvas.FactionObjectives.Name=Fraksiyon Hedefleri
+UI.Objectives.IntelScreenCanvas.FactionObjectives.Desc=Bu sekme, fraksiyonun hedeflerini gösterir, eger onlari kesfetmisseniz.
+
+UI.Objectives.IntelScreenCanvas.FactionRelations.Name=Fraksiyon Iliskileri
+UI.Objectives.IntelScreenCanvas.FactionRelations.Desc=Bu sekme, fraksiyonlar arasi iliskileri gösterir.
+
+UI.Objectives.IntelScreenCanvas.FactionTech.Name=Fraksiyon Teknolojisi
+UI.Objectives.IntelScreenCanvas.FactionTech.Desc=Bu sekme, fraksiyon arastirmalari hakkinda elde edilen istihbarati gösterir. Tüm fraksiyon sekmelerini bir kerede degistirmek için herhangi bir sekmeye shift-tiklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.GlobalPublicOpinion.Name=Kamuoyu
+UI.Objectives.IntelScreenCanvas.GlobalPublicOpinion.NameShort=Istatistikler
+UI.Objectives.IntelScreenCanvas.GlobalPublicOpinion.Desc=Burada farkli fraksiyonlar ve onlarin hedefleri için kamu destegini görebilirsiniz. Küresel kamu destegi, her fraksiyon için etki gelirine katkida bulunur.
+UI.Objectives.IntelScreenCanvas.GlobalWorldData.Name=Dünya Verileri
+UI.Objectives.IntelScreenCanvas.GlobalWorldData.Desc=Bu bölüm, Dünya ve Günes Sistemi'ndeki temel demografik verileri gösterir.
+
+UI.Objectives.IntelScreenCanvas.GlobalCommodities.Name=Emtialar
+UI.Objectives.IntelScreenCanvas.GlobalCommodities.Desc=Bu bölüm, farkli kaynaklarin mevcut degerlerini gösterir.
+
+UI.Objectives.IntelScreenCanvas.GlobalEnvironment.Name=Çevre
+UI.Objectives.IntelScreenCanvas.GlobalEnvironment.Desc=Bu bölüm, Dünya'nin genel saglik durumu hakkinda bilgi içerir.
+
+UI.Objectives.IntelScreenCanvas.GlobalWars.Name=Küresel Savaslar
+UI.Objectives.IntelScreenCanvas.GlobalWars.Desc=Bu bölüm, Dünya'nin uluslari arasinda devam eden savaslarin listesini içerir.
+
+UI.Objectives.IntelScreenCanvas.Atrocities.Name=Kötülükler
+UI.Objectives.IntelScreenCanvas.Atrocities.Desc=Bu bölüm, her fraksiyonun isledigi Kötülüklerin kaydini içerir. Kötülükler, kitlesel ölüme veya aciya neden olan eylemlerdir ve sorumlu fraksiyonlar destekçilerini kaybederler. Kötülükler kamuoyunu etkiler ve birikir; bir fraksiyon daha fazla kötülük isledikçe, kamuoyu cezasi dramatik sekilde artar.
+
+UI.Objectives.IntelScreenCanvas.SpacebodySorting.Name=Siralama
+UI.Objectives.IntelScreenCanvas.SpacebodySorting.NameShort=Istihbarat
+UI.Objectives.IntelScreenCanvas.SpacebodySorting.Desc=Bu panel, Günes Sistemi'ndeki her uzay cismi ve her biri hakkinda bilgi listesini içerir. Listeyi bu metriklere göre siralamak için herhangi bir bilgi alanina tiklayin.
+
+UI.Objectives.IntelScreenCanvas.SpacebodyHabCount.Name=Desteklenen Yerleske Limiti
+UI.Objectives.IntelScreenCanvas.SpacebodyHabCount.Desc=Bu deger, uzay cisminin destekleyebilecegi maksimum yerleske sayisini gösterir.
+
+UI.Objectives.IntelScreenCanvas.SpacebodyResources.Name=Mevcut Kaynaklar
+UI.Objectives.IntelScreenCanvas.SpacebodyResources.Desc=Bu alan, uzay cisminin madencilige uygun kaynaklarini gösterir. Bir uzay cismini sonda veya uzay araci ile kesfetmediginiz sürece, çiktisina dair sadece tahminleriniz olur. Sevronlar bolluk ölçüsünü belirtir; bir "?" kaynaklarin sadece olasi varligini gösterir ve bir bos sembol kaynaklarin mevcut olmadigini belirtir.
+
+UI.Objectives.IntelScreenCanvas.SpacebodyLaunchWindow.Name=Dünya Baslangiç Penceresi
+UI.Objectives.IntelScreenCanvas.SpacebodyLaunchWindow.Desc=Bu deger, uzay cismini Dünya'dan ziyaret etmek için gereken zamanin artisini veya azalmasini gösterir; bu, nesnelerin kendi yörüngelerindeki degisken mesafeden kaynaklanir.
+
+UI.Objectives.IntelScreenCanvas.SpacebodyGoto.Name=Nesneye Git
+UI.Objectives.IntelScreenCanvas.SpacebodyGoto.Desc=Buraya tiklayarak kamerayi uzay cisminin bulundugu yere odaklayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.Name=Transfer Planlayici
+UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.NameShort=Transferler
+UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.Desc=Bu ekran, kontrol ettiginiz filolarin veya gelecekte insa etmeyi düsündügünüz gemilerin tasarimlarini planlamak ve farkli yörünge seçeneklerini kesfetmek içindir. Belirli bir transferin belirli hizlanma ve Delta-V degerleriyle ne kadar sürecegini görmek için asagidaki degerleri ayarlayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.TransferPlannerOrigin.Name=Mensei ve Varis Noktasi
+UI.Objectives.IntelScreenCanvas.TransferPlannerOrigin.Desc=Filonun mensei ve varis noktasini buradan ayarlayin. Sagda, mevcut tüm uzay cisimleri ve hedefler ile bir liste görünecektir. Filonuzun mevcut konumunu kullanabilir veya herhangi iki noktayi seçerek gelecekteki bir transferi planlayabilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.TransferPlannerAccel.Name=Hizlanma ve Delta-V
+UI.Objectives.IntelScreenCanvas.TransferPlannerAccel.Desc=Hizlanma ve Delta-V buradan ayarlanir. Bu degerler, bir filodaki gemilerin motorlari tarafindan belirlenir. Mevcut geminizin motorlarindaki degerleri kullanabilirsiniz. Veya, insa etmeyi planladiginiz bir gemiyi temsil etmek için sayilari ayarlayarak yörüngelerdeki degisiklikleri gözlemleyebilirsiniz.
+
+UI.Objectives.IntelScreenCanvas.TransferPlannerThrustProfile.Name=Itme Profili Ayarlama
+UI.Objectives.IntelScreenCanvas.TransferPlannerThrustProfile.Desc=Bu bölümde degisiklikler yaparak, herhangi bir itme profili ile yörüngeye varis süresi ve Delta-V kullanimindaki degisiklikleri gözlemleyebilirsiniz.
+
+UI.Objectives.HabScreenCanvas.HabInfo.Name=Yerleskeler
+UI.Objectives.HabScreenCanvas.HabInfo.NameShort=Yerleskeler
+UI.Objectives.HabScreenCanvas.HabInfo.Desc=Yerleskeler veya <h>Yerleskeler</h>, iki biçimde gelir; <h>Istasyonlar</h> uzay cisimlerini dönerken, <h>Üsler</h> ise uzay cisimlerinde insa edilir. <br/><br/>Burada, Günes Sistemi'ndeki yerleskeler hakkinda bilgi görüntüleyebilirsiniz. Bilgiler arasinda fraksiyon sahibi, nüfus, gelir ve bakim maliyetleri, operasyonel durum ve bir yerleskenin açik modül yuvalari olup olmadigi bulunur.
+
+UI.Objectives.HabScreenCanvas.Bases.Name=Üsler
+UI.Objectives.HabScreenCanvas.Bases.Desc=Bu kutu isaretlenmisse, üsler alttaki listede gösterilecektir. Hem istasyonlar hem de üsler ayni anda gösterilebilir.
+
+UI.Objectives.HabScreenCanvas.Stations.Name=Istasyonlar
+UI.Objectives.HabScreenCanvas.Stations.NameShort=Istasyonlar
+UI.Objectives.HabScreenCanvas.Stations.Desc=Bu kutu isaretlenmisse, istasyonlar alttaki listede gösterilecektir.
+
+UI.Objectives.HabScreenCanvas.FactionFilter.Name=Fraksiyon Filtre
+UI.Objectives.HabScreenCanvas.FactionFilter.Desc=Bu açilir menüyü kullanarak yerleskeleri ve istasyonlari sahip fraksiyonlarina göre filtreleyebilirsiniz.
+
+UI.Objectives.HabScreenCanvas.LocationFilter.Name=Konum Filtre
+UI.Objectives.HabScreenCanvas.LocationFilter.Desc=Bu açilir menüyü kullanarak yerleskeleri ve istasyonlari Günes Sistemi'ndeki konumlarina göre filtreleyebilirsiniz.
+
+UI.Objectives.HabScreenCanvas.ManageHabBtn.Name=Yerleskeyi Yönet
+UI.Objectives.HabScreenCanvas.ManageHabBtn.Desc=Kontrol ettiginiz bir Yerleskeyi veya Istasyonu seçtikten sonra, burada görünen Yönet butonunu kullanarak modül ekleme veya degistirme gibi degisiklikler yapabilirsiniz.
+
+UI.Objectives.HabScreenCanvas.HabManagementInfo.Name=Yerleske Genel Bilgisi
+UI.Objectives.HabScreenCanvas.HabManagementInfo.NameShort=Yerleskeler
+UI.Objectives.HabScreenCanvas.HabManagementInfo.Desc=Bu bölüm, yerleskenin genel verilerini gösterir.
+
+UI.Objectives.HabScreenCanvas.HabManagementModuleInfo.Name=Seçilen Modül Verileri
+UI.Objectives.HabScreenCanvas.HabManagementModuleInfo.Desc=Sagdaki büyük pencerede herhangi bir modüle tiklayarak modülün verilerini burada görüntüleyebilirsiniz.
+
+UI.Objectives.HabScreenCanvas.HabManagementModuleList.Name=Mevcut Modül Listesi
+UI.Objectives.HabScreenCanvas.HabManagementModuleList.Desc=Bu liste, bu yerleske için mevcut modüllerin listesini içerir. Daha fazla ayrinti görmek için sol tiklayin. Bir modülü yerleskeye eklemek ve insaata baslamak için sürükleyip birakin veya sag tiklayin.
+
+UI.Objectives.HabScreenCanvas.HabManagementModuleClick.Name=Bir Modüle Tiklayin
+UI.Objectives.HabScreenCanvas.HabManagementModuleClick.Desc=Bu modüle sol tiklamak, modül hakkinda daha fazla ayrinti görmenizi saglar.
+
+UI.Objectives.FleetScreenCanvas.FleetOverview.Name=Filo Ekrani
+UI.Objectives.FleetScreenCanvas.FleetOverview.NameShort=Filolar
+UI.Objectives.FleetScreenCanvas.FleetOverview.Desc=Bu ekran, tüm filo ve gemi verilerinizi gösterir ve gemi tasarimi ve insasini yönetmek için bir merkez olarak hizmet eder.
+
+UI.Objectives.FleetScreenCanvas.FleetCombat.Name=Filo Savas Gücü
+UI.Objectives.FleetScreenCanvas.FleetCombat.Desc=Bu degerler, filodaki gemi sayisini ve filonun genel savas gücünü gösterir.
+
+UI.Objectives.FleetScreenCanvas.FleetOperations.Name=Filo Operasyonlari
+UI.Objectives.FleetScreenCanvas.FleetOperations.Desc=Bu bölüm, filonun konumunu ve su anda gerçeklestirdigi herhangi bir operasyon veya transferi gösterir.
+
+UI.Objectives.FleetScreenCanvas.FleetCapabilities.Name=Filo Kapasiteleri
+UI.Objectives.FleetScreenCanvas.FleetCapabilities.Desc=Bu degerler, filonuzun hizlanmasini ve ∆V bütçesini gösterir. ∆V, uzay seyahatindeki yakiti temsil eder ve hiz degisikligi yapabilme yetenegini belirtir.
+
+UI.Objectives.FleetScreenCanvas.FleetAbilities.Name=Filo Yetenekleri
+UI.Objectives.FleetScreenCanvas.FleetAbilities.Desc=Bu simgeler, filonuzun hangi yeteneklere sahip oldugunu gösterir.
+
+UI.Objectives.FleetScreenCanvas.FleetGoto.Name=Filoya Git
+UI.Objectives.FleetScreenCanvas.FleetGoto.Desc=Buraya tiklayarak kamerayi filonun bulundugu yere odaklayabilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.FleetToggleAll.Name=Tüm Filolari Göster
+UI.Objectives.FleetScreenCanvas.FleetToggleAll.Desc=Bu onay kutusunu degistirerek düsman filolarini listede görüntüleyebilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.FleetExpand.Name=Filo Gemilerini Görüntüle
+UI.Objectives.FleetScreenCanvas.FleetExpand.Desc=Listede bir filonun ad alanina tiklayarak filodaki tüm gemileri gösteren görünümü genisletebilirsiniz. Listelenen herhangi bir gemiye tiklayarak o geminin ayrintilarini görüntüleyebilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.ClassOverview.Name=Gemi Siniflari Genel Görünümü
+UI.Objectives.FleetScreenCanvas.ClassOverview.NameShort=Siniflar
+UI.Objectives.FleetScreenCanvas.ClassOverview.Desc=Bu ekran, tasarladiginiz tüm gemi siniflarini gösterir.
+
+UI.Objectives.FleetScreenCanvas.ClassBuild.Name=Bir Gemi Insa Et
+UI.Objectives.FleetScreenCanvas.ClassBuild.Desc=Gemilerinizi ve filolarinizi insa etmek için kullanilan insaat ekranini açmak için buraya tiklayin.
+
+UI.Objectives.FleetScreenCanvas.ClassUpgrade.Name=Mevcut Tasarimi Degistir veya Yükselt
+UI.Objectives.FleetScreenCanvas.ClassUpgrade.Desc=Mevcut tasarimi degistirmek ve iyilestirmeler yapmak için buraya tiklayin.
+
+UI.Objectives.FleetScreenCanvas.ClassDesign.Name=Yeni Bir Sinif Tasarla
+UI.Objectives.FleetScreenCanvas.ClassDesign.Desc=Yeni bir gemi sinifi tasarlamak için gemi tasarimcisinda buraya tiklayin.
+
+UI.Objectives.FleetScreenCanvas.Obsolete.Name=Eski Tasarim
+UI.Objectives.FleetScreenCanvas.Obsolete.Desc=Bir tasarimi "Eski" olarak isaretlemek, tasarimin insaat yöneticisinde mevcut tasarimlar listesinde görünmesini engeller. Bir sinifin gemileri insa edilmedikçe veya siparis edilmedikçe tasarimi tamamen silebilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.DetailSelectShip.Name=Bir Gemi Seç
+UI.Objectives.FleetScreenCanvas.DetailSelectShip.NameShort=Gemiler
+UI.Objectives.FleetScreenCanvas.DetailSelectShip.Desc=Bu sütun, tüm gemilerin listesini gösterir. Bu listede herhangi bir gemiye sol tiklayarak o geminin ayrintilarini görüntüleyebilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.DetailPrimarySystems.Name=Gemi Birincil Sistemleri
+UI.Objectives.FleetScreenCanvas.DetailPrimarySystems.Desc=Bu bölüm, gemideki tüm birincil sistemleri içerir. Asagidaki kutuda herhangi bir sistem hakkinda daha fazla ayrinti görmek için sol tiklayin.
+
+UI.Objectives.FleetScreenCanvas.DetailMissionSystems.Name=Gemi Misyon Sistemleri
+UI.Objectives.FleetScreenCanvas.DetailMissionSystems.Desc=Bu sütun, gemideki tüm misyon sistemlerini gösterir. Bu sütunun altindaki kutuda herhangi bir sistem hakkinda daha fazla ayrinti görmek için sol tiklayin.
+
+UI.Objectives.FleetScreenCanvas.DetailDamage.Name=Gemi Hasar Raporu
+UI.Objectives.FleetScreenCanvas.DetailDamage.Desc=Bu bölüm, gemideki herhangi bir sert noktadaki hasar durumunu içerir. Herhangi bir sert noktaya üzerine gelerek daha fazla ayrinti görebilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.DetailToggleShowAll.Name=Tüm Gemileri Görüntüle
+UI.Objectives.FleetScreenCanvas.DetailToggleShowAll.Desc=Bu onay kutusunu degistirerek düsman gemilerini listede görüntülemeyi etkinlestirebilirsiniz.
+UI.Objectives.FleetScreenCanvas.ConstructSelectShip.Name=Bir Gemi Sinifi Seç
+UI.Objectives.FleetScreenCanvas.ConstructSelectShip.NameShort=Insa Et
+UI.Objectives.FleetScreenCanvas.ConstructSelectShip.Desc=Bu liste, tüm gemi sinifi tasarimlarinizi ve her gemiyi insa etmenin maliyetlerini içerir. Daha fazla ayrinti görmek ve gemiyi insaat kuyruguna eklemek için bir gemi sinifina tiklayin.
+
+UI.Objectives.FleetScreenCanvas.ConstructAddToQueue.Name=Kuyruga Ekle
+UI.Objectives.FleetScreenCanvas.ConstructAddToQueue.Desc=Bir gemi sinifi seçtikten sonra, buraya tiklayarak onu bir istasyonun insaat kuyruguna ekleyebilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.ConstructBoostToggle.Name=Hizlandirmayi Aç/Kapat
+UI.Objectives.FleetScreenCanvas.ConstructBoostToggle.Desc=Bu onay kutusunu degistirerek gemi insa merkezinin eksik uzay kaynaklarini Dünya'dan tasimak için hizlandirma ve para kullanmasini saglayabilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.ConstructBuildData.Name=Insaat Verileri
+UI.Objectives.FleetScreenCanvas.ConstructBuildData.Desc=Bu alan, insa edilen geminin mevcut durumunu gösterir.
+
+UI.Objectives.FleetScreenCanvas.ConstructQueueUp.Name=Kuyruk Pozisyonunu Degistir
+UI.Objectives.FleetScreenCanvas.ConstructQueueUp.Desc=Birden fazla gemi kuyrukta ise, gemi insaat sirasini ayarlamak için bu oklari kullanabilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.ConstructQueueRemove.Name=Kuyruktan Gemi Çikar
+UI.Objectives.FleetScreenCanvas.ConstructQueueRemove.Desc=Seçili bir gemiyi kuyruktan çikarmak istiyorsaniz buraya tiklayabilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.DesignOverview.Name=Gemi Tasarimcisi
+UI.Objectives.FleetScreenCanvas.DesignOverview.NameShort=Tasarim
+UI.Objectives.FleetScreenCanvas.DesignOverview.Desc=Bu ekran, gemi tasarimlarinizi olusturdugunuz yerdir.
+
+UI.Objectives.FleetScreenCanvas.DesignSelectClass.Name=Bir Gövde Seç
+UI.Objectives.FleetScreenCanvas.DesignSelectClass.Desc=Öncelikle, listeden bir gövde seçin. Bu, geminin düzenini ve ekleyebileceginiz silahlar ve modüllerin sayisini belirler.
+
+UI.Objectives.FleetScreenCanvas.DesignNoseWep.Name=Burun Silahlari
+UI.Objectives.FleetScreenCanvas.DesignNoseWep.Desc=Bu sekme, mevcut burun silahlarini içerir. Daha fazla ayrinti görmek için bir modüle sol tiklayin. Modülü tasarima eklemek için sag tiklayin veya uygun sekil altina sürükleyip birakin. Burun silahlari, geminin "üstünden" sinirli bir yayda ates eder.<br/><br/><h>Mevcut modüllerin listesine erismek için silah alt sekmelerine sag tiklayin.</h>
+
+UI.Objectives.FleetScreenCanvas.DesignModuleData.Name=Seçilen Modül Verileri
+UI.Objectives.FleetScreenCanvas.DesignModuleData.Desc=Bu alan, sol tikladiginiz herhangi bir modül hakkinda ek ayrintilar içerir.
+
+UI.Objectives.FleetScreenCanvas.DesignHullWep.Name=Gövde Silahlari
+UI.Objectives.FleetScreenCanvas.DesignHullWep.Desc=Bu sekmeye sol tiklayarak mevcut tüm gövde silahlarini görüntüleyebilirsiniz. Gövde silahlari, geminin etrafindaki tüm yönlerde tam ates alanina sahiptir, ancak burun silahlarindan daha az güçlüdür.
+
+UI.Objectives.FleetScreenCanvas.DesignUtility.Name=Yardimci Modüller
+UI.Objectives.FleetScreenCanvas.DesignUtility.Desc=Bu sekme, mevcut tüm yardimci modülleri içerir. Yardimci modüller, gemiye ek islevsellik veya yetenekler saglar.<br/><br/><h>Mevcut modüllerin listesine erismek için modül sekmelerine sag tiklayin.</h>
+
+UI.Objectives.FleetScreenCanvas.DesignRadiator.Name=Radyatörler
+UI.Objectives.FleetScreenCanvas.DesignRadiator.Desc=Radyatörler gereklidir ve geminin içindeki sicakligi islevsel seviyede tutar. <h>Isi düzgün bir sekilde yönetilmezse, gemi iç hasar alir ve sonunda felaket bir ariza yasar.</h>
+
+UI.Objectives.FleetScreenCanvas.DesignBattery.Name=Piller
+UI.Objectives.FleetScreenCanvas.DesignBattery.Desc=Piller gereklidir ve enerji depolar, böylece diger sistemler talep üzerine bu enerjiyi kullanabilir.
+
+UI.Objectives.FleetScreenCanvas.DesignPower.Name=Güç Üniteleri
+UI.Objectives.FleetScreenCanvas.DesignPower.Desc=Güç üniteleri gereklidir ve diger sistemleriniz için enerji üretir.
+
+UI.Objectives.FleetScreenCanvas.DesignDrive.Name=Motorlar
+UI.Objectives.FleetScreenCanvas.DesignDrive.Desc=Motorlar gereklidir ve geminizi uzayda hareket ettirir. Bir motor modülünde alti itici olabilir, her biri geminin itisini artirir. Ayrica, daha fazla ∆V saglamak için itici tanklarinin sayisini artirabilirsiniz.
+
+UI.Objectives.FleetScreenCanvas.DesignArmor.Name=Zirh Modülleri
+UI.Objectives.FleetScreenCanvas.DesignArmor.Desc=Zirh modülleri geminizi savasta korur. 3 zirh yuvasi vardir: burun, yan ve kuyruk. Yan zirh, daha büyük bir yüzey alani kapladigi için burun veya kuyruk zirhindan çok daha agirdir.
+
+UI.Objectives.FleetScreenCanvas.DesignShipData.Name=Gemi Verileri
+UI.Objectives.FleetScreenCanvas.DesignShipData.Desc=Bu bölüm, tasarladiginiz geminin genel özelliklerini gösterir ve herhangi bir modül degisikligi ile güncellenir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipMass.Name=Gemi Kütlesi
+UI.Objectives.FleetScreenCanvas.DesignDataShipMass.NameShort=Istatistikler
+UI.Objectives.FleetScreenCanvas.DesignDataShipMass.Desc=Kütle, geminin manevra kabiliyetini etkiler. Daha yüksek kütle, Delta-V ve dönüs hizini azaltir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipCruiseAccel.Name=Yolculuk Hizlanmasi
+UI.Objectives.FleetScreenCanvas.DesignDataShipCruiseAccel.Desc=Bu, geminin strateji katmaninda hizini ne kadar hizli degistirebilecegini gösterir. Daha yüksek yolculuk hizlanmalari, gemilerin bir uzay cisminin yerçekimini asmasina ve varis noktasina daha dogrudan yollar almasina izin verir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipCombatAccel.Name=Savas Hizlanmasi
+UI.Objectives.FleetScreenCanvas.DesignDataShipCombatAccel.Desc=Bu, geminin savas katmaninda hizini ne kadar hizli degistirebilecegini gösterir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipDV.Name=Delta-V
+UI.Objectives.FleetScreenCanvas.DesignDataShipDV.Desc=Delta-V, kilometre/saniye cinsinden ölçülen, bir geminin nereye gidebilecegini ve ne kadar hizli gidebilecegini belirleyen kritik bir istatistiktir. Daha fazla itici, Delta-V'yi artirir. Gemideki daha fazla kütle, bunu azaltir. Verimli motorlar (yüksek atis hizi degeri olan) ayni itisi saglamak için daha az itici kullanir.<br/><br/>Delta-V'si 5 kps'ten az olan gemiler, Dünya yörüngesinden Ay'a ulasmada zorluk çekebilir. Delta-V'si 10 kps'ten az olan gemiler, Dünya'dan gezegenler arasi transferleri güvenilir bir sekilde gerçeklestiremeyebilir. Dis gezegenlere seyahatler veya savasta agir manevra yapacak gemiler daha fazla Delta-V gerektirebilir. Bazi durumlarda, düsük Delta-V'ye sahip gemiler, ayrilmadan önce gezegenlerin uygun hizalanmasini beklemek zorunda kalabilirler; bu, bir firlatma penceresi olarak adlandirilir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipTurnRate.Name=Dönüs Hizi
+UI.Objectives.FleetScreenCanvas.DesignDataShipTurnRate.Desc=Bu, geminizin savasta yönünü ne kadar hizli degistirebilecegini gösterir. Bu deger, geminizin uzunluguna ve kütlesine baglidir; diger her sey esit oldugunda, daha kisa gemiler daha hizli döner.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipHeatSink.Name=Isi Sogutucu Kapasitesi
+UI.Objectives.FleetScreenCanvas.DesignDataShipHeatSink.Desc=Isi sogutucular, geminin savunmasiz radyatörleri savasta geri çekildiginde geminin isi yönetimini geçici olarak saglar. Geminin sistemlerinden çikan atik isi, bu sogutuculara bosaltilir ve güvenli bir sekilde atilana kadar depolanir. Isi sogutucularin kapasitesi, Gigajoule cinsinden ölçülür; daha yüksek degerler geminin radyatörlerini uzatmadan daha uzun süre savasmasina izin verir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipBattery.Name=Pil Kapasitesi
+UI.Objectives.FleetScreenCanvas.DesignDataShipBattery.Desc=Geminin pilleri, güç ünitesinden aldigi enerjiyi birçok silah sistemi için depolar; bu, güç ünitesi hasar gördügünde veya geminin motoru aktif oldugunda enerji saglamak için kullanilir. Daha gelismis piller, savas sirasinda yeniden sarj olabilir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipCost.Name=Maliyet
+UI.Objectives.FleetScreenCanvas.DesignDataShipCost.Desc=Bu, bu gemiyi insa etmek için gereken uzay kaynaklari maliyetidir. Kaynaklar Dünya'da kolayca bulunabiliyorsa, gemi insa merkezlerinde hizlandirma ve para kaynaklarini yerine koyabilirsiniz, ancak bu teslimat beklerken tamamlanma süresini uzatacaktir.
+
+UI.Objectives.FleetScreenCanvas.DesignDataShipBuildTime.Name=Insaat Süresi
+UI.Objectives.FleetScreenCanvas.DesignDataShipBuildTime.Desc=Bu, tüm gerekli malzemeler gemi insa merkezinde oldugunda gemiyi insa etmek için gereken süredir. Daha büyük gemi insa merkezleri insaat süresini kisaltir.
+
+UI.Objectives.FleetScreenCanvas.DesignSave.Name=Tasarimi Kaydet
+UI.Objectives.FleetScreenCanvas.DesignSave.Desc=Gemi sinifinizi tasarlamayi bitirdiginizde, tasarimi kaydetmek için buraya tiklayin. Bu, tamamlanmamis tasarimlar için kullanilamaz.
+
+UI.Objectives.FleetScreenCanvas.DesignModuleWeapons.Name=Silahlar Egitimi
+UI.Objectives.FleetScreenCanvas.DesignModuleWeapons.Desc=
+
+UI.Objectives.FleetScreenCanvas.DesignModuleDrive.Name=Motorlar Egitimi
+UI.Objectives.FleetScreenCanvas.DesignModuleDrive.Desc=
+
+UI.Objectives.FleetScreenCanvas.DesignModulePower.Name=Güç Ünitesi Egitimi
+UI.Objectives.FleetScreenCanvas.DesignModulePower.Desc=
+
+UI.Objectives.FleetScreenCanvas.DesignModuleRadiator.Name=Radyatör Egitimi
+UI.Objectives.FleetScreenCanvas.DesignModuleRadiator.Desc=
+
+UI.Objectives.FleetScreenCanvas.DesignModuleHeatSink.Name=Isi Sogutucu Egitimi
+UI.Objectives.FleetScreenCanvas.DesignModuleHeatSink.Desc=
+
+UI.Objectives.FleetScreenCanvas.DesignModuleBattery.Name=Piller Egitimi
+UI.Objectives.FleetScreenCanvas.DesignModuleBattery.Desc=
+
+UI.Objectives.ResearchScreenCanvas.PrimaryGlobal.Name=Küresel Arastirma
+UI.Objectives.ResearchScreenCanvas.PrimaryGlobal.NameShort=Arastirma
+UI.Objectives.ResearchScreenCanvas.PrimaryGlobal.Desc=Yabancilarin gelisi, bilim toplulugunda birçok yeni fikri tetikledi. Arastirma ekrani, kolektif küresel arastirma çabalarindaki ilerlemeyi ve fraksiyonunuzun yürüttügü özel projeleri gösterir.<br/><br/>Üst siradaki üç pasta grafik, insanlik arasinda paylasilacak genis bilimsel ilkeler üzerine yapilan arastirmalari açiklar. Tüm fraksiyonlar, her birine katkida bulunabilir. Belirli bir çabaya en fazla katkida bulunan fraksiyon, bir sonraki arastirma konusunu seçebilir.
+
+UI.Objectives.ResearchScreenCanvas.PrimaryEngineering.Name=Konsey Mühendislik Projeleri
+UI.Objectives.ResearchScreenCanvas.PrimaryEngineering.Desc=Ikinci siradaki pasta grafikler, fraksiyonunuzun projelerini temsil eder. Küresel arastirmalardan farkli olarak, bunlar fraksiyonunuza özeldir ancak arastirma gelirlerinizi de tüketir.<br/><br/>Projeler, kaynaklar veya yeni gemi veya yasam modülleri gibi somut faydalar saglar.<br/><br/>Proje uygunlugu esas olarak küresel arastirmanin tamamlanma durumuna baglidir; küresel arastirmalara ne kadar katkida bulunursaniz, tetikledigi projelere hizli erisim olasiliginiz o kadar artar. Birden fazla projeyi ayni anda yürütmek için proje saglayan org ve yasam modüllerini edinmelisiniz.
+
+UI.Objectives.ResearchScreenCanvas.PrimaryCycler.Name=Arastirma Öncelik Döngüsü
+UI.Objectives.ResearchScreenCanvas.PrimaryCycler.Desc=Bu, öncelik döngüsüdür; dolu kareleri artirmak veya azaltmak için sola veya saga tiklayin. Arastirma geliriniz, her projedeki dolu karelerin sayisina göre orantili olarak harcanir. Ayni anda birden fazla projeye katkida bulunarak arastirma bonuslari elde edersiniz.
+
+UI.Objectives.ResearchScreenCanvas.PrimaryRPQuantity.Name=Arastirma Degerleri
+UI.Objectives.ResearchScreenCanvas.PrimaryRPQuantity.Desc=Bu, bu projeye harcanan arastirma gelirini ve tamamlanma ne kadar yakin oldugunu gösterir.
+
+UI.Objectives.ResearchScreenCanvas.PrimaryDetails.Name=Teknoloji Ayrintilari
+UI.Objectives.ResearchScreenCanvas.PrimaryDetails.Desc=Bu buton, bu teknolojinin arastirilmasinin etkisini gösterir.
+
+UI.Objectives.ResearchScreenCanvas.PrimaryTechTree.Name=Teknoloji Agaci
+UI.Objectives.ResearchScreenCanvas.PrimaryTechTree.Desc=Bu buton teknoloji agacini açar. Teknoloji agaci boyunca yolunuzu planlayabilirsiniz.
+
+UI.Objectives.ResearchScreenCanvas.PrimaryArchives.Name=Arastirma Arsivleri
+UI.Objectives.ResearchScreenCanvas.PrimaryArchives.Desc=Bu buton, fraksiyonunuzun tamamladigi projeleri görebileceginiz arastirma arsivlerini açar.
+
+UI.Objectives.NationsScreenCanvas.NationsSort.Name=Ulus Siralama
+UI.Objectives.NationsScreenCanvas.NationsSort.NameShort=Uluslar
+UI.Objectives.NationsScreenCanvas.NationsSort.Desc=Bu ekran, Dünya'daki tüm uluslarin verilerini gösterir. Listeyi siralamak için herhangi bir deger alanina tiklayin.
+
+UI.Objectives.NationsScreenCanvas.NationsExpand.Name=Kontrol Noktalarini Görüntüle
+UI.Objectives.NationsScreenCanvas.NationsExpand.Desc=Bir ulusun bayragina tiklayarak, o ulustaki kontrol noktalarini gösteren görünümü genisletebilirsiniz.
+
+UI.Objectives.NationsScreenCanvas.NationsControlPriority.Name=Ulusun Önceliklerini Düzenle
+UI.Objectives.NationsScreenCanvas.NationsControlPriority.Desc=Bir ulusun kontrolüne sahipseniz, burada etkin bir öncelik sablonu seçebilirsiniz. Kontrol etmediginiz bir ulusun önceliklerini düzenleyemezsiniz.
+
+UI.Objectives.NationsScreenCanvas.NationsDesignTemplate.Name=Bir Öncelik Sablonu Tasarla
+UI.Objectives.NationsScreenCanvas.NationsDesignTemplate.Desc=Özel bir öncelik sablonu tasarlamak için buraya tiklayin.
+
+UI.Objectives.NationsScreenCanvas.NationsControlPointCosts.Name=Kontrol Noktasi Özeti
+UI.Objectives.NationsScreenCanvas.NationsControlPointCosts.Desc=Fraksiyonunuzun etki ve görev cezasi olmadan kontrol noktalarina sahip olma kapasitesini özetleyen bir paneli açmak için tiklayin.
+
+UI.Objectives.NationsScreenCanvas.DesignCycler.Name=Öncelik Döngüsü
+UI.Objectives.NationsScreenCanvas.DesignCycler.NameShort=Öncelikler
+UI.Objectives.NationsScreenCanvas.DesignCycler.Desc=Bu sütun, öncelik döngüsünü içerir. Degeri artirmak veya azaltmak için sola veya saga tiklayin. Yüzdeler, döngülerin degerine göre esit sekilde bölünür.
+
+UI.Objectives.NationsScreenCanvas.DesignName.Name=Sablon Adi
+UI.Objectives.NationsScreenCanvas.DesignName.Desc=Öncelik degerlerini ayarlamayi tamamladiginizda, sablonunuza bir isim verebilirsiniz.
+
+UI.Objectives.NationsScreenCanvas.DesignSave.Name=Sablonunuzu Kaydedin
+UI.Objectives.NationsScreenCanvas.DesignSave.Desc=Islemi tamamladiginizda ve bir isim seçtiginizde, sablonunuzu kaydetmek için buraya tiklayin.
+
+UI.Objectives.NationsScreenCanvas.DesignLoad.Name=Tasarimi Yükle
+UI.Objectives.NationsScreenCanvas.DesignLoad.Desc=Bu açilir seçim, kaydedilmis herhangi bir sablonu yüklemenizi ve görüntülemenizi saglar.
+
+UI.Objectives.SpaceCombatCanvas.Intro.Name=Uzay Savaslari
+UI.Objectives.SpaceCombatCanvas.Intro.Desc=Terra Invicta'daki savasa hos geldiniz. Herhangi bir savasin hedefi stratejik duruma baglidir. Avantajiniz olduguna inaniyorsaniz, hedefiniz rakip filosunu yok etmek veya geri çekilmelerini saglamak olacaktir. Sansinizi begenmiyorsaniz, hedefiniz savas alanindan mümkün oldugunca fazla gemiyi geri çekmek olabilir.
+
+UI.Objectives.SpaceCombatCanvas.Formations.Name=Formasyonlar
+UI.Objectives.SpaceCombatCanvas.Formations.Desc=Terra Invicta'daki her savasin baslangicinda, gemilerinizin baslangiç formasyonunu belirleyeceksiniz. En zirhli gemilerinizi önde mi yoksa en agir silahlanmis gemilerinizi bir tarafta mi toplamak istersiniz? Seçim size bagli.
+
+UI.Objectives.SpaceCombatCanvas.MainFriendlyShipList.Name=Savasta Gemileriniz
+UI.Objectives.SpaceCombatCanvas.MainFriendlyShipList.Desc=Bu panel, bu uzay savasindaki aktif gemilerinizin listesini gösterir. Bu listedeki herhangi bir gemi simgesine tiklayarak, gemiye özgü komutlar ve ates kontrolünü içeren bir ayrinti paneli açabilirsiniz. Bir gemi simgesine çift tiklayarak kamerayi o gemiye odaklayabilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.MainEnemyShipList.Name=Karsi Tarafin Gemileri
+UI.Objectives.SpaceCombatCanvas.MainEnemyShipList.Desc=Bu panel, savasta bulunan tüm düsman gemilerinin listesini ve gemilere verilen genel hasari gösterir. Bir gemi simgesine çift tiklayarak kamerayi o gemiye odaklayabilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandBar.Name=Filoya Komut Çubugu
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandBar.Desc=Bu, filo komut çubugudur. Burada verilen komutlar tüm gemilerinize ayni anda uygulanacaktir. Bireysel bir gemiye komut vermek istiyorsaniz, geminin veya sol paneldeki simgesine tiklayarak o geminin ayrinti panelini açabilirsiniz. Komut dügmelerinin üzerine gelerek daha fazla ayrinti görüntüleyebilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandSelectTarget.Name=Filoya: Ana Hedef Belirle
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandSelectTarget.Desc=Bu, tüm filonuzun silahlari için bir ana hedef seçmenizi saglar. Füze silahlari sadece ana hedeflere ates eder.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandClearTarget.Name=Filoya: Ana Hedefi Temizle
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandClearTarget.Desc=Bu, filonuzdaki tüm silahlarin mevcut hedefini temizleyecek ve serbest ates etmelerine izin verecektir.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandExtendRadiators.Name=Filoya: Radyatörleri Uzat
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandExtendRadiators.Desc=Bu komut, filonuzdaki tüm gemilerin radyatörlerini uzatacaktir. Radyatörler, uzatildiginda geminin isi sogutucularinda depolanan isiyi disariya atar. Ancak, uzatildiginda, son derece saldiriya açik hale gelirler.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandRetractRadiators.Name=Filoya: Radyatörleri Geri Çek
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandRetractRadiators.Desc=Bu komut, filonuzdaki tüm gemilerin radyatörlerini geri çekecektir. Radyatörler, geri çekildiklerinde saldirilardan korunur. Ancak, geri çekildiklerinde isiyi atmazlar. Bir geminin isi seviyesi doldugunda, radyatörleri uzatmak zorunda kalacaktir. Yok edilirlerse, gemi hasar görecek ve yok olma riskiyle karsi karsiya kalacaktir.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandAIControl.Name=Filoya: AI Kontrolü Ayarla
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandAIControl.Desc=Bu, filonuzdaki tüm gemileri AI tarafindan kontrol edilecek sekilde ayarlar. Kontrolü herhangi bir zamanda geri alabilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFocusFire.Name=Filoya: Odakli Ates Postürü Ayarla
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFocusFire.Desc=Tüm ofansif silahlari ana hedeflerine odakli ates edecek sekilde ayarlar, diger düsmanlari görmezden gelirler. Guardian kapasiteli silahlar savunma atesi yapmayacaktir.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureAttack.Name=Filoya: Saldiri Postürü Ayarla
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureAttack.Desc=Tüm ofansif silahlari, menzil içinde ana hedefe öncelik verecek sekilde ayarlar, aksi halde en yakin mevcut hedefi saldirir. Guardian kapasiteli silahlar savunma atesi yapmayacaktir.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureBalanced.Name=Filoya: Dengeli Postür Ayarla
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureBalanced.Desc=Tüm ofansif silahlari, menzil içinde ana hedefe öncelik verecek sekilde ayarlar, aksi halde en yakin mevcut hedefi saldirir. Guardian kapasiteli silahlar Guardian moduna ayarlanir ve tehdit olusturan düsman mermilerini hedef alir, gemilere ates etmeden önce.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureDefensive.Name=Filoya: Savunma Postürü Ayarla
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureDefensive.Desc=Tüm ofansif silahlari, menzil içinde ana hedefe öncelik verecek sekilde ayarlar, aksi halde en yakin mevcut hedefi saldirir. Guardian kapasiteli silahlar sadece mermileri hedef alacak sekilde ayarlanir ve gemilere ates etmeyecektir.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFortified.Name=Filoya: Kuvvetlendirilmis Postür Ayarla
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFortified.Desc=Tüm ofansif silahlari, güç ve mühimmati korumak için bekleme moduna ayarlar. Diger tüm silahlar savunma moduna ayarlanir.
+
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandManeuver.Name=Filoya: Manevra Komutlari
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandManeuver.Desc=Bu dügme, gelismis manevra seçeneklerini içeren ek bir panel açacaktir. Örnegin, geminin ana hedefine kilitlenmesini saglamak veya filonun tamamina tüm durmalarini emretmek.
+
+UI.Objectives.SpaceCombatCanvas.OfferToEndBattle.Name=Savasi Sonlandirma Teklifi
+UI.Objectives.SpaceCombatCanvas.OfferToEndBattle.Desc=Bu seçenegi isaretleyerek, düsman komutaniyla karsilikli riza ile savasi sonlandirmayi teklif edebilirsiniz. Her iki taraf bu seçenegi seçerse, savas sona erecektir.
+
+UI.Objectives.SpaceCombatCanvas.EndBattle.Name=Savasi Sonlandirma
+UI.Objectives.SpaceCombatCanvas.EndBattle.Desc=Savas, bir filo yok edildiginde, bir filo geri çekildiginde veya her iki taraf da savasi sonlandirmayi kabul ettiginde sona erer.
+UI.Objectives.SpaceCombatCanvas.TimeControls.Name=Komut Zaman Kontrolleri
+UI.Objectives.SpaceCombatCanvas.TimeControls.Desc=Savas sirasinda zaman akisini yönetmek için bu kontrolleri kullanin.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailOverview.Name=Seçili Gemi Detaylari
+UI.Objectives.SpaceCombatCanvas.ShipDetailOverview.Desc=Bu panel, su anda seçili olan gemiye dair tüm bilgileri içerir.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailCommandBar.Name=Gemi Komut Çubugu
+UI.Objectives.SpaceCombatCanvas.ShipDetailCommandBar.Desc=Bu çubuk, su anda seçili olan geminize verilebilecek komutlari içerir. Tüm filonuza ayni anda komut vermek için ekranin üstündeki filo komut çubugunu kullanin.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailRamming.Name=Kizma Hizi
+UI.Objectives.SpaceCombatCanvas.ShipDetailRamming.Desc=Bu komut, gemiyi ana hedefiyle çarpisma kursu belirleyecek sekilde yönlendirir. Bir çarpisma her iki gemiye de ciddi ve muhtemelen ölümcül hasar verir. Bu genellikle etki maliyeti getirir, bu da mürettebatin hayatlarini birakmayi kabul etme yetenegini temsil eder.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailDisengage.Name=Çekil
+UI.Objectives.SpaceCombatCanvas.ShipDetailDisengage.Desc=Bu komut, gemiyi savas alanindan geri çekilmesi için yönlendirir. Bir gemi, 30 dakika geçtiginde ve gemi düsman gemilerinden 2.000 km uzaklikta oldugunda geri çekilir.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailCommandManeuver.Name=Gemi Manevra Komutlari
+UI.Objectives.SpaceCombatCanvas.ShipDetailCommandManeuver.Desc=Bu dügme, gelismis manevra seçeneklerini içeren ek bir panel açar. Bu seçenekler, gemilerin dönüs ve yön açilarini kontrol etmenizi saglar ve bu sayede savasta daha iyi bir konum elde ederler. Örnegin, bir geminin ana hedefine kilitlenmesi geminin burun kismini hedefe dönük tutar.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailTemperature.Name=Gemi Isisi
+UI.Objectives.SpaceCombatCanvas.ShipDetailTemperature.Desc=Bu çubuk, geminin isi sogutucularindaki depolanmis isiyi gösterir. Isi, radyatörler uzatildiginda dagilir. Isi seviyesi maksimuma ulastiginda, gemi içsel hasar almaya baslar. Mümkünse, radyatörler isiyi yaymak için uzatilir. <h>Dogru isi yönetimi olmadan bir gemi felaketle sonuçlanan arizalar yasar.</h>
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailBattery.Name=Gemi Pil Kalani
+UI.Objectives.SpaceCombatCanvas.ShipDetailBattery.Desc=Bu çubuk, gemide kalan pil sarjini gösterir. Bazi silahlar ates ederken pil sarjini tüketir ancak enerji santralinden sarj edilirler. Tüketimi ve kalan sarji izleyin, böylece geminiz kritik anlarda optimal güçte savasabilir.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailDV.Name=Gemi Delta-V Kalani
+UI.Objectives.SpaceCombatCanvas.ShipDetailDV.Desc=Bu, geminin mevcut savasta harcayabilecegi kalan Delta-V bütçesini gösterir. Bir gemi, mevcut rotasini tamamlamak için her zaman yeterli Delta-V'yi rezervde tutar.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailHullWeapons.Name=Gemi Gövde Silahlari
+UI.Objectives.SpaceCombatCanvas.ShipDetailHullWeapons.Desc=Gemin gövde silahlari burada listelenmistir. Gövde silahlari, geminin yanlarinda çiftler halinde monte edilir ve her yönde ates edebilecek sekilde dönebilirler. Burada listelenen silah simgesine tiklayarak mevcut ates modlarini döndürebilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailNoseWeapons.Name=Gemi Burun Silahlari
+UI.Objectives.SpaceCombatCanvas.ShipDetailNoseWeapons.Desc=Gemin burun silahlari burada listelenmistir. Burun silahlari geminin burnuna monte edilir ve yalnizca geminin ileriye dönük açisina göre bir yay içinde ates edebilirler. Burada listelenen silah simgesine tiklayarak mevcut ates modlarini döndürebilirsiniz. Bir silahin üzerine gelerek ek detaylari görüntüleyin.
+
+UI.Objectives.SpaceCombatCanvas.ShipDetailDamage.Name=Gemi Alinan Hasar
+UI.Objectives.SpaceCombatCanvas.ShipDetailDamage.Desc=Bu alan, seçili geminin aldigi hasari ve hasarin nerede gerçeklestigini gösterir. Daha fazla ayrintiyi görüntülemek için sert noktalarin üzerine gelin.
+
+UI.Objectives.SpaceCombatCanvas.ShipDestroyed.Name=Gemi Yikimi
+UI.Objectives.SpaceCombatCanvas.ShipDestroyed.Desc=Bir gemi, burun, merkez ve kuyruk bölümleri çok fazla hasar aldiginda yok olur.
+
+UI.Objectives.SpaceCombatCanvas.CameraPan.Name=Kamerayi Kaydirma (WSAD veya Orta Fare Dügmesi)
+UI.Objectives.SpaceCombatCanvas.CameraPan.Desc=Kamerayi xz düzleminde kaydirmak için W, S, A ve D tuslarini kullanin veya Orta Fare Dügmesi ile tiklayip sürükleyin.
+
+UI.Objectives.SpaceCombatCanvas.CameraRotate.Name=Kamerayi Döndürme (RMB)
+UI.Objectives.SpaceCombatCanvas.CameraRotate.Desc=Kameranin görüs açisini degistirmek için Sag Fare Dügmesini basili tutun ve fareyi hareket ettirin.
+
+UI.Objectives.SpaceCombatCanvas.CameraFly.Name=Kamerayi Uçurma (RMB+WSAD)
+UI.Objectives.SpaceCombatCanvas.CameraFly.Desc=Sag Fare Dügmesini basili tutun ve W, S, A ve D tuslarini kullanarak kamerayi savas alaninda dolastirin.
+
+UI.Objectives.SpaceCombatCanvas.CameraHeight.Name=Kamera Yüksekligi Ayari (Ctrl+Orta Fare Dügmesi)
+UI.Objectives.SpaceCombatCanvas.CameraHeight.Desc=Ctrl ve Orta Fare Dügmesini basili tutarak ve fareyi hareket ettirerek kameranin yüksekligini degistirin.
+
+UI.Objectives.SpaceCombatCanvas.Momentum.Name=Moment
+UI.Objectives.SpaceCombatCanvas.Momentum.Desc=Sir Isaac Newton'a göre, "Bir nesne hareket halindeyken, dis bir kuvvet tarafindan etkilenmedikçe hareket etmeye devam eder." Bu, uzaydaki savaslarda gemiler için geçerlidir. Gemiler momentumlarini korur ve hava direnci veya yüzey sürtünmesi olmadigindan, motorlarini kullanarak itme yapmadiklari sürece mevcut rotalarinda devam ederler. Bu, akilli komutanlarin zekice manevralar yapmasini saglar, ancak deneyimsiz komutanlar "kil saç" durumlari yaratabilirler, bu da gemilerin dagilmis ve savas alaninda sürüklenen durumda kalmasina neden olabilir. Momentumunuzu dikkate alarak düsmanlariniz tarafindan parçalanmaktan kaçinin.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsOverview.Name=Gemi Yön Noktalari
+UI.Objectives.SpaceCombatCanvas.WaypointsOverview.Desc=Terra Invicta'da, gemilerinizin hareketini yön noktalarini manipüle ederek kontrol edersiniz. Bir yön noktasi, bir geminin gelecekteki pozisyonunu, rotasini ve hizini temsil eder. Bir yön noktasinin pozisyonunu ve rotasini üç boyutta ayarlayabilirsiniz. Gemiler, yön noktasindan yön noktasina sirasiyla hareket eder, kirmizi yön noktasi en yakin yön noktasini ve mor yön noktasi en uzak yön noktasini temsil eder. Tüm gemiler ayni renk yön noktasina ayni anda ulasacaktir. Bunu, diger gemilere göre pozisyonlarini planlamak için kullanin.<br/><br/>(Düsman yön noktalarinin yalnizca mevcut pozisyonlari ve hizlarina dayanan geminin gelecekteki pozisyonlarinin projeksiyonlari oldugunu unutmayin.)
+
+UI.Objectives.SpaceCombatCanvas.WaypointsYaw.Name=Yön Noktasi Yaw Ayari (Z tusu)
+UI.Objectives.SpaceCombatCanvas.WaypointsYaw.Desc=Yön noktasina tiklayip sürüklerken yalnizca Y rotasyon açisini ayarlamak için <h>Z tusunu</h> basili tutun. Bu, geminin rotasini sabit tutarken sadece geminin yön açisini degistirir. Simdi gemiyi döndürmeyi deneyin.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsPitch.Name=Yön Noktasi Pitch Ayari (X tusu)
+UI.Objectives.SpaceCombatCanvas.WaypointsPitch.Desc=Yön noktasina tiklayip sürüklerken yalnizca X rotasyon açisini ayarlamak için <h>X tusunu</h> basili tutun. Bu, geminin rotasini sabit tutarken sadece geminin yön açisini degistirir.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsRoll.Name=Yön Noktasi Roll Ayari (C tusu)
+UI.Objectives.SpaceCombatCanvas.WaypointsRoll.Desc=Yön noktasina tiklayip sürüklerken yalnizca Z rotasyon açisini ayarlamak için <h>C tusunu</h> basili tutun. Bu, geminin rotasini sabit tutarken sadece geminin yön açisini degistirir.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsRotation.Name=Yön Noktasi Rotasyon Ayari
+UI.Objectives.SpaceCombatCanvas.WaypointsRotation.Desc=Mevcut bir yön noktasina yeterli itme uygulanmissa (kirmizi bir çizgi ile belirtilmis), <h>yön noktasinin rotasini ayarlayamayabilirsiniz</h> çünkü gemi uygulanan hiz ile bu açiya ulasmak için yeterli zamana sahip olmayacaktir. Bu durumda, rotayi bir sonraki yön noktasina uygulamaniz gerekecektir.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsBurn.Name=Yön Noktasi Yakma Ayari (R tusu)
+UI.Objectives.SpaceCombatCanvas.WaypointsBurn.Desc=<h>R tusunu</h> basili tutarken yön noktasina tiklayip sürükleyerek yön noktasinin yakma miktarini ayarlayin. Gemi, bulundugu yön dogrultusunda ana motoru ile itis yapacaktir.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsHeight.Name=Yön Noktasi Yüksekligi Ayari (Q tusu)
+UI.Objectives.SpaceCombatCanvas.WaypointsHeight.Desc=Yön noktasina tiklayip sürüklerken <h>Q tusunu</h> basili tutarak yön noktasinin yüksekligini ayarlayin. Terra Invicta'daki uzay savaslari 3D uzayda gerçeklesir; bu özelligi kullanarak geminizin ZY düzlemindeki rotasini manevra yapin.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsReset.Name=Yön Noktasini Sifirla (RMB)
+UI.Objectives.SpaceCombatCanvas.WaypointsReset.Desc=<h>Sag Fare Dügmesi ile bir yön noktasini seçin</h> ve yön noktasini orijinal rotasina sifirlayin.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsLateral.Name=Yön Noktasi Yanal Ayari (E Tusu)
+UI.Objectives.SpaceCombatCanvas.WaypointsLateral.Desc=Yön noktasina tiklayip sürüklerken <h>E tusunu</h> basili tutarak yön noktasinin yanal konumunu ayarlayin. Bu özelligi kullanarak geminizin XY düzlemindeki rotasini manevra yapin.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsHorizontal.Name=Yön Noktasi Pozisyonu (LMB)
+UI.Objectives.SpaceCombatCanvas.WaypointsHorizontal.Desc=Bir yön noktasini XZ düzleminde yatay olarak hareket ettirmek için <h>bir yön noktasina tiklayin ve geminin seyahat etmesini istediginiz yöne sürükleyin</h>. Yön noktasinin konumunun, geminin hareket kabiliyetine bagli olarak diger yön noktalarinin hareket araligini etkiledigini unutmayin. Simdi bir yön noktasini hareket ettirmeyi deneyin.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsRedLine.Name=Yesil ve Kirmizi Çizgiler
+UI.Objectives.SpaceCombatCanvas.WaypointsRedLine.Desc=Bir yön noktasini hareket ettirdikten sonra, yön noktalarini birbirine baglayan yesil çizginin kirmiziya döndügünü gözlemleyin. Yesil bir bölüm hareketsiz bir rotayi temsil eder, yani gemi bu süre zarfinda herhangi bir manevra yapmayacaktir. Kirmizi bir bölüm, geminin hizini degistirmek için ana motorunu kullanacagini gösterir.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsYellowLine.Name=Sari Çizgiler
+UI.Objectives.SpaceCombatCanvas.WaypointsYellowLine.Desc=Bir yön noktasini döndürdükten sonra, yön noktalarini birbirine baglayan çizginin sariya döndügünü gözlemleyin. Sari bir bölüm, geminin rotayi döndürmek için thruster'larini kullanacagi zamani temsil eder.
+
+UI.Objectives.SpaceCombatCanvas.WaypointsTip.Name=Gemi Manevralari
+UI.Objectives.SpaceCombatCanvas.WaypointsTip.Desc=Gemilerinizin silah sistemlerini, zirhini ve gelen projeleri göz önünde bulundurarak gemilerinizi savas alaninda nasil manevra yapacaginizi belirlemekte faydali olabilir.
+
+UI.Objectives.SpaceCombatCanvas.MultiShipSelection.Name=Grup Seçimi (Shift+LMB)
+UI.Objectives.SpaceCombatCanvas.MultiShipSelection.Desc=Birden fazla gemiyi ayni anda seçebilirsiniz. <h>Shift tusunu basili tutun</h> ve savas alanindaki gemilerinizi veya filo listesindeki kartlarini seçin.
+
+UI.Objectives.SpaceCombatCanvas.MultiShipBoxSelect.Name=Kutu Seçimi (LMB+Sürükle)
+UI.Objectives.SpaceCombatCanvas.MultiShipBoxSelect.Desc=Gemileri <h>tiklayip sürükleyerek</h> seçebilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.ControlGroups.Name=Kontrol Gruplari (Ctrl+[Sayi Tusu 0-9])
+UI.Objectives.SpaceCombatCanvas.ControlGroups.Desc=Gemiler, <h>Ctrl tusunu basili tutarak</h> ve <h>bir sayi tusuna (0-9)</h> basarak gruplandirilabilir. O seçim artik o numaraya atanmistir. Kontrol Gruplarini, atanmis <h>sayi tusuna</h> basarak seçebilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.GroupCommands.Name=Grup Komutlari
+UI.Objectives.SpaceCombatCanvas.GroupCommands.Desc=Bir grup seçildiginde, <h>alt çubuktaki</h> komutlarin <h>seçili gruba</h> uygulandigini unutmayin.
+
+UI.Objectives.SpaceCombatCanvas.MultiShipMovemement.Name=Grup Hareketi
+UI.Objectives.SpaceCombatCanvas.MultiShipMovemement.Desc=Bir grup gemi seçildiginde, hareket ve döndürme komutlari gruptaki tüm gemilere gönderilir ve manevra kabiliyeti, gruptaki en az manevra kabiliyetine sahip gemilerle sinirli olacaktir, böylece gemiler formasyon içinde kalir.
+
+UI.Objectives.SpaceCombatCanvas.MultiShipMovemementFree.Name=Serbest Grup Hareketi (Shift)
+UI.Objectives.SpaceCombatCanvas.MultiShipMovemementFree.Desc=Formasyon grup hareketi, shift tusunu basili tutarak ve hareket ve döndürme komutlari vererek geçersiz kilinabilir.
+
+UI.Objectives.SpaceCombatCanvas.MultiShipAttraction.Name=Çekim Hareketi (Ctrl)
+UI.Objectives.SpaceCombatCanvas.MultiShipAttraction.Desc=Bir grup seçildiginde, tüm gemileri <h>fareye</h> dogru hareket ettirmek için <h>Ctrl tusunu</h> basili tutabilirsiniz.
+
+UI.Objectives.SpaceCombatCanvas.MultiShipRepulsion.Name=Itme Hareketi (Alt)
+UI.Objectives.SpaceCombatCanvas.MultiShipRepulsion.Desc=Bir grup seçildiginde, tüm gemileri <h>fareden</h> uzaklastirmak için <h>Alt tusunu</h> basili tutabilirsiniz.
+
+UI.Objectives.NaturalSpaceObjectOps.1.Name=Uzay Operasyonlari
+UI.Objectives.NaturalSpaceObjectOps.1.NameShort=Operasyonlar
+UI.Objectives.NaturalSpaceObjectOps.1.Desc=Bir gezegeni, uyduyu, asteroidi veya Lagrange Noktasi'ni seçtiginizde, burada bir dizi uzay operasyonu görünür. Bu operasyonlar, filolarinizi kullanmadan bu konumda habitatlar insa etme yolunda çalismaniza olanak tanir.
+
+UI.Objectives.NaturalSpaceObjectOps.2.Name=Problar
+UI.Objectives.NaturalSpaceObjectOps.2.Desc=Çesitli "Görev" küresel teknolojileri, Günes Sistemi'nin bölgelerini kesfetmek için açilir. Uzay cisimlerinin yüzeyine üsler insa etmek için, önce bir prob veya uygun sekilde donatilmis bir filo ile bu cismi prospeksiyon yapmaniz gerekir.<br/><br/>Buradan prob firlatabilirsiniz. Bunlar, bir prob veya uygun sekilde donatilmis bir filodan gelebilir, eger bir tane insa ettiyseniz.
+
+UI.Objectives.NaturalSpaceObjectOps.3.Name=Habitat Kurma
+UI.Objectives.NaturalSpaceObjectOps.3.Desc=Uygun insaat ve kesif teknolojileri açildiginda, buradan ya Dünya'dan ya da yakinlardaki habitatlardan bir insaat modülü ile bu uzay cisminin üzerine habitat kurabilirsiniz. Bunlarin varmasi biraz zaman alabilir.
+
+UI.Objectives.ArmyOps.1.Name=Kara Kuvvetleri Operasyonlari
+UI.Objectives.ArmyOps.1.NameShort=Kuvvetler
+UI.Objectives.ArmyOps.1.Desc=Bir ordunuzu seçtiginizde, mevcut operasyonlari burada görünür.<br/><br/>Ordular, ana uluslarinda, müttefik uluslarda veya ana ulusuyla savas halinde olan uluslarda bölgelere hareket edebilirler. Düsman ordulari ile çatisacak ve düsman topraklarini otomatik olarak isgal edeceklerdir. Ayrica, deniz özgürlügü olan bir ulusta su kütlelerini geçebilirler.<br/><br/>Ordular, ana bölgelerinde konuslandirildiklarinda daha az maliyetli olacaktir.
+
+UI.Objectives.ArmyOps.2.Name=Kara Kuvvetleri Operasyonlari
+UI.Objectives.ArmyOps.2.Desc=Diger ordu operasyonlari, belirli yerleri hedef almasina olanak tanir.
+
+UI.Objectives.FleetOps.1.Name=Filo Operasyonlari
+UI.Objectives.FleetOps.1.NameShort=Filolar
+UI.Objectives.FleetOps.1.Desc=Bu simgeler, filolarinizin gerçeklestirebilecegi çesitli operasyonlari isaretler. Bu operasyonlar, filolariniza hangi modülleri taktiginiza bagli olarak büyük ölçüde degisebilir.<br/><br/>Bazi filo operasyonlarinin süresi, operasyon tamamlanana kadar veya iptal edilene kadar kullanilamaz olmasini saglar.
+
+UI.Objectives.FleetOps.2.Name=Transfer Operasyonu
+UI.Objectives.FleetOps.2.Desc=Filonuzu baska bir yörüngeye, istasyona veya filoya tasimak için Transfer operasyonunu seçin ve bir hedef seçin, böylece yörünge planlayicisini açabilirsiniz.<br/><br/>Bir düsman filosunu, savunma modüllerine sahip bir istasyonu veya bir savunma filosunu hedef almak, bir uzay savasini baslatacaktir. Eger bir düsman istasyonu savunmasizsa, varista yanasacak ve burada ek operasyonlar gerçeklestirebilirsiniz.
+
+UI.Objectives.TransferOp.1.Name=Yörünge Planlama
+UI.Objectives.TransferOp.1.NameShort=Yörünge
+UI.Objectives.TransferOp.1.Desc=Bu paneller, filolarinizi baska bir yörüngeye, istasyona veya filoya göndermenizi saglar.<br/><br/>Hedeflerinizi metin menüsü veya Günes Sistemi görünümünde degistirebilirsiniz.
+
+UI.Objectives.TransferOp.2.Name=Delta-V
+UI.Objectives.TransferOp.2.Desc=Delta-V, gemilerinizin itici malzeme bitmeden önce ne kadar hiz degistirebileceginin bir ölçüsüdür; bu, geminin menzilinin özüdür. Filolariniz, gemilerinin içindeki en düsük Delta-V degerini kullanir.<br/><br/>Birden fazla seçenek mevcutsa, bir kaydirici belirecek ve bu kaydiriciyi kullanarak yolculuk süresi ile Delta-V arasinda bir denge kurabilirsiniz. Seçim yaparken, Günes Sistemi görünümünde uçus yolunu görebilirsiniz.<br/><br/>Bazi yörüngeler, bir firlatma penceresi beklemek için baslangiç noktasinda bekleme seçenegi içerebilir.
+
+UI.Objectives.TransferOp.3.Name=Delta-V Yönetimi
+UI.Objectives.TransferOp.3.Desc=Gemilerinizi, gemi tamir atölyeleri veya malzeme depolari bulunan habitatlarda yeniden ikmal edebilirsiniz. Birine ulasmak için yeterli Delta-V’yi korudugunuzdan emin olun. Ayrica, muhtemel bir savas bekliyorsaniz daha fazla Delta-V korumak isteyebilirsiniz.
+
+UI.Objectives.TransferOp.4.Name=Özel Manevralar
+UI.Objectives.TransferOp.4.Desc=Yörüngeniz için iki özel manevradan birini de belirleyebilirsiniz.<br/><br/>Aerobraking, sadece atmosferi olan uzay cisimlerinde mümkündür, ancak bir atmosfer karsisinda fren yaparak Delta-V tasarrufu saglar. Eger gemileriniz bu tür bir operasyon için tasarlanmamissa, hasar riski tasir.<br/><br/>Bir geçis manevrasini seçmek, filonuzun varis noktasinda durmak yerine yerçekimi yardimi almak için kullanacaktir. Varista yeni bir hedef seçmeniz istenecek.
+
+UI.Objectives.TransferOp.5.Name=Uzay Savasi
+UI.Objectives.TransferOp.5.Desc=Filonuzu baska bir filoya yönlendirmek, varista bir uzay savasini baslatir.
+
+UI.Objectives.TransferOp.6.Name=Büyük Uzay Savaslari
+UI.Objectives.TransferOp.6.Desc=Çok büyük uzay savaslarinda aktif ve takviye gemileri bulunur. Takviye gemileri, savas sirasinda aktif gemileri yok ettiginde savas alanina katilir. Savas sirasinda herhangi bir anda aktif olabilecek maksimum gemi sayisini oyun ayarlarinda ayarlayabilirsiniz. Maksimum deger olan 30, her iki tarafin da herhangi bir anda 15 aktif gemisi olmasini sinirlar. Bu, performans nedenleriyle yapilmistir.
+
+UI.Objectives.SpaceBodyDetail.1.Name=Uzay Cismi Detayi
+UI.Objectives.SpaceBodyDetail.1.NameShort=Uzay Cismi
+UI.Objectives.SpaceBodyDetail.1.Desc=Bu panel, seçtiginiz uzay cismi hakkinda detaylari gösterir.<br/><br/>Üst çubuk, cismin fiziksel verilerini içerir. Yerçekimi ve kaçis hizindaki yüksek degerler, bu cismin yüzeyinde maden insa etmenin ve gemi firlatmanin daha maliyetli oldugunu gösterir.
+
+UI.Objectives.SpaceBodyDetail.2.Name=Maden Potansiyeli
+UI.Objectives.SpaceBodyDetail.2.Desc=Bu degerler, bu gezegendeki madenlerin üretecegi bes ana uzay kaynaginin (su, volatiller, metaller, degerli metaller ve fisil) tahminleridir. Daha fazla ok, daha büyük bir potansiyel çiktiyi gösterir.
+
+UI.Objectives.SpaceBodyDetail.3.Name=Yörüngeler
+UI.Objectives.SpaceBodyDetail.3.Desc=Bu, cismin etrafindaki yörüngelerin bir listesidir. Yörüngeler, istasyonlar ve filolar için varis noktalari olarak hizmet eder. Bir üssü veya habitat yerini insa etmek için, önce filonuzu bir arayüz yörüngesine (gezegen simgesi ile isaretlenmis) transfer etmeniz gerekir.
+
+UI.Objectives.SpaceBodyDetail.4.Name=Habitat Yerleri
+UI.Objectives.SpaceBodyDetail.4.Desc=Habitat yerleri, bir fraksiyonun bir üs insa edebilecegi yerlerdir. Uzay cismi tarandiktan sonra, habitat yerlerinden elde edilen kesin gelirler burada gösterilecektir.
+
+UI.Objectives.LagrangePoint.1.Name=Lagrange Noktasi Detayi
+UI.Objectives.LagrangePoint.1.NameShort=L-Noktalari
+UI.Objectives.LagrangePoint.1.Desc=Lagrange noktalari, yakin uzay cisimlerinin yerçekimi etkilesimleriyle olusan noktalardir. Filolar ve istasyonlar için kararli baglama noktalari olarak kullanilabilirler.
+
+UI.Objectives.Hab.1.Name=Habitat Detayi
+UI.Objectives.Hab.1.NameShort=Habitat
+UI.Objectives.Hab.1.Desc=Bu panel, seçtiginiz istasyon veya üs hakkinda temel bilgileri gösterir. Görüntüye tiklayin ve tam detaylari habitat yöneticisinde açabilirsiniz.
+
+UI.Objectives.EnemyFleet.1.Name=Filo Detayi
+UI.Objectives.EnemyFleet.1.NameShort=Filo
+UI.Objectives.EnemyFleet.1.Desc=Seçilen düsman filosuna dair detaylar burada gösterilir.<br/><br/>Bu çapraz kiliçlar degeri, filonun savas gücünün bir tahminidir.
+
+UI.Tutorial.VO.1=Selam Komutan, ben Fiona Ayoade, basyardimciniz. Size durumu özetleyecegim.
+UI.Tutorial.VO.2=Konseyimiz, Dünya'nin en yetenekli ve zeki bireylerinden olusuyor. Onlar yetenekli, baglantili ve emirlerinizi bekliyorlar.
+UI.Tutorial.VO.3=Gerçekten bir istilayla karsi karsiya isek, hemen organize olmaya baslamamiz gerekiyor. Daha önce görülmemis bir ölçekte küresel is birligine ihtiyacimiz olacak. Konsey üyelerimizi, stratejik güç pozisyonlarindaki destekleri kazanmalari için görevlendirmeyi öneriyorum.
+UI.Tutorial.VO.4=Raporlar hala geliyor ama bir uzayli nesnenin gezegene düstügü açik. Bir konsey üyesini olay yerini arastirmak için mümkün olan en kisa sürede göndermeliyiz.
+UI.Tutorial.VO.5=Bu ana komuta arayüzünüzdür. Buradan dünya genelindeki gelismeleri ve ötesini izleyebilir; konsey üyelerimizi görevler için görevlendirebilir; arastirma ve gelistirmeyi yönlendirebilir; ve daha fazlasini yapabilirsiniz. Buna asina olmak için biraz zaman ayirin.
+UI.Tutorial.VO.6=Su anda seçili olan konsey üyesi hakkinda bilgi ekranin sag alt kösesinde görünür. Mevcut görevleri ekranin ortasinda bulabilirsiniz.
+UI.Tutorial.VO.7=Hedeflerimizi gözden kaçirmamamiz kritik olacak. Bu ekrani mevcut hedeflerimizle güncel tutacagim.
+UI.Tutorial.VO.8=Konsey üyelerimiz görevlerini tamamladiktan sonra rapor verecekler. Yeni görevler atayabileceksiniz bir sonraki görev asamasinda.
+UI.Tutorial.VO.9=Arastirmacilarimiz, çabalarini yönlendirme konusunda rehberliginizi istiyorlar.
+UI.Tutorial.VO.10=Bu arastirma ekranidir. Üstteki üç grafik, küresel bilimsel toplulugun üzerinde çalistigi seyleri gösterir. Alt grafikler ise özel olarak takip ettigimiz konsey mühendislik projelerini gösterir. Arastirmacilarimizi bu seçenekleri önceliklendirmeye yönlendirebiliriz.
+UI.Tutorial.VO.10a=Bu Teknoloji Agaci. Arastirmacilarimiz, çesitli bilimsel buluslarin nereye götürebilecegini çikarimda bulundular.
+UI.Tutorial.VO.10b= Bu Teknoloji Agaci. Arastirmacilarimiz, çesitli bilimsel buluslarin nereye götürebilecegini çikarimda bulundular. Açikçasi Komutan, buna çok uzun bakarsam basim agriyor ve bu basit olani diyorlar.
+UI.Tutorial.VO.10c= Ve bu, "tamamlanmis" olani…
+UI.Tutorial.VO.10d=Komutan, teknoloji agacina bir süre baktiniz. Bir fincan kahveye ne dersiniz?
+UI.Tutorial.VO.10e=Bu, su anda takip edebilecegimiz tüm konsey mühendislik projelerinin listesidir.
+UI.Tutorial.VO.10f=Bunlar, tamamlanmis arastirmalarimizla ilgili raporlari bulabilecegimiz arastirma arsivleridir.
+UI.Tutorial.VO.11=Konsey üyemiz, bir ulus içindeki önemli güç pozisyonlarindaki insanlarin destegini kazandi. Bu ulus için önceliklerimizi degerlendirmeliyiz.
+UI.Tutorial.VO.12=Su anda mevcut konsey üyelerimiz oldukça yorulmus durumda. Konseyi genisletmemizi öneririm.
+UI.Tutorial.VO.13=Operasyonlarimizi genislettikçe, yakinda büyük bir ulusun destegine ihtiyacimiz olacak.
+UI.Tutorial.VO.14=Bir ulusun sosyal ve ekonomik durumunu anlamak için her türlü çabayi göstermeliyiz, böylece gelisimini en iyi sekilde yönlendirebiliriz.
+UI.Tutorial.VO.15=Bir ulusun öncelikleri, zamanla nasil gelisecegini belirler. Bir ulusta kontrol noktalari kazandikça, önceliklerini yönlendirebiliriz.
+UI.Tutorial.VO.16=Unutmayin Komutan, disarida düsmanlarimiz var ve bunlar sadece uzaylilar degil.
+UI.Tutorial.VO.17=Komutan, size Konsey'i tanitmak isterim. Konsey üyelerimizle tanismak için biraz zaman ayirin. Onlar organizasyonumuzun belkemigidir.
+UI.Tutorial.VO.17a=Bu, konsey üyemizin dosyasidir. Buradan bir konsey üyesinin görevlerini, özelliklerini, niteliklerini, aylik gelirlerini ve organizasyonlarini görüntüleyebilirsiniz. Farkli türde konsey üyeleri, farkli türde görevleri yerine getirebilirler.
+UI.Tutorial.VO.17b=Gözden geçirmeniz için potansiyel konsey üyesi adaylariyla ilgili dosyalar derledim. Komutan, diger fraksiyonlarin Dünya'nin birçok ülkesinde ayak izleri var. Gerekirse, konsey üyelerimiz bu fraksiyonlari temizlemek için hareket edebilir.
+UI.Tutorial.VO.18=En kötü durumlarda tek seçenegimiz savas ilan etmek ve baska bir ulusa tamamen bir rejim degisikligi dayatmak olabilir.
+UI.Tutorial.VO.19=Bu, Intel Ekrani’dir. Topladigimiz tüm istihbarat verilerini içerir ve genis bir konu yelpazesini kapsar. Buradan, Dünya'daki diger büyük fraksiyonlar hakkinda topladigimiz bilgileri görebilirsiniz.
+UI.Tutorial.VO.19a=Bu bölüm, uzaylilarla ilgili topladigimiz tüm istihbarati içerir. Süpheli uzayli aktivitelerini izlemeye devam edecegiz ve buna göre güncelleyecegiz. Düzenli olarak kontrol ettiginizden emin olun.
+UI.Tutorial.VO.19b=Bu bölüm, dünya genelinden toplanan verileri toplar. Dünya verilerini, emtia piyasasini, mevcut çevresel kosullari, devam eden savaslari ve küresel kamuoyundaki durumu görebilirsiniz.
+UI.Tutorial.VO.19c=Bu bölüm, Günes Sistemi'ndeki cisimlerle ilgili bilinen tüm verileri listeler.
+UI.Tutorial.VO.19d=Bu bölüm transfer planlayici olarak adlandirilir. Günes Sistemi genelinde yolculuklari planlamak için güçlü bir araçtir. Gemilerimizi nasil tasarlayacagimiza dair bilinçli kararlar vermek için kullanabiliriz.
+UI.Tutorial.VO.19e=Bu bölüm, prospecting yaptigimiz uzay cisimleri hakkinda verileri gösterir. Üslerimizi insa etmek için nerede olacagimizi belirlemede faydali olacaktir.
+UI.Tutorial.VO.20=Bu, Uluslar ekranidir. Buradan, kontrol noktalarina sahip oldugumuz tüm uluslari takip edebilir veya Dünya'daki tüm uluslarla ilgili verileri görüntüleyebilirsiniz. Bu bilgiler, konsey üyelerimizin görevlerini yönlendirmede ve kontrolümüz altindaki uluslarin önceliklerini belirlemede faydali olacaktir.
+UI.Tutorial.VO.20a=Öncelik Sablon Tasarimcisi, kolayca yeniden kullanilabilir ulusal gelisim planlari olusturmamiza olanak tanir.
+UI.Tutorial.VO.20b=Bu ekran, Kontrol Noktasi Kapasitemizi rapor eder. Yönetebilecegimizden fazla kontrol noktasi yönetmek operasyonlarimizi zorlastirir ve etkili bir sekilde korumak için etkimize mal olur.
+UI.Tutorial.VO.21=Teknoloji Sirketleri, Karteller, Istihbarat Organizasyonlari. Bunlardan herhangi biri güçlü bir destek saglayabilir.
+UI.Tutorial.VO.22=Görünüse göre yalniz degiliz. Diger fraksiyonlarin konsey üyeleri dünya genelinde görevler baslatiyorlar.
+UI.Tutorial.VO.23=Arayüzünüzün sol tarafinda haber akisi bulunur. Önemli olaylari size bildirir. Operasyonlarimizla ilgili bazi zaman kisitlamali güncellemeler ekraninizin sol üst kösesinde de görünecektir.
+UI.Tutorial.VO.24=Komutan, Dünya'ya dogru yolda olan bir uzayli gemisi hakkinda raporlar aliyoruz.
+UI.Tutorial.VO.25=Komutan, küresel arastirmalara yaptigimiz katkilar, bilimsel toplulugun çabalarini yönlendirme firsati sundu. Emirleriniz nedir?
+UI.Tutorial.VO.26=Arastirma istasyonlari, uzay doklari, yeniden tedarik merkezleri, hepsine ihtiyacimiz olacak. Hazir oldugumuzu düsündügünüzde, yörüngeye çikin.
+UI.Tutorial.VO.27=Istasyonumuz, bir güç üretim çözümü olmadan ise yaramaz.
+UI.Tutorial.VO.28=Istasyonumuzu çalistirma zamani.
+UI.Tutorial.VO.29=Bir filoyu desteklemek için kapsamli madencilik operasyonlarina ihtiyacimiz olacak. Bir sonda firlatmak, hayati prospeksiyon verilerini elde etmemize yardimci olacaktir.
+UI.Tutorial.VO.30=Madencilik kompleksleri, uzay kaynaklarini edinmenin birincil yoludur, bu da Dünya'dan firlatilan pahali roketleri kullanmadan habitatlar ve uzay araçlari insa edebilecegimiz anlamina gelir.
+UI.Tutorial.VO.31=Bir savas filosu insa etmeye baslamak için bir uzay doku insa etmemiz gerekecek.
+UI.Tutorial.VO.32=Sonunda, biraz güç sahibi bir sey insa edebiliyoruz.
+UI.Tutorial.VO.33=Uzaylilarla yapilan savas sadece Dünya'da kazanilamaz. Uzaylilara karsi savunma yapmak ve sonunda onlara saldirmak için savas gemileri insa etmeye devam etmeliyiz.
+UI.Tutorial.VO.34=Bu, Habs Ekrani’dir. Buradan yörüngedeki istasyonlarimizi ve gezegenlerde, uydularda veya asteroitlerde sahip oldugumuz üsleri yönetebiliriz. Ayrica, kesfettigimiz diger istasyonlari veya üsleri de görüntüleyebiliriz.
+UI.Tutorial.VO.35=Bu, Filolar Ekrani’dir. Buradan hem kendi filolarimizi hem de tespit ettigimiz diger filolari izleyebiliriz.
+UI.Tutorial.VO.36=Gemiyi tasarimcisindan yeni gemi siniflari tasarlayabilir veya halihazirda insa edilmis gemileri yeniden donatmayi planlayabilirsiniz.
+UI.Tutorial.VO.36a=Tasarladiginiz gemiler burada görünecek. Insaat tesislerine sahip hablarda gemi insaati siparisi verebiliriz.
+UI.Tutorial.VO.37=Bir uzay cismine tiklamak, fiziksel özellikler, madencilik alanlari, yörüngeler hakkinda veri görüntülememizi ve istasyonlar ve üsler insa etmemizi saglar.
+UI.Tutorial.VO.38=Yumusak güç ise yaramadiginda, donanimi getirin.
+UI.Tutorial.VO.39=Codex, fraksiyonumuzun operasyonlarini nasil yönetecegimiz hakkinda kritik bilgiler içerir. Bir sorunuz varsa, codex'i kontrol etmenizi öneririm. Durum gelistikçe güncel tutulacaktir.

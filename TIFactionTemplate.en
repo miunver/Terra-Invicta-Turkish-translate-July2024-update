@@ -1,0 +1,261 @@
+TIFactionTemplate.displayName.ResistCouncil=Direnis
+TIFactionTemplate.displayName.DestroyCouncil=Önce Insanlik
+TIFactionTemplate.displayName.ExploitCouncil=Inisiyatif
+TIFactionTemplate.displayName.SubmitCouncil=Kullananlar
+TIFactionTemplate.displayName.AppeaseCouncil=Koruyucular
+TIFactionTemplate.displayName.CooperateCouncil=Akademi
+TIFactionTemplate.displayName.EscapeCouncil=Proje Exodus
+TIFactionTemplate.displayName.AlienCouncil=Uzaylilar
+TIFactionTemplate.displayName.AlienCouncil.Later=Hydralar
+TIFactionTemplate.adjective.ResistCouncil=Direnisçi
+TIFactionTemplate.adjective.DestroyCouncil=Önce Insanlik
+TIFactionTemplate.adjective.ExploitCouncil=Inisiyatifçi
+TIFactionTemplate.adjective.SubmitCouncil=Kullanici
+TIFactionTemplate.adjective.AppeaseCouncil=Koruyucu
+TIFactionTemplate.adjective.CooperateCouncil=Akademisyen
+TIFactionTemplate.adjective.EscapeCouncil=Proje Exodus
+TIFactionTemplate.adjective.AlienCouncil=Uzayli
+TIFactionTemplate.adjective.AlienCouncil.Later=Hydra
+TIFactionTemplate.leaderAddress.ResistCouncil=Komutan
+TIFactionTemplate.leaderAddress.DestroyCouncil=Albay
+TIFactionTemplate.leaderAddress.ExploitCouncil=Baskan
+TIFactionTemplate.leaderAddress.SubmitCouncil=Üst Düzey
+TIFactionTemplate.leaderAddress.AppeaseCouncil=Komiser
+TIFactionTemplate.leaderAddress.CooperateCouncil=Sansölye
+TIFactionTemplate.leaderAddress.EscapeCouncil=Yönetici
+TIFactionTemplate.leaderAddress.AlienCouncil=Savas Üstadi
+TIFactionTemplate.leader.ResistCouncil=Fiona Ayoade
+TIFactionTemplate.leader.DestroyCouncil=Hanse Castillo
+TIFactionTemplate.leader.ExploitCouncil=Soren Van Wyk
+TIFactionTemplate.leader.SubmitCouncil=Judith Howell
+TIFactionTemplate.leader.AppeaseCouncil=Kiran Banerjee
+TIFactionTemplate.leader.CooperateCouncil=Li Qingzhao
+TIFactionTemplate.leader.EscapeCouncil=Khalid Al-Ashgar
+TIFactionTemplate.leader.AlienCouncil=Winter's Sword
+TIFactionTemplate.fullLeader.ResistCouncil=Komutan Fiona Ayoade, Direnis
+TIFactionTemplate.fullLeader.DestroyCouncil=Albay Hanse Castillo, Önce Insanlik
+TIFactionTemplate.fullLeader.ExploitCouncil=Baskan Soren Van Wyk, Inisiyatif
+TIFactionTemplate.fullLeader.SubmitCouncil=Üst Düzey Judith Howell, Kullananlar
+TIFactionTemplate.fullLeader.AppeaseCouncil=Komiser Kiran Banerjee, Koruyucular
+TIFactionTemplate.fullLeader.CooperateCouncil=Sansölye Li Qingzhao, Akademi
+TIFactionTemplate.fullLeader.EscapeCouncil=Yönetici Khalid Al-Ashgar, Proje Exodus
+TIFactionTemplate.leader.born.ResistCouncil=London, Birlesik Krallik
+TIFactionTemplate.leader.born.DestroyCouncil=Tres Arroyos'un yakinlari, Arjantin
+TIFactionTemplate.leader.born.ExploitCouncil=Cape Town, Güney Afrika
+TIFactionTemplate.leader.born.EscapeCouncil=Abu Dabi, Birlesik Arap Emirlikleri
+TIFactionTemplate.leader.born.SubmitCouncil=Hattiesburg, Mississippi, ABD
+TIFactionTemplate.leader.born.AppeaseCouncil=Thiruvananthapuram, Kerala, Hindistan
+TIFactionTemplate.leader.born.CooperateCouncil=Sanghay, Çin
+TIFactionTemplate.leader.background.ResistCouncil=Casus
+TIFactionTemplate.leader.background.DestroyCouncil=Subay
+TIFactionTemplate.leader.background.ExploitCouncil=Sanayici
+TIFactionTemplate.leader.background.EscapeCouncil=Teknoloji Mogulu
+TIFactionTemplate.leader.background.SubmitCouncil=Vaiz
+TIFactionTemplate.leader.background.AppeaseCouncil=Siyasetçi
+TIFactionTemplate.leader.background.CooperateCouncil=Bilim Insani
+TIFactionTemplate.leader.description.ResistCouncil=Kaptan, Britanya Ordusu Istihbarat Kolordusu, emekli 2006; Vak'a Yetkilisi, açiklanmayan yer, Gizli Istihbarat Servisi, 2006-2007; SIS'in ABD Karsi Terör Merkezi'ne baglantisi, 2008-2009; Istasyon Sefi, Lagos, 2009-2012; Istasyon Sefi, Islamabad, 2012-2014; Afrika Isleri Baskan Yardimcisi, 2014-2015; Isyanci gruba kidemli danisman, yer açiklanmayan, 2016-günümüz.
+TIFactionTemplate.leader.description.DestroyCouncil=Falkland Savasi'nda gönüllü parasütçü, 1982'de Mount Longdon Savasi'nda cesaret ödülü aldi. ABD Ordusu Amerika Okulu'nda egitim aldi, 1985. 1980'lerin sonlari ve 1990'larda El Salvador, Nikaragua ve Kolombiya'daki çesitli anti-komünist özel operasyon birimleri ve milislerle hat subayi veya danisman olarak görev yapti. 2000'lerde Pentagon'un Latin Amerika politika biriminde çalisti. 2015'te Buenos Aires'te, 1980'lerin basindaki Condor Operasyonu sirasinda iddia edilen faaliyetlerle ilgili savas suçlari nedeniyle kisa bir süre hapsedildi; 2016'da beraat etti.
+TIFactionTemplate.leader.description.ExploitCouncil=Western Armories'de çesitli görevler, 2004-günümüz, 2014'ten itibaren yönetim kurulu baskani. Botswana ve Namibya hükümetleriyle elmas madenciligi ortakliklari bulunan DWKY Industries'de azinlik hisse payi. Aktif medya tarafindan çesitli islerinin isçi haklari uygulamalari nedeniyle ara sira elestirilse de, bilinen resmi bir sorusturma yapilmamistir.
+TIFactionTemplate.leader.description.EscapeCouncil=Fizik ve Felsefe Yüksek Lisansi, Oxford Üniversitesi, 2008; Bas Yatirimci, Al Zaabi Uydu Iletisimleri; Emirates Mars Görevi Yönetim Baskan Yardimcisi; 2017-2019. Birkaç uzay meraklisi kurulus ve yayinin finansal destekçisi olarak taninmistir.
+TIFactionTemplate.leader.description.SubmitCouncil=Güneybati Baptist Teolojik Seminere katildi, Fort Worth, Texas, 2012'de derece almadan ayrildi. 2014'te Arizona'daki Eternal Source tarikatinin kitlesel intihariyla ilgili olarak kiskirtma ve kontrol edilen maddeleri tasima suçlamasiyla suçlandi; suçlamalar daha sonra düsürüldü. Uzayli varisini tahmin eden bir dizi Kaliforniya merkezli New Age web sitesinin içerik yöneticisi olarak çalisti, 2015-günümüz; bu süreçte popüler bir halka açik konusmaci ve kisisel gelisim uzmani oldu.
+TIFactionTemplate.leader.description.AppeaseCouncil=Siyasi Bilimler Lisans Diplomasi, Chennai Üniversitesi, 1975, burada DMK Ögrenci Kanadi üyesiydi. 1976'da Uttar Pradesh, Muzaffarnagar'daki zorunlu kisirlastirma karsiti huzursuzluk sirasinda polis tarafindan vuruldu. 1976-1980 arasinda Vancouver, Kanada'da yasadi. Çesitli yerlerde, Lübnan, Ruanda ve Kosova dahil, BM Baris Koruma operasyonlari için sivil gözlemci ve ombudsman olarak çalisti, 1980-2000. Uluslararasi insan haklari hukuku üzerine yüksek lisans, Concordia Üniversitesi, 1984. Savas suçlari mahkemelerinde ve misyonlar sirasinda ciddi suçlar isleyen baris koruyucularinin yargilamalarinda taniklik etti. 2000'den bu yana, çesitli insan haklari ve baris organizasyonlarina danismanlik yapmaktadir.
+TIFactionTemplate.leader.description.CooperateCouncil=B.S., Astronot Mühendisligi; Tsinghua Üniversitesi, 1988; M.S. ve PhD, Kimya, Massachusetts Teknoloji Enstitüsü, 1994; PhD, Kamu Yönetimi, Tsinghua Üniversitesi, 1999; Xi'an Jiaotong Üniversitesi'nde Bilim ve Teknoloji Politikasi ve Yönetimi Profesörü, 2000-günümüz; C9 Ligi Direktörü, 2014-2017. Tianyan radyo teleskobu dizisinin ve SETI misyonunun insasini savunan güçlü bir ses.
+TIFactionTemplate.CampaignStartHeadline.ResistCouncil=Uzayli Isgaline Diren
+TIFactionTemplate.CampaignStartHeadline.DestroyCouncil=Uzayli Istila'ya Son Ver
+TIFactionTemplate.CampaignStartHeadline.ExploitCouncil=Gücümüzü Kendimize Kullanalim
+TIFactionTemplate.CampaignStartHeadline.SubmitCouncil=Uzayli Kurtaricilarimizi Karsilayin
+TIFactionTemplate.CampaignStartHeadline.AppeaseCouncil=Insanligi Koru
+TIFactionTemplate.CampaignStartHeadline.CooperateCouncil=Uzaylilarla Iletisim Kur
+TIFactionTemplate.CampaignStartHeadline.EscapeCouncil=Günes Sistemi'nden Kaçis
+TIFactionTemplate.CampaignStartSummary=Bir kampanya baslattik olarak {0}.
+TIFactionTemplate.CampaignStart.ResistCouncil=Merhaba, {0}. Konsey sizi {1} lideri olarak atadi. Ben {2}, sizin genel sekreterinizim.<br/><br/>Dünyanin çogu, Dünya'ya gelen bir uzayli türüne karsi büyülenmis durumda, ancak biz, uzaylinin kazaya ugramasi {3} ve kaybolmasinin potansiyel bir tehdit olabilecegini düsünen küçük bir grubuz. Herhangi bir tehlikeyi arastirabilecek ve gerekirse karsi koyabilecek uluslararasi bir organizasyon kurmayi hedefliyoruz.<br/><br/><h>Bir konsey üyesini, en kisa sürede {4} bölgesindeki kaza yerine göndermeyi öneriyorum. Diger konsey üyelerimizi, kaynagimizi destekleyebilecek ülkelerde etki kazanmak için en iyi sekilde kullanabiliriz.</h><br/><br/>Hedeflerimizi her zaman ekraninizin sol üst kösesindeki konsey sembolümüze tiklayarak gözden geçirebilirsiniz. // rütbe, konsey adi, lider adi
+TIFactionTemplate.CampaignStart.DestroyCouncil=Göreve hazirim, {0}. Konsey sizi {1} lideri olarak atadi. Ben {2}, sizin yardimci amiralinim.<br/><br/>Uzayli varis {3}, insanlik için tarihimizin en büyük tehlikesini temsil ediyor. Bu yüzden, gezegenimizi korumak için taahhüt etmis askeri, istihbarat ve bilim personelinden olusan küçük bir grup kurduk. Sayimizi ve etkimiz arttirmali, uzaylilari ve faaliyetlerini arastirmali ve kendimizi uzayli tehdidinden her yolla savunmaliyiz.<br/><br/>Bir konsey üyesini, en kisa sürede {4} bölgesindeki kaza yerine göndermeyi öneriyorum. Diger konsey üyelerimizi, kaynagimizi destekleyebilecek ülkelerde etki kazanmak için en iyi sekilde kullanabiliriz.<br/><br/>Hedeflerimizi her zaman ekraninizin sol üst kösesindeki konsey sembolümüze tiklayarak gözden geçirebilirsiniz. // rütbe, konsey adi, lider adi
+TIFactionTemplate.CampaignStart.ExploitCouncil=Hos geldiniz, {0}. Konsey sizi {1} lideri olarak atadi. Ben {2}, sizin bas operasyon sorumlusunuz.<br/><br/>Büyük degisimlerin yasandigi bir dönemde yasiyoruz. Uzayli varis {3} dünyamizi, belki de taninmaz hale getirecek ve meydana gelebilecek firsatlara uygun sekilde cevap verebilmeliyiz.<br/><br/>Bir konsey üyesini, en kisa sürede {4} bölgesindeki kaza yerine göndermeyi öneriyorum. Diger konsey üyelerimizi, çikarlarimizi ilerletmek için kaynak saglayabilecek ülkelerde etki kazanmak için en iyi sekilde kullanabiliriz.<br/><br/>Hedeflerimizi her zaman ekraninizin sol üst kösesindeki konsey sembolümüze tiklayarak gözden geçirebilirsiniz. // rütbe, konsey adi, lider adi
+TIFactionTemplate.CampaignStart.AppeaseCouncil=Hos geldiniz, {0}. Konsey sizi {1} lideri olarak atadi. Ben {2}, sizin yardimci personelinizim.<br/><br/>Uzayli varis {3} insanligin karsilastigi en büyük tehlikeyi temsil ediyor. Uzayi asarak gezegenimize ulasabilen bir tür, bizimkilerden çok daha güçlü olmali. Biz, tüm türümüzün hayatini riske atmadan uzaylilarla is birligi yaparak en iyi düzenlemeyi saglamayi anlayan her kesimden gönüllülerden olusan bir grubuz.<br/><br/>Bir konsey üyesini, en kisa sürede {4} bölgesindeki kaza yerine göndermeyi öneriyorum. Diger konsey üyelerimizi, kaynagimizi destekleyebilecek ülkelerde etki kazanmak için en iyi sekilde kullanabiliriz.<br/><br/>Hedeflerimizi her zaman ekraninizin sol üst kösesindeki konsey sembolümüze tiklayarak gözden geçirebilirsiniz. // rütbe, konsey adi, lider adi
+TIFactionTemplate.CampaignStart.CooperateCouncil=Merhaba, {0}. Konsey sizi {1} lideri olarak atadi. Ben {2}, sizin provostunuzum.<br/><br/>Kaos, tehlike ve firsatlarla dolu bir dönemde yasiyoruz. Uzayli varis {3} büyük iyilik ve büyük kötülük potansiyeline sahip ve hangisinin gerçeklesecegini henüz bilmiyoruz.<br/><br/>Konsey üyelerimizi nasil yönlendirecegimiz konusunda size herhangi bir öneride bulunmak istemiyorum. Ulastiginiz pozisyona bakildiginda, uzmanliginiz benimkinden çok daha büyük olmali. // rütbe, konsey adi, lider adi
+TIFactionTemplate.CampaignStart.EscapeCouncil=Merhaba, {0}. Konsey sizi {1} lideri olarak atadi. Ben {2}, sizin yardimcinizim.<br/><br/>Uzayli kaza yeri {3} büyük firsat ve büyük tehlike temsil ediyor. Bu yüzden, astrofizik, istihbarat analizi ve uzay kesfi konularinda özel uzmanliga sahip kisilerden olusan küçük bir grup kurduk. Bu yaratiklarin ne oldugunu, nereden geldiklerini ve Dünya'da ne yapmayi planladiklarini ögrenmeliyiz.<br/><br/>Bir konsey üyesini, en kisa sürede {4} bölgesindeki kaza yerine göndermeyi öneriyorum. Diger konsey üyelerimizi, kaynagimizi destekleyebilecek ülkelerde etki kazanmak için en iyi sekilde kullanabiliriz.<br/><br/>Hedeflerimizi her zaman ekraninizin sol üst kösesindeki konsey sembolümüze tiklayarak gözden geçirebilirsiniz. // rütbe, konsey adi, lider adi
+TIFactionTemplate.CampaignStart.SubmitCouncil=Ve size, {0}. Konsey sizi temsilci ve askeri komutan olarak atadi. Ben {2}, sizin hizmetkâriniz ve rehberinizim.<br/><br/>Olan bitenin {3} sizi huzursuz etmis, belki de korkutmus olabilecegini bekliyorum. Bu tamamen dogaldir. Her sey degisti; eski hayatlarimiz sona erdi. Ama yeni bir dünya geliyor. Herkes bir rol oynayacak ve sizin rolünüz en büyügü olacak.<br/><br/>Hakkimda ve {1} hakkinda birçok sey duydugunuzu biliyorum ve çogunun kötü oldugunu tahmin ediyorum. Süphesiz birçok sorunuz var, ancak tam olarak kendimi açiklayamiyorum, henüz degil. Sadece size verdigim talimatlarin arkasinda daha büyük bir amaç oldugunu bilin. Zamanla her seyi size anlatacagim. Su anda güveninizi istiyorum. // rütbe, konsey adi, lider adi
+TIFactionTemplate.Introduction.Summary=Karsilastik {0}.
+TIFactionTemplate.Introduction.ResistCouncil=Karsilastik {0}.<br/><br/>Bu grubun liderleri, uzaylilarin insanligin kendi gelecegini belirleme yetenegine bir tehdit olduguna inaniyor ve sessizce onlarla savasmaya hazirlaniyorlar.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.DestroyCouncil=Karsilastik {0}.<br/><br/>Bu fraksiyon, Dünya'nin tüm uzayli korkularini kendi saflarina toplamis durumda. Takipçileri, uzaylilarin varisini açikça kinadilar ve uzaylilarla iletisim kurmaya çalisan insanlari bile tehdit ettiler.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.ExploitCouncil=Karsilastik {0}.<br/><br/>Bu gölgeli grubun liderleri, kendileri ve yöntemleri hakkinda çok az sey açikliyor. Bazi bölgelerde, uzayli varisinin Dünya'nin hükümetleri ve sirketleri tarafindan uydurulmus bir efsane olduguna dair yaygin söylentilere neden oluyorlar; diger bölgelerde ise, uydurduklari bir uzayli hastaliktan korudugunu iddia ettikleri ürünleri satan sirketler kurmuslar.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.SubmitCouncil=Karsilastik {0}.<br/><br/>Bu grup, uzaylilarin ilahi kökenli olduguna karar verdi ve kendilerini onlarin elçileri... ve savunuculari olarak ilan etti.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.AppeaseCouncil=Karsilastik {0}.<br/><br/>Bu organizasyonun liderleri, uzaylilarin gizli dogasinin onlari bir tehdit olarak isaretledigine inanan yetkililerden olusan bir ittifaktir, ancak interstellar mesafeleri geçebilen bir türün, insanligin karsi koyabilecegi bir sey olmadigini sonuçlandirmislardir.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.CooperateCouncil=Karsilastik {0}.<br/><br/>Dünya'nin bilim toplulugundan üyeler tarafindan yönetilen bu fraksiyon, yildizlar arasinda geçis yapabilen bir türün çatismalari çözmede siddeti asmis olmasi gerektigini sonucuna varmistir. Insanligin, uzaylilari esit olarak kabul etmelerini saglamak için bir köprü kurmasi gerektigini iddia ediyorlar.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.EscapeCouncil=Karsilastik {0}.<br/><br/>Bu organizasyon, uzayli varisindan önce zaten uzay kesfi için finansman saglayan bir teknoloji magnatlari grubunun temellerine dayaniyor. Simdi, tüm insanlik önünde interstellar seyahat kaniti ile, çabalarini Dünya'nin Günes Sistemi'nin ötesine bir kesif seferi düzenlemeye odakliyorlar.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.AlienCouncil=Ilk dogrudan gözlemimizi {0} gerçeklestirdik.
+
+TIFactionTemplate.Quote.AppeaseCouncil=<align="right">"Yok olusumuza neden olacak bir savasi göze alamayiz. Tek umudumuz, uzaylilarin bizimle ne istedigini anlamak ve bagimsizligimizi kaybetmeden onlari tatmin etmenin bir yolunu bulmaktir."<align="left">
+TIFactionTemplate.Quote.CooperateCouncil=<align="right">"Onlara sadece biz degerli oldugumuzu ikna edebilirsek, kardeslerimiz ve kardeslerimiz olarak onlara katilabilecegimize inaniyoruz."<align="left">
+TIFactionTemplate.Quote.DestroyCouncil=<align="right">"Onlar 'yasam formlari' veya 'xeno-akillilar' degil. Onlar, bedene bürünmüs seytanlar. Onlar ve onlari destekleyen hainler yargimizla yüzlesecekler."<align="left">
+TIFactionTemplate.Quote.EscapeCouncil=<align="right">"Türümüzün hayatta kalabilmesi için besigi terk etmemiz her zaman dogru olmustur. Eger bu uzaylilar gerçekten düsmanca ise, gitme zamani simdi."<align="left">
+TIFactionTemplate.Quote.ExploitCouncil=<align="right">"Her durum bir firsattir. Testimiz onu tanimak ve yakalamaktir."<align="left">
+TIFactionTemplate.Quote.ResistCouncil=<align="right">"Sadece insan hayatini uzaylilardan korumakla kalmamaliyiz; bu hayatlarin yasamaya deger oldugundan da emin olmaliyiz."<align="left">
+TIFactionTemplate.Quote.SubmitCouncil=<align="right">"Buradalar, hasta dünyamizi temizlemeye. Uzaylilar bizim kurtaricilarimizdir ve onlara karsi çikan herkes gelecegin düsmanidir."<align="left">
+
+TIFactionTemplate.Goal.ResistCouncil=Insanligi korumak için uzaylilarin istilasina karsi koymak
+TIFactionTemplate.Goal.DestroyCouncil=Uzaylilari ve onlara destek verenleri yok etmek
+TIFactionTemplate.Goal.ExploitCouncil=Uzaylilarin varisini güç kazanmak için kullanmak
+TIFactionTemplate.Goal.SubmitCouncil=Uzaylilara her ne pahasina olursa olsun destek vermek
+TIFactionTemplate.Goal.AppeaseCouncil=Insanligi uzaylilari yatistirarak korumak
+TIFactionTemplate.Goal.CooperateCouncil=Uzaylilara esit oldugumuzu kabul ettirmek
+TIFactionTemplate.Goal.EscapeCouncil=Uzaylilardan kaçmak için insanlari diger yildizlara göndermek
+
+TIFactionTemplate.Victory.ResistCouncil=Hydra solucan deligini kapatarak uzayli güçleri burada hapsedecegiz ve onlarin yenilmesine neden olacagiz.
+TIFactionTemplate.Victory.DestroyCouncil=Uzayli solucan deligine bir biyolojik silah gönderildi, türlerinin çogunu yok etti. Kalan uzayli güçler savasmaya devam edemez.
+TIFactionTemplate.Victory.ExploitCouncil=Uzaylilara karsi bir zihin kontrol silahi kullanarak onlari emre uyan hale getirdik. Hem Dünya hem de uzaylilar üzerindeki kontrolümüz garanti altina alindi.
+TIFactionTemplate.Victory.SubmitCouncil=Uzayli Idaresi ve onlarin {0} müttefikleri, Dünya üzerinde yeterli kontrol sagladi ve geri kalan Dünya'nin uluslari onlara teslim oldu.
+TIFactionTemplate.Victory.EscapeCouncil=Bir yildizlararasi koloni gemisi firlatildi ve Günes Sistemi'ni terk ediyor.
+TIFactionTemplate.Victory.AppeaseCouncil={0} güçleri, Dünya üzerinde bir dizi savas istasyonu kurarak direnen uluslara bombardiman tehdidinde bulundu.
+TIFactionTemplate.Victory.CooperateCouncil={0} diplomatlari, uzaylilarla bir baris anlasmasi imzaladi. Tüm Dünya sevinç içinde.
+
+TIFactionTemplate.VictoryNotification.ResistCouncil=Adim {1}. Uzayli istilasina karsi küresel direnisi temsil ediyorum. Bir uzayli casusu yakaladik ve onlarin gerçek amacinin hepimizi kölelestirip diger türlerle savaslarinda asker olarak kullanmak oldugunu ögrendik. Neptune'un ötesinde bir üslerinden faaliyet gösteriyorlar. Kendilerini baska bir yildiz sisteminden getiren bir teknoloji olan bir solucan deligi kullaniyorlar. O solucan deligini kalici olarak kapatma araçlarimiz var. Güçlerimiz bu silahi teslim etmek için üslerine hareket edecek. Müdahale etmeyin; kendimizi durdurma girisimlerine karsi savunacagiz.
+
+TIFactionTemplate.VictoryNotification.DestroyCouncil=Ben {0} {1}, {2} lideriyim. Yildizlarimizdaki uzayli olarak bilinen {3} ve minyonlarina sesleniyorum. Size geliyoruz. Ordularinizi, filolarinizi ve üslerinizi yakacagiz. Evlerinizi bulacagiz ve kökünden yok edecegiz.<br/><br/>Size geliyoruz!
+
+TIFactionTemplate.VictoryNotification.ExploitCouncil=Dünya vatandaslari, ben {0} {1}. Organizasyonum, uzayli tehdidine karsi sessizce çalisti. Girisimimiz büyük basarilar elde etti ve simdi tüm insanlik için bir darbe indirme firsatimiz var. Uzayli karargahina teslimiyetlerini zorlamak ve tüm insanlik için yeni bir refah çagini baslatmak üzere bir savas gemileri filosu hazirliyoruz. Bizi engellemeyin. Zaferimiz yakinda.
+
+TIFactionTemplate.VictoryNotification.SubmitCouncil=Dünya halki, ben {1}, {0} {2}yim! Size merhametli kurtaricilarimizin elçisiyim. Bugün sevinçli kaderimizi ilan ediyoruz: onlarin rehberliginde birlesmis bir dünya. Tüm uluslari, bosuna ve siddetli direnislerini sona erdirmeye ve küresel ailemize katilmak için müzakerelere baslamaya çagiriyoruz. O zaman sadece baris ve huzuru bilebiliriz.
+
+TIFactionTemplate.VictoryNotification.EscapeCouncil={0} olarak {2}nin onuruyla konusuyorum. Birçogunuzun duydugu gibi, organizasyonumuz yildizlar arasindaki boslugu kapatmayi amaçladi, tipki uzayli istilacilar gibi. Bugün, her teknolojik engeli astigimizi ve baska bir günes etrafinda yasanabilir bir dünyayi kolonilestirmek için ilk gemimizi insa etmeye hazir oldugumuzu duyuruyoruz. Ekibimizi ve birçok koloni adayini zaten seçtik, 100 koltuk müzayedeye çikarilacak ve baska 100 nitelikli birey için bir çekilis yapilacak. Ayrintilar yakinda paylasilacak.<br/><br/>Sizleri, insanligin en büyük basarisinda beraberimizde bulmayi umuyoruz!
+
+TIFactionTemplate.VictoryNotification.AppeaseCouncil=Ben {1}, {0}, {2} olarak bilinen organizasyonun bir temsilcisiyim. Dostlarim, bugün gizli müzakerelerde uzayli istilacilarla bir anlasmaya vardigimizi açikliyoruz ve bu anlasma insanligi üzerimize uygulayabilecekleri siddetten koruyacak. Kendimize, gözlerinden uzak ama dikkatli gözetimleri altinda yönetme izni verdiler, insanlik Dünya'da kaldigi sürece. Koruyucularin, insanligin bu taahhüde uymasini saglamasini istediler. Bu amaca ulasmak için, anlasmayi ihlal edecek herhangi birisini önlemek ve hepimizi uzaylilarin öfkesinden korumak üzere alçak Dünya Yörüngesi'nde bir dizi baris koruma savas istasyonu insa edecegiz. Dünya'nin uluslarina destek vermelerini ve müdahale etmemelerini çagiriyorum; böyle bir hareket hepimizi konusulmasi zor bir kaderle karsi karsiya birakir.
+
+TIFactionTemplate.VictoryNotification.CooperateCouncil=Tüm insanliga sesleniyorum. Uzayli varisiyla birlikte belirsiz zamanlar yasadik, görünüste amansiz bir düsmanla savastik. Ancak biz, {2}, bu uzaylilari inceledik. Onlar trajik bir tarihin ürünüdür ve türlerini korumanin tek yolunun savas ve gizlilik oldugunu düsünüyorlar. Insanlari isteklerine karsi koyan tehlikeli bir evrimsel uyumlari var, ancak bunun üstesinden gelmenin yollarini kesfettik. Bir diplomatik heyetimizi uzayli üssüne, kalici ve dengeli bir baris anlasmasi müzakeresi için göndermeyi hazirliyoruz. Savunmasiz gitmeyecegiz ve yolda karsilasabilecegimiz direnislere karsi hazirlikliyiz, ama bunu basarma kararliligindayiz. Lütfen elçilerimizi düsüncelerinizde tutun; hepimizi kurtarmak için gidiyorlar.
+TIFactionTemplate.Fleet.ResistCouncil=Romeo-
+TIFactionTemplate.Fleet.DestroyCouncil=Foxtrot-
+TIFactionTemplate.Fleet.ExploitCouncil=India-
+TIFactionTemplate.Fleet.SubmitCouncil=Sierra-
+TIFactionTemplate.Fleet.AppeaseCouncil=Papa-
+TIFactionTemplate.Fleet.CooperateCouncil=Alpha-
+TIFactionTemplate.Fleet.EscapeCouncil=Echo-
+TIFactionTemplate.Fleet.AlienCouncil=Victor-
+
+TIFactionTemplate.Diplomacy.Resist.Destroy.War=Sadece bizi savasarak uzaylilarin çikarlarini hizmet ediyorsunuz.
+TIFactionTemplate.Diplomacy.Resist.Destroy.Conflict=Sizinle savasmak istemiyoruz, ama görevimiz insan hayatlarini korumak, tehdit ettiginiz hayatlar da dahil.
+TIFactionTemplate.Diplomacy.Resist.Destroy.Tolerance=Asiri uç görüslerinizin, korumaya çalistigimiz insanlari zarara ugrattigini görmenizi isteriz.
+TIFactionTemplate.Diplomacy.Resist.Escape.War=Dünya'nin kaynaklarini israfinizi daha fazla tolere edemeyiz.
+TIFactionTemplate.Diplomacy.Resist.Escape.Conflict=Bize karsi hareket etmemelisiniz; Dünya'yi korumak için savasmak zorunda kalirsak, yapacagiz.
+TIFactionTemplate.Diplomacy.Resist.Escape.Tolerance=Uzaylilarin tehditlerini görmenizi takdir ediyoruz, ama Dünya'yi terk etmek çözüm degil.
+TIFactionTemplate.Diplomacy.Resist.Exploit.War=Çiplak çikarciliginiz bu gezegendeki herkesi tehlikeye atiyor. Birisinin sizi durdurma zamani geldi.
+TIFactionTemplate.Diplomacy.Resist.Exploit.Conflict=Yatiriminiz hepimizi tehdit ediyor. Hepimiz köle olursak, servetinizin ne önemi var?
+TIFactionTemplate.Diplomacy.Resist.Exploit.Tolerance=Her gözenekten bencillik sizdiriyorsunuz ama yolumuzu engellemediginiz sürece sorun yok.
+TIFactionTemplate.Diplomacy.Resist.Cooperate.War=Yeter artik. Tüm insan irkini satmaniza izin veremeyiz.
+TIFactionTemplate.Diplomacy.Resist.Cooperate.Conflict=Bu seylere gözlerinizi dikmeye devam ederseniz, bununla ilgili bir sey yapmamiz gerekecek.
+TIFactionTemplate.Diplomacy.Resist.Cooperate.Tolerance=Bu pislikleri evinize davet etmek istiyorsaniz, bu sizin sorununuz, bizim degil.
+TIFactionTemplate.Diplomacy.Resist.Appease.War=Baris burada bir seçenek degil. Ne onlarla ne de bizimle, artik degil.
+TIFactionTemplate.Diplomacy.Resist.Appease.Conflict=Ellerinizi ovusturmak için geçirdiginiz her dakika hepimizi yok olusa yaklastiriyor.
+TIFactionTemplate.Diplomacy.Resist.Appease.Tolerance=Belki iyi niyetlisiniz ama yaniltiliyorsunuz. Yolumuzdan çekilin ve biz de sizin yolunuzdan çekilecegiz.
+TIFactionTemplate.Diplomacy.Resist.Submit=Size çalismak için cehennemde sansimiz yok.
+TIFactionTemplate.Diplomacy.Resist.Submit.War=Siz uzaylilarin besinci kolusunuz. Sizi durduracagiz.
+
+TIFactionTemplate.Diplomacy.Destroy.Resist.War=Bizimle degilseniz, bize karsisiniz.
+TIFactionTemplate.Diplomacy.Destroy.Resist.Conflict=Menfaatlerinize tehdit etmeyi birakmanizi tavsiye ediyoruz. Organizasyonunuzun bazi kullanislari olabilir, ama bizi daha fazla karsilamayin.
+TIFactionTemplate.Diplomacy.Destroy.Resist.Tolerance=Kalbiniz dogru yerde ama yöntemleriniz tehdit karsisinda yetersiz.
+TIFactionTemplate.Diplomacy.Destroy.Escape.War=Korkaklar. Bu durumdan kaçamazsiniz.
+TIFactionTemplate.Diplomacy.Destroy.Escape.Conflict=Varliginizi uzun süre çektik. Büyük düsmana karsi direnç göstermek için çabalarinizi yönlendirin ya da sizi isbirlikçilerimiz arasinda sayacagiz.
+TIFactionTemplate.Diplomacy.Destroy.Escape.Tolerance=Küçük bilim projeniz eglenceli. En azindan gelistirdiginiz teknolojiler, istilacilara karsi savasta ise yarayacak.
+TIFactionTemplate.Diplomacy.Destroy.Exploit.War=Parazit! Ezileceksiniz, bir böcek gibi ayakkabi altinda.
+TIFactionTemplate.Diplomacy.Destroy.Exploit.Conflict=Bu zamanin aç gözlülügü için degil. Tüm insanliga yardim edin ya da sonuçlarina katlanin.
+TIFactionTemplate.Diplomacy.Destroy.Exploit.Tolerance=Degerli altininizi kovalayin eger gerekiyorsa. Biz dünyayi kurtaracagiz.
+TIFactionTemplate.Diplomacy.Destroy.Cooperate.War=Sizi isbirlikçilerinizi yok etmek bir zevk olacak.
+TIFactionTemplate.Diplomacy.Destroy.Cooperate.Conflict=Büyük düsmanla isbirliginiz bir tehdit. Bizimle karsitlik yapmayi birakin ya da sonuçlarina katlanin.
+TIFactionTemplate.Diplomacy.Destroy.Cooperate.Tolerance=Istilacilarla isbirligi yapmak isteginizi soylu olarak düsünebilirsiniz ama bu sadece yok olusumuzu hizlandirir.
+TIFactionTemplate.Diplomacy.Destroy.Appease=Size ihanet edenlerle konusacak bir seyimiz yok.
+TIFactionTemplate.Diplomacy.Destroy.Appease.War=Insanligi satmissiniz. Size geliyoruz, hainler.
+TIFactionTemplate.Diplomacy.Destroy.Submit=Size fanatiklerle konusacak bir seyimiz yok.
+TIFactionTemplate.Diplomacy.Destroy.Submit.War=Sizi avliyoruz.
+TIFactionTemplate.Diplomacy.Escape.Resist.War=Kisa görüslülügünüz Exodus'u tehdit ediyor. Bu kabul edilemez.
+TIFactionTemplate.Diplomacy.Escape.Resist.Conflict=Ilerlemenin önündesiniz. Kendinizi uyarilmis sayin.
+TIFactionTemplate.Diplomacy.Escape.Resist.Tolerance=Dünyayi kurtarma sansiniz bol olsun. Sadece diger planlarimiz oldugunu bilin.
+TIFactionTemplate.Diplomacy.Escape.Destroy.War=Daha parlak bir yarinin hatirina, asiriliginiza karsi durmaliyiz.
+TIFactionTemplate.Diplomacy.Escape.Destroy.Conflict=Siddet sadece siddeti dogurur. Daha büyük düsünün. Bu sizin son uyariniz.
+TIFactionTemplate.Diplomacy.Escape.Destroy.Tolerance=Küçük savaslarinizi yapabilirsiniz, yeter ki büyük exodusa müdahale etmeyin.
+TIFactionTemplate.Diplomacy.Escape.Exploit.War=Ceplerinizi yeterince doldurdunuz. Ilerleme adina size karsi durmaliyiz.
+TIFactionTemplate.Diplomacy.Escape.Exploit.Conflict=Bugününüzü düsünüyorsunuz ve bunu yaparak tüm yarinlarimizi tehdit ediyorsunuz.
+TIFactionTemplate.Diplomacy.Escape.Exploit.Tolerance=Kaynaklar üzerinde tartisarak günlerinizi geçirmek istiyorsaniz, buyurun.
+TIFactionTemplate.Diplomacy.Escape.Cooperate.War=Korkakliginiza zaferimize engel olmaniza izin vermeyecegiz.
+TIFactionTemplate.Diplomacy.Escape.Cooperate.Conflict=Insanligin gelecegini bu istilacilara teslim etme hayalinizden vazgeçin.
+TIFactionTemplate.Diplomacy.Escape.Cooperate.Tolerance=En yakin ufku görmek istiyorsaniz, onu elde edebilirsiniz.
+TIFactionTemplate.Diplomacy.Escape.Appease.War=Insanlik yükselebilsin diye, yolumuzdan temizlenmelisiniz.
+TIFactionTemplate.Diplomacy.Escape.Appease.Conflict=Ya yok olus, ya da kaçis. Artik yolumuzu engellemeyin.
+TIFactionTemplate.Diplomacy.Escape.Appease.Tolerance=Istilacilari caydirmaya çalisin, ama Proje Exodus devam edecektir.
+TIFactionTemplate.Diplomacy.Escape.Submit.War=Exodus sadece siz yarim akilli fanatikler yolumuzdan temizlenirse mümkün.
+TIFactionTemplate.Diplomacy.Escape.Submit.Conflict=Insanligin gelecegini siz belirleyemezsiniz. Uyarildiniz.
+TIFactionTemplate.Diplomacy.Escape.Submit.Tolerance=Eger fetih yapmayi gerçekten istiyorsaniz, bunu yapabilirsiniz. Biz çoktan ayrildik.
+TIFactionTemplate.Diplomacy.Exploit.Resist.War=Saçma savasiniz firsatlarin önündedir. Artik yeter!
+TIFactionTemplate.Diplomacy.Exploit.Resist.Conflict=Artik yolunuzu çekin, çocuk. Büyükler is basinda.
+TIFactionTemplate.Diplomacy.Exploit.Resist.Tolerance=Hayatinizi bosa harcamak istiyorsaniz, bu bizim isimiz degil.
+TIFactionTemplate.Diplomacy.Exploit.Destroy.War=Savas delisi etoburlar, kendinizin ilacini tadin.
+TIFactionTemplate.Diplomacy.Exploit.Destroy.Conflict=Silahlarinizi sallamayi birakin, yoksa sorun yasayacagiz.
+TIFactionTemplate.Diplomacy.Exploit.Destroy.Tolerance=Ne öldürmek istiyorsaniz öldürün, yeter ki islerimize karismayin.
+TIFactionTemplate.Diplomacy.Exploit.Escape.War=Uzay sizin alacaginiz yer degil - bizimdir.
+TIFactionTemplate.Diplomacy.Exploit.Escape.Conflict=Saçma çikis stratejinizin bizim çikarlarimizi tehdit etmemesini saglayin.
+TIFactionTemplate.Diplomacy.Exploit.Escape.Tolerance=Kökenlerinizden daha iyi olmak isteginiz bizim için saygi duyulacak bir sey.
+TIFactionTemplate.Diplomacy.Exploit.Cooperate.War=Artik güzel sözlere gerek yok. Sizi kapatiyoruz.
+TIFactionTemplate.Diplomacy.Exploit.Cooperate.Conflict=Israrla isimize karismayin, anladiniz mi?
+TIFactionTemplate.Diplomacy.Exploit.Cooperate.Tolerance=Bu canavarlara karsi konusmak isterseniz, buyurun devam edin.
+TIFactionTemplate.Diplomacy.Exploit.Appease.War=Pes edicileri isten çikariyoruz.
+TIFactionTemplate.Diplomacy.Exploit.Appease.Conflict=Korkakliginiz bizim çikarlarimizi etkiliyor. Kendinizi uyarilmis sayin.
+TIFactionTemplate.Diplomacy.Exploit.Appease.Tolerance=Pes ediciler olarak havlu atmak sizin isinizdir, bizim isimiz degil.
+TIFactionTemplate.Diplomacy.Exploit.Submit.War=Satilmislarinizi ortadan kaldirma zamani geldi.
+TIFactionTemplate.Diplomacy.Exploit.Submit.Conflict=Fanatikler, aklinizi yitirdiniz. Yolumuzdan çekilin, tamam mi?
+TIFactionTemplate.Diplomacy.Exploit.Submit.Tolerance=Kurtulus gördügünüz yerde, biz kâr görüyoruz. Belki ortada bulusabiliriz.
+TIFactionTemplate.Diplomacy.Cooperate.Resist.War=Durdurulmalisiniz, yoksa Dünya'nin yok olusuna neden olursunuz.
+TIFactionTemplate.Diplomacy.Cooperate.Resist.Conflict=Lütfen, bu delilige son verin. Daha iyi bir yol göremiyor musunuz?
+TIFactionTemplate.Diplomacy.Cooperate.Resist.Tolerance=Yöntemlerimiz farkli olabilir, ama ikimiz de insanligi korumak istiyoruz.
+TIFactionTemplate.Diplomacy.Cooperate.Destroy.War=Tüm çikarlarimiz için, savas açmayi sonlandirmaliyiz.
+TIFactionTemplate.Diplomacy.Cooperate.Destroy.Conflict=Agresyonunuzu dizginleyemezseniz, üzülerek harekete geçecegiz.
+TIFactionTemplate.Diplomacy.Cooperate.Destroy.Tolerance=Küçük siddet eylemlerinizin hiç önemi yok.
+TIFactionTemplate.Diplomacy.Cooperate.Escape.War=Insanligin gelecegini israf etmenize artik izin vermeyecegiz.
+TIFactionTemplate.Diplomacy.Cooperate.Escape.Conflict=Kendinizden baska bir sey düsünmeyen aptallar! Insanligi kurtarmak yerine terk etmeye çalisiyorsunuz!
+TIFactionTemplate.Diplomacy.Cooperate.Escape.Tolerance=Dünya'yi terk edin, gerekiyorsa. Biz insanligi kendimiz koruyacagiz.
+TIFactionTemplate.Diplomacy.Cooperate.Exploit.War=Parazitler! Sülükler! Insanligin gelecegi, sizin yok edilmenizi gerektirir.
+TIFactionTemplate.Diplomacy.Cooperate.Exploit.Conflict=Kitlik ve sömürüye son verin, yoksa harekete geçecegiz.
+TIFactionTemplate.Diplomacy.Cooperate.Exploit.Tolerance=Dünyamizi kurtaracagiz, sizin dikkatsizce yagmalamaniza ragmen.
+TIFactionTemplate.Diplomacy.Cooperate.Appease.War=Kisa görüslülügünüzün insanligin gelecegini engellemesine izin vermeyecegiz.
+TIFactionTemplate.Diplomacy.Cooperate.Appease.Conflict=Hedeflerimiz uyumlu, ancak yöntemlerimiz karsit.
+TIFactionTemplate.Diplomacy.Cooperate.Appease.Tolerance=Istilacilari daha fazla siddetten caydirmak istiyoruz.
+TIFactionTemplate.Diplomacy.Cooperate.Submit.War=Kahrolasi fanatikler hepimizi mahvedeceksiniz. Durdurulmalisiniz!
+TIFactionTemplate.Diplomacy.Cooperate.Submit.Conflict=Sözlerinizden sadece delilik dökülüyor. Akil kabul edin, geç olmadan.
+TIFactionTemplate.Diplomacy.Cooperate.Submit.Tolerance=Yaniltici tapinmaniza tolerans gösterecegiz - ama planlarimiza müdahale etmeyin.
+TIFactionTemplate.Diplomacy.Appease.Resist.War=Siddet nadiren çözüm getirir. Trajik olarak, fanatikleriniz bize baska seçenek birakmiyor.
+TIFactionTemplate.Diplomacy.Appease.Resist.Conflict=Gerilla savasçilarini geri çekin, yoksa harekete geçmek zorunda kalacagiz.
+TIFactionTemplate.Diplomacy.Appease.Resist.Tolerance=Kan dökülmesini nefretle karsiliyoruz ama kendinizi savunma hakkinizi saygiyla karsiliyoruz.
+TIFactionTemplate.Diplomacy.Appease.Destroy=Siddet yanlisi asiriliklar ile ilgilenmiyoruz.
+TIFactionTemplate.Diplomacy.Appease.Destroy.War=Siddetli asiriliklariniz hepimizi tehlikeye atiyor.
+TIFactionTemplate.Diplomacy.Appease.Escape.War=San arayisinda evinizi ihanet etmenize izin vermeyecegiz.
+TIFactionTemplate.Diplomacy.Appease.Escape.Conflict=Bos hayallerinizi birakin, yoksa sonuçlariyla karsilasacaksiniz.
+TIFactionTemplate.Diplomacy.Appease.Escape.Tolerance=Exodus'unuzu engellemeyecegiz, ne kadar onaylamasak da.
+TIFactionTemplate.Diplomacy.Appease.Exploit.War=Nefreti bize kolayca getirmeyen bir seydir ama siz sülükler için bir istisna yapacagiz.
+TIFactionTemplate.Diplomacy.Appease.Exploit.Conflict=Bu bir uyaridir, tehdit degil: Küçük çikarlarinizi geride birakin.
+TIFactionTemplate.Diplomacy.Appease.Exploit.Tolerance=Serefsiz vampirler sizin sorununuz degil.
+TIFactionTemplate.Diplomacy.Appease.Cooperate.War=Iyi niyetli oldugunuzu biliyoruz, ama yolunuz nefes kesici derecede tehlikeli. Durdurulmalisiniz.
+TIFactionTemplate.Diplomacy.Appease.Cooperate.Conflict=Baska bir yasamda müttefikler olabilirdik. Ama su anda her seyi tehdit ediyorsunuz.
+TIFactionTemplate.Diplomacy.Appease.Cooperate.Tolerance=Sonuçta ayni seyi istiyoruz. Umalim ki birimiz bunu basarabilir.
+TIFactionTemplate.Diplomacy.Appease.Submit.War=Sartsiz teslimiyet bizi sigir yapar. Buna izin vermeyecegiz.
+TIFactionTemplate.Diplomacy.Appease.Submit.Conflict=Istilacilarin korkulmasi gereken varliklar oldugunu kabul edene kadar anlasamayacagiz.
+TIFactionTemplate.Diplomacy.Appease.Submit.Tolerance=Eger gerçekten tapinmanin daha fazla siddeti önleyebilecegine inaniyorsaniz, buna izin verecegiz.
+TIFactionTemplate.Diplomacy.Submit.Resist=Kurtaricilarimizi yok edenler kendileri yok edilmelidir.
+TIFactionTemplate.Diplomacy.Submit.Resist.War=Onlarin gelisini engellemeyeceksiniz!
+TIFactionTemplate.Diplomacy.Submit.Destroy=Teröristlerle ilgilenmiyoruz.
+TIFactionTemplate.Diplomacy.Submit.Destroy.War=Terörizminiz cezasiz kalmayacak.
+TIFactionTemplate.Diplomacy.Submit.Escape.War=Kurtulustan kaçamazsiniz! Buna izin vermiyoruz!
+TIFactionTemplate.Diplomacy.Submit.Escape.Conflict=Sarlatanlar! Korkaklar! Egemenliklerini kabul edin, yoksa öfkemizi çekersiniz!
+TIFactionTemplate.Diplomacy.Submit.Escape.Tolerance=Gelecek rapturdan tiksinin, ama müdahale etmeye cüret etmeyin.
+TIFactionTemplate.Diplomacy.Submit.Exploit.War=Efendilerimizden çalmaya çalistiginiz için ceza almalisiniz!
+TIFactionTemplate.Diplomacy.Submit.Exploit.Conflict=Hirsizlar! Dinsizlikler! Elçilerimize saygi gösterin, yoksa yok olursunuz!
+TIFactionTemplate.Diplomacy.Submit.Exploit.Tolerance=Açgözlülügünüz utanç verici, ama önemsiz.
+TIFactionTemplate.Diplomacy.Submit.Cooperate.War=Efendilerimizin görkemli mesajini bozmaniza izin vermeyecegiz.
+TIFactionTemplate.Diplomacy.Submit.Cooperate.Conflict=Yaramazlik yapmayi birakin! Elçilere boyun egin!
+TIFactionTemplate.Diplomacy.Submit.Cooperate.Tolerance=Siz de onlarin üstün olduklarini anliyorsunuz.
+TIFactionTemplate.Diplomacy.Submit.Appease.War=Bu yeni insanlik safakinda güç için kurnaz planinizi görüyoruz. Teslim olacaksiniz, yoksa öleceksiniz.
+TIFactionTemplate.Diplomacy.Submit.Appease.Conflict=Onlardan korkuyorsunuz, halbuki onlara tapinmalisiniz. Kalbinizi açin, yoksa öfkemizi ögrenirsiniz.
+TIFactionTemplate.Diplomacy.Submit.Appease.Tolerance=Onlarin sevgisini reddetseniz de, üstünlüklerini kabul ediyorsunuz. Bu simdilik yeter.
+TIFactionTemplate.Diplomacy.Alien.Submit.Tolerance=Selamlar, sadik hizmetkar (<color=#9964FF> diz çök, evcil hayvan</color>). Sevilirsiniz (<color=#9964FF> hiçsiniz</color>).
+TIFactionTemplate.Diplomacy.Alien.Appease.War=Teslim ol (<color=#9964FF>öl</color>).
+TIFactionTemplate.Diplomacy.Alien.Appease.Conflict=Teslimiyet=hayatta kalma (<color=#9964FF> Direnis= yok olma</color>).
+TIFactionTemplate.Diplomacy.Alien.Appease.Tolerance=Hos görülüyorsunuz (<color=#9964FF> Tehlike olusturmuyorsunuz</color>).
+TIFactionTemplate.Diplomacy.Alien.Cooperate.War=Istenmeyen engel (<color=#9964FF> Tehlikeyi ortadan kaldirin</color>).
+TIFactionTemplate.Diplomacy.Alien.Cooperate.Conflict=Durun. Durun. Durun. (<color=#9964FF> Tehdit. Tehdit. Tehdit.</color>)
+TIFactionTemplate.Diplomacy.Alien.Cooperate.Tolerance=Iletisim= kabul edilebilir (<color=#9964FF> Insan= ikna edilebilir mi?</color>).
